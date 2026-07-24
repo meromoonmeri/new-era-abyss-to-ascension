@@ -45,15 +45,15 @@ function metano_inn_ch_2.Innkeeper_Desk_Left_Action(chara, activator)
 	local nidoking = CH('Nidoking')
 	if not SV.Chapter2.FinishedFirstDay then
 		GeneralFunctions.StartConversation(nidoking, "Howdy y'all![pause=0] Welcome to the Metano Inn![pause=0] Can I get y'all a couple of beds for the evenin'?")
-		UI:WaitShowDialogue("...What's that?[pause=0] Y'all live in the guild?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_001']))
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("Well,[pause=10] y'all still welcome here anytime ya like![pause=0] Don't be a stranger!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_002']))
 	else 
 		GeneralFunctions.StartConversation(nidoking, "Poor " .. CharacterEssentials.GetCharacterName('Camerupt') .. "'s young'un has gone missin'.")
 		UI:SetSpeakerEmotion("Worried")
-		UI:WaitShowDialogue("Always a shame to hear somethin' like this happenin' to townsfolk.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_003']))
 		UI:SetSpeakerEmotion("Normal")
-		UI:WaitShowDialogue("Me and the missus need to pay her a visit later to see how she's holdin' up.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_004']))
 	end
 	GeneralFunctions.EndConversation(nidoking)
 end
@@ -75,7 +75,7 @@ function metano_inn_ch_2.Nidoqueen_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "That's my hubby mannin' the front desk over yonder.")
 	GROUND:CharSetEmote(chara, "happy", 0)
 	UI:SetSpeakerEmotion("Special0")
-	UI:WaitShowDialogue("He's a real catch,[pause=10] ain't he![pause=0] I'm real proud of him and our two kids!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_005']))
 	GROUND:CharSetEmote(chara, "", 0)
 	GeneralFunctions.EndConversation(chara)
 end
@@ -84,15 +84,15 @@ end
 function metano_inn_ch_2.Innkeeper_Desk_Right_Action(chara, activator)
 	local nidoqueen = CH('Nidoqueen')
 	GeneralFunctions.StartConversation(nidoqueen, "We heard that one of the youngsters in town went missin' and now not a soul knows where he is.", "Worried")
-	UI:WaitShowDialogue("We're keepin' a close eye on our young'uns until he's returned safely,[pause=10] just in case somethin' dangerous's afoot.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_006']))
 	GeneralFunctions.EndConversation(nidoqueen)
 end
 
 function metano_inn_ch_2.Nidorina_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Can't believe I'm not allowed out until that stupid kid is found.", "Determined")
-	UI:WaitShowDialogue("Just cause some dumb brat runs off doesn't mean I'm going to![pause=0] But of course my parents don't get that!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_007']))
 	UI:SetSpeakerEmotion("Angry")
-	UI:WaitShowDialogue("UGH![pause=0] This is so annoying![pause=0] And they're so annoying too!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_008']))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -100,10 +100,10 @@ end
 function metano_inn_ch_2.Passerby_1_Action(chara, activator)
 	if not SV.Chapter2.FinishedFirstDay then 
 		GeneralFunctions.StartConversation(chara, "I'm passing through this area and decided to rest for a while at the inn here.")
-		UI:WaitShowDialogue("I've heard great things about the Metano Inn from others in my travels.[pause=0] I hope they were right!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_009']))
 	else 
 		GeneralFunctions.StartConversation(chara, "Last night's sleep was some of the best I've ever had.[pause=0] This really is a great inn!")
-		UI:WaitShowDialogue("The continental breakfast leaves much to be desired though...[pause=0] These portions are way too little!") 
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI2_010']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end

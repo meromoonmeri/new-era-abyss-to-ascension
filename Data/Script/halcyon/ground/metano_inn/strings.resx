@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -58,4 +58,34 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MI2_001" xml:space="preserve">
+    <value>...What's that?[pause=0] Y'all live in the guild?</value>
+  </data>
+  <data name="MI2_002" xml:space="preserve">
+    <value>Well,[pause=10] y'all still welcome here anytime ya like![pause=0] Don't be a stranger!</value>
+  </data>
+  <data name="MI2_003" xml:space="preserve">
+    <value>Always a shame to hear somethin' like this happenin' to townsfolk.</value>
+  </data>
+  <data name="MI2_004" xml:space="preserve">
+    <value>Me and the missus need to pay her a visit later to see how she's holdin' up.</value>
+  </data>
+  <data name="MI2_005" xml:space="preserve">
+    <value>He's a real catch,[pause=10] ain't he![pause=0] I'm real proud of him and our two kids!</value>
+  </data>
+  <data name="MI2_006" xml:space="preserve">
+    <value>We're keepin' a close eye on our young'uns until he's returned safely,[pause=10] just in case somethin' dangerous's afoot.</value>
+  </data>
+  <data name="MI2_007" xml:space="preserve">
+    <value>Just cause some dumb brat runs off doesn't mean I'm going to![pause=0] But of course my parents don't get that!</value>
+  </data>
+  <data name="MI2_008" xml:space="preserve">
+    <value>UGH![pause=0] This is so annoying![pause=0] And they're so annoying too!</value>
+  </data>
+  <data name="MI2_009" xml:space="preserve">
+    <value>I've heard great things about the Metano Inn from others in my travels.[pause=0] I hope they were right!</value>
+  </data>
+  <data name="MI2_010" xml:space="preserve">
+    <value>The continental breakfast leaves much to be desired though...[pause=0] These portions are way too little!</value>
+  </data>
 </root>

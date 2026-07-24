@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -58,4 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MEH2_001" xml:space="preserve">
+    <value>Their little group makes a wonderful bunch,[pause=10] don't you think?[pause=0] I'm glad he's able to get along with them.</value>
+  </data>
+  <data name="MEH2_002" xml:space="preserve">
+    <value>If I go outside,[pause=10] I might get stuck doing nothing with the wonder twins again.</value>
+  </data>
 </root>

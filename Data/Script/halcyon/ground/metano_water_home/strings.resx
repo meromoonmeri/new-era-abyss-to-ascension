@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -58,4 +58,16 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MWH2_001" xml:space="preserve">
+    <value>Those kids of mine...[pause=0] They're sweet,[pause=10] but they're not the brightest.</value>
+  </data>
+  <data name="MWH2_002" xml:space="preserve">
+    <value>I wonder where they get it from?</value>
+  </data>
+  <data name="MWH2_003" xml:space="preserve">
+    <value>...Ooowwaaaa...[pause=0] Lower the drawbridge...</value>
+  </data>
+  <data name="MWH2_004" xml:space="preserve">
+    <value>...Your king wishes to swim in his royal moat...[pause=0] Fwwwwaaaahhhhh....</value>
+  </data>
 </root>

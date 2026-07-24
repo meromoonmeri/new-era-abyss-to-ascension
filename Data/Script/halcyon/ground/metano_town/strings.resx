@@ -1054,4 +1054,460 @@
   <data name="MT1_044" xml:space="preserve">
     <value>Thanks,[pause=10] {0}![pause=0] We'll go find {1} on the second floor now then!</value>
   </data>
+  <data name="MT2_001" xml:space="preserve">
+    <value>I know you're curious about the town,[pause=10] but we should head to Ledian Dojo first!</value>
+  </data>
+  <data name="MT2_002" xml:space="preserve">
+    <value>{0} said that the dojo was down a ladder east of the bridge to the guild.</value>
+  </data>
+  <data name="MT2_003" xml:space="preserve">
+    <value>I'm sure we'll have time after training to take a look around town!</value>
+  </data>
+  <data name="MT2_004" xml:space="preserve">
+    <value>I know you're curious about the town,[pause=10] but we should head to Ledian Dojo first!</value>
+  </data>
+  <data name="MT2_005" xml:space="preserve">
+    <value>{0} said that the dojo was down a ladder east of the bridge to the guild.</value>
+  </data>
+  <data name="MT2_006" xml:space="preserve">
+    <value>I'm sure we'll have time after training to take a look around town!</value>
+  </data>
+  <data name="MT2_007" xml:space="preserve">
+    <value>Let's head on in![pause=0] We'll have time after our training to take a look around town!</value>
+  </data>
+  <data name="MT2_008" xml:space="preserve">
+    <value>You should go meet some of the locals![pause=0] We still have a bit of time before dinner!</value>
+  </data>
+  <data name="MT2_009" xml:space="preserve">
+    <value>Let's turn around.[pause=0] We should head back to the guild whenever you're ready.</value>
+  </data>
+  <data name="MT2_010" xml:space="preserve">
+    <value>Let's turn around.[pause=0] We should head back to the guild whenever you're ready.</value>
+  </data>
+  <data name="MT2_011" xml:space="preserve">
+    <value>Let's turn around.[pause=0] We should head over to the residential area so you can meet some townspeople!</value>
+  </data>
+  <data name="MT2_012" xml:space="preserve">
+    <value>{0} said it was to the north of town.[pause=0] We'll need to leave town through the north exit!</value>
+  </data>
+  <data name="MT2_013" xml:space="preserve">
+    <value>Are you ready to head out?</value>
+  </data>
+  <data name="MT2_014" xml:space="preserve">
+    <value>Alright,[pause=10] let's get a move on!</value>
+  </data>
+  <data name="MT2_015" xml:space="preserve">
+    <value>Come on![pause=0] Let's do this, {0}!</value>
+  </data>
+  <data name="MT2_016" xml:space="preserve">
+    <value>This is our first mission![pause=0] We can do this,[pause=10] {0}!</value>
+  </data>
+  <data name="MT2_017" xml:space="preserve">
+    <value>OK.[pause=0] Let's head back into town to prepare,[pause=10] and once we're ready we should head on out.</value>
+  </data>
+  <data name="MT2_018" xml:space="preserve">
+    <value>That training wasn't so bad![pause=0] I feel like I learned a lot!</value>
+  </data>
+  <data name="MT2_019" xml:space="preserve">
+    <value>We should go back there again soon to train more!</value>
+  </data>
+  <data name="MT2_020" xml:space="preserve">
+    <value>You know,[pause=10] it hasn't gotten too late in the day yet.[pause=0] There's time before we have to go back to the guild!</value>
+  </data>
+  <data name="MT2_021" xml:space="preserve">
+    <value>Now's the perfect opportunity to show you around Metano Town!</value>
+  </data>
+  <data name="MT2_022" xml:space="preserve">
+    <value>Let's see,[pause=10] where to start...</value>
+  </data>
+  <data name="MT2_023" xml:space="preserve">
+    <value>Oh,[pause=10] of course![pause=0] The market![pause=0] There's tons of useful shops there!</value>
+  </data>
+  <data name="MT2_024" xml:space="preserve">
+    <value>It's right over this way![pause=0] Follow me!</value>
+  </data>
+  <data name="MT2_025" xml:space="preserve">
+    <value>This here is the Metano Town Market![pause=0] There's all sorts of neat stores here!</value>
+  </data>
+  <data name="MT2_026" xml:space="preserve">
+    <value>This here is the {0} Shop.[pause=0] It's ran by a pair of brothers,[pause=10] {1} and {2}.</value>
+  </data>
+  <data name="MT2_027" xml:space="preserve">
+    <value>They sell all sorts of great items there,[pause=10] especially for adventurers like us!</value>
+  </data>
+  <data name="MT2_028" xml:space="preserve">
+    <value>That over there is {0} Storage.[pause=0] {1} will watch over any items we leave with her.</value>
+  </data>
+  <data name="MT2_029" xml:space="preserve">
+    <value>If there's any items we don't want to lose,[pause=10] we can store them there.</value>
+  </data>
+  <data name="MT2_030" xml:space="preserve">
+    <value>This is also where Sensei {0} sent the items we had on us when we started training.</value>
+  </data>
+  <data name="MT2_031" xml:space="preserve">
+    <value>If we want to get those back,[pause=10] we'll need to speak with {0}.</value>
+  </data>
+  <data name="MT2_032" xml:space="preserve">
+    <value>{0} there runs an appraisal service.[pause=0] She can open any locked boxes we may find on our adventures.</value>
+  </data>
+  <data name="MT2_033" xml:space="preserve">
+    <value>If we ever need help opening up some locked up treasure,[pause=10] she's who we'll need to see.</value>
+  </data>
+  <data name="MT2_034" xml:space="preserve">
+    <value>Over here we have Krow Bank.</value>
+  </data>
+  <data name="MT2_035" xml:space="preserve">
+    <value>We can save our money there with {0}.</value>
+  </data>
+  <data name="MT2_036" xml:space="preserve">
+    <value>Over here we have {0}.[pause=0] He's a bit absent-minded,[pause=10] but he can help us relearn and forget moves.</value>
+  </data>
+  <data name="MT2_037" xml:space="preserve">
+    <value>Lastly we have {0}'s Swap Shop.</value>
+  </data>
+  <data name="MT2_038" xml:space="preserve">
+    <value>You can normally swap special items here with {0},[pause=10] but it seems like he isn't in right now.</value>
+  </data>
+  <data name="MT2_039" xml:space="preserve">
+    <value>I think there's a few other businesses in town,[pause=10] but these are the main ones anyway.</value>
+  </data>
+  <data name="MT2_040" xml:space="preserve">
+    <value>We should take a closer look at some of the stores here,[pause=10] then head over to the west side of town.</value>
+  </data>
+  <data name="MT2_041" xml:space="preserve">
+    <value>That's where all the houses are.[pause=0] Most townfolk live over there.</value>
+  </data>
+  <data name="MT2_042" xml:space="preserve">
+    <value>We should have time to do this before we head back to the guild for dinner.</value>
+  </data>
+  <data name="MT2_043" xml:space="preserve">
+    <value>Alright,[pause=10] let's take a look around!</value>
+  </data>
+  <data name="MT2_044" xml:space="preserve">
+    <value>Hey,[pause=10] {0},[pause=10] look over there!</value>
+  </data>
+  <data name="MT2_045" xml:space="preserve">
+    <value>Heh,[pause=10] some of the local children are playing tag.[pause=0] They're cute!</value>
+  </data>
+  <data name="MT2_046" xml:space="preserve">
+    <value>{0},[pause=10] it's almost time for dinner,[pause=10] sweetie.</value>
+  </data>
+  <data name="MT2_047" xml:space="preserve">
+    <value>Did you finish all of your chores like I asked?</value>
+  </data>
+  <data name="MT2_048" xml:space="preserve">
+    <value>No momma,[pause=10] I've been playing with {0} all day.</value>
+  </data>
+  <data name="MT2_049" xml:space="preserve">
+    <value>You haven't done them yet?</value>
+  </data>
+  <data name="MT2_050" xml:space="preserve">
+    <value>Well you better march home and take care of them right now,[pause=10] mister!</value>
+  </data>
+  <data name="MT2_051" xml:space="preserve">
+    <value>But I don't wanna![pause=0] I hate doing my chores!</value>
+  </data>
+  <data name="MT2_052" xml:space="preserve">
+    <value>{0},[pause=10] you know you need to help out around the house now...</value>
+  </data>
+  <data name="MT2_053" xml:space="preserve">
+    <value>Please don't make this difficult...</value>
+  </data>
+  <data name="MT2_054" xml:space="preserve">
+    <value>I don't care![pause=0] I hate having to do all these chores all the time!</value>
+  </data>
+  <data name="MT2_055" xml:space="preserve">
+    <value>I don't wanna do them anymore![pause=0] I wanna play with {0}!</value>
+  </data>
+  <data name="MT2_056" xml:space="preserve">
+    <value>({0} is making a scene...[pause=0] I don't want to look like a poor mother in front other the other parents...)</value>
+  </data>
+  <data name="MT2_057" xml:space="preserve">
+    <value>(I need to do something...)</value>
+  </data>
+  <data name="MT2_058" xml:space="preserve">
+    <value>{0},[pause=10] if you don't go home right now and finish your chores...[br]There'll be no dinner for you tonight mister!</value>
+  </data>
+  <data name="MT2_059" xml:space="preserve">
+    <value>B-but...![pause=0] B-but...!</value>
+  </data>
+  <data name="MT2_060" xml:space="preserve">
+    <value>No buts mister![pause=0] You head on home right now!</value>
+  </data>
+  <data name="MT2_061" xml:space="preserve">
+    <value>Not fair![pause=0] I'm sick of you telling me what to do all the time!</value>
+  </data>
+  <data name="MT2_062" xml:space="preserve">
+    <value>I wish I was grown up so I didn't have to listen to you anymore!</value>
+  </data>
+  <data name="MT2_063" xml:space="preserve">
+    <value>Well,[pause=10] until that day,[pause=10] you have to do as I say![pause=0] Now march!</value>
+  </data>
+  <data name="MT2_064" xml:space="preserve">
+    <value>Hmmph!</value>
+  </data>
+  <data name="MT2_065" xml:space="preserve">
+    <value>Haaah...[pause=0] I don't know what I'm going to do with that boy...</value>
+  </data>
+  <data name="MT2_066" xml:space="preserve">
+    <value>I never like to see families fight,[pause=10] but I guess it's something that's inevitable.</value>
+  </data>
+  <data name="MT2_067" xml:space="preserve">
+    <value>Well,[pause=10] it can't be helped.[pause=0] I hope they're able to get along again soon.</value>
+  </data>
+  <data name="MT2_068" xml:space="preserve">
+    <value>Anyways,[pause=10] this part of town is where most of the residents live.</value>
+  </data>
+  <data name="MT2_069" xml:space="preserve">
+    <value>Pokémon here are pretty friendly and welcoming,[pause=10] scenes like that don't usually happen.</value>
+  </data>
+  <data name="MT2_070" xml:space="preserve">
+    <value>Oh,[pause=10] whenever you're done exploring town,[pause=10] we can head back to the guild.</value>
+  </data>
+  <data name="MT2_071" xml:space="preserve">
+    <value>I'm sure it'll be time for dinner soon!</value>
+  </data>
+  <data name="MT2_072" xml:space="preserve">
+    <value>I worked up at appetite at the dojo today,[pause=10] and I'm sure you did too!</value>
+  </data>
+  <data name="MT2_073" xml:space="preserve">
+    <value>It's through the ladder by the river over there!</value>
+  </data>
+  <data name="MT2_074" xml:space="preserve">
+    <value>Just cross the bridge,[pause=10] then head east,[pause=10] ruff!</value>
+  </data>
+  <data name="MT2_075" xml:space="preserve">
+    <value>We've got a bit of time until dinner![pause=0] I hope {0} makes something yummy,[pause=10] ruff!</value>
+  </data>
+  <data name="MT2_076" xml:space="preserve">
+    <value>It's almost time for dinner,[pause=10] ruff![pause=0] Don't miss it or you'll go hungry!</value>
+  </data>
+  <data name="MT2_077" xml:space="preserve">
+    <value>It's rare to see townfolk worked up like that...[pause=0]\nI hope everything is OK,[pause=10] ruff...</value>
+  </data>
+  <data name="MT2_078" xml:space="preserve">
+    <value>Anyways,[pause=10] good luck you two with the job![pause=0] I know you can do it,[pause=10] ruff!</value>
+  </data>
+  <data name="MT2_079" xml:space="preserve">
+    <value>What do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_080" xml:space="preserve">
+    <value>I dunno,[pause=10] what do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_081" xml:space="preserve">
+    <value>I dunno,[pause=10] what do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_082" xml:space="preserve">
+    <value>I dunno,[pause=10] what do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_083" xml:space="preserve">
+    <value>Would you two STOP.</value>
+  </data>
+  <data name="MT2_084" xml:space="preserve">
+    <value>We've been here for hours already trying to figure out what we're doing and now the day's almost over!</value>
+  </data>
+  <data name="MT2_085" xml:space="preserve">
+    <value>Can't you just pick something,[pause=10] PLEASE?</value>
+  </data>
+  <data name="MT2_086" xml:space="preserve">
+    <value>But I just wanna know what {0} wants to do today!</value>
+  </data>
+  <data name="MT2_087" xml:space="preserve">
+    <value>And I just wanna know what {0} wants to do today!</value>
+  </data>
+  <data name="MT2_088" xml:space="preserve">
+    <value>What do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_089" xml:space="preserve">
+    <value>I dunno,[pause=10] what do you wanna do today,[pause=10] {0}?</value>
+  </data>
+  <data name="MT2_090" xml:space="preserve">
+    <value>Ugh...</value>
+  </data>
+  <data name="MT2_091" xml:space="preserve">
+    <value>Hey {0},[pause=10] have you seen {1} anywhere today?</value>
+  </data>
+  <data name="MT2_092" xml:space="preserve">
+    <value>No {0}...[pause=0] I haven't seen him at all today!</value>
+  </data>
+  <data name="MT2_093" xml:space="preserve">
+    <value>I wonder where he could be?[pause=0] We need him so we can figure out what we're doing today!</value>
+  </data>
+  <data name="MT2_094" xml:space="preserve">
+    <value>I dunno...[pause=0] I hope he turns up soon though so we can start thinking about it though!</value>
+  </data>
+  <data name="MT2_095" xml:space="preserve">
+    <value>..........</value>
+  </data>
+  <data name="MT2_096" xml:space="preserve">
+    <value>...ZZZzzz...</value>
+  </data>
+  <data name="MT2_097" xml:space="preserve">
+    <value>She appears to have fallen asleep while meditating.</value>
+  </data>
+  <data name="MT2_098" xml:space="preserve">
+    <value>But think I don't that it's really fa' me...[pause=0] Just click it doesn't really...</value>
+  </data>
+  <data name="MT2_099" xml:space="preserve">
+    <value>We came all this way from out of town for nothing,[pause=10] then?</value>
+  </data>
+  <data name="MT2_100" xml:space="preserve">
+    <value>Hopefully won't be too much longer.</value>
+  </data>
+  <data name="MT2_101" xml:space="preserve">
+    <value>...Oh...[pause=0] I won't have my precious drink today...</value>
+  </data>
+  <data name="MT2_102" xml:space="preserve">
+    <value>...Oh...[pause=0] I'm wasting away over here...</value>
+  </data>
+  <data name="MT2_103" xml:space="preserve">
+    <value>Hoo...[pause=0] I tell ya,[pause=10] that's gotta be real rough fer {0}.</value>
+  </data>
+  <data name="MT2_104" xml:space="preserve">
+    <value>After...[pause=0] well,[pause=10] y'know...</value>
+  </data>
+  <data name="MT2_105" xml:space="preserve">
+    <value>And now she's havin' trouble with {0}...</value>
+  </data>
+  <data name="MT2_106" xml:space="preserve">
+    <value>Hmmph...[pause=0] It doesn't matter what's happened.</value>
+  </data>
+  <data name="MT2_107" xml:space="preserve">
+    <value>If her son acts like that towards her,[pause=10] that's her own fault.</value>
+  </data>
+  <data name="MT2_108" xml:space="preserve">
+    <value>I don't think it's that simple in this case,[pause=10] mate...</value>
+  </data>
+  <data name="MT2_109" xml:space="preserve">
+    <value>That poor Pokémon has been through so much as a' late...[pause=0] We as a town gotta do all that we can ta' find 'im!</value>
+  </data>
+  <data name="MT2_110" xml:space="preserve">
+    <value>{0} was too soft.[pause=0] So of course her child doesn't obey her and ends up running off.</value>
+  </data>
+  <data name="MT2_111" xml:space="preserve">
+    <value>If your child doesn't respect you,[pause=10] they'll do whatever they want.</value>
+  </data>
+  <data name="MT2_112" xml:space="preserve">
+    <value>...[pause=30]...Lame.</value>
+  </data>
+  <data name="MT2_113" xml:space="preserve">
+    <value>Oh![pause=0] Erm...[pause=0] I mean...</value>
+  </data>
+  <data name="MT2_114" xml:space="preserve">
+    <value>Pffft...[pause=0] Adventurers?[pause=0] That's...[pause=0] um...[pause=0] stupid!</value>
+  </data>
+  <data name="MT2_115" xml:space="preserve">
+    <value>He's had to do a lot of chores lately.[pause=0] We don't get to play as much as we used to...</value>
+  </data>
+  <data name="MT2_116" xml:space="preserve">
+    <value>If I was big and grown up I wouldn't have to do these stupid chores anymore...</value>
+  </data>
+  <data name="MT2_117" xml:space="preserve">
+    <value>They say that if you throw in a {0} and make a wish,[pause=10] it comes true every time!</value>
+  </data>
+  <data name="MT2_118" xml:space="preserve">
+    <value>But I'm starting to think that I was fed a fib...</value>
+  </data>
+  <data name="MT2_119" xml:space="preserve">
+    <value>I've been here all day throwing {0} in and nothing's happened!</value>
+  </data>
+  <data name="MT2_120" xml:space="preserve">
+    <value>Where's my big castle with a huge moat?[pause=0] Am I doing something wrong?</value>
+  </data>
+  <data name="MT2_121" xml:space="preserve">
+    <value>Pretty flowers make everything better![pause=0] Tending to them is rewarding on its own too!</value>
+  </data>
+  <data name="MT2_122" xml:space="preserve">
+    <value>She seemed sad.[pause=0] I hope {0} is found soon!</value>
+  </data>
+  <data name="MT2_123" xml:space="preserve">
+    <value>I'm going to take some flowers over to {0}'s house later to cheer her up.[pause=0] Flowers always cheer me up!</value>
+  </data>
+  <data name="MT2_124" xml:space="preserve">
+    <value>Hopefully {0} comes home soon so everyone can be happy again!</value>
+  </data>
+  <data name="MT2_125" xml:space="preserve">
+    <value>{0} may take swim in river after dinner![pause=0] {1} enjoys cool water!</value>
+  </data>
+  <data name="MT2_126" xml:space="preserve">
+    <value>{0} not know answer...[pause=0] But {1} hopes answer is known soon!</value>
+  </data>
+  <data name="MT2_127" xml:space="preserve">
+    <value>Hey,[pause=10] {0}![pause=0] How's it going?</value>
+  </data>
+  <data name="MT2_128" xml:space="preserve">
+    <value>I heard the good news![pause=0] Congrats on getting into the guild!</value>
+  </data>
+  <data name="MT2_129" xml:space="preserve">
+    <value>Thanks {0}![pause=0] I'm very excited about it!</value>
+  </data>
+  <data name="MT2_130" xml:space="preserve">
+    <value>How'd you manage to find out so quickly,[pause=10] anyway?</value>
+  </data>
+  <data name="MT2_131" xml:space="preserve">
+    <value>Oh,[pause=10] you know me,[pause=10] I have my ways![pause=0] News doesn't stay from my ears for long!</value>
+  </data>
+  <data name="MT2_132" xml:space="preserve">
+    <value>This must be your partner then![pause=0]</value>
+  </data>
+  <data name="MT2_133" xml:space="preserve">
+    <value>I heard the good news![pause=0] Congratulations on getting into the guild,[pause=10] the both of you!</value>
+  </data>
+  <data name="MT2_134" xml:space="preserve">
+    <value>Thanks,[pause=10] {0}![pause=0] I'm very excited about it!</value>
+  </data>
+  <data name="MT2_135" xml:space="preserve">
+    <value>I'm excited for you too![pause=0] Apprenticing at the guild is a wonderful opportunity!</value>
+  </data>
+  <data name="MT2_136" xml:space="preserve">
+    <value>Good luck with your future adventures![pause=0] Be sure to tell me all about them!</value>
+  </data>
+  <data name="MT2_137" xml:space="preserve">
+    <value>In a town this small and close-knit,[pause=10] news like that spreads like wildfire.</value>
+  </data>
+  <data name="MT2_138" xml:space="preserve">
+    <value>I like to think of "cadence" as "can-ya-dance"![pause=0] So,[pause=10] can-ya-dance with me? {0}</value>
+  </data>
+  <data name="MT2_139" xml:space="preserve">
+    <value>There's lots of open space,[pause=10] and {0} by the tree there plays the best music![pause=0] I can't get enough of his tunes!</value>
+  </data>
+  <data name="MT2_140" xml:space="preserve">
+    <value>Me and {0} are resting here after catching the day's ba-a-a-addies!</value>
+  </data>
+  <data name="MT2_141" xml:space="preserve">
+    <value>We're gonna head to the guild in a little bit.[pause=0]\nSee you at dinner!</value>
+  </data>
+  <data name="MT2_142" xml:space="preserve">
+    <value>Not that you would know anything about a long day's work!</value>
+  </data>
+  <data name="MT2_143" xml:space="preserve">
+    <value>I've been coming to the well afterwards to fish the {0} back out.</value>
+  </data>
+  <data name="MT2_144" xml:space="preserve">
+    <value>I've tried explaining to him wishing wells aren't actually magic,[pause=10] but I don't think he understands.</value>
+  </data>
+  <data name="MT2_145" xml:space="preserve">
+    <value>Oh,[pause=10] it's great.[pause=0] I've been able to apply some methods it talks about to achieve a more peaceful state of mind.</value>
+  </data>
+  <data name="MT2_146" xml:space="preserve">
+    <value>Though it's been more difficult to keep a level head as of late...</value>
+  </data>
+  <data name="MT2_147" xml:space="preserve">
+    <value>Me too harder it lately is.[pause=0] Now especially weighing on my mind disappearance of {0}...</value>
+  </data>
+  <data name="MT2_148" xml:space="preserve">
+    <value>If something happened to my precious {0}...[pause=0]\nI don't know what I would do!</value>
+  </data>
+  <data name="MT2_149" xml:space="preserve">
+    <value>The world really is becoming a more dangerous place...[pause=0] But what can we even do about it?</value>
+  </data>
+  <data name="MT2_150" xml:space="preserve">
+    <value>I hope that kid is brought back home soon,[pause=10] though!</value>
+  </data>
+  <data name="MT2_151" xml:space="preserve">
+    <value>I know all too well the woes of an empty stomach.</value>
+  </data>
+  <data name="MT2_152" xml:space="preserve">
+    <value>It seems like there's never enough adventurers to do all the work in the world,[pause=10] does it?</value>
+  </data>
 </root>

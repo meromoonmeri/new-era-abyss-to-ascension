@@ -34,11 +34,11 @@ function altere_pond_ch_2.Relicanth_Action(chara, activator)
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
 	GROUND:CharSetEmote(partner, "sweating", 1)
-	UI:WaitShowDialogue("Yes " .. chara:GetDisplayName() .. ",[pause=10] it's me.[pause=0] And naturally I'm keeping out of trouble!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP2_001'], chara:GetDisplayName()))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(chara)
-	UI:WaitShowDialogue("Hmmph.[pause=0] You better be.[pause=0] I don't want to catch you going into " .. zone:GetColoredName() .. " again.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP2_002'], zone:GetColoredName()))
 	GAME:WaitFrames(20)
 	
 	GROUND:CharTurnToCharAnimated(hero, partner, 4)
@@ -51,7 +51,7 @@ function altere_pond_ch_2.Relicanth_Action(chara, activator)
 	
 	UI:SetSpeaker(partner)
 	UI:SetSpeakerEmotion("Stunned")
-	UI:WaitShowDialogue("Of course![pause=0] You know I would never do something as irresponsible as that...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP2_003']))
 	GeneralFunctions.EndConversation(chara, false)
 end 
 
@@ -67,12 +67,12 @@ function altere_pond_ch_2.Event_Trigger_1_Touch(obj, activator)
 	if SV.Chapter2.FinishedTraining and not SV.Chapter2.FinishedFirstDay then
 		
 		GeneralFunctions.StartPartnerConversation("I don't think we have time to go into " .. zone:GetColoredName() .. " before dinner.")
-		UI:WaitShowDialogue("Let's come back when we have some free time to explore!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP2_004']))
 
 	else 
 		
 		GeneralFunctions.StartPartnerConversation("We can't go exploring " .. zone:GetColoredName() .. " now!")
-		UI:WaitShowDialogue("We need to rescue " .. CharacterEssentials.GetCharacterName('Numel') .. "![pause=0] Quickly,[pause=10] to " .. zone2:GetColoredName() .. "!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP2_005'], CharacterEssentials.GetCharacterName('Numel'), zone2:GetColoredName()))
 	end
 	
 	GeneralFunctions.EndConversation(partner)

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -58,4 +58,22 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MNH2_001" xml:space="preserve">
+    <value>I finally have some time to myself.[pause=0] I think I'll catch up on some reading.</value>
+  </data>
+  <data name="MNH2_002" xml:space="preserve">
+    <value>Hey![pause=0] What are you two doing over there?</value>
+  </data>
+  <data name="MNH2_003" xml:space="preserve">
+    <value>{0} is down for his nap.[pause=0] Please don't wake him up!</value>
+  </data>
+  <data name="MNH2_004" xml:space="preserve">
+    <value>O-oh.[pause=0] Sorry ma'am!</value>
+  </data>
+  <data name="MNH2_005" xml:space="preserve">
+    <value>I won't be able to sleep peacefully until I know he's back home with his mom,[pause=10] safe and sound.</value>
+  </data>
+  <data name="MNH2_006" xml:space="preserve">
+    <value>I haven't seen him in a while though.[pause=0] Maybe if I wasn't snoozing so much in town,[pause=10] I'd have spotted him...</value>
+  </data>
 </root>

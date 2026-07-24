@@ -25,7 +25,7 @@ function metano_fire_home_ch_2.Camerupt_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, 'Please,[pause=10] find my baby boy![pause=0] He means the world to me!', 'Teary-Eyed')
 	else
 		GeneralFunctions.StartConversation(chara, "That son of mine...[pause=0] I love him to pieces,[pause=10] but...", "Sad")
-		UI:WaitShowDialogue("He's been hard to handle lately...[pause=0] I don't know what to do with him...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MFH2_001']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end 

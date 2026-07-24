@@ -460,4 +460,409 @@
   <data name="G2F1_114" xml:space="preserve">
     <value>Me and {0} can even show you some ways to take down bad guys sometime![pause=0] We'll have a bla-a-a-ast!</value>
   </data>
+  <data name="G2F2_001" xml:space="preserve">
+    <value>This is the Job Bulletin Board.[pause=0] Requests from Pokémon from all over are posted here daily.</value>
+  </data>
+  <data name="G2F2_002" xml:space="preserve">
+    <value>These requests can include tasks such as rescuing,[pause=10] client escort,[pause=10] and item retrieval.</value>
+  </data>
+  <data name="G2F2_003" xml:space="preserve">
+    <value>You should know that almost all Job Bulletin Board tasks take place within mystery dungeons.</value>
+  </data>
+  <data name="G2F2_004" xml:space="preserve">
+    <value>In case you are unaware,[pause=10] mystery dungeons are special places that change each time you enter.</value>
+  </data>
+  <data name="G2F2_005" xml:space="preserve">
+    <value>The layout,[pause=10] items you find,[pause=10] and opponents you face differ each time you explore.</value>
+  </data>
+  <data name="G2F2_006" xml:space="preserve">
+    <value>They truly are wonderous locations to adventure in.[pause=0] But as fantastical as they are,[pause=10] they are also dangerous.</value>
+  </data>
+  <data name="G2F2_007" xml:space="preserve">
+    <value>Should either one of you be defeated in a dungeon,[pause=10] you will both be expelled from the dungeon.</value>
+  </data>
+  <data name="G2F2_008" xml:space="preserve">
+    <value>Furthermore,[pause=10] you will lose most of the money you are carrying and most items in your Treasure Bag.</value>
+  </data>
+  <data name="G2F2_009" xml:space="preserve">
+    <value>Some items,[pause=10] such as the {0} the Guildmaster gave you,[pause=10] are special and cannot be lost.</value>
+  </data>
+  <data name="G2F2_010" xml:space="preserve">
+    <value>Items you have equipped also cannot be lost,[pause=10] fortunately.</value>
+  </data>
+  <data name="G2F2_011" xml:space="preserve">
+    <value>Be sure to visit the proper facilities in town to safeguard any possessions you cannot bear to lose.</value>
+  </data>
+  <data name="G2F2_012" xml:space="preserve">
+    <value>Is that all clear to you?</value>
+  </data>
+  <data name="G2F2_013" xml:space="preserve">
+    <value>Well,[pause=10] that is a lot to take in...</value>
+  </data>
+  <data name="G2F2_014" xml:space="preserve">
+    <value>But I'm sure we'll manage to remember all of that!</value>
+  </data>
+  <data name="G2F2_015" xml:space="preserve">
+    <value>Very good.[pause=0] Now,[pause=10] for your task today,[pause=10] I shall choose a job from the board for you to undertake.</value>
+  </data>
+  <data name="G2F2_016" xml:space="preserve">
+    <value>Since you are just beginners,[pause=10] let's select a simple task from the board.</value>
+  </data>
+  <data name="G2F2_017" xml:space="preserve">
+    <value>Let's see here...</value>
+  </data>
+  <data name="G2F2_018" xml:space="preserve">
+    <value>Excuse me,[pause=10] you work for the guild,[pause=10] right?[pause=0] You're that {0} fellow,[pause=10] aren't you?</value>
+  </data>
+  <data name="G2F2_019" xml:space="preserve">
+    <value>Oh,[pause=10] apologies.[pause=0] I did not notice you there at first.</value>
+  </data>
+  <data name="G2F2_020" xml:space="preserve">
+    <value>Yes,[pause=10] I am {0}.[pause=0] What business do you have with the guild?</value>
+  </data>
+  <data name="G2F2_021" xml:space="preserve">
+    <value>I need help![pause=0] {0},[pause=10] my precious baby boy...[pause=0] He's gone missing!</value>
+  </data>
+  <data name="G2F2_022" xml:space="preserve">
+    <value>Your son has gone missing?[pause=0] Are you sure?</value>
+  </data>
+  <data name="G2F2_023" xml:space="preserve">
+    <value>Y-yes![pause=0] He was in bed when I went to sleep last night...[br]...But when I woke up this morning he was nowhere to be seen!</value>
+  </data>
+  <data name="G2F2_024" xml:space="preserve">
+    <value>I went all over town and asked anyone if they had seen him...[pause=0] Nobody has spotted him since yesterday!</value>
+  </data>
+  <data name="G2F2_025" xml:space="preserve">
+    <value>Oh,[pause=10] what if something happened to my baby boy...[pause=0]\nI don't think I'd be able to forgive myself!</value>
+  </data>
+  <data name="G2F2_026" xml:space="preserve">
+    <value>I am sure nothing of the sort has happened to him.[pause=0] Perhaps he just wandered off.</value>
+  </data>
+  <data name="G2F2_027" xml:space="preserve">
+    <value>If he were to wander off,[pause=10] do you have any idea where he might go?</value>
+  </data>
+  <data name="G2F2_028" xml:space="preserve">
+    <value>No...[pause=0] He's never done something like this before!</value>
+  </data>
+  <data name="G2F2_029" xml:space="preserve">
+    <value>Oh...[pause=0] Where could he be...?</value>
+  </data>
+  <data name="G2F2_030" xml:space="preserve">
+    <value>Huh?[pause=0] Do I think that he may have ran away?</value>
+  </data>
+  <data name="G2F2_031" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F2_032" xml:space="preserve">
+    <value>...It's possible...[pause=0] We had an...[pause=0] argument last evening,[pause=10] and he was very upset.</value>
+  </data>
+  <data name="G2F2_033" xml:space="preserve">
+    <value>What was the argument about?</value>
+  </data>
+  <data name="G2F2_034" xml:space="preserve">
+    <value>Well...[pause=0] He hadn't done his chores yet,[pause=10] and it was starting to get late.</value>
+  </data>
+  <data name="G2F2_035" xml:space="preserve">
+    <value>So I told him to stop playing with his friend and to go gather firewood for the fireplace.</value>
+  </data>
+  <data name="G2F2_036" xml:space="preserve">
+    <value>He refused,[pause=10] so I threatened to take away his dinner if he didn't do his chores.</value>
+  </data>
+  <data name="G2F2_037" xml:space="preserve">
+    <value>He told me that he wished he was grown up so he wouldn't have to listen to me...</value>
+  </data>
+  <data name="G2F2_038" xml:space="preserve">
+    <value>...Then he ran home and collected some wood outside of our home.</value>
+  </data>
+  <data name="G2F2_039" xml:space="preserve">
+    <value>I thought that was the end of it,[pause=10] but...[pause=0]\nI guess he ran off after I fell asleep.</value>
+  </data>
+  <data name="G2F2_040" xml:space="preserve">
+    <value>Oh,[pause=10] {0}...</value>
+  </data>
+  <data name="G2F2_041" xml:space="preserve">
+    <value>Did you say that he wished to be "grown up"?</value>
+  </data>
+  <data name="G2F2_042" xml:space="preserve">
+    <value>Yes... But I don't see how that's important.</value>
+  </data>
+  <data name="G2F2_043" xml:space="preserve">
+    <value>If he wanted to grow up...[pause=0] I believe he may have ran off towards Luminous Spring.</value>
+  </data>
+  <data name="G2F2_044" xml:space="preserve">
+    <value>Oh![pause=0] You might be right![pause=0] The Luminous Spring is just to the north of town,[pause=10] he could easily have gone there!</value>
+  </data>
+  <data name="G2F2_045" xml:space="preserve">
+    <value>Luminous Spring?</value>
+  </data>
+  <data name="G2F2_046" xml:space="preserve">
+    <value>Luminous Spring is the source of the Illuminant River,[pause=10] the river that runs through this very town.</value>
+  </data>
+  <data name="G2F2_047" xml:space="preserve">
+    <value>It is also the place that Pokémon go to evolve.</value>
+  </data>
+  <data name="G2F2_048" xml:space="preserve">
+    <value>If {0} wanted to grow up,[pause=10] evolving is,[pause=10] in a way,[pause=10] one way to do so.</value>
+  </data>
+  <data name="G2F2_049" xml:space="preserve">
+    <value>...Though I doubt he actually meets the requirements to evolve.</value>
+  </data>
+  <data name="G2F2_050" xml:space="preserve">
+    <value>The problem now is that...[pause=0] The Luminous Spring is located at the end of {0}...</value>
+  </data>
+  <data name="G2F2_051" xml:space="preserve">
+    <value>A mystery dungeon.</value>
+  </data>
+  <data name="G2F2_052" xml:space="preserve">
+    <value>You're saying my baby is in a place as dangerous as a mystery dungeon!?</value>
+  </data>
+  <data name="G2F2_053" xml:space="preserve">
+    <value>Potentially.[pause=0] We will need to organize a team to go and search for him.</value>
+  </data>
+  <data name="G2F2_054" xml:space="preserve">
+    <value>However,[pause=10] I fear that all of our experienced apprentices are already out on their tasks for the day.</value>
+  </data>
+  <data name="G2F2_055" xml:space="preserve">
+    <value>Which means that we have nobody available to go on such a search.</value>
+  </data>
+  <data name="G2F2_056" xml:space="preserve">
+    <value>We'll do it![pause=0] We can rescue {0}!</value>
+  </data>
+  <data name="G2F2_057" xml:space="preserve">
+    <value>You two are too inexperienced for such an undertaking.[pause=0] I would prefer we get a more practiced team.</value>
+  </data>
+  <data name="G2F2_058" xml:space="preserve">
+    <value>C'mon![pause=0] We need to find {0} before anything happens to him!</value>
+  </data>
+  <data name="G2F2_059" xml:space="preserve">
+    <value>And you said it yourself,[pause=10] nobody else is available right now for the job!</value>
+  </data>
+  <data name="G2F2_060" xml:space="preserve">
+    <value>Plus,[pause=10] this {0} is close to town.[pause=0] It can't be that dangerous!</value>
+  </data>
+  <data name="G2F2_061" xml:space="preserve">
+    <value>I know {0} and I can do it!</value>
+  </data>
+  <data name="G2F2_062" xml:space="preserve">
+    <value>Right,[pause=10] {0}?</value>
+  </data>
+  <data name="G2F2_063" xml:space="preserve">
+    <value>See?[pause=0] We can do this![pause=0] Please,[pause=10] just give us this chance and we will rescue {0}!</value>
+  </data>
+  <data name="G2F2_064" xml:space="preserve">
+    <value>...Very well.</value>
+  </data>
+  <data name="G2F2_065" xml:space="preserve">
+    <value>Really?</value>
+  </data>
+  <data name="G2F2_066" xml:space="preserve">
+    <value>Yes.[pause=0] There are no other options,[pause=10] and on second consideration,[pause=10] this seems like a job that you could handle.</value>
+  </data>
+  <data name="G2F2_067" xml:space="preserve">
+    <value>As such,[pause=10] in lieu of taking a mission from the Job Bulletin Board...</value>
+  </data>
+  <data name="G2F2_068" xml:space="preserve">
+    <value>...I will entrust the task of searching {0} for {1} to the two of you.</value>
+  </data>
+  <data name="G2F2_069" xml:space="preserve">
+    <value>You two will go looking for my baby?[pause=0] Thank you!</value>
+  </data>
+  <data name="G2F2_070" xml:space="preserve">
+    <value>Of course![pause=0] We won't let you down!</value>
+  </data>
+  <data name="G2F2_071" xml:space="preserve">
+    <value>You should get started on your search immediately.</value>
+  </data>
+  <data name="G2F2_072" xml:space="preserve">
+    <value>As I said earlier,[pause=10] {0} is located to the north of town.</value>
+  </data>
+  <data name="G2F2_073" xml:space="preserve">
+    <value>You should prepare yourselves with the proper facilities in town,[pause=10] then head north to search for {0}.</value>
+  </data>
+  <data name="G2F2_074" xml:space="preserve">
+    <value>If you manage to find him,[pause=10] please bring him back to town immediately.</value>
+  </data>
+  <data name="G2F2_075" xml:space="preserve">
+    <value>Got it![pause=0] We'll get right to it then!</value>
+  </data>
+  <data name="G2F2_076" xml:space="preserve">
+    <value>C'mon,[pause=10] {0}![pause=0] Let's get ready to save {1}!</value>
+  </data>
+  <data name="G2F2_077" xml:space="preserve">
+    <value>{0}![pause=0] My baby!</value>
+  </data>
+  <data name="G2F2_078" xml:space="preserve">
+    <value>You're back,[pause=10] safe and sound![pause=0] I was so scared I was going to lose you!</value>
+  </data>
+  <data name="G2F2_079" xml:space="preserve">
+    <value>Oh momma...[pause=0] I was afraid I was gonna be stuck there forever!</value>
+  </data>
+  <data name="G2F2_080" xml:space="preserve">
+    <value>I never should have ran away.[pause=0] I'm sorry...</value>
+  </data>
+  <data name="G2F2_081" xml:space="preserve">
+    <value>I'm sorry too,[pause=10] sweetie.[pause=0] I know it's been hard now that I need you to do more around the house...</value>
+  </data>
+  <data name="G2F2_082" xml:space="preserve">
+    <value>But all that matters now though is that you're safe.[pause=0] Just promise me you'll never do something like this again.</value>
+  </data>
+  <data name="G2F2_083" xml:space="preserve">
+    <value>I promise...</value>
+  </data>
+  <data name="G2F2_084" xml:space="preserve">
+    <value>I don't think I can ever thank you two enough for returning my baby boy to me.</value>
+  </data>
+  <data name="G2F2_085" xml:space="preserve">
+    <value>D-Don't worry about it![pause=0] That's what we're here for!</value>
+  </data>
+  <data name="G2F2_086" xml:space="preserve">
+    <value>Don't be so modest![pause=0] Please,[pause=10] take this as thanks for bringing him back home!</value>
+  </data>
+  <data name="G2F2_087" xml:space="preserve">
+    <value>Woah![pause=0] You're giving us all this?[pause=0] Are you sure?</value>
+  </data>
+  <data name="G2F2_088" xml:space="preserve">
+    <value>As sure as sure can be![pause=0] You saved my baby boy after all![pause=0] He's worth everything to me!</value>
+  </data>
+  <data name="G2F2_089" xml:space="preserve">
+    <value>Wow![pause=0] Thank you very much!</value>
+  </data>
+  <data name="G2F2_090" xml:space="preserve">
+    <value>Of course![pause=0] And again...[pause=0] Thank you,[pause=10] thank you so much!</value>
+  </data>
+  <data name="G2F2_091" xml:space="preserve">
+    <value>Come on sweetie,[pause=10] let's go home and have dinner.</value>
+  </data>
+  <data name="G2F2_092" xml:space="preserve">
+    <value>Hooray,[pause=10] dinner![pause=0] I'm starving!</value>
+  </data>
+  <data name="G2F2_093" xml:space="preserve">
+    <value>Indeed,[pause=10] you did it.[pause=0] Well done,[pause=10] Team {0}.</value>
+  </data>
+  <data name="G2F2_094" xml:space="preserve">
+    <value>You did an excellent job bringing {0} back to his mother.</value>
+  </data>
+  <data name="G2F2_095" xml:space="preserve">
+    <value>To think that he was naïve enough to believe he was ready for evolution.</value>
+  </data>
+  <data name="G2F2_096" xml:space="preserve">
+    <value>That reminds me...[pause=0] {0}...</value>
+  </data>
+  <data name="G2F2_097" xml:space="preserve">
+    <value>Yes?[pause=0] What is it?</value>
+  </data>
+  <data name="G2F2_098" xml:space="preserve">
+    <value>The spring...[pause=0] Does it still do anything even if you're not ready for evolution?</value>
+  </data>
+  <data name="G2F2_099" xml:space="preserve">
+    <value>Indeed it does.[pause=0] It would let you know that you do not meet the requirements for evolution.</value>
+  </data>
+  <data name="G2F2_100" xml:space="preserve">
+    <value>That's strange,[pause=10] because the spring wasn't doing anything at all for any of us.</value>
+  </data>
+  <data name="G2F2_101" xml:space="preserve">
+    <value>What do you mean it did not do anything?</value>
+  </data>
+  <data name="G2F2_102" xml:space="preserve">
+    <value>Well,[pause=10] {0},[pause=10] {1},[pause=10] and I all tried standing in the light of the spring.</value>
+  </data>
+  <data name="G2F2_103" xml:space="preserve">
+    <value>But no matter who tried,[pause=10] nothing happened.[pause=0] We didn't hear a voice or anything.</value>
+  </data>
+  <data name="G2F2_104" xml:space="preserve">
+    <value>Is something wrong with the spring?</value>
+  </data>
+  <data name="G2F2_105" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F2_106" xml:space="preserve">
+    <value>...[pause=0]No.[pause=0] It is nothing to be concerned about.[pause=0] The spring has...[pause=30] been known to do this before.</value>
+  </data>
+  <data name="G2F2_107" xml:space="preserve">
+    <value>OK.[pause=0] That's good to hear.[pause=0] I was worried for a bit there.</value>
+  </data>
+  <data name="G2F2_108" xml:space="preserve">
+    <value>You two should head upstairs.[pause=0] Dinner should be ready any moment.[pause=0] I will be up shortly.</value>
+  </data>
+  <data name="G2F2_109" xml:space="preserve">
+    <value>Sounds like {0} can't wait!</value>
+  </data>
+  <data name="G2F2_110" xml:space="preserve">
+    <value>C'mon,[pause=10] {0}![pause=0] Let's go get some dinner before your stomach barks at us again!</value>
+  </data>
+  <data name="G2F2_111" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F2_112" xml:space="preserve">
+    <value>What about thissss one?</value>
+  </data>
+  <data name="G2F2_113" xml:space="preserve">
+    <value>Too weak.</value>
+  </data>
+  <data name="G2F2_114" xml:space="preserve">
+    <value>Well,[pause=10] what about thissss one?</value>
+  </data>
+  <data name="G2F2_115" xml:space="preserve">
+    <value>Not a real challenge.[pause=0] You scared of fighting a real outlaw or something?</value>
+  </data>
+  <data name="G2F2_116" xml:space="preserve">
+    <value>Had to make ssssure to pick one you'd be able to handle.[pause=0] Sssseeing how you're sssso delicate and all...</value>
+  </data>
+  <data name="G2F2_117" xml:space="preserve">
+    <value>Tch...[pause=0] Ain't that a convenient excuse...</value>
+  </data>
+  <data name="G2F2_118" xml:space="preserve">
+    <value>Yeah yeah.[pause=0] Now sssstop being sssso picky.</value>
+  </data>
+  <data name="G2F2_119" xml:space="preserve">
+    <value>Team [color=#FFA5FF]Rivalssss[color] will get a bad rep if you keep ussss here insssstead of in the field catching outlawssss.</value>
+  </data>
+  <data name="G2F2_120" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F2_121" xml:space="preserve">
+    <value>{0} is sending you over to Sensei {1} for training,[pause=10] huh?</value>
+  </data>
+  <data name="G2F2_122" xml:space="preserve">
+    <value>She's definitely...[pause=0] Um...[pause=0] a character alright...</value>
+  </data>
+  <data name="G2F2_123" xml:space="preserve">
+    <value>She's a great teacher,[pause=10] though.[pause=0] Make sure you do your best to learn from her!</value>
+  </data>
+  <data name="G2F2_124" xml:space="preserve">
+    <value>I can't fly yet myself,[pause=10] but my partner {0} is a master of flying!</value>
+  </data>
+  <data name="G2F2_125" xml:space="preserve">
+    <value>I can't wait to soar the skies like him one day!</value>
+  </data>
+  <data name="G2F2_126" xml:space="preserve">
+    <value>We would have flown us here in a jiffy,[pause=10] but,[pause=10] erm...</value>
+  </data>
+  <data name="G2F2_127" xml:space="preserve">
+    <value>Our...[pause=0] wings were too tired after flying around all day.[pause=0] So we and {0} had to walk.</value>
+  </data>
+  <data name="G2F2_128" xml:space="preserve">
+    <value>I'm almost finished updating the job boards.</value>
+  </data>
+  <data name="G2F2_129" xml:space="preserve">
+    <value>Just need that l-last team to leave so I can update that board.</value>
+  </data>
+  <data name="G2F2_130" xml:space="preserve">
+    <value>Hopefully they don't take too long...[pause=0] It's almost dinner time,[pause=10] and I'm f-famished!</value>
+  </data>
+  <data name="G2F2_131" xml:space="preserve">
+    <value>You should prepare yourselves with the proper facilities in town,[pause=10] then head north to search for {0}.</value>
+  </data>
+  <data name="G2F2_132" xml:space="preserve">
+    <value>If you manage to find him,[pause=10] please bring him back to town immediately.</value>
+  </data>
+  <data name="G2F2_133" xml:space="preserve">
+    <value>But boss...[pause=0] Aren't higher bountied criminals more dangerous?[pause=0] Are you sure we can handle it?</value>
+  </data>
+  <data name="G2F2_134" xml:space="preserve">
+    <value>I can handle anything![pause=0] If you pull your own weight for once,[pause=10] it'll be a cinch!</value>
+  </data>
+  <data name="G2F2_135" xml:space="preserve">
+    <value>Y-yes boss...</value>
+  </data>
 </root>

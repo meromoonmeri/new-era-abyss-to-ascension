@@ -12,10 +12,10 @@ end
 function metano_cave_ch_2.Sunflora_Action(chara, activator)
 	if not SV.Chapter2.FinishedFirstDay then 
 		GeneralFunctions.StartConversation(chara, "Visitors...?", "Worried", true, false)
-		UI:WaitShowDialogue("Thanks for dropping by,[pause=10] but I'd prefer to be alone.[pause=0] Sorry.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC2_001']))
 	else 
 		GeneralFunctions.StartConversation(chara, "...One of the town children has gone missing?", "Worried", true, false)
-		UI:WaitShowDialogue("...That isn't really my thing anymore.[pause=0] Find someone else to help you.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC2_002']))
 	end 
 	GeneralFunctions.EndConversation(chara, false)
 end 

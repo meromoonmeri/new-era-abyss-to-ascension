@@ -31,13 +31,13 @@ end
 function metano_electric_home_ch_2.Manectric_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "My sweet boy's out playing with his friends right now.")
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Their little group makes a wonderful bunch,[pause=10] don't you think?[pause=0] I'm glad he's able to get along with them.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MEH2_001']))
 	GeneralFunctions.EndConversation(chara)
 end 
 
 
 function metano_electric_home_ch_2.Electrike_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Don't let anyone know I'm here![pause=0] I'm hiding inside today.")
-	UI:WaitShowDialogue("If I go outside,[pause=10] I might get stuck doing nothing with the wonder twins again.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MEH2_002']))
 	GeneralFunctions.EndConversation(chara)
 end 

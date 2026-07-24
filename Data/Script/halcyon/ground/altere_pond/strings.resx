@@ -160,4 +160,19 @@
   <data name="AP1_033" xml:space="preserve">
     <value>Thank you.[pause=0] Follow me!</value>
   </data>
+  <data name="AP2_001" xml:space="preserve">
+    <value>Yes {0},[pause=10] it's me.[pause=0] And naturally I'm keeping out of trouble!</value>
+  </data>
+  <data name="AP2_002" xml:space="preserve">
+    <value>Hmmph.[pause=0] You better be.[pause=0] I don't want to catch you going into {0} again.</value>
+  </data>
+  <data name="AP2_003" xml:space="preserve">
+    <value>Of course![pause=0] You know I would never do something as irresponsible as that...</value>
+  </data>
+  <data name="AP2_004" xml:space="preserve">
+    <value>Let's come back when we have some free time to explore!</value>
+  </data>
+  <data name="AP2_005" xml:space="preserve">
+    <value>We need to rescue {0}![pause=0] Quickly,[pause=10] to {1}!</value>
+  </data>
 </root>
