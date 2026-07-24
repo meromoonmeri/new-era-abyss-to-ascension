@@ -5,7 +5,7 @@
   <Namespace>halcyon</Namespace>
   <UUID>CAE98609-7A96-4CFC-B5AB-0E1D41F6A1FF</UUID>
   <Version>0.5.0</Version>
-  <GameVersion>0.0</GameVersion>
+  <GameVersion>0.8.12</GameVersion>
   <ModType>Quest</ModType>
   <Relationships>
     <RelatedMod>
