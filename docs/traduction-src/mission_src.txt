@@ -1,0 +1,280 @@
+@@MISSION_TITLE_RESCUE_SELF_001@@ I'm too worn out to go on...
+@@MISSION_TITLE_RESCUE_SELF_002@@ I'm lost in this dungeon!
+@@MISSION_TITLE_RESCUE_SELF_003@@ Please, help me!
+@@MISSION_TITLE_RESCUE_SELF_004@@ Trapped in a dungeon!
+@@MISSION_TITLE_RESCUE_SELF_005@@ I need a rescue!
+@@MISSION_TITLE_RESCUE_SELF_006@@ I went on an adventure, but...
+@@MISSION_TITLE_RESCUE_SELF_007@@ I was KO'd...
+@@MISSION_TITLE_RESCUE_SELF_008@@ I want to go home!
+@@MISSION_TITLE_RESCUE_SELF_009@@ I'm scared!
+@@MISSION_TITLE_RESCUE_SELF_010@@ Where am I?
+@@MISSION_TITLE_RESCUE_FRIEND_001@@ [target] needs help!
+@@MISSION_TITLE_RESCUE_FRIEND_002@@ I'm worried about [target]!
+@@MISSION_TITLE_RESCUE_FRIEND_003@@ A Pokémon's gone missing!
+@@MISSION_TITLE_RESCUE_FRIEND_004@@ [target] hasn't returned yet!
+@@MISSION_TITLE_RESCUE_FRIEND_005@@ Our adventure went wrong!
+@@MISSION_TITLE_RESCUE_FRIEND_006@@ Please save [target]!
+@@MISSION_TITLE_RESCUE_FRIEND_007@@ [target] might be lost!
+@@MISSION_TITLE_RESCUE_FRIEND_008@@ Please, rescue [target]!
+@@MISSION_TITLE_RESCUE_FRIEND_009@@ A Pokémon failed to return!
+@@MISSION_TITLE_RESCUE_FRIEND_010@@ [target] needs a rescue!
+@@MISSION_TITLE_ESCORT_001@@ Escort me!
+@@MISSION_TITLE_ESCORT_002@@ Please bring me to see [target]!
+@@MISSION_TITLE_ESCORT_003@@ Take me to [target]!
+@@MISSION_TITLE_ESCORT_004@@ I need a bodyguard!
+@@MISSION_TITLE_ESCORT_005@@ Please, I need to see [target]!
+@@MISSION_TITLE_EXPLORATION_001@@ Seeking exploration!
+@@MISSION_TITLE_EXPLORATION_002@@ Let's explore!
+@@MISSION_TITLE_EXPLORATION_003@@ Seeking adventurers!
+@@MISSION_TITLE_EXPLORATION_004@@ I want to explore this dungeon!
+@@MISSION_TITLE_EXPLORATION_005@@ Help needed with this exploration!
+@@MISSION_TITLE_DELIVERY_001@@ Please deliver one [item]!
+@@MISSION_TITLE_DELIVERY_002@@ In need of one [item]!
+@@MISSION_TITLE_DELIVERY_003@@ Deliver one [item].
+@@MISSION_TITLE_DELIVERY_004@@ I really need one [item]!
+@@MISSION_TITLE_DELIVERY_005@@ I need one [item] delivered!
+@@MISSION_TITLE_LOST_ITEM_001@@ Please recover my [item]!
+@@MISSION_TITLE_LOST_ITEM_002@@ I can't find my [item]!
+@@MISSION_TITLE_LOST_ITEM_003@@ Where's my [item]?
+@@MISSION_TITLE_LOST_ITEM_004@@ My precious [item] is gone!
+@@MISSION_TITLE_LOST_ITEM_005@@ Misplaced my [item]!
+@@MISSION_TITLE_OUTLAW_001@@ Ruthless [target]
+@@MISSION_TITLE_OUTLAW_002@@ Criminal [target]
+@@MISSION_TITLE_OUTLAW_003@@ Dastardly [target]
+@@MISSION_TITLE_OUTLAW_004@@ Despicable [target]
+@@MISSION_TITLE_OUTLAW_005@@ Nasty [target]
+@@MISSION_TITLE_OUTLAW_006@@ [target]'s bounty!
+@@MISSION_TITLE_OUTLAW_007@@ Bounty for arrest of [target]!
+@@MISSION_TITLE_OUTLAW_008@@ [target] still at large!
+@@MISSION_TITLE_OUTLAW_009@@ Wanted: [target]!
+@@MISSION_TITLE_OUTLAW_010@@ Arrest [target]!
+@@MISSION_TITLE_OUTLAW_ITEM_001@@ Someone stole it!
+@@MISSION_TITLE_OUTLAW_ITEM_002@@ A thief! Please help!
+@@MISSION_TITLE_OUTLAW_ITEM_003@@ Waah! Who took it!?
+@@MISSION_TITLE_OUTLAW_ITEM_004@@ Grr... They stole my item!
+@@MISSION_TITLE_OUTLAW_ITEM_005@@ Please, catch this thief!
+@@MISSION_TITLE_OUTLAW_MONSTER_HOUSE_001@@ [target]'s Gang
+@@MISSION_TITLE_OUTLAW_MONSTER_HOUSE_002@@ [target]'s Ambush
+@@MISSION_TITLE_OUTLAW_MONSTER_HOUSE_003@@ [target]'s House of Monsters!
+@@MISSION_TITLE_OUTLAW_MONSTER_HOUSE_004@@ [target], Protected by Bodyguards!
+@@MISSION_TITLE_OUTLAW_MONSTER_HOUSE_005@@ [target]'s Group!
+@@MISSION_TITLE_OUTLAW_FLEE_001@@ Hotfoot [target]
+@@MISSION_TITLE_OUTLAW_FLEE_002@@ Cowardly [target]
+@@MISSION_TITLE_OUTLAW_FLEE_003@@ [target] will give you the slip! 
+@@MISSION_TITLE_OUTLAW_FLEE_004@@ Don't let [target] run away!
+@@MISSION_TITLE_OUTLAW_FLEE_005@@ Slippery [target]
+@@MISSION_BODY_TOP_RESCUE_SELF_001@@ I'm so hungry...
+@@MISSION_BODY_TOP_RESCUE_SELF_002@@ My adventure went wrong...
+@@MISSION_BODY_TOP_RESCUE_SELF_003@@ I got lost while on an adventure!
+@@MISSION_BODY_TOP_RESCUE_SELF_004@@ I can't get back home!
+@@MISSION_BODY_TOP_RESCUE_SELF_005@@ I'm at my limit...
+@@MISSION_BODY_TOP_RESCUE_SELF_006@@ Coming here was a mistake...
+@@MISSION_BODY_TOP_RESCUE_SELF_007@@ I'm about to faint...
+@@MISSION_BODY_TOP_RESCUE_SELF_008@@ I was attacked when my guard was down!
+@@MISSION_BODY_TOP_RESCUE_SELF_009@@ That enemy was too tough for me...
+@@MISSION_BODY_TOP_RESCUE_SELF_010@@ Aargh, my head...
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_001@@ Please, help me!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_002@@ I'm fading... Help...
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_003@@ I can't take any more... Help...
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_004@@ Send help, please!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_005@@ Help! Help!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_006@@ Anyone, please, help!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_007@@ I can't take much more! Help!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_008@@ Can anyone please help me?
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_009@@ I need help, right now!
+@@MISSION_BODY_BOTTOM_RESCUE_SELF_010@@ Please, anybody...
+@@MISSION_BODY_TOP_RESCUE_FRIEND_001@@ [target] might be in danger!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_002@@ [target] hasn't returned from their adventure!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_003@@ [target] may be hurt!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_004@@ I haven't heard from [target]!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_005@@ I got separated from [target]!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_006@@ [target] can't escape the dungeon!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_007@@ I think [target] is trapped!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_008@@ [target] may already have fainted!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_009@@ [target] is lost in the dungeon!
+@@MISSION_BODY_TOP_RESCUE_FRIEND_010@@ [target] hasn't come home yet...
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_001@@ I'm offering a reward upon rescue!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_002@@ Please, I need adventurers to help!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_003@@ Anyone, please, help!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_004@@ A rescue is needed badly!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_005@@ Won't someone please help!?
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_006@@ Please, I can't do it myself! Help!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_007@@ Please, rescue my friend!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_008@@ My friend needs a rescue! Help!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_009@@ I'll reward anyone who can help!
+@@MISSION_BODY_BOTTOM_RESCUE_FRIEND_010@@ Please, help!
+@@MISSION_BODY_TOP_ESCORT_001@@ I really need to see [target]!
+@@MISSION_BODY_TOP_ESCORT_002@@ Please, I want to see [target]!
+@@MISSION_BODY_TOP_ESCORT_003@@ [target] and I are great friends!
+@@MISSION_BODY_TOP_ESCORT_004@@ Please, take me to where [target] is!
+@@MISSION_BODY_TOP_ESCORT_005@@ I need help meeting [target]!
+@@MISSION_BODY_BOTTOM_ESCORT_001@@ Please, take me there!
+@@MISSION_BODY_BOTTOM_ESCORT_002@@ I need an adventurer team's help!
+@@MISSION_BODY_BOTTOM_ESCORT_003@@ I'll do whatever it takes!
+@@MISSION_BODY_BOTTOM_ESCORT_004@@ I can't do it alone! Help!
+@@MISSION_BODY_BOTTOM_ESCORT_005@@ I'm so lonely! Please, take me there!
+@@MISSION_BODY_TOP_EXPLORATION_001@@ I really want to explore [dungeon]!
+@@MISSION_BODY_TOP_EXPLORATION_002@@ Please, I need help exploring [dungeon]!
+@@MISSION_BODY_TOP_EXPLORATION_003@@ I can't explore [dungeon] by myself!
+@@MISSION_BODY_TOP_EXPLORATION_004@@ I'm too weak to go to [dungeon] alone...
+@@MISSION_BODY_TOP_EXPLORATION_005@@ It's my dream to explore [dungeon]!
+@@MISSION_BODY_BOTTOM_EXPLORATION_001@@ Let's do our best on this exploration!
+@@MISSION_BODY_BOTTOM_EXPLORATION_002@@ Please join me for this exploration!
+@@MISSION_BODY_BOTTOM_EXPLORATION_003@@ Please take me there!
+@@MISSION_BODY_BOTTOM_EXPLORATION_004@@ Please, take me! I'll reward generously!
+@@MISSION_BODY_BOTTOM_EXPLORATION_005@@ I'll reward anyone who will explore with me!
+@@MISSION_BODY_TOP_DELIVERY_001@@ Having [item] lets me feel confident!
+@@MISSION_BODY_TOP_DELIVERY_002@@ [item] has such a lovely scent to it!
+@@MISSION_BODY_TOP_DELIVERY_003@@ [item] wanted as an fashion accessory.
+@@MISSION_BODY_TOP_DELIVERY_004@@ [item] helps me sleep easy at night!
+@@MISSION_BODY_TOP_DELIVERY_005@@ I like having [item] for adventures!
+@@MISSION_BODY_BOTTOM_DELIVERY_001@@ Please, give me one!
+@@MISSION_BODY_BOTTOM_DELIVERY_002@@ Please trade me one!
+@@MISSION_BODY_BOTTOM_DELIVERY_003@@ Share one with me, please!
+@@MISSION_BODY_BOTTOM_DELIVERY_004@@ I'll reward you if you bring me one!
+@@MISSION_BODY_BOTTOM_DELIVERY_005@@ Give me one and I will reward you, please!
+@@MISSION_BODY_TOP_LOST_ITEM_001@@ My [item]... Gone!
+@@MISSION_BODY_TOP_LOST_ITEM_002@@ My precious [item] is in this awful dungeon!
+@@MISSION_BODY_TOP_LOST_ITEM_003@@ I dropped my [item] somewhere!
+@@MISSION_BODY_TOP_LOST_ITEM_004@@ My [item] is there... I just know it!
+@@MISSION_BODY_TOP_LOST_ITEM_005@@ My [item] just has to be there! It must be!
+@@MISSION_BODY_BOTTOM_LOST_ITEM_001@@ Please find it for me!
+@@MISSION_BODY_BOTTOM_LOST_ITEM_002@@ I can't sleep at night until I get it back!
+@@MISSION_BODY_BOTTOM_LOST_ITEM_003@@ I won't be able to rest until I have it again!
+@@MISSION_BODY_BOTTOM_LOST_ITEM_004@@ Please, get it back for me!
+@@MISSION_BODY_BOTTOM_LOST_ITEM_005@@ I need it! Help!
+@@MISSION_BODY_TOP_OUTLAW_001@@ This crook is downright dastardly.
+@@MISSION_BODY_TOP_OUTLAW_002@@ This outlaw has been at large for some time. 
+@@MISSION_BODY_TOP_OUTLAW_003@@ Don't expect any mercy from this no-good.
+@@MISSION_BODY_TOP_OUTLAW_004@@ This fiend has a bad streak going.
+@@MISSION_BODY_TOP_OUTLAW_005@@ Even other outlaws avoid this felon.
+@@MISSION_BODY_TOP_OUTLAW_006@@ This scoundrel has ripped off countless Pokémon.
+@@MISSION_BODY_TOP_OUTLAW_007@@ A real piece of work, this one.
+@@MISSION_BODY_TOP_OUTLAW_008@@ You'd be hard-pressed to find a more vile crook.
+@@MISSION_BODY_TOP_OUTLAW_009@@ There's no bounds to this Pokémon's wickedness.
+@@MISSION_BODY_TOP_OUTLAW_010@@ This villain is awful, through and through.
+@@MISSION_BODY_BOTTOM_OUTLAW_001@@ Please lend us a hand in capturing this criminal.
+@@MISSION_BODY_BOTTOM_OUTLAW_002@@ Assist us with bringing this Pokémon to justice.
+@@MISSION_BODY_BOTTOM_OUTLAW_003@@ Take caution when taking on this crook.
+@@MISSION_BODY_BOTTOM_OUTLAW_004@@ Be prepared when capturing this thug.
+@@MISSION_BODY_BOTTOM_OUTLAW_005@@ Be on your guard when arresting this wrongdoer.
+@@MISSION_BODY_TOP_OUTLAW_ITEM_001@@ [target] took my [item]!
+@@MISSION_BODY_TOP_OUTLAW_ITEM_002@@ [target] ran off with my [item]!
+@@MISSION_BODY_TOP_OUTLAW_ITEM_003@@ [target] robbed my beloved [item]!
+@@MISSION_BODY_TOP_OUTLAW_ITEM_004@@ That [target]... They pilfered my [item]!
+@@MISSION_BODY_TOP_OUTLAW_ITEM_005@@ Waah! [target] has my [item]!
+@@MISSION_BODY_BOTTOM_OUTLAW_ITEM_001@@ Please get it back for me!
+@@MISSION_BODY_BOTTOM_OUTLAW_ITEM_002@@ I need it back! I'll reward you for its return!
+@@MISSION_BODY_BOTTOM_OUTLAW_ITEM_003@@ Please punish the thief and get it back for me!
+@@MISSION_BODY_BOTTOM_OUTLAW_ITEM_004@@ Beat that robber and bring it back, please!
+@@MISSION_BODY_BOTTOM_OUTLAW_ITEM_005@@ I absolutely need it back!
+@@MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_001@@ This no-good commands a group of henchmen.
+@@MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_002@@ This coward leads an entire pack of crooks.
+@@MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_003@@ When spotted, they'll summon a Monster House.
+@@MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_004@@ A group of goons are under this thief's control.
+@@MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_005@@ This big boss has a base full of fellow outlaws.
+@@MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_001@@ Be ready for a horde when taking them down.
+@@MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_002@@ Be extra careful taking on this lowlife.
+@@MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_003@@ Please lend a hand in arresting this crime boss.
+@@MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_004@@ Use extreme caution going after this scoundrel.
+@@MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_005@@ Prepare for a brawl when targeting this criminal.
+@@MISSION_BODY_TOP_OUTLAW_FLEE_001@@ As soon as this thug is spotted, they'll run for it.
+@@MISSION_BODY_TOP_OUTLAW_FLEE_002@@ This coward will run away from you on sight.
+@@MISSION_BODY_TOP_OUTLAW_FLEE_003@@ This scoundrel will do anything to escape.
+@@MISSION_BODY_TOP_OUTLAW_FLEE_004@@ This slippery thief hates confrontation.
+@@MISSION_BODY_TOP_OUTLAW_FLEE_005@@ As soon as they see an adventurer, they'll flee.
+@@MISSION_BODY_BOTTOM_OUTLAW_FLEE_001@@ Chase them down, and bring 'em in.
+@@MISSION_BODY_BOTTOM_OUTLAW_FLEE_002@@ Don't let this yellow-belly escape.
+@@MISSION_BODY_BOTTOM_OUTLAW_FLEE_003@@ Please lend us a hand in catching this runaway.
+@@MISSION_BODY_BOTTOM_OUTLAW_FLEE_004@@ Be sure not to let this no-good get away.
+@@MISSION_BODY_BOTTOM_OUTLAW_FLEE_005@@ Be prepared to chase after this lowlife.
+@@MISSION_TITLE_SPECIAL_LOVER_001@@ Please save my beloved!
+@@MISSION_TITLE_SPECIAL_LOVER_002@@ My love is in danger!
+@@MISSION_TITLE_SPECIAL_LOVER_003@@ Please rescue my sweetheart!
+@@MISSION_TITLE_SPECIAL_CHILD_001@@ Please save my child!
+@@MISSION_TITLE_SPECIAL_CHILD_002@@ My child is in danger!
+@@MISSION_TITLE_SPECIAL_CHILD_003@@ My child needs rescuing now!
+@@MISSION_TITLE_SPECIAL_FRIEND_001@@ Please save my friend!
+@@MISSION_TITLE_SPECIAL_FRIEND_002@@ My friend is in danger!
+@@MISSION_TITLE_SPECIAL_FRIEND_003@@ Please rescue my friend!
+@@MISSION_TITLE_SPECIAL_RIVAL_001@@ Please save my rival!
+@@MISSION_TITLE_SPECIAL_RIVAL_002@@ Rescue my rival!
+@@MISSION_TITLE_SPECIAL_RIVAL_003@@ My rival is in danger!
+@@MISSION_BODY_SPECIAL_LOVER_001@@ Please rescue the love of my life!\nWithout her sweet fragrance, I feel so lost!
+@@MISSION_BODY_SPECIAL_LOVER_002@@ Please, save my love! She's the positivity\nin my life! The plus to my minus!
+@@MISSION_BODY_SPECIAL_LOVER_003@@ My love rolled off and got lost in a dungeon!\nHe's soft and wooly, like me! Please, rescue him!
+@@MISSION_BODY_SPECIAL_LOVER_004@@ Our love for each other is so strong! We need\neach other! Please, rescue my sweetheart!
+@@MISSION_BODY_SPECIAL_LOVER_005@@ He charged off and can't find his way back home!\nHe's really sweet at heart! Please save him!
+@@MISSION_BODY_SPECIAL_LOVER_006@@ My beloved [color=#00FF00]Butterfree[color] has gone missing!\nI love her more than anything else! Save her!
+@@MISSION_BODY_SPECIAL_LOVER_007@@ Please, rescue my beloved! We truly\nunderstand each other's fickleness! Please!
+@@MISSION_BODY_SPECIAL_LOVER_008@@ Please save my sweetheart!\nWe've been in love even when we were [color=#00FF00]Wurmple[color]! Help her!
+@@MISSION_BODY_SPECIAL_LOVER_009@@ We've been in love ever since we were both [color=#00FF00]Snorunt[color]!\nPlease, someone, help her!
+@@MISSION_BODY_SPECIAL_LOVER_010@@ His antennae's patterns have enamored me so!\nPlease rescue him so we can be together again!
+@@MISSION_BODY_SPECIAL_LOVER_011@@ Nobody else understands our prickly love!\nSomeone! Please, help him!
+@@MISSION_BODY_SPECIAL_LOVER_012@@ The way she lights up the ocean depths takes my\nbreath away! Please, you have to save my love!
+@@MISSION_BODY_SPECIAL_LOVER_013@@ She's the only one that can quell the sandstorm\nin my heart! Please, rescue her, somebody!
+@@MISSION_BODY_SPECIAL_LOVER_014@@ Nothing compares to her beauty! I miss her so much!\nPlease, rescue her from that terrible dungeon!
+@@MISSION_BODY_SPECIAL_LOVER_015@@ He's my knight in shining armor!\nPlease, save the love of my life!
+@@MISSION_BODY_SPECIAL_CHILD_001@@ Please look for my baby! She doesn't even\nknow how to properly wag her fingers yet! Help!
+@@MISSION_BODY_SPECIAL_CHILD_002@@ Please rescue my darling son!\nHe started bouncing and just couldn't stop! Please, help!
+@@MISSION_BODY_SPECIAL_CHILD_003@@ Please save my son! He's just a baby!\nHe's even partially in his egg still!
+@@MISSION_BODY_SPECIAL_CHILD_004@@ My sweet little girl has disappeared!\nYou'll know her by the cute bud on her head!
+@@MISSION_BODY_SPECIAL_CHILD_005@@ My poor little [color=#00FF00]Chingling[color]! Please rescue him!\nIf you hear a high-pitched cry, that's him!
+@@MISSION_BODY_SPECIAL_CHILD_006@@ My son's gone missing! He's a bit of a crybaby,\nso please help him before he gets hurt!
+@@MISSION_BODY_SPECIAL_CHILD_007@@ [color=#00FF00]Mime Jr.[color] got lost somewhere!\nHe's still learning how to mimic properly! Please, anybody, help!
+@@MISSION_BODY_SPECIAL_CHILD_008@@ My daughter wandered off somewhere!\nShe isn't good at gnawing yet! Please help her!
+@@MISSION_BODY_SPECIAL_CHILD_009@@ My poor daughter, she's stuck in a dungeon!\nShe's wearing the clothes I made for her! Please!
+@@MISSION_BODY_SPECIAL_CHILD_010@@ My baby is lost in this dungeon! His apple\ncan't hold out forever! Please, somebody, help!
+@@MISSION_BODY_SPECIAL_CHILD_011@@ Please find [color=#00FF00]Aron[color]! He probably\nmunched too much metal and can't move!
+@@MISSION_BODY_SPECIAL_CHILD_012@@ I can't find my baby [color=#00FF00]Smoochum[color]! She may\nhave got lost while examining things with her lips!
+@@MISSION_BODY_SPECIAL_CHILD_013@@ My daughter's gone missing! She likes fire\nand is hotheaded! Please look for her!
+@@MISSION_BODY_SPECIAL_CHILD_014@@ My son needs a rescue!\nHe may be reckless with his electricity, but he's a good kid at heart!
+@@MISSION_BODY_SPECIAL_CHILD_015@@ My sweet daughter... I can't find her! She's\nupbeat and cheerful! Someone, please help her!
+@@MISSION_BODY_SPECIAL_CHILD_016@@ Please help my [color=#00FF00]Hatenna[color]! She was scared by\na strong emotion and ran off! Help her!
+@@MISSION_BODY_SPECIAL_CHILD_017@@ [color=#00FF00]Gothita[color] got separated from me! She was staring\nat something when we got split up! Please, help!
+@@MISSION_BODY_SPECIAL_CHILD_018@@ Our son is missing! He isn't a strong tunneler yet!\nSomebody, help him! 
+@@MISSION_BODY_SPECIAL_CHILD_019@@ Please find [color=#00FF00]Larvitar[color]!\nHe loves to eat dirt so much! Save him!
+@@MISSION_BODY_SPECIAL_CHILD_020@@ She got lost after jumping off a cliff! Her\nhard head should protect her, but I'm worried!
+@@MISSION_BODY_SPECIAL_CHILD_021@@ I lost track of her after she molted!\nPlease, somebody save my daughter!
+@@MISSION_BODY_SPECIAL_CHILD_022@@ He's just a kid! He can't fly well yet!\nI hope his ultrasonic waves keep him safe until somebody can rescue him!
+@@MISSION_BODY_SPECIAL_CHILD_023@@ Save my darling son, he isn't very strong!\nHe's probably hiding somewhere shady and damp!
+@@MISSION_BODY_SPECIAL_FRIEND_001@@ My friend [color=#00FF00]Cherubi[color] has gone missing! We're pals\nbecause we both get mistaken for fruit! Help!
+@@MISSION_BODY_SPECIAL_FRIEND_002@@ Please find my friend!\nI can't evolve without him!
+@@MISSION_BODY_SPECIAL_FRIEND_003@@ [color=#00FF00]Feebas[color] has gone missing!\nShe understands what it's like to be weak! Help!
+@@MISSION_BODY_SPECIAL_FRIEND_004@@ Please save my precious friend!\nRelaxing at the pond is impossible without him!
+@@MISSION_BODY_SPECIAL_FRIEND_005@@ Honey doesn't taste the same without [color=#00FF00]Combee[color]!\nPlease, find her! She means so much to me!
+@@MISSION_BODY_SPECIAL_FRIEND_006@@ My best friend is stuck! Our ability to see with\nultrasonic waves is what made us friends!
+@@MISSION_BODY_SPECIAL_FRIEND_007@@ My best friend's gone missing! We identify\nwith each other because we love garbage!
+@@MISSION_BODY_SPECIAL_FRIEND_008@@ Who else will I spread spores around with?\nHe's my best friend, please rescue him!
+@@MISSION_BODY_SPECIAL_FRIEND_009@@ [color=#00FF00]Togepi[color] is in danger! We share\na love of eggs, please, someone, help!
+@@MISSION_BODY_SPECIAL_FRIEND_010@@ We relate because we both can't evolve...\nPlease, save him, he means the world to me...
+@@MISSION_BODY_SPECIAL_FRIEND_011@@ We prefer different times of day, but we're good friends regardless!\nPlease, you must rescue them!
+@@MISSION_BODY_SPECIAL_FRIEND_012@@ We share electricity with our cheek pouches!\nWithout her, I have nobody to share with! Help!
+@@MISSION_BODY_SPECIAL_FRIEND_013@@ Only my friend is able to treat my dizziness!\nI can't think straight without him around! Someone, help him!
+@@MISSION_BODY_SPECIAL_FRIEND_014@@ [color=#00FF00]Pelipper[color] and I both enjoy carrying things in our\nmouth. We're best friends! Please rescue her!
+@@MISSION_BODY_SPECIAL_FRIEND_015@@ Our sensitivity to magnetism made us\ngood buddies! Please help him out!
+@@MISSION_BODY_SPECIAL_FRIEND_016@@ I have a strong connection with my friend\nbecause of her bright personality! Please help! 
+@@MISSION_BODY_SPECIAL_FRIEND_017@@ Without his wonderful music, I cannot dance!\nPlease, bring him home!
+@@MISSION_BODY_SPECIAL_FRIEND_018@@ My friend and I love to make loud, silly noises\ntogether! I'm lonely without him! Please, help!
+@@MISSION_BODY_SPECIAL_FRIEND_019@@ Without my friend, I have no meaning!\nPlease, rescue her from that awful dungeon!
+@@MISSION_BODY_SPECIAL_FRIEND_020@@ We became pals over our love of digging. He must\nhave gotten lost in a tunnel! Please rescue him!
+@@MISSION_BODY_SPECIAL_FRIEND_021@@ My best friend and I love to ride the wind\ntogether. It's not the same without her... Sob...
+@@MISSION_BODY_SPECIAL_RIVAL_001@@ Please save my rival! We haven't settled\nwho can make the strongest odor yet!
+@@MISSION_BODY_SPECIAL_RIVAL_002@@ [color=#00FF00]Corphish[color] and I haven't settled whose pincers has\nmore power! Our rivalry can't end yet! Help!
+@@MISSION_BODY_SPECIAL_RIVAL_003@@ We like to see who can pull the best pranks!\nPlease rescue him so we can compete again!
+@@MISSION_BODY_SPECIAL_RIVAL_004@@ Please rescue [color=#00FF00]Spearow[color]! We still need to\nfigure out whose better at flying!
+@@MISSION_BODY_SPECIAL_RIVAL_005@@ We've been rivals for a very long time!\nIt can't just end like this! Please, help!
+@@MISSION_BODY_SPECIAL_RIVAL_006@@ [color=#00FF00]Spinarak[color] and I compete to see who can spin the\nbest webs! Please, help! I need my rival back!
+@@MISSION_BODY_SPECIAL_RIVAL_007@@ [color=#00FF00]Makuhita[color] makes an excellent training partner!\nSomebody, anybody, please!
+@@MISSION_BODY_SPECIAL_RIVAL_008@@ He got lost somewhere! Who will I play with\nnow? Please save him!
+@@MISSION_BODY_SPECIAL_RIVAL_009@@ My friend and rival has gone missing! We're\nrivals because we both have lots of energy!
+@@MISSION_BODY_SPECIAL_RIVAL_010@@ We lock horns to see who is stronger. I can't\ndo that alone... I need my rival back!
+@@MISSION_BODY_SPECIAL_RIVAL_011@@ We're competing to see who grows up stronger!\nWho else could I do that with? Help my rival!
+@@MISSION_BODY_SPECIAL_RIVAL_012@@ We detest each other, but we push each other\nto do better too! Please save my rival!
+@@MISSION_BODY_SPECIAL_RIVAL_013@@ [color=#00FF00]Pinsir[color] and I love to wrestle with our horns!\nPlease help, he's in a real pinch!
+@@MISSION_BODY_SPECIAL_RIVAL_014@@ He makes a great intellectual adversary!\nI have no one to match wits with without him!
+@@MISSION_BODY_SPECIAL_RIVAL_015@@ We still never settled who was strongest...\nPlease, save him so we can see who is better!
+@@MISSION_BODY_SPECIAL_RIVAL_016@@ We've been rivals since our ancestors' time.\nOur rivalry can't end like this!
+@@MISSION_BODY_SPECIAL_RIVAL_017@@ For eons, we've been rivals with each other.\nI'd hate for it to end! Please, somebody, help!
+@@MISSION_BODY_SPECIAL_RIVAL_018@@ Please help [color=#00FF00]Aerodactyl[color]!\nShe's an irreplacable rival! I miss her!
+@@MISSION_BODY_SPECIAL_RIVAL_019@@ Please rescue my rival! We haven't finished\nseeing who is the bravest! Please, please!

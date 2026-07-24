@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="DLG_ASK_FREE_REVIVE" xml:space="preserve">
+    <value>Voulez-vous ranimer {0} ?</value>
+  </data>
+  <data name="DLG_ASK_REVIVE" xml:space="preserve">
+    <value>Voulez-vous utiliser un objet de réanimation ?</value>
+  </data>
+  <data name="DLG_ASK_STORAGE" xml:space="preserve">
+    <value>Que voulez-vous retirer ?</value>
+  </data>
+  <data name="DLG_CANT_FORGET_SKILL" xml:space="preserve">
+    <value>{0} ne peut plus oublier de capacités.</value>
+  </data>
+  <data name="DLG_CANT_RECALL_INTRINSIC" xml:space="preserve">
+    <value>{0} n'a pas d'autre talent.</value>
+  </data>
+  <data name="DLG_CANT_RECALL_SKILL" xml:space="preserve">
+    <value>{0} n'a aucune capacité à réapprendre.</value>
+  </data>
+  <data name="DLG_DUNGEON_UNLOCK" xml:space="preserve">
+    <value>Un nouveau donjon a été découvert !</value>
+  </data>
+  <data name="DLG_EVO_ASK" xml:space="preserve">
+    <value>Vous qui cherchez l'éveil... Souhaitez-vous évoluer ?</value>
+  </data>
+  <data name="DLG_EVO_BEGIN" xml:space="preserve">
+    <value>Vous qui cherchez l'éveil,[pause=0] commençons.</value>
+  </data>
+  <data name="DLG_EVO_CHOICE" xml:space="preserve">
+    <value>En quoi {0} doit-il évoluer ?</value>
+  </data>
+  <data name="DLG_EVO_COMPLETE" xml:space="preserve">
+    <value>{0} a évolué en {1} !</value>
+  </data>
+  <data name="DLG_EVO_CONFIRM" xml:space="preserve">
+    <value>{0} va évoluer en {1}. Confirmer ?</value>
+  </data>
+  <data name="DLG_EVO_CONFIRM_ITEM" xml:space="preserve">
+    <value>{0} donnera l'objet {1} et évoluera en {2}.[pause=20] Confirmer ?</value>
+  </data>
+  <data name="DLG_EVO_END" xml:space="preserve">
+    <value>Revenez si l'évolution est ce que vous cherchez...</value>
+  </data>
+  <data name="DLG_EVO_INTRO" xml:space="preserve">
+    <value>...[pause=0]Une voix résonne, venue de nulle part.</value>
+  </data>
+  <data name="DLG_EVO_NONE" xml:space="preserve">
+    <value>...[pause=0]{0} ne peut plus évoluer.</value>
+  </data>
+  <data name="DLG_EVO_NONE_NOW" xml:space="preserve">
+    <value>...[pause=0]{0} ne peut pas évoluer pour le moment.</value>
+  </data>
+  <data name="DLG_FORGET_INTRINSIC" xml:space="preserve">
+    <value>{0} a perdu le talent {1}.</value>
+  </data>
+  <data name="DLG_FORGET_SKILL" xml:space="preserve">
+    <value>{0} a oublié la capacité {1}.</value>
+  </data>
+  <data name="DLG_LEARN_INTRINSIC" xml:space="preserve">
+    <value>{0} a obtenu le talent {1} !</value>
+  </data>
+  <data name="DLG_LOCK" xml:space="preserve">
+    <value>C'est verrouillé...</value>
+  </data>
+  <data name="DLG_LOCK_KEY" xml:space="preserve">
+    <value>Voulez-vous utiliser une clé ?</value>
+  </data>
+  <data name="DLG_STORAGE_EMPTY" xml:space="preserve">
+    <value>Il n'y a aucun objet en réserve.</value>
+  </data>
+  <data name="EVO_REQ_ALLIES" xml:space="preserve">
+    <value>avoir {0} alliés ayant évolué</value>
+  </data>
+  <data name="EVO_REQ_ALLY_ELEMENT" xml:space="preserve">
+    <value>avoir un allié de type {0}</value>
+  </data>
+  <data name="EVO_REQ_ALLY_SPECIES" xml:space="preserve">
+    <value>avoir un allié {0}</value>
+  </data>
+  <data name="EVO_REQ_ATK_DEF_EQUAL" xml:space="preserve">
+    <value>Attaque égale à la Défense</value>
+  </data>
+  <data name="EVO_REQ_ATK_DEF_GREATER" xml:space="preserve">
+    <value>Attaque supérieure à la Défense</value>
+  </data>
+  <data name="EVO_REQ_ATK_DEF_LESS" xml:space="preserve">
+    <value>Attaque inférieure à la Défense</value>
+  </data>
+  <data name="EVO_REQ_CRITS" xml:space="preserve">
+    <value>porter {0} coups critiques en combat</value>
+  </data>
+  <data name="EVO_REQ_HUNGER_HIGH" xml:space="preserve">
+    <value>avoir le ventre plein</value>
+  </data>
+  <data name="EVO_REQ_HUNGER_LOW" xml:space="preserve">
+    <value>être affamé</value>
+  </data>
+  <data name="EVO_REQ_ITEM" xml:space="preserve">
+    <value>tenir {0}</value>
+  </data>
+  <data name="EVO_REQ_LEVEL" xml:space="preserve">
+    <value>atteindre le niveau {0}</value>
+  </data>
+  <data name="EVO_REQ_MAP" xml:space="preserve">
+    <value>l'étage contient {0}</value>
+  </data>
+  <data name="EVO_REQ_SKILL" xml:space="preserve">
+    <value>apprendre {0}</value>
+  </data>
+  <data name="EVO_REQ_SKILL_ELEMENT" xml:space="preserve">
+    <value>apprendre une capacité de type {0}</value>
+  </data>
+  <data name="EVO_REQ_STAT_BOOST" xml:space="preserve">
+    <value>augmenter {0} en combat</value>
+  </data>
+  <data name="EVO_REQ_TILE_ELEMENT" xml:space="preserve">
+    <value>se trouver dans une zone de type {0}</value>
+  </data>
+  <data name="EVO_REQ_TIME" xml:space="preserve">
+    <value>pendant {0}</value>
+  </data>
+  <data name="EVO_REQ_TRADE" xml:space="preserve">
+    <value>doit venir d'une autre équipe</value>
+  </data>
+  <data name="MENU_FORGET_SKILL" xml:space="preserve">
+    <value>Oublier une capacité</value>
+  </data>
+  <data name="MENU_RECALL_SKILL" xml:space="preserve">
+    <value>Rappeler une capacité</value>
+  </data>
+  <data name="SIGN_EXIT" xml:space="preserve">
+    <value>Sortie du donjon</value>
+  </data>
+  <data name="SIGN_LV_005" xml:space="preserve">
+    <value>Zone de niveau 5</value>
+  </data>
+  <data name="SIGN_LV_010" xml:space="preserve">
+    <value>Zone de niveau 10</value>
+  </data>
+  <data name="SIGN_LV_025" xml:space="preserve">
+    <value>Zone de niveau 25</value>
+  </data>
+  <data name="SIGN_LV_050" xml:space="preserve">
+    <value>Zone de niveau 50</value>
+  </data>
+  <data name="SIGN_TITLE_ABILITY" xml:space="preserve">
+    <value>Les talents</value>
+  </data>
+  <data name="SIGN_TITLE_CATEGORY" xml:space="preserve">
+    <value>Physique et Spécial</value>
+  </data>
+  <data name="SIGN_TITLE_HIT_RATE" xml:space="preserve">
+    <value>Chances de toucher</value>
+  </data>
+  <data name="SIGN_TITLE_MOVEMENT" xml:space="preserve">
+    <value>Les déplacements</value>
+  </data>
+  <data name="SIGN_TITLE_MOVEMENT_SPEED" xml:space="preserve">
+    <value>La vitesse de déplacement</value>
+  </data>
+  <data name="SIGN_TITLE_MOVES" xml:space="preserve">
+    <value>Utiliser les capacités</value>
+  </data>
+  <data name="SIGN_TITLE_STATUS" xml:space="preserve">
+    <value>Les altérations de statut</value>
+  </data>
+  <data name="SIGN_TITLE_TEAM" xml:space="preserve">
+    <value>La gestion de l'équipe</value>
+  </data>
+  <data name="SIGN_TITLE_TRAP" xml:space="preserve">
+    <value>Les pièges</value>
+  </data>
+  <data name="SIGN_TITLE_TURNS" xml:space="preserve">
+    <value>Les tours</value>
+  </data>
+  <data name="SIGN_TITLE_TYPES" xml:space="preserve">
+    <value>Les types</value>
+  </data>
+  <data name="SIGN_TUTORIAL_1_1" xml:space="preserve">
+    <value>Maintenez {0}, puis appuyez sur une touche pour utiliser une capacité.\nVous devez utiliser au moins une capacité sur un Pokémon ennemi pour gagner de l'EXP en le battant.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_1_2" xml:space="preserve">
+    <value>Toutes les capacités et tous les Pokémon ont un type, comme Feu, Eau ou Plante. Il en existe 18 en tout !\nUtilisez une capacité d'un type avantageux contre l'ennemi pour infliger plus de dégâts.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_1_3" xml:space="preserve">
+    <value>Certains Pokémon ont deux types qui peuvent couvrir mutuellement leurs faiblesses.\nUtilisez une capacité efficace contre les deux types pour des dégâts exceptionnels !</value>
+  </data>
+  <data name="SIGN_TUTORIAL_2_1" xml:space="preserve">
+    <value>Les capacités physiques utilisent votre Attaque et la Défense de l'adversaire ; les capacités spéciales utilisent votre Attaque Spéciale et la Défense Spéciale de l'adversaire.\nCes stats peuvent être temporairement modifiées : augmentées ou réduites jusqu'à 6 crans.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_2_2" xml:space="preserve">
+    <value>Plus votre Vitesse est élevée, plus vos attaques ont de chances de toucher, et moins les ennemis ont de chances de vous atteindre.\nCes chances dépendent aussi des modificateurs temporaires de Précision et d'Esquive : jusqu'à 6 crans dans chaque sens.\nRetenez ceci : si vous ratez une attaque, la suivante touchera à coup sûr !</value>
+  </data>
+  <data name="SIGN_TUTORIAL_2_3" xml:space="preserve">
+    <value>La vitesse de déplacement est distincte de la stat de Vitesse ! Normalement, on se déplace une fois par tour, mais une accélération permet de se déplacer plusieurs fois. Ralenti, vous sauterez un tour à chaque déplacement.\nLa vitesse d'attaque n'est pas concernée : attaquer met toujours fin à votre tour, et être ralenti ne fait jamais sauter d'attaque. La vitesse de déplacement peut être modifiée de 3 crans dans chaque sens.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_3_1" xml:space="preserve">
+    <value>Il existe 5 altérations de statut majeures : Sommeil, Poison, Paralysie, Brûlure et Gel.\nSous l'effet de l'une d'elles, vous ne pouvez pas être affecté par les autres.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_3_2" xml:space="preserve">
+    <value>Il existe de nombreuses altérations mineures, comme la Confusion ou Vampigraine.\nElles peuvent toutes affecter une même cible en même temps.\nConsultez la page Statuts d'un membre de l'équipe si vous ne savez plus où vous en êtes.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_3_3" xml:space="preserve">
+    <value>Chaque Pokémon possède un talent : il peut immuniser contre certains statuts, en infliger à l'attaquant, ou offrir d'autres effets bénéfiques.\nConsultez la page Infos d'un membre de l'équipe pour lire la description de son talent.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_4_1" xml:space="preserve">
+    <value>Dans les donjons, divers pièges sont dissimulés au sol.\nIls se déclenchent quand on marche dessus, ou quand on les vise avec certaines attaques.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_4_2" xml:space="preserve">
+    <value>Utilisez votre attaque {0} pour révéler les pièges juste devant vous. Ils ne se déclencheront pas non plus de cette façon.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_4_3" xml:space="preserve">
+    <value>La plupart des pièges affectent quiconque se trouve à leur portée, mais certains ne visent que le Pokémon qui les a déclenchés ! Attirez-y les ennemis tout en les évitant vous-même.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_5_1" xml:space="preserve">
+    <value>Maintenez {0} pour pivoter sur place, et maintenez {1} pour vous déplacer en diagonale.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_5_2" xml:space="preserve">
+    <value>Appuyez sur {0}+{1} pour passer votre tour. Utile pour attendre et récupérer des PV grâce à la régénération naturelle.\nDéplacements et combats en donjon sont toujours au tour par tour. Les ennemis ne bougent pas tant que vous ne bougez pas : prenez le temps de planifier.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_5_3" xml:space="preserve">
+    <value>Appuyez sur {0}, {1}, {2} ou {3} pour changer de chef d'équipe. Cela ne consomme aucun tour.</value>
+  </data>
+  <data name="SIGN_TUTORIAL_5_4" xml:space="preserve">
+    <value>Appuyez sur {0} pour activer le Mode Équipe. Vous contrôlez alors toute l'équipe, tour par tour.</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_1_1_BODY" xml:space="preserve">
+    <value>Les épreuves qui t'attendent t'enseigneront les bases de l'exploration de donjon. Il faudra appliquer ce que tu apprends pour arriver au bout, alors sois attentif !
+Lis bien tous les panneaux sur le chemin ! Tu peux les passer si tu t'y connais déjà, mais je te conseille vivement de les lire quand même !
+Si tu es bloqué, utilise les dalles cibles vertes de chaque salle pour réinitialiser l'étage. Tu peux aussi le demander à Maître Lotus.
+                                      - Totor
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_1_2_BODY" xml:space="preserve">
+    <value>Les donjons mystères sont composés d'une série d'étages. Le but de chaque étage : trouver l'escalier qui mène au suivant.
+Le plan d'un donjon mystère change à chaque visite : aucune aventure ne se ressemble !
+La mini-carte t'aidera à te repérer sur chaque étage. Elle se complète au fil de l'exploration. Le point clignotant, c'est toi ; les points jaunes, tes alliés ; les rouges, les ennemis ; les bleus, des objets. Les carrés bleus sont les escaliers ! Il existe d'autres icônes, ouvre l'œil !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_1_3_BODY" xml:space="preserve">
+    <value>Appuie sur {0} pour ouvrir le menu. Tu peux y consulter les capacités, statuts et objets de ton équipe, et plus encore.
+Tu en apprendras davantage sur tes capacités, talents et objets en lisant leurs descriptions dans les menus correspondants. Apprends à connaître les forces de ton équipe !
+Le menu Autres permet de consulter le journal des actions récentes et de régler des options comme la vitesse de combat ou la résolution du jeu... Quoi que ça veuille dire.</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_1_4_BODY" xml:space="preserve">
+    <value>Les Pokémon ennemis ne bougent pas tant que tu ne bouges pas : prends tout ton temps pour décider de ton prochain coup.
+Maintiens {0} pour te déplacer plus vite. Cela accélère seulement l'écoulement des tours de déplacement : impossible de semer un ennemi ainsi.
+Appuie sur {1} + {2} pour passer ton tour et attendre sur place. Maintiens {3} + {4} pour passer plusieurs tours.
+Tu récupères lentement des PV en te déplaçant dans le donjon ou en attendant sur place.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_1_5_BODY" xml:space="preserve">
+    <value>Réservé (des idées de contenu pour ce panneau ?)</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_2_1_BODY" xml:space="preserve">
+    <value>Un Pokémon peut avoir jusqu'à 4 capacités. Une capacité a plusieurs propriétés :
+Portée - distance à laquelle elle peut toucher. Certaines déplacent aussi leur utilisateur.
+Puissance - détermine en partie les dégâts infligés.
+Précision - probabilité de toucher. La stat de Vitesse et les modificateurs temporaires de Précision et d'Esquive entrent aussi en compte.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_2_2_BODY" xml:space="preserve">
+    <value>Type - détermine l'efficacité d'une capacité contre un ennemi. Par exemple, les capacités Eau sont fortes contre les Pokémon Feu.
+Catégorie - physique, spéciale ou statut. Les capacités physiques utilisent Attaque/Défense, les spéciales Attaque Spé./Défense Spé. Les capacités de statut n'infligent pas de dégâts directs mais ont d'autres effets : altérations de statut, baisses de stats...
+PP max - les Points de Pouvoir (PP) sont l'énergie nécessaire pour utiliser une capacité. À court de PP, elle devient inutilisable jusqu'à restauration.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_2_3_BODY" xml:space="preserve">
+    <value>Les capacités ont des effets très variés ; apprends à connaître tes attaques ! Elles peuvent fonctionner autrement que ce dont tu as l'habitude...
+Tout Pokémon dispose d'une attaque de base indépendante de ses capacités. Appuie sur {0} pour l'utiliser.
+Pour lancer une capacité, maintiens {1} puis appuie sur la touche associée. Essaie donc quelques capacités sur le volontaire !
+Tu peux aussi choisir quelles capacités tes alliés ont le droit d'utiliser dans le menu Capacités : seules celles cochées sont autorisées.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_3_1_BODY" xml:space="preserve">
+    <value>Vaincre des Pokémon rapporte de l'expérience. Avec assez d'expérience, tu montes de niveau ! Cela augmente tes stats et peut t'enseigner une nouvelle capacité.
+Plus ton niveau est élevé, moins les ennemis de bas niveau rapportent d'expérience, et inversement.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_3_2_BODY" xml:space="preserve">
+    <value>Tu ne gagnes de l'expérience sur un ennemi vaincu que si tu as utilisé une capacité ou un objet sur lui. Les attaques de base seules ne suffisent pas !
+Certains Pokémon rapportent plus que d'autres : Chenipan donne peu d'expérience, Leveinard beaucoup. Vérifie par toi-même en battant les volontaires ici ! Souviens-toi que l'expérience et les niveaux gagnés ici ne seront pas conservés à la sortie.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_4_1_BODY" xml:space="preserve">
+    <value>Marcher dans les donjons vide peu à peu ton Ventre, la mesure de ta faim. Seul le chef d'équipe perd du Ventre naturellement.
+Si ton Ventre atteint 0, tu perdras des PV à chaque tour jusqu'à manger quelque chose. Les Pommes et les Gelées sont idéales pour remplir l'estomac ; les Baies aident un peu aussi.
+Certains aliments augmentent temporairement ton Ventre maximum pour le reste de l'aventure.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_5_1_BODY" xml:space="preserve">
+    <value>Chaque Pokémon a 6 stats : PV (Points de Vie), Attaque, Défense, Attaque Spéciale, Défense Spéciale et Vitesse. Chaque espèce excelle dans certaines stats et pèche dans d'autres.
+PV - la santé du Pokémon. À 0, il tombe K.O. et ne peut plus se battre.
+Attaque - plus elle est haute, plus ses attaques physiques font mal.
+Défense - plus elle est haute, moins il subit de dégâts physiques.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_5_2_BODY" xml:space="preserve">
+    <value>Attaque Spéciale - plus elle est haute,
+plus ses attaques spéciales font mal.
+Défense Spéciale - plus elle est haute,
+moins il subit de dégâts spéciaux.
+Vitesse - plus elle est haute, meilleures sont sa précision et son esquive.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_5_3_BODY" xml:space="preserve">
+    <value>En dehors des PV, les stats d'un Pokémon peuvent être temporairement augmentées ou réduites. Une stat peut être modifiée jusqu'à 6 crans.
+Les changements de stats se réinitialisent en changeant d'étage ou en marchant sur une Case Magique. Il y en a quelques-unes derrière ce panneau.
+Les volontaires de cette salle font la démonstration de capacités qui modifient les stats !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_5_4_BODY" xml:space="preserve">
+    <value>La vitesse de déplacement est distincte de la stat de Vitesse.
+Accélérée, elle permet de se déplacer plusieurs fois par tour ; réduite, elle fait sauter un tour à chaque déplacement.
+La vitesse d'attaque n'est pas concernée : attaquer met fin à ton tour même accéléré, et attaquer ne fait pas sauter de tour si tu es ralenti.
+La vitesse de déplacement peut être modifiée jusqu'à 3 crans dans chaque sens.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_5_5_BODY" xml:space="preserve">
+    <value>En plus des 6 stats, il existe deux modificateurs temporaires supplémentaires : Précision et Esquive. Ils fonctionnent avec la stat de Vitesse pour déterminer les chances de toucher et d'esquiver.
+Au fait : un Pokémon ne peut jamais rater deux attaques d'affilée. Après un échec, l'attaque suivante touche toujours !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_6_1_BODY" xml:space="preserve">
+    <value>Les types sont l'affinité élémentaire d'un Pokémon ou d'une capacité. Certains types sont forts ou faibles contre d'autres : les capacités Plante sont peu efficaces contre les Pokémon Feu mais fortes contre les Pokémon Eau.
+Certains types sont totalement inefficaces contre d'autres : les capacités Normal ne touchent pas les Pokémon Spectre.
+Les attaques de base n'ont pas de type et infligent des dégâts normaux à tous les Pokémon.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_6_2_BODY" xml:space="preserve">
+    <value>Un Pokémon peut avoir deux types, le second pouvant couvrir la faiblesse du premier. Par exemple, un Pokémon Plante/Eau subit des dégâts normaux d'une attaque Feu. À l'inverse, un Pokémon subit encore plus de dégâts si la capacité est super efficace contre ses deux types !
+Au passage, si un Pokémon utilise une capacité de son propre type, elle gagne un bonus de puissance : c'est le bonus de type (STAB).
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_7_1_BODY" xml:space="preserve">
+    <value>Tous les Pokémon possèdent un attribut spécial : le talent. Chaque talent a un effet particulier en combat. Par exemple, certains empêchent une altération de statut majeure, d'autres augmentent la puissance des capacités d'un certain type quand l'utilisateur a peu de PV.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_7_2_BODY" xml:space="preserve">
+    <value>Un Pokémon donné n'a qu'un seul talent, mais certaines espèces en ont deux possibles. Les volontaires ici sont de la même espèce, avec des talents différents.
+Celui du nord a Fermeté, qui l'empêche d'être vaincu d'un seul coup ; celui du sud a Tête de Roc, qui annule les dégâts de recul de capacités comme Bélier.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_GENERAL_SIGN_7_3_BODY" xml:space="preserve">
+    <value>Certains Pokémon normalement faibles ont des talents qui les rendent redoutables, et inversement.
+Munja a très peu de PV et de piètres stats, mais son talent Garde Mystik bloque toute attaque qui n'est pas super efficace (les attaques de base passent quand même).
+Monaflèmit a d'excellentes stats globales, mais son talent Absentéisme l'empêche d'attaquer deux tours de suite. Très peu de talents jouent ainsi contre leur porteur.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_1_1_BODY" xml:space="preserve">
+    <value>Les Pokémon peuvent subir des altérations de statut de bien des façons pendant l'aventure, le plus souvent via des capacités. Certaines infligent une altération directement, d'autres ont une chance de le faire en plus de leur effet normal.
+Les altérations se divisent en deux catégories : majeures et mineures. Un Pokémon ne peut avoir qu'une seule altération majeure à la fois.
+Consulte le menu Équipe pour voir les statuts d'un coéquipier.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_1_2_BODY" xml:space="preserve">
+    <value>Poison : inflige des dégâts chaque tour et bloque la régénération naturelle des PV. Disparaît au bout d'un moment, une fois soigné, ou en passant à l'étage suivant. Les types Poison et Acier y sont immunisés.
+Poison grave : comme le Poison, mais les dégâts augmentent à chaque attaque portée.
+Brûlure : inflige des dégâts quand le Pokémon attaque et réduit son Attaque d'un tiers. Disparaît une fois soignée, en changeant d'étage, ou en entrant dans l'eau. Les types Feu y sont immunisés.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_1_3_BODY" xml:space="preserve">
+    <value>Paralysie : empêche d'agir un tour sur deux. Disparaît d'elle-même après un moment ou une fois soignée. Les Pokémon Électrik y sont immunisés.
+Sommeil : un Pokémon endormi ne peut rien faire. Il se réveille après quelques tours, une fois soigné, ou s'il est attaqué.
+Gel : un Pokémon gelé ne peut rien faire et ne peut pas être touché par les attaques. Il dégèle après quelques tours, une fois soigné, ou s'il est frappé par une attaque Feu. Les Pokémon Glace y sont immunisés.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_2_1_BODY" xml:space="preserve">
+    <value>Si un Pokémon ne peut avoir qu'une altération majeure à la fois, il peut cumuler un nombre illimité d'altérations mineures. La plupart disparaissent d'elles-mêmes au bout d'un moment. Note que certaines durent plus longtemps que d'autres !</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_2_2_BODY" xml:space="preserve">
+    <value>Quelques exemples d'altérations mineures :
+Confusion : un Pokémon confus dévie parfois légèrement à gauche ou à droite de la direction voulue, quelle que soit l'action. Ses capacités peuvent aussi viser n'importe qui, ami comme ennemi : prudence !
+Immobilisation : un Pokémon immobilisé ne peut plus se déplacer.
+Vampigraine : le lanceur draine périodiquement des PV du Pokémon infecté. Les types Plante ne peuvent pas être infectés.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_STATUS_SIGN_2_3_BODY" xml:space="preserve">
+    <value>Certaines altérations mineures sont bénéfiques. Elles viennent en général d'une capacité utilisée par un Pokémon pour lui-même ou ses alliés, et disparaissent après un moment ou en changeant d'étage. Exemples :
+Vol Magnétik : le Pokémon ne peut pas être touché par les attaques Sol.
+Abri : le Pokémon ne peut pas être touché du tout pendant un tour.
+Protection : le Pokémon et ses alliés proches subissent moitié moins de dégâts physiques.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_ITEMS_SIGN_1_1_BODY" xml:space="preserve">
+    <value>Les objets ont mille usages ; bien s'en servir est la clé du succès de tout aventurier.
+Pommes et Baies se mangent pour remplir le Ventre et restaurer PV, PP ou soigner les statuts. Tu peux lancer un objet sur un coéquipier pour le lui faire manger !
+Certains comestibles comme les graines ont d'autres effets : téléporter le mangeur au hasard sur l'étage, l'endormir... Si l'effet est négatif, lance-les plutôt sur un ennemi !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_ITEMS_SIGN_2_1_BODY" xml:space="preserve">
+    <value>Bâtons et orbes ont des effets très variés. Les bâtons tirent un projectile qui applique leur effet au premier Pokémon touché.
+Les orbes ont une portée plus variable, mais touchent souvent plusieurs cibles. Certains ont des effets utilitaires.
+
+Pour avancer, utilise l'Orbe Purifiant pour nettoyer le Bâton Rafale, puis sers-t'en pour souffler le Ronflex au loin.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_ITEMS_SIGN_3_1_BODY" xml:space="preserve">
+    <value>Les objets comme les écharpes et les bandeaux peuvent être équipés. Ils offrent des bonus : immunité aux statuts, hausses de stats...
+Garde en tête qu'un objet équipé occupe quand même une place dans ton Sac Trésor !
+
+Pour réussir cette épreuve, équipe le Bandeau de Passage puis continue. Sans le bandeau, tu ne seras pas digne de passer ! Maître Lotus n'en a pas besoin : elle est toujours digne de passer !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_ITEMS_SIGN_4_1_BODY" xml:space="preserve">
+    <value>Certains objets, comme les Roches Gravel et les Bâtons, se lancent sur les ennemis pour les blesser. Les Roches Gravel décrivent un arc, les Bâtons filent tout droit.
+Les Graines Réviv sont assez rares, mais incroyablement utiles : elles raniment un coéquipier vaincu !
+
+Pour réussir cette épreuve, lance un Bâton sur Dracolosse pour l'agacer. Utilise les Graines Réviv pour te relever après sa contre-attaque, puis rejoins l'escalier par le chemin dévasté !
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_TERRAIN_SIGN_1_1_BODY" xml:space="preserve">
+    <value>Le terrain regroupe les différentes cases qui composent les donjons. En dehors du sol ordinaire, il existe quelques autres types :
+Murs - infranchissables. Les Pokémon Spectre peuvent les traverser, mais cela vide vite leur Ventre ! Certains murs se brisent avec des capacités ou objets, d'autres sont indestructibles quoi qu'il arrive.
+Eau - les Pokémon Eau, Dragon et Vol peuvent la traverser. Un Pokémon brûlé qui entre dans l'eau est soigné de sa brûlure.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_TERRAIN_SIGN_1_2_BODY" xml:space="preserve">
+    <value>Lave : les Pokémon Feu, Dragon et Vol peuvent la survoler. Un Pokémon non immunisé aux brûlures sera brûlé en la traversant. Les objets tombés dans la lave sont incinérés et perdus à jamais !
+Abîme - des trous dans le sol ; seuls les types Vol peuvent les survoler. Les objets qui y tombent sont perdus à jamais !
+Marais - les Pokémon Eau, Dragon et Vol peuvent les traverser. Un Pokémon non immunisé au poison sera empoisonné en les traversant.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_TERRAIN_SIGN_1_3_BODY" xml:space="preserve">
+    <value>Au fait, tu peux aussi appuyer sur {0} puis une direction pour te tourner dans cette direction.
+Tu peux aussi maintenir {1} pour n'autoriser que les déplacements en diagonale. Essaie pour franchir la section suivante.</value>
+  </data>
+  <data name="BEGINNER_LESSON_TERRAIN_SIGN_2_1_BODY" xml:space="preserve">
+    <value>Pour contrôler les autres membres de ton équipe, appuie sur {0} pour activer le Mode Équipe.
+En Mode Équipe, tu diriges chaque action de chaque membre à chaque tour. Idéal pour les situations délicates qui demandent de la coordination.
+
+Utilise le Mode Équipe pour diriger Maître Lotus et récupérer les clés !
+
+Tu peux désactiver le Mode Équipe en rappuyant sur {1}.
+</value>
+  </data>
+  <data name="BEGINNER_LESSON_RECRUITMENT_SIGN_1_1_BODY" xml:space="preserve">
+    <value>Les Pokémon ennemis peuvent rejoindre ton équipe si tu leur lances un Noigrume !
+Chaque couleur de Noigrume fonctionne mieux sur certains types de Pokémon, et l'effet est meilleur si le Pokémon a peu de PV.
+Impossible de recruter un Pokémon de plus de cinq niveaux au-dessus du tien.
+Pour sortir, recrute le Taupiqueur, puis utilise le Mode Équipe pour qu'il brise le passage vers l'escalier avec Éclate-Roc !
+Comme c'est un volontaire, il ne restera pas avec toi après la sortie.
+</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_001" xml:space="preserve">
+    <value>Je suis trop épuisé pour continuer...</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_002" xml:space="preserve">
+    <value>Je suis perdu dans ce donjon !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_003" xml:space="preserve">
+    <value>Pitié, aidez-moi !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_004" xml:space="preserve">
+    <value>Piégé dans un donjon !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_005" xml:space="preserve">
+    <value>J'ai besoin d'être secouru !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_006" xml:space="preserve">
+    <value>Je suis parti à l'aventure, mais...</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_007" xml:space="preserve">
+    <value>Je suis tombé K.O. ...</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_008" xml:space="preserve">
+    <value>Je veux rentrer chez moi !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_009" xml:space="preserve">
+    <value>J'ai peur !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_SELF_010" xml:space="preserve">
+    <value>Où suis-je ?</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_001" xml:space="preserve">
+    <value>[target] a besoin d'aide !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_002" xml:space="preserve">
+    <value>Je m'inquiète pour [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_003" xml:space="preserve">
+    <value>Un Pokémon a disparu !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_004" xml:space="preserve">
+    <value>[target] n'est toujours pas rentré !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_005" xml:space="preserve">
+    <value>Notre aventure a mal tourné !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_006" xml:space="preserve">
+    <value>Sauvez [target], je vous en prie !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_007" xml:space="preserve">
+    <value>[target] s'est peut-être perdu !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_008" xml:space="preserve">
+    <value>Pitié, secourez [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_009" xml:space="preserve">
+    <value>Un Pokémon n'est pas revenu !</value>
+  </data>
+  <data name="MISSION_TITLE_RESCUE_FRIEND_010" xml:space="preserve">
+    <value>[target] doit être secouru !</value>
+  </data>
+  <data name="MISSION_TITLE_ESCORT_001" xml:space="preserve">
+    <value>Escortez-moi !</value>
+  </data>
+  <data name="MISSION_TITLE_ESCORT_002" xml:space="preserve">
+    <value>Emmenez-moi voir [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_ESCORT_003" xml:space="preserve">
+    <value>Conduisez-moi jusqu'à [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_ESCORT_004" xml:space="preserve">
+    <value>Il me faut un garde du corps !</value>
+  </data>
+  <data name="MISSION_TITLE_ESCORT_005" xml:space="preserve">
+    <value>Je dois absolument voir [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_EXPLORATION_001" xml:space="preserve">
+    <value>Cherche exploration !</value>
+  </data>
+  <data name="MISSION_TITLE_EXPLORATION_002" xml:space="preserve">
+    <value>Partons explorer !</value>
+  </data>
+  <data name="MISSION_TITLE_EXPLORATION_003" xml:space="preserve">
+    <value>Cherche aventuriers !</value>
+  </data>
+  <data name="MISSION_TITLE_EXPLORATION_004" xml:space="preserve">
+    <value>Je veux explorer ce donjon !</value>
+  </data>
+  <data name="MISSION_TITLE_EXPLORATION_005" xml:space="preserve">
+    <value>Besoin d'aide pour cette exploration !</value>
+  </data>
+  <data name="MISSION_TITLE_DELIVERY_001" xml:space="preserve">
+    <value>Livrez-moi un objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_DELIVERY_002" xml:space="preserve">
+    <value>Recherche un objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_DELIVERY_003" xml:space="preserve">
+    <value>Livraison d'un objet [item].</value>
+  </data>
+  <data name="MISSION_TITLE_DELIVERY_004" xml:space="preserve">
+    <value>Il me faut absolument un objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_DELIVERY_005" xml:space="preserve">
+    <value>J'ai besoin qu'on me livre un objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_LOST_ITEM_001" xml:space="preserve">
+    <value>Retrouvez mon objet [item], pitié !</value>
+  </data>
+  <data name="MISSION_TITLE_LOST_ITEM_002" xml:space="preserve">
+    <value>Je ne retrouve plus mon objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_LOST_ITEM_003" xml:space="preserve">
+    <value>Où est passé mon objet [item] ?</value>
+  </data>
+  <data name="MISSION_TITLE_LOST_ITEM_004" xml:space="preserve">
+    <value>Mon précieux objet [item] a disparu !</value>
+  </data>
+  <data name="MISSION_TITLE_LOST_ITEM_005" xml:space="preserve">
+    <value>J'ai égaré mon objet [item] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_001" xml:space="preserve">
+    <value>[target] l'impitoyable</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_002" xml:space="preserve">
+    <value>[target] le criminel</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_003" xml:space="preserve">
+    <value>[target] le scélérat</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_004" xml:space="preserve">
+    <value>[target] l'ignoble</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_005" xml:space="preserve">
+    <value>[target] la vermine</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_006" xml:space="preserve">
+    <value>Prime sur [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_007" xml:space="preserve">
+    <value>Prime pour l'arrestation de [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_008" xml:space="preserve">
+    <value>[target] court toujours !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_009" xml:space="preserve">
+    <value>Avis de recherche : [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_010" xml:space="preserve">
+    <value>Arrêtez [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_ITEM_001" xml:space="preserve">
+    <value>On me l'a volé !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_ITEM_002" xml:space="preserve">
+    <value>Un voleur ! À l'aide !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_ITEM_003" xml:space="preserve">
+    <value>Ouiiin ! Qui l'a pris !?</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_ITEM_004" xml:space="preserve">
+    <value>Grr... On m'a volé mon objet !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_ITEM_005" xml:space="preserve">
+    <value>Attrapez ce voleur, je vous en prie !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_MONSTER_HOUSE_001" xml:space="preserve">
+    <value>Le gang de [target]</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_MONSTER_HOUSE_002" xml:space="preserve">
+    <value>L'embuscade de [target]</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_MONSTER_HOUSE_003" xml:space="preserve">
+    <value>La Maison de Monstres de [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_MONSTER_HOUSE_004" xml:space="preserve">
+    <value>[target], protégé par des gardes du corps !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_MONSTER_HOUSE_005" xml:space="preserve">
+    <value>La bande de [target] !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_FLEE_001" xml:space="preserve">
+    <value>[target] le fuyard</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_FLEE_002" xml:space="preserve">
+    <value>[target] le couard</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_FLEE_003" xml:space="preserve">
+    <value>[target] va vous filer entre les pattes !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_FLEE_004" xml:space="preserve">
+    <value>Ne laissez pas [target] s'échapper !</value>
+  </data>
+  <data name="MISSION_TITLE_OUTLAW_FLEE_005" xml:space="preserve">
+    <value>[target] l'insaisissable</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_001" xml:space="preserve">
+    <value>J'ai tellement faim...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_002" xml:space="preserve">
+    <value>Mon aventure a mal tourné...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_003" xml:space="preserve">
+    <value>Je me suis perdu pendant une aventure !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_004" xml:space="preserve">
+    <value>Je n'arrive pas à rentrer chez moi !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_005" xml:space="preserve">
+    <value>Je suis à bout de forces...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_006" xml:space="preserve">
+    <value>Venir ici était une erreur...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_007" xml:space="preserve">
+    <value>Je suis sur le point de m'évanouir...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_008" xml:space="preserve">
+    <value>On m'a attaqué par surprise !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_009" xml:space="preserve">
+    <value>Cet ennemi était trop fort pour moi...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_SELF_010" xml:space="preserve">
+    <value>Aïe, ma tête...</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_001" xml:space="preserve">
+    <value>Pitié, aidez-moi !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_002" xml:space="preserve">
+    <value>Je m'affaiblis... À l'aide...</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_003" xml:space="preserve">
+    <value>Je n'en peux plus... À l'aide...</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_004" xml:space="preserve">
+    <value>Envoyez de l'aide, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_005" xml:space="preserve">
+    <value>À l'aide ! Au secours !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_006" xml:space="preserve">
+    <value>Quelqu'un, pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_007" xml:space="preserve">
+    <value>Je ne tiendrai plus longtemps ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_008" xml:space="preserve">
+    <value>Quelqu'un peut-il m'aider, par pitié ?</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_009" xml:space="preserve">
+    <value>J'ai besoin d'aide, tout de suite !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_SELF_010" xml:space="preserve">
+    <value>Pitié, quelqu'un...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_001" xml:space="preserve">
+    <value>[target] est peut-être en danger !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_002" xml:space="preserve">
+    <value>[target] n'est pas rentré de son aventure !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_003" xml:space="preserve">
+    <value>[target] est peut-être blessé !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_004" xml:space="preserve">
+    <value>Je suis sans nouvelles de [target] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_005" xml:space="preserve">
+    <value>J'ai été séparé de [target] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_006" xml:space="preserve">
+    <value>[target] n'arrive pas à sortir du donjon !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_007" xml:space="preserve">
+    <value>Je crois que [target] est piégé !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_008" xml:space="preserve">
+    <value>[target] s'est peut-être déjà évanoui !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_009" xml:space="preserve">
+    <value>[target] est perdu dans le donjon !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_RESCUE_FRIEND_010" xml:space="preserve">
+    <value>[target] n'est toujours pas rentré...</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_001" xml:space="preserve">
+    <value>J'offre une récompense pour le sauvetage !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_002" xml:space="preserve">
+    <value>Pitié, il me faut des aventuriers !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_003" xml:space="preserve">
+    <value>Quelqu'un, pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_004" xml:space="preserve">
+    <value>Un sauvetage s'impose de toute urgence !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_005" xml:space="preserve">
+    <value>Quelqu'un voudra-t-il bien aider !?</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_006" xml:space="preserve">
+    <value>Je n'y arriverai pas seul ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_007" xml:space="preserve">
+    <value>Pitié, secourez mon ami !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_008" xml:space="preserve">
+    <value>Mon ami doit être secouru ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_009" xml:space="preserve">
+    <value>Je récompenserai quiconque pourra aider !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_RESCUE_FRIEND_010" xml:space="preserve">
+    <value>À l'aide, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_ESCORT_001" xml:space="preserve">
+    <value>Je dois absolument voir [target] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_ESCORT_002" xml:space="preserve">
+    <value>Je veux tellement voir [target] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_ESCORT_003" xml:space="preserve">
+    <value>[target] et moi sommes de grands amis !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_ESCORT_004" xml:space="preserve">
+    <value>Emmenez-moi là où se trouve [target], pitié !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_ESCORT_005" xml:space="preserve">
+    <value>J'ai besoin d'aide pour rejoindre [target] !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_ESCORT_001" xml:space="preserve">
+    <value>Emmenez-moi là-bas, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_ESCORT_002" xml:space="preserve">
+    <value>Il me faut l'aide d'une équipe d'aventuriers !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_ESCORT_003" xml:space="preserve">
+    <value>Je ferai tout ce qu'il faudra !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_ESCORT_004" xml:space="preserve">
+    <value>Je n'y arriverai pas seul ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_ESCORT_005" xml:space="preserve">
+    <value>Je me sens si seul ! Emmenez-moi là-bas !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_EXPLORATION_001" xml:space="preserve">
+    <value>Je rêve d'explorer [dungeon] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_EXPLORATION_002" xml:space="preserve">
+    <value>J'ai besoin d'aide pour explorer [dungeon] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_EXPLORATION_003" xml:space="preserve">
+    <value>Je ne peux pas explorer [dungeon] tout seul !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_EXPLORATION_004" xml:space="preserve">
+    <value>Je suis trop faible pour aller seul à [dungeon]...</value>
+  </data>
+  <data name="MISSION_BODY_TOP_EXPLORATION_005" xml:space="preserve">
+    <value>Explorer [dungeon], c'est mon rêve !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_EXPLORATION_001" xml:space="preserve">
+    <value>Donnons le meilleur de nous-mêmes !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_EXPLORATION_002" xml:space="preserve">
+    <value>Rejoignez-moi pour cette exploration !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_EXPLORATION_003" xml:space="preserve">
+    <value>Emmenez-moi là-bas, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_EXPLORATION_004" xml:space="preserve">
+    <value>Emmenez-moi ! Je récompenserai généreusement !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_EXPLORATION_005" xml:space="preserve">
+    <value>Je récompenserai quiconque explorera avec moi !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_DELIVERY_001" xml:space="preserve">
+    <value>Avoir un objet [item] me donne confiance !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_DELIVERY_002" xml:space="preserve">
+    <value>L'objet [item] a un parfum si délicieux !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_DELIVERY_003" xml:space="preserve">
+    <value>Recherche [item] comme accessoire de mode.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_DELIVERY_004" xml:space="preserve">
+    <value>Un objet [item] m'aide à dormir sur mes deux oreilles !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_DELIVERY_005" xml:space="preserve">
+    <value>J'aime partir à l'aventure avec un objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_DELIVERY_001" xml:space="preserve">
+    <value>Donnez-m'en un, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_DELIVERY_002" xml:space="preserve">
+    <value>Échangez-m'en un, s'il vous plaît !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_DELIVERY_003" xml:space="preserve">
+    <value>Partagez-en un avec moi, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_DELIVERY_004" xml:space="preserve">
+    <value>Apportez-m'en un et vous serez récompensé !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_DELIVERY_005" xml:space="preserve">
+    <value>Donnez-m'en un et je vous récompenserai !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_LOST_ITEM_001" xml:space="preserve">
+    <value>Mon objet [item]... Disparu !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_LOST_ITEM_002" xml:space="preserve">
+    <value>Mon précieux objet [item] est dans cet affreux donjon !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_LOST_ITEM_003" xml:space="preserve">
+    <value>J'ai fait tomber mon objet [item] quelque part !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_LOST_ITEM_004" xml:space="preserve">
+    <value>Mon objet [item] est là-bas... J'en suis sûr !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_LOST_ITEM_005" xml:space="preserve">
+    <value>Mon objet [item] doit forcément y être ! Forcément !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_LOST_ITEM_001" xml:space="preserve">
+    <value>Retrouvez-le pour moi, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_LOST_ITEM_002" xml:space="preserve">
+    <value>Je n'en dors plus la nuit !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_LOST_ITEM_003" xml:space="preserve">
+    <value>Je ne connaîtrai pas le repos sans lui !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_LOST_ITEM_004" xml:space="preserve">
+    <value>Rapportez-le-moi, par pitié !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_LOST_ITEM_005" xml:space="preserve">
+    <value>Il me le faut ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_001" xml:space="preserve">
+    <value>Cette crapule est d'une bassesse sans nom.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_002" xml:space="preserve">
+    <value>Ce hors-la-loi court depuis bien trop longtemps.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_003" xml:space="preserve">
+    <value>N'attendez aucune pitié de ce vaurien.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_004" xml:space="preserve">
+    <value>Ce bandit enchaîne les méfaits.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_005" xml:space="preserve">
+    <value>Même les autres hors-la-loi évitent ce malfrat.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_006" xml:space="preserve">
+    <value>Cette canaille a escroqué d'innombrables Pokémon.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_007" xml:space="preserve">
+    <value>Un sacré numéro, celui-là.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_008" xml:space="preserve">
+    <value>Difficile de trouver crapule plus infâme.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_009" xml:space="preserve">
+    <value>La malveillance de ce Pokémon ne connaît aucune limite.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_010" xml:space="preserve">
+    <value>Ce scélérat est mauvais jusqu'à la moelle.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_001" xml:space="preserve">
+    <value>Prêtez-nous main-forte pour capturer ce criminel.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_002" xml:space="preserve">
+    <value>Aidez-nous à mettre ce malfaiteur sous les verrous.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_003" xml:space="preserve">
+    <value>Votre aide est requise pour cette arrestation.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_004" xml:space="preserve">
+    <value>Nous comptons sur vous pour arrêter ce bandit.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_005" xml:space="preserve">
+    <value>Restez sur vos gardes en arrêtant ce malfrat.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_ITEM_001" xml:space="preserve">
+    <value>[target] a pris mon objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_ITEM_002" xml:space="preserve">
+    <value>[target] s'est enfui avec mon objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_ITEM_003" xml:space="preserve">
+    <value>[target] m'a dérobé mon précieux objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_ITEM_004" xml:space="preserve">
+    <value>Ce [target]... Il a chapardé mon objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_ITEM_005" xml:space="preserve">
+    <value>Ouiiin ! [target] a mon objet [item] !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_ITEM_001" xml:space="preserve">
+    <value>Récupérez-le pour moi, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_ITEM_002" xml:space="preserve">
+    <value>Il me le faut ! Je vous récompenserai pour son retour !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_ITEM_003" xml:space="preserve">
+    <value>Punissez le voleur et rapportez-le-moi !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_ITEM_004" xml:space="preserve">
+    <value>Battez ce voleur et rapportez-le, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_ITEM_005" xml:space="preserve">
+    <value>Il me le faut absolument !</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_001" xml:space="preserve">
+    <value>Ce vaurien commande une bande d'hommes de main.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_002" xml:space="preserve">
+    <value>Ce lâche dirige toute une meute de crapules.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_003" xml:space="preserve">
+    <value>Une fois repéré, il invoquera une Maison de Monstres.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_004" xml:space="preserve">
+    <value>Une bande de sbires obéit à ce voleur.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_MONSTER_HOUSE_005" xml:space="preserve">
+    <value>Ce caïd a un repaire rempli de hors-la-loi.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_001" xml:space="preserve">
+    <value>Attendez-vous à une horde en l'affrontant.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_002" xml:space="preserve">
+    <value>Redoublez de prudence face à cette racaille.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_003" xml:space="preserve">
+    <value>Aidez-nous à arrêter ce chef criminel.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_004" xml:space="preserve">
+    <value>Soyez extrêmement prudent en traquant cette canaille.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_MONSTER_HOUSE_005" xml:space="preserve">
+    <value>Préparez-vous à la bagarre en visant ce criminel.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_FLEE_001" xml:space="preserve">
+    <value>À peine repéré, ce voyou prendra la fuite.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_FLEE_002" xml:space="preserve">
+    <value>Ce lâche fuira dès qu'il vous verra.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_FLEE_003" xml:space="preserve">
+    <value>Cette canaille fera tout pour s'échapper.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_FLEE_004" xml:space="preserve">
+    <value>Ce voleur fuyant déteste la confrontation.</value>
+  </data>
+  <data name="MISSION_BODY_TOP_OUTLAW_FLEE_005" xml:space="preserve">
+    <value>Dès qu'il verra un aventurier, il s'enfuira.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_FLEE_001" xml:space="preserve">
+    <value>Pourchassez-le et ramenez-le.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_FLEE_002" xml:space="preserve">
+    <value>Ne laissez pas cette poule mouillée s'échapper.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_FLEE_003" xml:space="preserve">
+    <value>Aidez-nous à rattraper ce fuyard.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_FLEE_004" xml:space="preserve">
+    <value>Ne laissez surtout pas ce vaurien filer.</value>
+  </data>
+  <data name="MISSION_BODY_BOTTOM_OUTLAW_FLEE_005" xml:space="preserve">
+    <value>Préparez-vous à courir après cette racaille.</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_LOVER_001" xml:space="preserve">
+    <value>Sauvez mon âme sœur, pitié !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_LOVER_002" xml:space="preserve">
+    <value>Mon amour est en danger !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_LOVER_003" xml:space="preserve">
+    <value>Secourez ma moitié, je vous en prie !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_CHILD_001" xml:space="preserve">
+    <value>Sauvez mon enfant, pitié !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_CHILD_002" xml:space="preserve">
+    <value>Mon enfant est en danger !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_CHILD_003" xml:space="preserve">
+    <value>Mon enfant doit être secouru, vite !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_FRIEND_001" xml:space="preserve">
+    <value>Sauvez mon ami, pitié !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_FRIEND_002" xml:space="preserve">
+    <value>Mon ami est en danger !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_FRIEND_003" xml:space="preserve">
+    <value>Secourez mon ami, je vous en prie !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_RIVAL_001" xml:space="preserve">
+    <value>Sauvez mon rival, pitié !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_RIVAL_002" xml:space="preserve">
+    <value>Secourez mon rival !</value>
+  </data>
+  <data name="MISSION_TITLE_SPECIAL_RIVAL_003" xml:space="preserve">
+    <value>Mon rival est en danger !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_001" xml:space="preserve">
+    <value>Secourez l'amour de ma vie, pitié !\nSans son doux parfum, je suis complètement perdu !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_002" xml:space="preserve">
+    <value>Pitié, sauvez ma dulcinée ! Elle est le positif\nde ma vie ! Le plus de mon moins !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_003" xml:space="preserve">
+    <value>Mon amour a roulé au loin et s'est perdu dans un donjon !\nIl est doux et laineux, comme moi ! Secourez-le, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_004" xml:space="preserve">
+    <value>Notre amour est si fort ! Nous avons\nbesoin l'un de l'autre ! Secourez ma moitié, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_005" xml:space="preserve">
+    <value>Il a foncé droit devant et ne retrouve plus le chemin !\nIl a le cœur tendre, au fond ! Sauvez-le, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_006" xml:space="preserve">
+    <value>Ma [color=#00FF00]Papilusion[color] adorée a disparu !\nJe l'aime plus que tout au monde ! Sauvez-la !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_007" xml:space="preserve">
+    <value>Pitié, secourez mon bien-aimé ! Nous seuls\ncomprenons nos sautes d'humeur ! Par pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_008" xml:space="preserve">
+    <value>Sauvez ma moitié, je vous en prie !\nNous nous aimons depuis l'époque où nous étions [color=#00FF00]Chenipotte[color] ! Aidez-la !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_009" xml:space="preserve">
+    <value>Nous nous aimons depuis que nous étions tous deux [color=#00FF00]Stalgamin[color] !\nQuelqu'un, pitié, aidez-la !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_010" xml:space="preserve">
+    <value>Les motifs de ses antennes m'ont tant charmé !\nSecourez-le pour que nous soyons à nouveau réunis !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_011" xml:space="preserve">
+    <value>Personne d'autre ne comprend notre amour épineux !\nQuelqu'un ! Pitié, aidez-le !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_012" xml:space="preserve">
+    <value>Sa façon d'illuminer les profondeurs de l'océan me coupe\nle souffle ! Pitié, vous devez sauver mon amour !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_013" xml:space="preserve">
+    <value>Elle seule peut apaiser la tempête de sable\nde mon cœur ! Secourez-la, quelqu'un, par pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_014" xml:space="preserve">
+    <value>Rien n'égale sa beauté ! Elle me manque tellement !\nSortez-la de cet affreux donjon, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_LOVER_015" xml:space="preserve">
+    <value>C'est mon chevalier en armure étincelante !\nSauvez l'amour de ma vie, par pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_001" xml:space="preserve">
+    <value>Cherchez mon bébé, pitié ! Elle ne sait même pas\nencore bien agiter ses doigts ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_002" xml:space="preserve">
+    <value>Secourez mon fils adoré, je vous en prie !\nIl s'est mis à bondir sans pouvoir s'arrêter ! Pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_003" xml:space="preserve">
+    <value>Sauvez mon fils, pitié ! Ce n'est qu'un bébé !\nIl est même encore à moitié dans son œuf !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_004" xml:space="preserve">
+    <value>Ma douce petite fille a disparu !\nVous la reconnaîtrez au joli bourgeon sur sa tête !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_005" xml:space="preserve">
+    <value>Mon pauvre petit [color=#00FF00]Korillon[color] ! Secourez-le, pitié !\nSi vous entendez un cri aigu, c'est lui !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_006" xml:space="preserve">
+    <value>Mon fils a disparu ! C'est un peu un pleurnichard,\nalors aidez-le avant qu'il ne se blesse !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_007" xml:space="preserve">
+    <value>[color=#00FF00]Mime Jr.[color] s'est perdu quelque part !\nIl apprend encore à bien imiter ! Pitié, quelqu'un, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_008" xml:space="preserve">
+    <value>Ma fille s'est égarée quelque part !\nElle ne sait pas encore bien ronger ! Aidez-la, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_009" xml:space="preserve">
+    <value>Ma pauvre fille est coincée dans un donjon !\nElle porte les vêtements que je lui ai confectionnés ! Pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_010" xml:space="preserve">
+    <value>Mon bébé est perdu dans ce donjon ! Sa pomme\nne durera pas éternellement ! Quelqu'un, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_011" xml:space="preserve">
+    <value>Retrouvez [color=#00FF00]Galekid[color], pitié ! Il a sûrement\nmangé trop de métal et ne peut plus bouger !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_012" xml:space="preserve">
+    <value>Je ne retrouve plus ma petite [color=#00FF00]Lippouti[color] ! Elle s'est\npeut-être perdue en examinant tout avec ses lèvres !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_013" xml:space="preserve">
+    <value>Ma fille a disparu ! Elle adore le feu\net a la tête brûlée ! Cherchez-la, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_014" xml:space="preserve">
+    <value>Mon fils a besoin d'être secouru !\nIl est peut-être imprudent avec son électricité, mais c'est un bon petit !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_015" xml:space="preserve">
+    <value>Ma douce fille... Je ne la trouve plus ! Elle est\njoyeuse et pleine d'entrain ! Aidez-la, quelqu'un !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_016" xml:space="preserve">
+    <value>Aidez ma petite [color=#00FF00]Bibichut[color], pitié ! Une émotion\ntrop forte l'a effrayée et elle s'est enfuie ! Aidez-la !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_017" xml:space="preserve">
+    <value>[color=#00FF00]Scrutella[color] a été séparée de moi ! Elle fixait\nquelque chose quand nous avons été séparées ! Pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_018" xml:space="preserve">
+    <value>Notre fils a disparu ! Il ne sait pas encore bien creuser !\nQuelqu'un, aidez-le !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_019" xml:space="preserve">
+    <value>Retrouvez [color=#00FF00]Embrylex[color], pitié !\nIl aime tant manger de la terre ! Sauvez-le !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_020" xml:space="preserve">
+    <value>Elle s'est perdue après avoir sauté d'une falaise ! Sa tête\ndure devrait la protéger, mais je m'inquiète !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_021" xml:space="preserve">
+    <value>Je l'ai perdue de vue après sa mue !\nPitié, que quelqu'un sauve ma fille !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_022" xml:space="preserve">
+    <value>Ce n'est qu'un enfant ! Il vole encore mal !\nJ'espère que ses ultrasons le protégeront jusqu'à son sauvetage !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_CHILD_023" xml:space="preserve">
+    <value>Sauvez mon fils chéri, il n'est pas bien fort !\nIl se cache sûrement dans un coin sombre et humide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_001" xml:space="preserve">
+    <value>Mon amie [color=#00FF00]Ceribou[color] a disparu ! Nous sommes copains\nparce qu'on nous prend tous les deux pour des fruits ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_002" xml:space="preserve">
+    <value>Retrouvez mon ami, je vous en prie !\nJe ne peux pas évoluer sans lui !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_003" xml:space="preserve">
+    <value>[color=#00FF00]Barpau[color] a disparu !\nElle sait ce que c'est que d'être faible ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_004" xml:space="preserve">
+    <value>Sauvez mon précieux ami, pitié !\nImpossible de me détendre à l'étang sans lui !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_005" xml:space="preserve">
+    <value>Le miel n'a plus le même goût sans [color=#00FF00]Apitrini[color] !\nRetrouvez-la, pitié ! Elle compte tant pour moi !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_006" xml:space="preserve">
+    <value>Mon meilleur ami est coincé ! Notre capacité à voir\ngrâce aux ultrasons a fait de nous des amis !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_007" xml:space="preserve">
+    <value>Mon meilleur ami a disparu ! Nous nous entendons\nsi bien parce que nous adorons les ordures !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_008" xml:space="preserve">
+    <value>Avec qui vais-je répandre des spores maintenant ?\nC'est mon meilleur ami, secourez-le, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_009" xml:space="preserve">
+    <value>[color=#00FF00]Togepi[color] est en danger ! Nous partageons\nl'amour des œufs, pitié, quelqu'un, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_010" xml:space="preserve">
+    <value>Nous nous comprenons car aucun de nous ne peut évoluer...\nSauvez-le, pitié, il est tout pour moi...</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_011" xml:space="preserve">
+    <value>Nous ne préférons pas les mêmes heures de la journée, mais nous sommes\nde grands amis quand même ! Pitié, secourez-les !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_012" xml:space="preserve">
+    <value>Nous partageons notre électricité avec nos bajoues !\nSans elle, je n'ai personne avec qui partager ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_013" xml:space="preserve">
+    <value>Seul mon ami sait soigner mes vertiges !\nJe ne peux pas réfléchir sans lui ! Quelqu'un, aidez-le !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_014" xml:space="preserve">
+    <value>[color=#00FF00]Bekipan[color] et moi adorons transporter des choses dans\nnotre bec. C'est ma meilleure amie ! Secourez-la, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_015" xml:space="preserve">
+    <value>Notre sensibilité au magnétisme a fait de nous\nde bons camarades ! Aidez-le, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_016" xml:space="preserve">
+    <value>J'ai un lien très fort avec mon amie\ngrâce à sa personnalité lumineuse ! À l'aide, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_017" xml:space="preserve">
+    <value>Sans sa merveilleuse musique, je ne peux pas danser !\nRamenez-le à la maison, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_018" xml:space="preserve">
+    <value>Mon ami et moi adorons faire de gros bruits rigolos\nensemble ! Je me sens seul sans lui ! Pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_019" xml:space="preserve">
+    <value>Sans mon amie, ma vie n'a plus de sens !\nSortez-la de cet affreux donjon, je vous en supplie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_020" xml:space="preserve">
+    <value>Notre amour du creusage a fait de nous des copains. Il a dû\nse perdre dans un tunnel ! Secourez-le, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_FRIEND_021" xml:space="preserve">
+    <value>Ma meilleure amie et moi adorons chevaucher le vent\nensemble. Ce n'est plus pareil sans elle... Snif...</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_001" xml:space="preserve">
+    <value>Sauvez mon rival, pitié ! Nous n'avons toujours pas\ndécidé qui de nous deux dégage la pire odeur !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_002" xml:space="preserve">
+    <value>[color=#00FF00]Écrapince[color] et moi n'avons pas encore réglé la question\ndes pinces les plus puissantes ! Notre rivalité ne peut pas finir là ! À l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_003" xml:space="preserve">
+    <value>Nous adorons voir qui fait les meilleures farces !\nSecourez-le pour que nous puissions à nouveau rivaliser !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_004" xml:space="preserve">
+    <value>Secourez [color=#00FF00]Piafabec[color], pitié ! Nous devons encore\ndéterminer qui vole le mieux !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_005" xml:space="preserve">
+    <value>Nous sommes rivaux depuis si longtemps !\nÇa ne peut pas se terminer comme ça ! Pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_006" xml:space="preserve">
+    <value>[color=#00FF00]Mimigal[color] et moi rivalisons pour tisser les plus belles\ntoiles ! Pitié, à l'aide ! Il me faut mon rival !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_007" xml:space="preserve">
+    <value>[color=#00FF00]Makuhita[color] est un excellent partenaire d'entraînement !\nQuelqu'un, n'importe qui, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_008" xml:space="preserve">
+    <value>Il s'est perdu quelque part ! Avec qui vais-je jouer\nmaintenant ? Sauvez-le, je vous en prie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_009" xml:space="preserve">
+    <value>Mon ami et rival a disparu ! Nous sommes rivaux\nparce que nous débordons tous deux d'énergie !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_010" xml:space="preserve">
+    <value>Nous croisons le fer pour savoir qui est le plus fort. Je ne peux\npas faire ça tout seul... Il me faut mon rival !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_011" xml:space="preserve">
+    <value>Nous rivalisons pour voir qui grandira le plus fort !\nAvec qui d'autre le faire ? Aidez mon rival !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_012" xml:space="preserve">
+    <value>Nous nous détestons, mais nous nous poussons aussi\nà nous surpasser ! Sauvez mon rival, pitié !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_013" xml:space="preserve">
+    <value>[color=#00FF00]Scarabrute[color] et moi adorons lutter avec nos cornes !\nAidez-le, il est dans de beaux draps !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_014" xml:space="preserve">
+    <value>C'est un adversaire intellectuel de premier ordre !\nSans lui, je n'ai personne à défier en duel d'esprit !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_015" xml:space="preserve">
+    <value>Nous n'avons jamais déterminé qui était le plus fort...\nSauvez-le, qu'on puisse enfin le savoir !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_016" xml:space="preserve">
+    <value>Nous sommes rivaux depuis le temps de nos ancêtres.\nNotre rivalité ne peut pas s'arrêter là !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_017" xml:space="preserve">
+    <value>Depuis des éternités, nous sommes rivaux.\nJe refuse que ça se termine ! Quelqu'un, pitié, à l'aide !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_018" xml:space="preserve">
+    <value>Aidez [color=#00FF00]Ptéra[color], je vous en prie !\nC'est une rivale irremplaçable ! Elle me manque !</value>
+  </data>
+  <data name="MISSION_BODY_SPECIAL_RIVAL_019" xml:space="preserve">
+    <value>Secourez mon rival, pitié ! Nous n'avons pas fini\nde voir qui est le plus courageux ! Pitié, pitié !</value>
+  </data>
+</root>
