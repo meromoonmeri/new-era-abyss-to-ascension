@@ -370,4 +370,148 @@
   <data name="GHR2_043" xml:space="preserve">
     <value>Bonne nuit,[pause=10] {0}.</value>
   </data>
+  <data name="GHR3_001" xml:space="preserve">
+    <value>Je suis lessivé.[pause=0] La journée a été bien plus mouvementée que prévu.</value>
+  </data>
+  <data name="GHR3_002" xml:space="preserve">
+    <value>Je n'arrive toujours pas à croire que notre première mission de hors-la-loi ait tourné au combat contre une autre équipe d'aventuriers.</value>
+  </data>
+  <data name="GHR3_003" xml:space="preserve">
+    <value>C'est fou jusqu'où la Team [color=#FFA5FF]Style[color] était prête à aller juste pour essayer de nous humilier.</value>
+  </data>
+  <data name="GHR3_004" xml:space="preserve">
+    <value>Je suis content que nous ayons battu la Team [color=#FFA5FF]Style[color],[pause=10] mais je n'arrête pas de penser à ce pauvre {0}.</value>
+  </data>
+  <data name="GHR3_005" xml:space="preserve">
+    <value>Tu sais,[pause=10] au moment de l'affronter,[pause=10] j'étais plutôt nerveux.</value>
+  </data>
+  <data name="GHR3_006" xml:space="preserve">
+    <value>Je m'attendais à un duel contre un dangereux criminel !</value>
+  </data>
+  <data name="GHR3_007" xml:space="preserve">
+    <value>Mais en fait, ce n'était pas quelqu'un de si mauvais.[pause=0] Juste quelqu'un qui a fait un mauvais choix.</value>
+  </data>
+  <data name="GHR3_008" xml:space="preserve">
+    <value>Je sais que c'était notre mission,[pause=10] et je sais qu'il avait volé cette écharpe qu'il portait...</value>
+  </data>
+  <data name="GHR3_009" xml:space="preserve">
+    <value>Mais je ne peux pas m'empêcher de me sentir mal de l'avoir arrêté.</value>
+  </data>
+  <data name="GHR3_010" xml:space="preserve">
+    <value>Faire notre travail était sûrement la bonne chose à faire,[pause=10] mais...</value>
+  </data>
+  <data name="GHR3_011" xml:space="preserve">
+    <value>Le voir emmené par {0},[pause=10] avec ce regard vaincu,[pause=10] m'a fait me sentir affreusement mal.</value>
+  </data>
+  <data name="GHR3_012" xml:space="preserve">
+    <value>Ce sont ces brutes de la Team [color=#FFA5FF]Style[color] qui auraient dû être emmenées par {0},[pause=10] pas {1}...</value>
+  </data>
+  <data name="GHR3_013" xml:space="preserve">
+    <value>...Je ne veux plus y penser ce soir.[pause=0] Dormons.</value>
+  </data>
+  <data name="GHR3_014" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="GHR3_015" xml:space="preserve">
+    <value>...Tu es encore réveillé,[pause=10] {0} ?</value>
+  </data>
+  <data name="GHR3_016" xml:space="preserve">
+    <value>Je n'arrive pas à dormir...[pause=0] Je n'arrête pas de repenser à ce qui s'est passé.</value>
+  </data>
+  <data name="GHR3_017" xml:space="preserve">
+    <value>Peut-être que raconter une histoire m'aidera à penser à autre chose.</value>
+  </data>
+  <data name="GHR3_018" xml:space="preserve">
+    <value>{0},[pause=10] le doyen du village qui vit dans l'étang au sud de la ville...</value>
+  </data>
+  <data name="GHR3_019" xml:space="preserve">
+    <value>Étant si âgé,[pause=10] il connaît une grande partie de l'histoire du monde,[pause=10] ainsi que quantité de mythes et de légendes.</value>
+  </data>
+  <data name="GHR3_020" xml:space="preserve">
+    <value>S'il ne m'a pas surpris récemment à me faufiler dans {0},[pause=10] il m'en raconte une.</value>
+  </data>
+  <data name="GHR3_021" xml:space="preserve">
+    <value>Un jour,[pause=10] il m'a raconté la légende des Cœurs d'Anima.[pause=0] C'est mon histoire préférée !</value>
+  </data>
+  <data name="GHR3_022" xml:space="preserve">
+    <value>(Hein ?[pause=0] Les Cœurs d'Anima ?)</value>
+  </data>
+  <data name="GHR3_023" xml:space="preserve">
+    <value>Les Cœurs d'Anima sont des fragments mystiques et vivants de quelque chose de plus grand, cachés en des lieux secrets.</value>
+  </data>
+  <data name="GHR3_024" xml:space="preserve">
+    <value>Du moins,[pause=10] c'est ce que dit la légende.[pause=0] Difficile de savoir si les histoires de {0} sont vraies ou inventées...</value>
+  </data>
+  <data name="GHR3_025" xml:space="preserve">
+    <value>Mais j'espère bien qu'elles sont vraies ![pause=0] C'est en partie grâce à ces histoires que je suis devenu aventurier !</value>
+  </data>
+  <data name="GHR3_026" xml:space="preserve">
+    <value>Rien que de penser à ces choses mythiques, je suis tout excité !</value>
+  </data>
+  <data name="GHR3_027" xml:space="preserve">
+    <value>J'espère qu'un jour nous pourrons découvrir si ces histoires sont vraies !</value>
+  </data>
+  <data name="GHR3_028" xml:space="preserve">
+    <value>Si elles le sont,[pause=10] nous devrons tout faire pour protéger les Cœurs d'Anima et qu'il ne leur arrive rien de mal.</value>
+  </data>
+  <data name="GHR3_029" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="GHR3_030" xml:space="preserve">
+    <value>...Ouaaah.[pause=0] Le sommeil me gagne.[pause=0] Et je me sens mieux après avoir raconté cette histoire.</value>
+  </data>
+  <data name="GHR3_031" xml:space="preserve">
+    <value>Essayons de dormir.[pause=0] Il nous faudra toute notre énergie pour les aventures de demain.</value>
+  </data>
+  <data name="GHR3_032" xml:space="preserve">
+    <value>Bonne nuit,[pause=10] {0}.</value>
+  </data>
+  <data name="GHR3_033" xml:space="preserve">
+    <value>C'est la fin de la démo ! Merci infiniment d'avoir joué !</value>
+  </data>
+  <data name="GHR3_034" xml:space="preserve">
+    <value>J'espère que la démo de New Era : Abyss to Ascension vous a plu ! D'autres chapitres arriveront à l'avenir !</value>
+  </data>
+  <data name="GHR3_035" xml:space="preserve">
+    <value>Remerciements particuliers à Audino pour toute son aide avec le moteur Origins.</value>
+  </data>
+  <data name="GHR3_036" xml:space="preserve">
+    <value>Sans son aide, New Era : Abyss to Ascension n'aurait pas pu voir le jour !</value>
+  </data>
+  <data name="GHR3_037" xml:space="preserve">
+    <value>Je tiens aussi à remercier Trio- pour son aide sur les scripts de génération de missions et d'autres bricoles de scripting.</value>
+  </data>
+  <data name="GHR3_038" xml:space="preserve">
+    <value>Il m'a épargné beaucoup de temps et de tracas avec toute l'aide qu'il a fournie.</value>
+  </data>
+  <data name="GHR3_039" xml:space="preserve">
+    <value>Consultez le readme pour la liste complète des crédits !</value>
+  </data>
+  <data name="GHR3_040" xml:space="preserve">
+    <value>Tous ceux qui ont aidé ont fait un travail formidable, et je leur en suis reconnaissant !</value>
+  </data>
+  <data name="GHR3_041" xml:space="preserve">
+    <value>Si vous avez des retours à partager, faites-le dans le canal Discord dédié à New Era : Abyss to Ascension !</value>
+  </data>
+  <data name="GHR3_042" xml:space="preserve">
+    <value>Je suis curieux de savoir ce que les gens pensent du jeu, et preneur de toute suggestion ou réflexion !</value>
+  </data>
+  <data name="GHR3_043" xml:space="preserve">
+    <value>Et si contribuer à New Era : Abyss to Ascension vous intéresse, faites-le savoir à Palika !</value>
+  </data>
+  <data name="GHR3_044" xml:space="preserve">
+    <value>J'aurais besoin de spriteurs et de musiciens pour des assets personnalisés de temps à autre...</value>
+  </data>
+  <data name="GHR3_045" xml:space="preserve">
+    <value>Alors si c'est votre domaine et que ça vous tente, contactez-moi !</value>
+  </data>
+  <data name="GHR3_046" xml:space="preserve">
+    <value>En attendant, vous pouvez continuer à jouer à New Era : Abyss to Ascension pour accomplir les missions générées aléatoirement.</value>
+  </data>
+  <data name="GHR3_047" xml:space="preserve">
+    <value>Rien ne peut faire progresser le jeu davantage pour le moment, je dois d'abord développer la suite de l'histoire.</value>
+  </data>
+  <data name="GHR3_048" xml:space="preserve">
+    <value>Merci encore d'avoir joué ! Retour au jeu normal... maintenant !</value>
+  </data>
 </root>
