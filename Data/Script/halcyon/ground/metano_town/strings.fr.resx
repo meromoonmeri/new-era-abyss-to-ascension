@@ -865,4 +865,136 @@
   <data name="Tutor_Learn_What" xml:space="preserve">
     <value>Euh... Quelle capacité {0} veut-il apprendre... ?</value>
   </data>
+  <data name="MT1_001" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="MT1_002" xml:space="preserve">
+    <value>Hé,[pause=10] toi là-bas !</value>
+  </data>
+  <data name="MT1_003" xml:space="preserve">
+    <value>Qui,[pause=10] moi ?</value>
+  </data>
+  <data name="MT1_004" xml:space="preserve">
+    <value>Ouais.[pause=0] Tu sais où se trouve la guilde des aventuriers ?</value>
+  </data>
+  <data name="MT1_005" xml:space="preserve">
+    <value>La guilde des aventuriers ?</value>
+  </data>
+  <data name="MT1_006" xml:space="preserve">
+    <value>C'est juste de l'autre côté de ce pont.</value>
+  </data>
+  <data name="MT1_007" xml:space="preserve">
+    <value>Oh,[pause=10] on est bien plus près que je ne le pensais.[pause=0] Merci.</value>
+  </data>
+  <data name="MT1_008" xml:space="preserve">
+    <value>En route, l'équipe.</value>
+  </data>
+  <data name="MT1_009" xml:space="preserve">
+    <value>Bien sûr,[pause=10] trésor.</value>
+  </data>
+  <data name="MT1_010" xml:space="preserve">
+    <value>Euh,[pause=10] OK chef.</value>
+  </data>
+  <data name="MT1_011" xml:space="preserve">
+    <value>H-hé ![pause=0] Attends une seconde !</value>
+  </data>
+  <data name="MT1_012" xml:space="preserve">
+    <value>Hmm ?[pause=0] Quoi ?[pause=0] Tu as quelque chose à dire ?</value>
+  </data>
+  <data name="MT1_013" xml:space="preserve">
+    <value>Héhé,[pause=10] pardon {0}.[pause=0] Je crois que je me suis un peu trop emballé.</value>
+  </data>
+  <data name="MT1_014" xml:space="preserve">
+    <value>Je sais que la ville doit t'intriguer.[pause=0] Mais il faut aller à la guilde avant qu'il ne soit trop tard !</value>
+  </data>
+  <data name="MT1_015" xml:space="preserve">
+    <value>La Guilde des Aventuriers est juste de l'autre côté de ce pont.</value>
+  </data>
+  <data name="MT1_016" xml:space="preserve">
+    <value>Je suis tout excité,[pause=10] et j'espère que toi aussi mais...</value>
+  </data>
+  <data name="MT1_017" xml:space="preserve">
+    <value>Je ne peux pas m'empêcher d'être nerveux...</value>
+  </data>
+  <data name="MT1_018" xml:space="preserve">
+    <value>Tu l'as peut-être deviné,[pause=10] mais je suis déjà venu ici pour postuler.</value>
+  </data>
+  <data name="MT1_019" xml:space="preserve">
+    <value>J'avais si peur...[pause=0] Il m'a fallu une éternité pour rassembler mon courage et poser un pied dans la guilde.</value>
+  </data>
+  <data name="MT1_020" xml:space="preserve">
+    <value>Et,[pause=10] bon,[pause=10] visiblement ça ne s'est pas très bien passé pour moi.</value>
+  </data>
+  <data name="MT1_021" xml:space="preserve">
+    <value>Oui,[pause=10] je sais...[pause=0] Avec toi, je ne devrais avoir aucune raison de m'inquiéter.</value>
+  </data>
+  <data name="MT1_022" xml:space="preserve">
+    <value>Mais j'ai quand même des papillons dans le ventre...</value>
+  </data>
+  <data name="MT1_023" xml:space="preserve">
+    <value>Bon,[pause=10] je crois que je suis aussi prêt que possible.[pause=0] Allons-y !</value>
+  </data>
+  <data name="MT1_024" xml:space="preserve">
+    <value>Salut {0} ![pause=0] Content de te voir,[pause=10] wouf ![pause=0] Je suis de garde, comme d'habitude !</value>
+  </data>
+  <data name="MT1_025" xml:space="preserve">
+    <value>C'est qui ?[pause=0] Je ne t'ai jamais vu avant !</value>
+  </data>
+  <data name="MT1_026" xml:space="preserve">
+    <value>Salut !</value>
+  </data>
+  <data name="MT1_027" xml:space="preserve">
+    <value>Content de te voir aussi,[pause=10] {0} !</value>
+  </data>
+  <data name="MT1_028" xml:space="preserve">
+    <value>Voici {0}.</value>
+  </data>
+  <data name="MT1_029" xml:space="preserve">
+    <value>{0}...</value>
+  </data>
+  <data name="MT1_030" xml:space="preserve">
+    <value>(Hmm...[pause=0] Je ferais mieux de ne dire à personne que {0} était un humain...)</value>
+  </data>
+  <data name="MT1_031" xml:space="preserve">
+    <value>{0}...[pause=0] un ami à moi, nouveau en ville.</value>
+  </data>
+  <data name="MT1_032" xml:space="preserve">
+    <value>Wouf ![pause=0] Ravi de te rencontrer,[pause=10] {0} ![pause=0] Moi c'est {1} !</value>
+  </data>
+  <data name="MT1_033" xml:space="preserve">
+    <value>Alors, qu'est-ce qui vous amène à la guilde aujourd'hui ?</value>
+  </data>
+  <data name="MT1_034" xml:space="preserve">
+    <value>N-nous sommes venus pour...[pause=0] Euh...</value>
+  </data>
+  <data name="MT1_035" xml:space="preserve">
+    <value>Nous sommes venus...[pause=0] parler au Maître de Guilde pour devenir apprentis ici.</value>
+  </data>
+  <data name="MT1_036" xml:space="preserve">
+    <value>Waouh ![pause=0] Vraiment !?[pause=0] J'adorerais avoir plus de camarades de guilde !</value>
+  </data>
+  <data name="MT1_037" xml:space="preserve">
+    <value>Plus d'amis, c'est toujours génial,[pause=10] wouf ![pause=0] J'espère que vous serez pris tous les deux !</value>
+  </data>
+  <data name="MT1_038" xml:space="preserve">
+    <value>Attendez ici, vous deux ![pause=0] Je dois annoncer votre venue avant que vous n'entriez !</value>
+  </data>
+  <data name="MT1_039" xml:space="preserve">
+    <value>Je ne savais pas que {0} était si enthousiaste...</value>
+  </data>
+  <data name="MT1_040" xml:space="preserve">
+    <value>Mais il avait l'air très content d'apprendre qu'on voulait rejoindre la guilde !</value>
+  </data>
+  <data name="MT1_041" xml:space="preserve">
+    <value>C'est forcément bon signe,[pause=10] non ?[pause=0] Moi, ça me redonne un peu confiance, en tout cas.</value>
+  </data>
+  <data name="MT1_042" xml:space="preserve">
+    <value>OK,[pause=10] vous pouvez entrer tous les deux,[pause=10] wouf !</value>
+  </data>
+  <data name="MT1_043" xml:space="preserve">
+    <value>Vous devez parler à {0}.[pause=0] C'est un [color=#00FF00]Noarfang[color].[pause=0] Il vous attendra au deuxième étage !</value>
+  </data>
+  <data name="MT1_044" xml:space="preserve">
+    <value>Merci,[pause=10] {0} ![pause=0] Nous allons trouver {1} au deuxième étage alors !</value>
+  </data>
 </root>

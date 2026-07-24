@@ -58,4 +58,103 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="AP1_001" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="AP1_002" xml:space="preserve">
+    <value>Ça me fait ça à chaque fois que je passe devant la guilde...</value>
+  </data>
+  <data name="AP1_003" xml:space="preserve">
+    <value>Difficile de ne pas avoir le cafard dès que j'y pense...</value>
+  </data>
+  <data name="AP1_004" xml:space="preserve">
+    <value>Je veux tellement devenir aventurier,[pause=10] mais...</value>
+  </data>
+  <data name="AP1_005" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="AP1_006" xml:space="preserve">
+    <value>Bon,[pause=10] ressasser tout ça ne fera que me miner encore plus.</value>
+  </data>
+  <data name="AP1_007" xml:space="preserve">
+    <value>Explorer la forêt devrait me changer les idées.</value>
+  </data>
+  <data name="AP1_008" xml:space="preserve">
+    <value>Oh ![pause=0] J'allais oublier !</value>
+  </data>
+  <data name="AP1_009" xml:space="preserve">
+    <value>Il ne faut pas que {0} me voie entrer dans la forêt.</value>
+  </data>
+  <data name="AP1_010" xml:space="preserve">
+    <value>La dernière fois qu'il m'a surpris, j'ai eu droit à tout un sermon sur le danger...</value>
+  </data>
+  <data name="AP1_011" xml:space="preserve">
+    <value>Pourtant j'y suis allé des tas de fois et il ne m'est jamais rien arrivé.</value>
+  </data>
+  <data name="AP1_012" xml:space="preserve">
+    <value>Ce vieux hibou exagère toujours tout...[br]Un endroit si dangereux ne pourrait pas être juste à côté de la ville.</value>
+  </data>
+  <data name="AP1_013" xml:space="preserve">
+    <value>Et puis,[pause=10] c'est bien trop amusant d'explorer là-dedans pour s'en priver !</value>
+  </data>
+  <data name="AP1_014" xml:space="preserve">
+    <value>Il va quand même falloir que je me faufile.[pause=0] Je ne veux pas que {0} me voie.</value>
+  </data>
+  <data name="AP1_015" xml:space="preserve">
+    <value>Je dois rester près des arbres pour qu'il ne me repère pas.</value>
+  </data>
+  <data name="AP1_016" xml:space="preserve">
+    <value>On dirait qu'il n'a rien remarqué.[pause=0] Comme ça, pas de sermon plus tard...</value>
+  </data>
+  <data name="AP1_017" xml:space="preserve">
+    <value>Je dois filer vers {0} avant qu'il ne regarde par ici.</value>
+  </data>
+  <data name="AP1_018" xml:space="preserve">
+    <value>{0}...</value>
+  </data>
+  <data name="AP1_019" xml:space="preserve">
+    <value>J'ai déjà exploré cet endroit plein de fois.[pause=0] Il ne s'y passe généralement pas grand-chose...</value>
+  </data>
+  <data name="AP1_020" xml:space="preserve">
+    <value>...Il y a des chances que ce soit encore le cas...</value>
+  </data>
+  <data name="AP1_021" xml:space="preserve">
+    <value>Mais qui sait ?[pause=0] Dans un donjon mystère,[pause=10] on ne sait jamais ce qu'on va trouver !</value>
+  </data>
+  <data name="AP1_022" xml:space="preserve">
+    <value>Peut-être que cette fois, ce sera différent ?</value>
+  </data>
+  <data name="AP1_023" xml:space="preserve">
+    <value>Un seul moyen de le savoir !</value>
+  </data>
+  <data name="AP1_024" xml:space="preserve">
+    <value>Ouille... C'était rude.</value>
+  </data>
+  <data name="AP1_025" xml:space="preserve">
+    <value>Je suis tombé K.O.,[pause=10] et le donjon m'a recraché à l'entrée...</value>
+  </data>
+  <data name="AP1_026" xml:space="preserve">
+    <value>Explorer {0} est parfois difficile pour moi.</value>
+  </data>
+  <data name="AP1_027" xml:space="preserve">
+    <value>Bon.[pause=0] Je crois que je suis prêt à retenter ma chance.</value>
+  </data>
+  <data name="AP1_028" xml:space="preserve">
+    <value>Cette fois, je suis sûr d'y arriver !</value>
+  </data>
+  <data name="AP1_029" xml:space="preserve">
+    <value>On dirait que nous sommes sortis de la forêt.</value>
+  </data>
+  <data name="AP1_030" xml:space="preserve">
+    <value>Pour quelqu'un qui prétend être un humain,[pause=10] tu as été sacrément impressionnant dans ce donjon,[pause=10] {0}.</value>
+  </data>
+  <data name="AP1_031" xml:space="preserve">
+    <value>Si je ne te connaissais pas,[pause=10] je dirais que tu as déjà fait ça avant,[pause=10] héhé !</value>
+  </data>
+  <data name="AP1_032" xml:space="preserve">
+    <value>Euh...[pause=0] Ce n'est pas vraiment l'endroit pour discuter...[pause=0] Tu peux venir avec moi ?</value>
+  </data>
+  <data name="AP1_033" xml:space="preserve">
+    <value>Merci.[pause=0] Suis-moi !</value>
+  </data>
 </root>
