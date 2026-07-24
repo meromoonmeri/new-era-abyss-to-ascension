@@ -58,4 +58,52 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="Opening_Cutscene_001" xml:space="preserve">
+    <value>......</value>
+  </data>
+  <data name="Opening_Cutscene_002" xml:space="preserve">
+    <value>...Le don de la vie est une chose précieuse...</value>
+  </data>
+  <data name="Opening_Cutscene_003" xml:space="preserve">
+    <value>...Trop nombreux sont ceux qui considèrent la leur, et celle des autres, comme acquise...</value>
+  </data>
+  <data name="Opening_Cutscene_004" xml:space="preserve">
+    <value>...Jusqu'à ce qu'il soit trop tard.</value>
+  </data>
+  <data name="Opening_Cutscene_005" xml:space="preserve">
+    <value>J'espère que tu ne feras pas la même erreur.</value>
+  </data>
+  <data name="Opening_Cutscene_006" xml:space="preserve">
+    <value>...[pause=0] Non...[pause=0] Je n'arrive pas... à rester éveillé...</value>
+  </data>
+  <data name="Personality_Quiz_001" xml:space="preserve">
+    <value>Bienvenue dans le monde des Pokémon !</value>
+  </data>
+  <data name="Personality_Quiz_002" xml:space="preserve">
+    <value>Devant toi s'étend un monde rempli d'aventures palpitantes\n et de mystères à découvrir !</value>
+  </data>
+  <data name="Personality_Quiz_003" xml:space="preserve">
+    <value>Mais avant de partir, tu dois répondre à quelques questions.</value>
+  </data>
+  <data name="Personality_Quiz_004" xml:space="preserve">
+    <value>Réponds avec sincérité !</value>
+  </data>
+  <data name="Personality_Quiz_005" xml:space="preserve">
+    <value>Que les questions commencent !</value>
+  </data>
+  <data name="Test_Hero" xml:space="preserve">
+    <value>Choisis un héros (le test de personnalité sera implémenté plus tard).</value>
+  </data>
+  <data name="Test_Partner" xml:space="preserve">
+    <value>Choisis un partenaire.</value>
+  </data>
+  <data name="Gender_Prompt_Hero" xml:space="preserve">
+    <value>Es-tu un garçon ou une fille ?</value>
+  </data>
+  <data name="Gender_Prompt_Partner" xml:space="preserve">
+    <value>Ton partenaire, est-ce un garçon ou une fille ?</value>
+  </data>
+  <data name="Partner_Name_Prompt" xml:space="preserve">
+    <value>Quel est le nom de ton partenaire ?</value>
+  </data>
 </root>
