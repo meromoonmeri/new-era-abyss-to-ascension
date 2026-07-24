@@ -472,4 +472,202 @@
   <data name="G3L3_030" xml:space="preserve">
     <value>Merci.[pause=0] Veillez à les aider de toutes les façons possibles.</value>
   </data>
+  <data name="G3L4_001" xml:space="preserve">
+    <value>Explorez le donjon du mieux que vous pouvez,[pause=10] puis revenez me rapporter vos découvertes.</value>
+  </data>
+  <data name="G3L4_002" xml:space="preserve">
+    <value>Viens {0} ![pause=0] Nous avons un nouveau donjon à explorer !</value>
+  </data>
+  <data name="G3L4_003" xml:space="preserve">
+    <value>Direction {0}, allons découvrir quelque chose d'extraordinaire !</value>
+  </data>
+  <data name="G3L4_004" xml:space="preserve">
+    <value>Viens {0} ![pause=0] Notre exploration n'est pas encore terminée !</value>
+  </data>
+  <data name="G3L4_005" xml:space="preserve">
+    <value>Retournons vite à {0} et faisons une découverte cette fois !</value>
+  </data>
+  <data name="G3L4_006" xml:space="preserve">
+    <value>Viens {0} ![pause=0] Ce Noigrume géant nous appelle !</value>
+  </data>
+  <data name="G3L4_007" xml:space="preserve">
+    <value>Retournons vite à {0} avec assez de Pokémon pour l'atteindre !</value>
+  </data>
+  <data name="G3L4_008" xml:space="preserve">
+    <value>Salut à tous ![pause=0] J'ai une annonce spéciale à faire avant de passer aux aventures du jour !</value>
+  </data>
+  <data name="G3L4_009" xml:space="preserve">
+    <value>Comme vous l'avez peut-être remarqué,[pause=10] {0} et {1} sont absents depuis quelques jours.</value>
+  </data>
+  <data name="G3L4_010" xml:space="preserve">
+    <value>Ils sont partis en reconnaissance dans les ruines de la chaîne de montagnes, loin au nord.</value>
+  </data>
+  <data name="G3L4_011" xml:space="preserve">
+    <value>On pense que ces ruines recèlent des secrets encore inconnus !</value>
+  </data>
+  <data name="G3L4_012" xml:space="preserve">
+    <value>Bien sûr,[pause=10] en tant qu'aventuriers,[pause=10] c'est notre devoir de percer la vraie nature de ces ruines et leurs mystères.</value>
+  </data>
+  <data name="G3L4_013" xml:space="preserve">
+    <value>C'est pourquoi la guilde montera bientôt une expédition de grande envergure pour explorer ces ruines !</value>
+  </data>
+  <data name="G3L4_014" xml:space="preserve">
+    <value>Waouh ![pause=0] Une expédition de la guilde,[pause=10] wouf ?[pause=0] J'ai trop hâte !</value>
+  </data>
+  <data name="G3L4_015" xml:space="preserve">
+    <value>Ça fait bien tro-o-o-op longtemps depuis notre dernière expédition ![pause=0] Ooh,[pause=10] je suis tout excitée !</value>
+  </data>
+  <data name="G3L4_016" xml:space="preserve">
+    <value>Une expédition, ça veut dire pas de corvées à la guilde !</value>
+  </data>
+  <data name="G3L4_017" xml:space="preserve">
+    <value>Oh,[pause=10] et explorer ces ruines a l'air amusant aussi !</value>
+  </data>
+  <data name="G3L4_018" xml:space="preserve">
+    <value>Euh...[pause=0] C'est quoi exactement, une expédition ?</value>
+  </data>
+  <data name="G3L4_019" xml:space="preserve">
+    <value>Une expédition signifie que toute la guilde part à l'aventure ensemble, dans un lieu lointain.</value>
+  </data>
+  <data name="G3L4_020" xml:space="preserve">
+    <value>Comme c'est très loin,[pause=10] nous devons tous parcourir une grande distance ensemble pour atteindre notre destination.</value>
+  </data>
+  <data name="G3L4_021" xml:space="preserve">
+    <value>Un tel voyage exige donc beaucoup de soin et de préparation pour être sûr et efficace.</value>
+  </data>
+  <data name="G3L4_022" xml:space="preserve">
+    <value>Oh là ![pause=0] Génial ![pause=0] Alors on part tous ensemble pour une grande aventure ?</value>
+  </data>
+  <data name="G3L4_023" xml:space="preserve">
+    <value>Tout à fait !</value>
+  </data>
+  <data name="G3L4_024" xml:space="preserve">
+    <value>Les aventures sont plus amusantes à plusieurs,[pause=10] alors les expéditions sont un vrai régal !</value>
+  </data>
+  <data name="G3L4_025" xml:space="preserve">
+    <value>Avoir toute la guilde permet de couvrir plus de terrain et de veiller à la sécurité de chacun.</value>
+  </data>
+  <data name="G3L4_026" xml:space="preserve">
+    <value>Bien,[pause=10] je sais que vous mourez tous d'envie de partir...[br]...Mais il faudra d'abord attendre le retour de {0} et {1} !</value>
+  </data>
+  <data name="G3L4_027" xml:space="preserve">
+    <value>Ils repèrent la route pour que l'expédition se déroule sans accroc !</value>
+  </data>
+  <data name="G3L4_028" xml:space="preserve">
+    <value>Et puis,[pause=10] nous ne voudrions pas les priver de la fête,[pause=10] pas vrai ?</value>
+  </data>
+  <data name="G3L4_029" xml:space="preserve">
+    <value>Ils ne rentreront pas avant un moment,[pause=10] alors vous avez le temps de régler vos affaires avant le départ !</value>
+  </data>
+  <data name="G3L4_030" xml:space="preserve">
+    <value>D'ici là,[pause=10] continuons tous notre beau travail, comme toujours ![pause=0] Alors,[pause=10] que dit-on toujours ?</value>
+  </data>
+  <data name="G3L4_031" xml:space="preserve">
+    <value>Un pour tous...</value>
+  </data>
+  <data name="G3L4_032" xml:space="preserve">
+    <value>ET TOUS POUR UN !</value>
+  </data>
+  <data name="G3L4_033" xml:space="preserve">
+    <value>Allez les Pokémon,[pause=10] place aux aventures du jour !</value>
+  </data>
+  <data name="G3L4_034" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L4_035" xml:space="preserve">
+    <value>Équipe {0} ![pause=0] Pourriez-vous venir un instant ?</value>
+  </data>
+  <data name="G3L4_036" xml:space="preserve">
+    <value>J'espère que l'expédition à venir vous enthousiasme tous les deux !</value>
+  </data>
+  <data name="G3L4_037" xml:space="preserve">
+    <value>Bien sûr ![pause=0] Ça a l'air absolument génial,[pause=10] je tiens à peine en place !</value>
+  </data>
+  <data name="G3L4_038" xml:space="preserve">
+    <value>Pas vrai,[pause=10] {0} ?</value>
+  </data>
+  <data name="G3L4_039" xml:space="preserve">
+    <value>Formidable ![pause=0] Ravi de l'entendre !</value>
+  </data>
+  <data name="G3L4_040" xml:space="preserve">
+    <value>Bref,[pause=10] venons-en à la raison de cette conversation.</value>
+  </data>
+  <data name="G3L4_041" xml:space="preserve">
+    <value>Je voulais vous féliciter pour l'excellent travail accompli jusqu'ici !</value>
+  </data>
+  <data name="G3L4_042" xml:space="preserve">
+    <value>Je n'avais jamais vu autant de promesses chez de nouvelles recrues !</value>
+  </data>
+  <data name="G3L4_043" xml:space="preserve">
+    <value>Aussi,[pause=10] j'aimerais mettre vos talents à l'épreuve.</value>
+  </data>
+  <data name="G3L4_044" xml:space="preserve">
+    <value>Mettre nos talents à l'épreuve ?[pause=0] Comment ça ?</value>
+  </data>
+  <data name="G3L4_045" xml:space="preserve">
+    <value>Une nouvelle forêt remplie de Noigrumes a été découverte récemment.</value>
+  </data>
+  <data name="G3L4_046" xml:space="preserve">
+    <value>Excellente nouvelle, car nous subissions jusqu'ici une terrible pénurie !</value>
+  </data>
+  <data name="G3L4_047" xml:space="preserve">
+    <value>Toutefois,[pause=10] il s'avère que cette forêt abrite un donjon mystère ![pause=0] Les Pokémon l'appellent {0}.</value>
+  </data>
+  <data name="G3L4_048" xml:space="preserve">
+    <value>Certains Pokémon sont allés cueillir des Noigrumes en lisière...[br]...Mais personne n'a encore exploré le donjon lui-même.</value>
+  </data>
+  <data name="G3L4_049" xml:space="preserve">
+    <value>Alors,[pause=10] j'aimerais que vous exploriez ce donjon et voyiez si vous y trouvez quelque chose d'intéressant !</value>
+  </data>
+  <data name="G3L4_050" xml:space="preserve">
+    <value>V-vous nous demandez d'explorer un donjon encore jamais vu ?</value>
+  </data>
+  <data name="G3L4_051" xml:space="preserve">
+    <value>Exactement ![pause=0] Après vos récents succès,[pause=10] je vous crois prêts pour une véritable aventure !</value>
+  </data>
+  <data name="G3L4_052" xml:space="preserve">
+    <value>En plus,[pause=10] nous avons du temps avant le retour de {0} et {1}.</value>
+  </data>
+  <data name="G3L4_053" xml:space="preserve">
+    <value>C'est donc le bon moment pour jauger vos capacités d'exploration avant l'expédition.</value>
+  </data>
+  <data name="G3L4_054" xml:space="preserve">
+    <value>Ce donjon tout neuf et inexploré est l'occasion idéale !</value>
+  </data>
+  <data name="G3L4_055" xml:space="preserve">
+    <value>Oui oui oui ![pause=0] Une vraie aventure ![pause=0] Nous ne vous décevrons pas,[pause=10] Maître de Guilde !</value>
+  </data>
+  <data name="G3L4_056" xml:space="preserve">
+    <value>{0} ![pause=0] Tu réalises !?[pause=0] Notre première vraie aventure !</value>
+  </data>
+  <data name="G3L4_057" xml:space="preserve">
+    <value>Hahaha ![pause=0] Je vois que vous débordez déjà d'enthousiasme !</value>
+  </data>
+  <data name="G3L4_058" xml:space="preserve">
+    <value>Bien sûr,[pause=10] nous ne savons rien de ce donjon à part son emplacement...[br]...Qui sait s'il renferme quoi que ce soit de spécial !</value>
+  </data>
+  <data name="G3L4_059" xml:space="preserve">
+    <value>Alors pas d'inquiétude si vous ne trouvez rien qui vaille un rapport !</value>
+  </data>
+  <data name="G3L4_060" xml:space="preserve">
+    <value>Mais venez me voir raconter comment ça s'est passé une fois l'endroit passé au peigne fin !</value>
+  </data>
+  <data name="G3L4_061" xml:space="preserve">
+    <value>Comptez sur nous, Maître de Guilde ![pause=0] Nous ferons de notre mieux !</value>
+  </data>
+  <data name="G3L4_062" xml:space="preserve">
+    <value>Je n'en doute pas ![pause=0] Bonne chance et soyez prudents ![pause=0] Je sais que vous ferez des merveilles !</value>
+  </data>
+  <data name="G3L4_063" xml:space="preserve">
+    <value>Je retourne à mon bureau.[pause=0] Venez me voir, moi ou {0}, si besoin !</value>
+  </data>
+  <data name="G3L4_064" xml:space="preserve">
+    <value>Je n'en reviens toujours pas,[pause=10] {0} ![pause=0] Une expédition ET notre première vraie aventure !</value>
+  </data>
+  <data name="G3L4_065" xml:space="preserve">
+    <value>Je m'emballe rien que d'y penser ![pause=0] Je tiens à peine en place !</value>
+  </data>
+  <data name="G3L4_066" xml:space="preserve">
+    <value>{0} ![pause=0] Allons à {1} tout de suite ![pause=0] Je ne sais pas combien de temps je peux encore attendre !</value>
+  </data>
 </root>
