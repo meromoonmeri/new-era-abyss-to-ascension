@@ -178,4 +178,208 @@
   <data name="G3L1_030" xml:space="preserve">
     <value>Il est prêt à vous recevoir tous les deux.[pause=0] Suivez-moi dans ses quartiers, je vous prie.</value>
   </data>
+  <data name="G3L2_001" xml:space="preserve">
+    <value>Elle vous enseignera les bases de l'aventure et de l'exploration de donjon.</value>
+  </data>
+  <data name="G3L2_002" xml:space="preserve">
+    <value>Une fois sortis de la guilde,[pause=10] traversez le pont et allez vers l'est.</value>
+  </data>
+  <data name="G3L2_003" xml:space="preserve">
+    <value>Une échelle descend dans une grotte,[pause=10] où se trouve le dojo.</value>
+  </data>
+  <data name="G3L2_004" xml:space="preserve">
+    <value>Préparez-vous auprès des services de la ville,[pause=10] puis partez vers le nord à la recherche de {0}.</value>
+  </data>
+  <data name="G3L2_005" xml:space="preserve">
+    <value>Si vous parvenez à le retrouver,[pause=10] ramenez-le immédiatement en ville.</value>
+  </data>
+  <data name="G3L2_006" xml:space="preserve">
+    <value>Bien,[pause=10] on dirait que tout le monde est là.</value>
+  </data>
+  <data name="G3L2_007" xml:space="preserve">
+    <value>Salut à tous ![pause=0] Si vous ne le savez pas encore,[pause=10] nous avons de nouvelles recrues !</value>
+  </data>
+  <data name="G3L2_008" xml:space="preserve">
+    <value>Faites tous un accueil chaleureux à l'Équipe {0},[pause=10] {1} et {2} !</value>
+  </data>
+  <data name="G3L2_009" xml:space="preserve">
+    <value>Oh ![pause=0] Merci tout le monde !</value>
+  </data>
+  <data name="G3L2_010" xml:space="preserve">
+    <value>Traitez-les avec le même respect et la même gentillesse que n'importe quel autre apprenti !</value>
+  </data>
+  <data name="G3L2_011" xml:space="preserve">
+    <value>Mais cela va sans dire, bien entendu !</value>
+  </data>
+  <data name="G3L2_012" xml:space="preserve">
+    <value>Bien,[pause=10] rien d'autre au programme.[pause=0] C'était la seule annonce du jour !</value>
+  </data>
+  <data name="G3L2_013" xml:space="preserve">
+    <value>Mais avant de commencer le travail,[pause=10] que dit-on toujours ?</value>
+  </data>
+  <data name="G3L2_014" xml:space="preserve">
+    <value>Un pour tous...</value>
+  </data>
+  <data name="G3L2_015" xml:space="preserve">
+    <value>ET TOUS POUR UN !</value>
+  </data>
+  <data name="G3L2_016" xml:space="preserve">
+    <value>Allez les Pokémon,[pause=10] place aux aventures du jour !</value>
+  </data>
+  <data name="G3L2_017" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L2_018" xml:space="preserve">
+    <value>Équipe {0},[pause=10] pourriez-vous venir me voir un instant ?</value>
+  </data>
+  <data name="G3L2_019" xml:space="preserve">
+    <value>Comment allez-vous, tous les deux ?[pause=0] Bien dormi ?[pause=0] Vous avez fait connaissance avec les apprentis ?</value>
+  </data>
+  <data name="G3L2_020" xml:space="preserve">
+    <value>Oui ![pause=0] La chambre et les lits que vous nous avez donnés sont super !</value>
+  </data>
+  <data name="G3L2_021" xml:space="preserve">
+    <value>Nous avons aussi fait le tour hier pour nous présenter à tous les autres apprentis !</value>
+  </data>
+  <data name="G3L2_022" xml:space="preserve">
+    <value>Ravi de l'entendre ![pause=0] On dirait que vous prenez bien vos marques !</value>
+  </data>
+  <data name="G3L2_023" xml:space="preserve">
+    <value>Passons aux choses sérieuses...[pause=0] Comme c'est votre premier jour,[pause=10] laissez-moi vous expliquer le fonctionnement de votre formation.</value>
+  </data>
+  <data name="G3L2_024" xml:space="preserve">
+    <value>Chaque matin,[pause=10] après la réunion quotidienne,[pause=10] {0} vous confiera une tâche pour la journée.</value>
+  </data>
+  <data name="G3L2_025" xml:space="preserve">
+    <value>Cela peut être des requêtes des tableaux d'en bas ou des missions que {0} imaginera pour vous.</value>
+  </data>
+  <data name="G3L2_026" xml:space="preserve">
+    <value>Veillez à lui parler avant de partir et à faire tout ce qu'il vous demande !</value>
+  </data>
+  <data name="G3L2_027" xml:space="preserve">
+    <value>En cas de difficulté,[pause=10] vous pouvez toujours demander de l'aide à n'importe quel membre de la guilde...[pause=0] Moi compris !</value>
+  </data>
+  <data name="G3L2_028" xml:space="preserve">
+    <value>Oh,[pause=10] et le dîner est servi juste après le coucher du soleil,[pause=10] alors rentrez à temps si vous voulez goûter la cuisine de {0} !</value>
+  </data>
+  <data name="G3L2_029" xml:space="preserve">
+    <value>Maintenant,[pause=10] {0},[pause=10] si vous voulez bien ?[pause=0] J'ai du travail qui m'attend dans mon bureau.</value>
+  </data>
+  <data name="G3L2_030" xml:space="preserve">
+    <value>Bien entendu,[pause=10] Maître de Guilde.</value>
+  </data>
+  <data name="G3L2_031" xml:space="preserve">
+    <value>Comme vous l'a dit le Maître de Guilde,[pause=10] c'est moi qui dirigerai votre formation.</value>
+  </data>
+  <data name="G3L2_032" xml:space="preserve">
+    <value>Étant donné votre inexpérience,[pause=10] j'aimerais que vous alliez au Dojo Coxyclaque suivre la leçon de base avec Maître {0}.</value>
+  </data>
+  <data name="G3L2_033" xml:space="preserve">
+    <value>Le Dojo Coxyclaque ?</value>
+  </data>
+  <data name="G3L2_034" xml:space="preserve">
+    <value>Le Dojo Coxyclaque est un centre d'entraînement local.[pause=0] Parlez au maître des lieux et demandez la leçon de base.</value>
+  </data>
+  <data name="G3L2_035" xml:space="preserve">
+    <value>Elle vous enseignera les bases de l'aventure et de l'exploration de donjon.</value>
+  </data>
+  <data name="G3L2_036" xml:space="preserve">
+    <value>Il est impératif d'acquérir ces compétences avant tout véritable travail d'aventurier.</value>
+  </data>
+  <data name="G3L2_037" xml:space="preserve">
+    <value>Une fois sortis de la guilde,[pause=10] traversez le pont et allez vers l'est.</value>
+  </data>
+  <data name="G3L2_038" xml:space="preserve">
+    <value>Une échelle descend dans une grotte,[pause=10] où se trouve le dojo.</value>
+  </data>
+  <data name="G3L2_039" xml:space="preserve">
+    <value>Oh...[pause=0] J'espérais quelque chose d'un peu plus palpitant...[pause=0] Mais bon, nous sommes nouveaux après tout...</value>
+  </data>
+  <data name="G3L2_040" xml:space="preserve">
+    <value>Tant pis...[pause=0] {0},[pause=10] nous filons au dojo de ce pas.</value>
+  </data>
+  <data name="G3L2_041" xml:space="preserve">
+    <value>Très bien.[pause=0] Ne rentrez pas trop tard à la guilde ou vous manquerez le dîner.</value>
+  </data>
+  <data name="G3L2_042" xml:space="preserve">
+    <value>Hé,[pause=10] voilà les nouveaux ![pause=0] Alors, cette première journée de travail ?</value>
+  </data>
+  <data name="G3L2_043" xml:space="preserve">
+    <value>C'était bien ![pause=0] Nous nous sommes entraînés au Dojo Coxyclaque aujourd'hui.</value>
+  </data>
+  <data name="G3L2_044" xml:space="preserve">
+    <value>Génial ![pause=0] Vous explorerez des ruines antiques et sauverez des Pokémon en danger en un rien de temps !</value>
+  </data>
+  <data name="G3L2_045" xml:space="preserve">
+    <value>Haha,[pause=10] merci ![pause=0] Je l'espère bien !</value>
+  </data>
+  <data name="G3L2_046" xml:space="preserve">
+    <value>Et vous deux, qu'est-ce que vous faites là ?</value>
+  </data>
+  <data name="G3L2_047" xml:space="preserve">
+    <value>{0} et moi attendons ici que {1} finisse de préparer le dîner.</value>
+  </data>
+  <data name="G3L2_048" xml:space="preserve">
+    <value>Nous attendrions bien à table,[pause=10] mais {0} exige que personne ne la regarde cuisiner.</value>
+  </data>
+  <data name="G3L2_049" xml:space="preserve">
+    <value>Elle ne veut pas qu'on la dérange pendant qu'elle « crée de l'art ».</value>
+  </data>
+  <data name="G3L2_050" xml:space="preserve">
+    <value>Elle a beaucoup vanté sa cuisine hier,[pause=10] mais je ne pensais pas qu'elle irait jusque-là.</value>
+  </data>
+  <data name="G3L2_051" xml:space="preserve">
+    <value>Eh oui,[pause=10] {0} prend sa cuisine très au sérieux.</value>
+  </data>
+  <data name="G3L2_052" xml:space="preserve">
+    <value>J'aimerais juste qu'elle ne mette pas si longtemps à finir le dîner.</value>
+  </data>
+  <data name="G3L2_053" xml:space="preserve">
+    <value>Ça fait un bon moment qu'on attend ![pause=0] {0} et moi mourons de faim !</value>
+  </data>
+  <data name="G3L2_054" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G3L2_055" xml:space="preserve">
+    <value>Mais ça vaut l'attente.[pause=0] Je ne sais pas comment elle fait,[pause=10] mais ses repas sont délicieux.</value>
+  </data>
+  <data name="G3L2_056" xml:space="preserve">
+    <value>Parfois j'essaie même de chiper un en-cas de minuit dans les restes,[pause=10] héhé !</value>
+  </data>
+  <data name="G3L2_057" xml:space="preserve">
+    <value>On dirait que d'autres membres de la guilde attendent le dîner par ici.</value>
+  </data>
+  <data name="G3L2_058" xml:space="preserve">
+    <value>Tout le monde ![pause=0] Votre attention, je vous prie !</value>
+  </data>
+  <data name="G3L2_059" xml:space="preserve">
+    <value>Ma dernière œuvre d'art est prête pour le public.[pause=0] Suivez-moi pour le vernissage,[pause=10] je vous prie. {0}</value>
+  </data>
+  <data name="G3L2_060" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L2_061" xml:space="preserve">
+    <value>C'est la façon de {0} d'annoncer que le dîner est servi.</value>
+  </data>
+  <data name="G3L2_062" xml:space="preserve">
+    <value>Oh.[pause=0] C'est un peu étrange,[pause=10] mais je comprends mieux maintenant.[pause=0] Bon,[pause=10] dans ce cas...</value>
+  </data>
+  <data name="G3L2_063" xml:space="preserve">
+    <value>À table !</value>
+  </data>
+  <data name="G3L2_064" xml:space="preserve">
+    <value>Ah,[pause=10] Équipe {0}.</value>
+  </data>
+  <data name="G3L2_065" xml:space="preserve">
+    <value>Suivez-moi, je vous prie.[pause=0] Je vais vous montrer votre tâche du jour.</value>
+  </data>
+  <data name="G3L2_066" xml:space="preserve">
+    <value>Viens {0} ![pause=0] Nous devons retourner à {1} pour trouver {2} !</value>
+  </data>
+  <data name="G3L2_067" xml:space="preserve">
+    <value>BIENVENUE !!!</value>
+  </data>
+  <data name="G3L2_068" xml:space="preserve">
+    <value>Elle est t-très fière de sa cuisine.[pause=0] Elle considère chaque repas qu'elle prépare comme une œuvre d'art !</value>
+  </data>
 </root>
