@@ -865,4 +865,364 @@
   <data name="G2F2_135" xml:space="preserve">
     <value>O-oui chef...</value>
   </data>
+  <data name="G2F3_001" xml:space="preserve">
+    <value>Les missions d'escorte et de hors-la-loi sont plus difficiles que les autres types de missions, par exemple.</value>
+  </data>
+  <data name="G2F3_002" xml:space="preserve">
+    <value>Mais les missions difficiles rapportent plus de Points de Rang d'Aventurier et de meilleures récompenses,[pause=10] donc elles en valent la peine !</value>
+  </data>
+  <data name="G2F3_003" xml:space="preserve">
+    <value>Nous, on préfère les missions de sauvetage.[pause=0] C'est plus simple et on aide quand même des Pokémon en détresse !</value>
+  </data>
+  <data name="G2F3_004" xml:space="preserve">
+    <value>Quand on trouve ce genre de hors-la-loi,[pause=10] il déclenche un piège et tout un groupe de Pokémon vous attaque !</value>
+  </data>
+  <data name="G2F3_005" xml:space="preserve">
+    <value>Nous pouvons personnellement témoigner de la force du nombre.[pause=0] Préparez-vous face à ce genre de hors-la-loi !</value>
+  </data>
+  <data name="G2F3_006" xml:space="preserve">
+    <value>S'ils atteignent les escaliers,[pause=10] ils s'échapperont !</value>
+  </data>
+  <data name="G2F3_007" xml:space="preserve">
+    <value>Heureusement que {0} sait voler.[pause=0] Ce sera bien plus facile de rattraper ces fuyards !</value>
+  </data>
+  <data name="G2F3_008" xml:space="preserve">
+    <value>Vous pouvez consulter les tableaux quand vous voulez pour voir les missions disponibles.</value>
+  </data>
+  <data name="G2F3_009" xml:space="preserve">
+    <value>Vous pouvez garder des missions aussi longtemps que vous voulez,[pause=10] mais huit au maximum à la fois !</value>
+  </data>
+  <data name="G2F3_010" xml:space="preserve">
+    <value>Pour consulter vos missions prises,[pause=10] utilisez les tableaux ici ou appuyez sur {0} et choisissez Liste des Missions.</value>
+  </data>
+  <data name="G2F3_011" xml:space="preserve">
+    <value>Quand vous prenez une mission au tableau,[pause=10] elle s'active automatiquement.[pause=0] Seules les missions activées peuvent être accomplies !</value>
+  </data>
+  <data name="G2F3_012" xml:space="preserve">
+    <value>V-vous pouvez suspendre une mission activée pour plus tard.[pause=0] Choisissez Prendre la Mission dessus pour la réactiver !</value>
+  </data>
+  <data name="G2F3_013" xml:space="preserve">
+    <value>B-bref,[pause=10] tant qu'une mission est activée,[pause=10] il suffit d'aller dans le donjon mystère concerné pour l'accomplir.</value>
+  </data>
+  <data name="G2F3_014" xml:space="preserve">
+    <value>Vous pouvez même activer plusieurs missions dans le même donjon et toutes les faire d'un coup si vous voulez !</value>
+  </data>
+  <data name="G2F3_015" xml:space="preserve">
+    <value>Et voilà tout ![pause=0] B-bonne chance pour vos missions !</value>
+  </data>
+  <data name="G2F3_016" xml:space="preserve">
+    <value>Je sais que ce nom peut sembler un peu étrange,[pause=10] mais quand nous évoluerons à nouveau, il prendra tout son sens !</value>
+  </data>
+  <data name="G2F3_017" xml:space="preserve">
+    <value>Nous espérons évoluer à nouveau dès que possible.[pause=0] Nos formes actuelles sont...[pause=30] assez peu pratiques,[pause=10] pour ne pas dire plus.</value>
+  </data>
+  <data name="G2F3_018" xml:space="preserve">
+    <value>Il nous a fallu bien plus de temps que je ne veux l'admettre pour gravir la rampe jusqu'ici...</value>
+  </data>
+  <data name="G2F3_019" xml:space="preserve">
+    <value>Pas grave ![pause=0] Ça peut être vra-a-a-aiment dur parfois !</value>
+  </data>
+  <data name="G2F3_020" xml:space="preserve">
+    <value>Quand j'ai du mal à attraper un hors-la-loi,[pause=10] je trouve que les objets aident beaucoup !</value>
+  </data>
+  <data name="G2F3_021" xml:space="preserve">
+    <value>Le bon objet peut vraiment faire toute la différence !</value>
+  </data>
+  <data name="G2F3_022" xml:space="preserve">
+    <value>Sachez juste que les orbes ne fonctionnent pas au fond des donjons,[pause=10] là où les vilain-un-uns se cachent d'habitude !</value>
+  </data>
+  <data name="G2F3_023" xml:space="preserve">
+    <value>Oh ![pause=0] Et si un hors-la-loi-oi-oi vous attaque de loin,[pause=10] sortez de sa ligne de mire !</value>
+  </data>
+  <data name="G2F3_024" xml:space="preserve">
+    <value>Comme ça, il ne pourra plus vous viser ![pause=0] Il devra essayer autre chose !</value>
+  </data>
+  <data name="G2F3_025" xml:space="preserve">
+    <value>J'espère que ça vous aidera ![pause=0] Bonne chance,[pause=10] je sais que vous pouvez y arriver-er-er !</value>
+  </data>
+  <data name="G2F3_026" xml:space="preserve">
+    <value>Hahaha ![pause=0] Je savais que vous n'y arriveriez pas ![pause=0] Hahaha !</value>
+  </data>
+  <data name="G2F3_027" xml:space="preserve">
+    <value>Grr...</value>
+  </data>
+  <data name="G2F3_028" xml:space="preserve">
+    <value>Parler à {0} ne sert à rien.[pause=0] S'il nous faut des conseils,[pause=10] demandons plutôt à {1}.</value>
+  </data>
+  <data name="G2F3_029" xml:space="preserve">
+    <value>Salut vous.[pause=0] Moi c'est {0},[pause=10] et je suis l'officier en chef du coin.</value>
+  </data>
+  <data name="G2F3_030" xml:space="preserve">
+    <value>Grâce à votre aide,[pause=10] on a pu épingler un criminel recherché.</value>
+  </data>
+  <data name="G2F3_031" xml:space="preserve">
+    <value>Pour ça,[pause=10] mes adjoints et moi, on vous remercie tous les deux.</value>
+  </data>
+  <data name="G2F3_032" xml:space="preserve">
+    <value>J'ai déjà remis la prime de ce criminel à votre supérieur là-bas.</value>
+  </data>
+  <data name="G2F3_033" xml:space="preserve">
+    <value>Pensez à la récupérer auprès de lui.[pause=0] Merci encore pour le coup de main.</value>
+  </data>
+  <data name="G2F3_034" xml:space="preserve">
+    <value>Quant à toi...[pause=0] Il est temps d'y aller.[pause=0] Suis-nous,[pause=10] et pas d'entourloupe.</value>
+  </data>
+  <data name="G2F3_035" xml:space="preserve">
+    <value>Oh...[pause=0] D'accord...</value>
+  </data>
+  <data name="G2F3_036" xml:space="preserve">
+    <value>Hmm ?[pause=0] Qu'y a-t-il ?</value>
+  </data>
+  <data name="G2F3_037" xml:space="preserve">
+    <value>Euh...[pause=0] Je voulais juste dire que je ne pense pas que {0} soit un mauvais Pokémon.</value>
+  </data>
+  <data name="G2F3_038" xml:space="preserve">
+    <value>Je sais que c'est un hors-la-loi et qu'il doit être arrêté...</value>
+  </data>
+  <data name="G2F3_039" xml:space="preserve">
+    <value>Mais je crois que c'est juste quelqu'un qui a pris une mauvaise décision.[pause=0] Il n'est pas méchant.</value>
+  </data>
+  <data name="G2F3_040" xml:space="preserve">
+    <value>Alors,[pause=10] euh...[pause=0] Serait-il possible d'être indulgent avec lui,[pause=10] s'il vous plaît ?</value>
+  </data>
+  <data name="G2F3_041" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_042" xml:space="preserve">
+    <value>...Désolé mon gars.[pause=0] La règle, c'est la règle.</value>
+  </data>
+  <data name="G2F3_043" xml:space="preserve">
+    <value>Même s'il mérite un peu de clémence,[pause=10] et d'après ce que tu me dis,[pause=10] c'est peut-être le cas...</value>
+  </data>
+  <data name="G2F3_044" xml:space="preserve">
+    <value>Je dois rester cohérent, sinon la loi ne serait pas juste.</value>
+  </data>
+  <data name="G2F3_045" xml:space="preserve">
+    <value>C'est comme ça que ça doit être.[pause=0] Je suis désolé.</value>
+  </data>
+  <data name="G2F3_046" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_047" xml:space="preserve">
+    <value>...D'accord.[pause=0] Je comprends...</value>
+  </data>
+  <data name="G2F3_048" xml:space="preserve">
+    <value>...Bon.[pause=0] Ne traînons pas ici plus longtemps.[pause=0] En route, vous autres.</value>
+  </data>
+  <data name="G2F3_049" xml:space="preserve">
+    <value>...Mais il me semble que c'était un hors-la-loi des plus singuliers.</value>
+  </data>
+  <data name="G2F3_050" xml:space="preserve">
+    <value>Quoi qu'il en soit,[pause=10] vous avez capturé le hors-la-loi avec succès.[pause=0] Félicitations.</value>
+  </data>
+  <data name="G2F3_051" xml:space="preserve">
+    <value>Voici la prime que {0} m'a remise.[pause=0] Vous l'avez bien méritée.</value>
+  </data>
+  <data name="G2F3_052" xml:space="preserve">
+    <value>À présent,[pause=10] je crois que {0} doit avoir fini de préparer le dîner.[pause=0] M'accompagnerez-vous à l'étage ?</value>
+  </data>
+  <data name="G2F3_053" xml:space="preserve">
+    <value>...[pause=0]D'accord.</value>
+  </data>
+  <data name="G2F3_054" xml:space="preserve">
+    <value>Nous y voilà ![pause=0] Le Tableau des Avis de Recherche !</value>
+  </data>
+  <data name="G2F3_055" xml:space="preserve">
+    <value>Qu'est-ce qui différencie ce tableau de celui que {0} nous a montré l'autre jour ?</value>
+  </data>
+  <data name="G2F3_056" xml:space="preserve">
+    <value>{0} vous a montré le tableau de l'autre côté,[pause=10] pas vrai ?</value>
+  </data>
+  <data name="G2F3_057" xml:space="preserve">
+    <value>Ça-a-a-a, c'était le Tableau des Missions.[pause=0] On y affiche toutes sortes de missions ordinaires !</value>
+  </data>
+  <data name="G2F3_058" xml:space="preserve">
+    <value>Ici, c'est le Tableau des Avis de Recherche.[pause=0] On y affiche les Pokémon du mauvais côté de la loi-oi-oi.</value>
+  </data>
+  <data name="G2F3_059" xml:space="preserve">
+    <value>Ils ont tous une prime sur la tête pour une raison ou une autre.[pause=0] Une sacrée bande de vilain-un-uns !</value>
+  </data>
+  <data name="G2F3_060" xml:space="preserve">
+    <value>Les hors-la-loi se cachent dans des donjons mystères aux quatre coins du mon-on-onde !</value>
+  </data>
+  <data name="G2F3_061" xml:space="preserve">
+    <value>Votre travail sera d'aller dans ces donjons pour traduire ces vilain-un-uns en justice !</value>
+  </data>
+  <data name="G2F3_062" xml:space="preserve">
+    <value>Ces hors-la-loi sont des Pokémon dangereux et sans foi ni loi,[pause=10] non ?[pause=0] Sommes-nous vraiment prêts à en affronter un ?</value>
+  </data>
+  <data name="G2F3_063" xml:space="preserve">
+    <value>Pas d'inquiétude ![pause=0] Être un hors-la-loi-oi-oi ne veut pas dire être si redoutable !</value>
+  </data>
+  <data name="G2F3_064" xml:space="preserve">
+    <value>Ça va du génie du crime au petit voleur...[pause=0] On vous choisira un vilain-un-un à votre mesure !</value>
+  </data>
+  <data name="G2F3_065" xml:space="preserve">
+    <value>Bon,[pause=10] dit comme ça, ça n'a pas l'air si terrible.</value>
+  </data>
+  <data name="G2F3_066" xml:space="preserve">
+    <value>Mais...[pause=0] Qu'est-ce qu'on est censés faire exactement une fois le hors-la-loi trouvé ?</value>
+  </data>
+  <data name="G2F3_067" xml:space="preserve">
+    <value>C'est pourtant évident, non ?[pause=0] Vous le mettez K.O. et vous le ramenez en ville !</value>
+  </data>
+  <data name="G2F3_068" xml:space="preserve">
+    <value>Oui ![pause=0] Exa-a-a-actement !</value>
+  </data>
+  <data name="G2F3_069" xml:space="preserve">
+    <value>La plupart des hors-la-loi-oi-oi ne se rendront pas sans résister ![pause=0] Ils se battront ou prendront la fuite !</value>
+  </data>
+  <data name="G2F3_070" xml:space="preserve">
+    <value>S'ils refusent de vous suivre,[pause=10] il faudra les mettre K.O. !</value>
+  </data>
+  <data name="G2F3_071" xml:space="preserve">
+    <value>Une fois que vous a-a-a-arrivez à les ramener en ville,[pause=10] {0} s'occupe du reste.</value>
+  </data>
+  <data name="G2F3_072" xml:space="preserve">
+    <value>{0} ?[pause=0] Qui est-ce ?</value>
+  </data>
+  <data name="G2F3_073" xml:space="preserve">
+    <value>{0} est l'officier principal de la région.[pause=0] Il gère les écrous et les primes des hors-la-loi-oi-oi !</value>
+  </data>
+  <data name="G2F3_074" xml:space="preserve">
+    <value>Il vous retrouvera ici, au tableau, si vous avez des hors-la-loi-oi-oi à lui remettre.</value>
+  </data>
+  <data name="G2F3_075" xml:space="preserve">
+    <value>Ensuite,[pause=10] il ve-e-e-ersera la prime et les emmènera !</value>
+  </data>
+  <data name="G2F3_076" xml:space="preserve">
+    <value>Et voilà pour les ba-a-a-ases ![pause=0] Maintenant,[pause=10] choisissons-vous un hors-la-loi !</value>
+  </data>
+  <data name="G2F3_077" xml:space="preserve">
+    <value>{0},[pause=10] tu peux m'aider à choisir un bon hors-la-loi-oi-oi ?</value>
+  </data>
+  <data name="G2F3_078" xml:space="preserve">
+    <value>Bien sûr,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F3_079" xml:space="preserve">
+    <value>Je vais leur choisir un truc assez faible et pitoyable pour que des blancs-becs comme eux s'en sortent.</value>
+  </data>
+  <data name="G2F3_080" xml:space="preserve">
+    <value>Grrr...</value>
+  </data>
+  <data name="G2F3_081" xml:space="preserve">
+    <value>Ce serait pa-a-a-arfait ![pause=0] Merci,[pause=10] {0} !</value>
+  </data>
+  <data name="G2F3_082" xml:space="preserve">
+    <value>Bon,[pause=10] voyons voir...</value>
+  </data>
+  <data name="G2F3_083" xml:space="preserve">
+    <value>Aha !</value>
+  </data>
+  <data name="G2F3_084" xml:space="preserve">
+    <value>Celui-là devrait être assez faible pour vous, les bleus.</value>
+  </data>
+  <data name="G2F3_085" xml:space="preserve">
+    <value>D'après l'avis de recherche,[pause=10] ce {0} se fait appeler {1}.</value>
+  </data>
+  <data name="G2F3_086" xml:space="preserve">
+    <value>Il est recherché pour vol et se cache dans {0}.</value>
+  </data>
+  <data name="G2F3_087" xml:space="preserve">
+    <value>{0} !?[pause=0] Waouh !</value>
+  </data>
+  <data name="G2F3_088" xml:space="preserve">
+    <value>On dirait que {0} vous a choisi un morceau amusant pour votre première mission ![pause=0] Héhéhé !</value>
+  </data>
+  <data name="G2F3_089" xml:space="preserve">
+    <value>C'est quoi, {0} ?</value>
+  </data>
+  <data name="G2F3_090" xml:space="preserve">
+    <value>C'est un donjon mystère que des ba-a-a-andits ont transformé en repaire.</value>
+  </data>
+  <data name="G2F3_091" xml:space="preserve">
+    <value>Les bandits qui s'y cachent sont plutôt faibles,[pause=10] alors ils se regroupent pour avoir l'avantage du nombre.</value>
+  </data>
+  <data name="G2F3_092" xml:space="preserve">
+    <value>Quiconque s'y rend doit s'attendre à une embuscade de toute une bande !</value>
+  </data>
+  <data name="G2F3_093" xml:space="preserve">
+    <value>Quoi !?[pause=0] Vous dites qu'on va se faire détrousser par des bandits en pourchassant ce hors-la-loi !?</value>
+  </data>
+  <data name="G2F3_094" xml:space="preserve">
+    <value>Oh,[pause=10] ce sont tous des poids plumes ![pause=0] Je suis sûre que vous vous en sortirez !</value>
+  </data>
+  <data name="G2F3_095" xml:space="preserve">
+    <value>{0} ne l'aurait pas choisi s'il pensait le contraire !</value>
+  </data>
+  <data name="G2F3_096" xml:space="preserve">
+    <value>Haha ![pause=0] Exact ![pause=0] Je ne choisirais jamais une mission au-dessus des moyens de nos petits nouveaux !</value>
+  </data>
+  <data name="G2F3_097" xml:space="preserve">
+    <value>...Bon...[pause=0] Je ne suis toujours pas sûr.[pause=0] Ça a l'air si dangereux...</value>
+  </data>
+  <data name="G2F3_098" xml:space="preserve">
+    <value>Ne vous en faites pas tant ![pause=0] Je sais que votre première mission de hors-la-loi peut faire peu-eu-eur...</value>
+  </data>
+  <data name="G2F3_099" xml:space="preserve">
+    <value>Je sais que {0} et moi étions terrifié-é-és lors de notre première mission !</value>
+  </data>
+  <data name="G2F3_100" xml:space="preserve">
+    <value>Héhéhé ![pause=0] Vraiment ?</value>
+  </data>
+  <data name="G2F3_101" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_102" xml:space="preserve">
+    <value>Oui ![pause=0] Mais malgré notre peur du da-a-a-anger...[pause=0] Nous avons attrapé ce hors-la-loi !</value>
+  </data>
+  <data name="G2F3_103" xml:space="preserve">
+    <value>Je sais que ça vous fait peu-eu-eur à vous aussi...[pause=0] Mais je sais que vous pouvez y arriver !</value>
+  </data>
+  <data name="G2F3_104" xml:space="preserve">
+    <value>Eh bien,[pause=10] si vous croyez en nous,[pause=10] alors je suis sûr que nous y arriverons !</value>
+  </data>
+  <data name="G2F3_105" xml:space="preserve">
+    <value>On peut le faire,[pause=10] pas vrai,[pause=10] {0} ?</value>
+  </data>
+  <data name="G2F3_106" xml:space="preserve">
+    <value>Ouais ![pause=0] Vous allez y arriver !</value>
+  </data>
+  <data name="G2F3_107" xml:space="preserve">
+    <value>Vous devriez aller en ville vous prépa-a-a-arer maintenant.</value>
+  </data>
+  <data name="G2F3_108" xml:space="preserve">
+    <value>Même si les bandits sont faibles,[pause=10] ne les sous-estimez pas !</value>
+  </data>
+  <data name="G2F3_109" xml:space="preserve">
+    <value>Une fois prêts,[pause=10] sortez de la ville par l'est en direction du donjon.</value>
+  </data>
+  <data name="G2F3_110" xml:space="preserve">
+    <value>Le chemin de l'est est la sortie principa-a-a-ale de la ville.</value>
+  </data>
+  <data name="G2F3_111" xml:space="preserve">
+    <value>Chaque fois que vous voudrez explorer un donjon à l'avenir,[pause=10] quittez la ville par l'est !</value>
+  </data>
+  <data name="G2F3_112" xml:space="preserve">
+    <value>Une fois ce {0} capturé,[pause=10] ramenez-le ici pour votre récompen-en-ense !</value>
+  </data>
+  <data name="G2F3_113" xml:space="preserve">
+    <value>OK ![pause=0] Nous allons nous préparer,[pause=10] puis partir vers l'est !</value>
+  </data>
+  <data name="G2F3_114" xml:space="preserve">
+    <value>Merci pour votre aide,[pause=10] {0} !</value>
+  </data>
+  <data name="G2F3_115" xml:space="preserve">
+    <value>Quand vous voulez-ez-ez ![pause=0] {0} et moi sommes ravis d'aider !</value>
+  </data>
+  <data name="G2F3_116" xml:space="preserve">
+    <value>Nous devons nous trouver des missions maintenant,[pause=10] alors nous resterons ici un moment.</value>
+  </data>
+  <data name="G2F3_117" xml:space="preserve">
+    <value>Venez nous parler ici en cas de problè-è-ème ![pause=0] Bonne chance !</value>
+  </data>
+  <data name="G2F3_118" xml:space="preserve">
+    <value>Compris ![pause=0] Merci encore !</value>
+  </data>
+  <data name="G2F3_119" xml:space="preserve">
+    <value>Allons nous préparer à coincer notre premier hors-la-loi,[pause=10] {0} !</value>
+  </data>
+  <data name="G2F3_120" xml:space="preserve">
+    <value>Il est fort inhabituel de voir quelqu'un prendre la défense d'un hors-la-loi qu'il vient d'appréhender...</value>
+  </data>
 </root>
