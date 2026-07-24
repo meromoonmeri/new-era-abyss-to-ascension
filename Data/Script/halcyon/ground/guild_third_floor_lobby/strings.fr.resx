@@ -670,4 +670,391 @@
   <data name="G3L4_066" xml:space="preserve">
     <value>{0} ![pause=0] Allons à {1} tout de suite ![pause=0] Je ne sais pas combien de temps je peux encore attendre !</value>
   </data>
+  <data name="G3L5_001" xml:space="preserve">
+    <value>Un pour tous...</value>
+  </data>
+  <data name="G3L5_002" xml:space="preserve">
+    <value>ET TOUS POUR UN !</value>
+  </data>
+  <data name="G3L5_003" xml:space="preserve">
+    <value>H-hé ![pause=0] Ce n'était p-pas la voix du Maître de Guilde ![pause=0] Q-qui a dit ça ?</value>
+  </data>
+  <data name="G3L5_004" xml:space="preserve">
+    <value>Oh,[pause=10] allez ![pause=0] On n'est pas partis si longtemps ![pause=0] Vous n'avez quand même pas déjà oublié ma douce voix ?</value>
+  </data>
+  <data name="G3L5_005" xml:space="preserve">
+    <value>Regardez vers les chambres,[pause=10] bande d'andouilles !</value>
+  </data>
+  <data name="G3L5_006" xml:space="preserve">
+    <value>Oh ![pause=0] C'est {0} et {1} ![pause=0] Ils sont rentrés de leur voyage !</value>
+  </data>
+  <data name="G3L5_007" xml:space="preserve">
+    <value>{0} et {1} ![pause=0] Vous avez vu quels genres d'endroits pendant votre aventure,[pause=10] wouf !?</value>
+  </data>
+  <data name="G3L5_008" xml:space="preserve">
+    <value>Vous avez trouvé des trucs géniaux ?[pause=0] Racontez racontez racontez !</value>
+  </data>
+  <data name="G3L5_009" xml:space="preserve">
+    <value>Vous DEVEZ nous raconter votre aventu-u-u-ure ![pause=0] Je ne peux plus attendre !</value>
+  </data>
+  <data name="G3L5_010" xml:space="preserve">
+    <value>O-oh là ![pause=0] Un à la fois !</value>
+  </data>
+  <data name="G3L5_011" xml:space="preserve">
+    <value>Allons,[pause=10] tout le monde,[pause=10] laissons-leur un peu d'espace.</value>
+  </data>
+  <data name="G3L5_012" xml:space="preserve">
+    <value>Ils auront tout le temps de vous raconter leur aventure plus tard !</value>
+  </data>
+  <data name="G3L5_013" xml:space="preserve">
+    <value>Ouf ![pause=0] C'est mieux.[pause=0] Je commençais à devenir claustrophobe !</value>
+  </data>
+  <data name="G3L5_014" xml:space="preserve">
+    <value>{0} ![pause=0] {1} ![pause=0] Quel bonheur de vous revoir à la maison !</value>
+  </data>
+  <data name="G3L5_015" xml:space="preserve">
+    <value>Comment s'est passée votre exploration ?</value>
+  </data>
+  <data name="G3L5_016" xml:space="preserve">
+    <value>À merveille ![pause=0] {0} et moi avons vu toutes sortes d'endroits pendant notre voyage.</value>
+  </data>
+  <data name="G3L5_017" xml:space="preserve">
+    <value>Des plaines à perte de vue,[pause=10] des grottes brûlantes,[pause=10] des falaises balayées par le vent ![pause=0] Tout ce que vous voulez,[pause=10] nous l'avons vu !</value>
+  </data>
+  <data name="G3L5_018" xml:space="preserve">
+    <value>Les ruines elles-mêmes étaient fascinantes ![pause=0] J'aurais aimé passer plus de temps à les étudier.</value>
+  </data>
+  <data name="G3L5_019" xml:space="preserve">
+    <value>Ouais ![pause=0] Nous trois, on s'est bien amusés pendant ce voyage !</value>
+  </data>
+  <data name="G3L5_020" xml:space="preserve">
+    <value>Nous avons aussi tracé un itinéraire pour y retourner, comme demandé,[pause=10] Maître de Guilde.</value>
+  </data>
+  <data name="G3L5_021" xml:space="preserve">
+    <value>{0} est vraiment doué pour retrouver son chemin !</value>
+  </data>
+  <data name="G3L5_022" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G3L5_023" xml:space="preserve">
+    <value>Parfait ![pause=0] Je savais que vous y arriveriez !</value>
+  </data>
+  <data name="G3L5_024" xml:space="preserve">
+    <value>Très bien les Pokémon ![pause=0] Changement de programme !</value>
+  </data>
+  <data name="G3L5_025" xml:space="preserve">
+    <value>Nous partons aujourd'hui même en expédition pour explorer les ruines du nord !</value>
+  </data>
+  <data name="G3L5_026" xml:space="preserve">
+    <value>Q-quoi !?[pause=0] Au-aujourd'hui !?[pause=0] Vous voulez qu'on parte aujourd'hui !?[script=0]</value>
+  </data>
+  <data name="G3L5_027" xml:space="preserve">
+    <value>Cela pose un problème ?</value>
+  </data>
+  <data name="G3L5_028" xml:space="preserve">
+    <value>Je sais que vous devez être épuisés par votre périple,[pause=10] mais j'aimerais partir au plus vite !</value>
+  </data>
+  <data name="G3L5_029" xml:space="preserve">
+    <value>Eh bien,[pause=10] c'est vrai que le voyage était éreintant...[pause=0]\nTous ces kilomètres nous ont bien fatigués !</value>
+  </data>
+  <data name="G3L5_030" xml:space="preserve">
+    <value>Nous sommes rentrés tard hier soir, après le coucher de tout le monde.[pause=0] Nous avons à peine pu nous reposer !</value>
+  </data>
+  <data name="G3L5_031" xml:space="preserve">
+    <value>...Mais nous ne sommes pas des mauviettes.[pause=0] Je sais que {0} et moi avons encore de l'énergie !</value>
+  </data>
+  <data name="G3L5_032" xml:space="preserve">
+    <value>Pareil pour moi ![pause=0] Il m'en reste encore sous la patte !</value>
+  </data>
+  <data name="G3L5_033" xml:space="preserve">
+    <value>Maître de Guilde,[pause=10] nous sommes prêts à partir dès que vous le souhaitez.[pause=0] Vous n'avez qu'un mot à dire !</value>
+  </data>
+  <data name="G3L5_034" xml:space="preserve">
+    <value>Merci ![pause=0] Je savais que je pouvais compter sur vous deux !</value>
+  </data>
+  <data name="G3L5_035" xml:space="preserve">
+    <value>Mais nous ne partirons pas tout de suite.</value>
+  </data>
+  <data name="G3L5_036" xml:space="preserve">
+    <value>Après tout,[pause=10] {0} et moi devons encore discuter des détails avec vous deux.</value>
+  </data>
+  <data name="G3L5_037" xml:space="preserve">
+    <value>Bien sûr ![pause=0] Nous avons plein d'histoires de voyage à raconter !</value>
+  </data>
+  <data name="G3L5_038" xml:space="preserve">
+    <value>Pendant ce temps,[pause=10] vous autres, préparez-vous pour le long périple qui nous attend.</value>
+  </data>
+  <data name="G3L5_039" xml:space="preserve">
+    <value>Nous ne reviendrons pas de cette expédition avant un bon moment,[pause=10] alors faites le plein de provisions.</value>
+  </data>
+  <data name="G3L5_040" xml:space="preserve">
+    <value>Mais sachez que cette expédition est réservée aux membres de la guilde.</value>
+  </data>
+  <data name="G3L5_041" xml:space="preserve">
+    <value>C'est-à-dire que vous ne pourrez pas utiliser l'Assemblée {0} pour ajouter des membres à votre équipe.</value>
+  </data>
+  <data name="G3L5_042" xml:space="preserve">
+    <value>Nous voulons que cette expédition reste entre nous,[pause=10] les non-membres ne sont pas admis !</value>
+  </data>
+  <data name="G3L5_043" xml:space="preserve">
+    <value>Bref,[pause=10] une fois vos préparatifs terminés,[pause=10] venez me voir dans mon bureau.</value>
+  </data>
+  <data name="G3L5_044" xml:space="preserve">
+    <value>Quand tout le monde sera prêt,[pause=10] nous étudierons la route à suivre puis nous partirons !</value>
+  </data>
+  <data name="G3L5_045" xml:space="preserve">
+    <value>Allez les Pokémon,[pause=10] tous en mouvement !</value>
+  </data>
+  <data name="G3L5_046" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L5_047" xml:space="preserve">
+    <value>Ça y est ![pause=0] L'expédition est enfin là,[pause=10] fini le tour de garde pour moi,[pause=10] wouf !</value>
+  </data>
+  <data name="G3L5_048" xml:space="preserve">
+    <value>Je suis si excité que je crois que je vais m'évanouir,[pause=10] wouf,[pause=10] wouf !</value>
+  </data>
+  <data name="G3L5_049" xml:space="preserve">
+    <value>Moi aussi ![pause=0] Ça va être génial de repartir à l'aventure avec toi {0} !</value>
+  </data>
+  <data name="G3L5_050" xml:space="preserve">
+    <value>On va voir et apprendre tant de choses ![pause=0] Ça va être formidable !</value>
+  </data>
+  <data name="G3L5_051" xml:space="preserve">
+    <value>J'espère que nous trouverons quelque chose de vraiment délectable pendant cette expédition.[pause=0] Un fruit ou une épice rare serait merveilleux. {0}</value>
+  </data>
+  <data name="G3L5_052" xml:space="preserve">
+    <value>Qu'est-ce qu'on va trouver, à ton avis,[pause=10] {0} ?</value>
+  </data>
+  <data name="G3L5_053" xml:space="preserve">
+    <value>O-oh,[pause=10] peu importe ce qu'on trouve.[pause=0] Je suis juste contente de repartir explorer !</value>
+  </data>
+  <data name="G3L5_054" xml:space="preserve">
+    <value>Ça me changera agréablement des corvées !</value>
+  </data>
+  <data name="G3L5_055" xml:space="preserve">
+    <value>Moi aussi je me réjouis de ce changement de ryth-th-thme !</value>
+  </data>
+  <data name="G3L5_056" xml:space="preserve">
+    <value>Nous sommes ravis de partir en exploration pour une fois,[pause=10] pas vrai {0} ?</value>
+  </data>
+  <data name="G3L5_057" xml:space="preserve">
+    <value>O-oui ![pause=0] Ça fait du bien de changer un peu,[pause=10] haha !</value>
+  </data>
+  <data name="G3L5_058" xml:space="preserve">
+    <value>J'ai t-tellement hâte d'explorer avec toi,[pause=10] {0} !</value>
+  </data>
+  <data name="G3L5_059" xml:space="preserve">
+    <value>Cette expédition, c'est exactement ce dont je rêve depuis si longtemps !</value>
+  </data>
+  <data name="G3L5_060" xml:space="preserve">
+    <value>Une aventure pour percer le secret de ruines antiques, avec autant d'amis...</value>
+  </data>
+  <data name="G3L5_061" xml:space="preserve">
+    <value>Je n'en avais jamais fait qu'en rêve,[pause=10] et voilà que ça arrive pour de vrai !</value>
+  </data>
+  <data name="G3L5_062" xml:space="preserve">
+    <value>Ça me rend un peu émotif,[pause=10] [script=0]snif...</value>
+  </data>
+  <data name="G3L5_063" xml:space="preserve">
+    <value>Ça va être la meilleure aventure de tous les temps !</value>
+  </data>
+  <data name="G3L5_064" xml:space="preserve">
+    <value>{0},[pause=10] attends !</value>
+  </data>
+  <data name="G3L5_065" xml:space="preserve">
+    <value>Nous devons nous préparer aussi.[pause=0] Je dois stocker toutes sortes d'ingrédients pour un si long voyage. {0}</value>
+  </data>
+  <data name="G3L5_066" xml:space="preserve">
+    <value>Nous devrions faire comme tout le monde et nous préparer,[pause=10] {0} !</value>
+  </data>
+  <data name="G3L5_067" xml:space="preserve">
+    <value>Allons en ville nous préparer pour l'expédition ![pause=0] Aaaahhh,[pause=10] j'ai trop hâte !</value>
+  </data>
+  <data name="G3L5_068" xml:space="preserve">
+    <value>Bien ![pause=0] On dirait que tout le monde est là.[pause=0] Commençons !</value>
+  </data>
+  <data name="G3L5_069" xml:space="preserve">
+    <value>{0},[pause=10] pourriez-vous expliquer le plan de l'expédition ?</value>
+  </data>
+  <data name="G3L5_070" xml:space="preserve">
+    <value>Bien entendu,[pause=10] Maître de Guilde.</value>
+  </data>
+  <data name="G3L5_071" xml:space="preserve">
+    <value>Comme vous le savez tous,[pause=10] notre destination est l'ensemble de ruines situé dans la chaîne de montagnes, loin au nord.</value>
+  </data>
+  <data name="G3L5_072" xml:space="preserve">
+    <value>Par souci de concision,[pause=10] je les appellerai désormais {0}.</value>
+  </data>
+  <data name="G3L5_073" xml:space="preserve">
+    <value>{0} ?[pause=0] Pourquoi ce nom ?</value>
+  </data>
+  <data name="G3L5_074" xml:space="preserve">
+    <value>C'est le nom que {0} et moi avons trouvé.[pause=0] {1} n'est pas le seul à avoir du vocabulaire !</value>
+  </data>
+  <data name="G3L5_075" xml:space="preserve">
+    <value>Une fois aux ruines,[pause=10] vous comprendrez d'où il vient !</value>
+  </data>
+  <data name="G3L5_076" xml:space="preserve">
+    <value>Hum-hum.[pause=0] Restons concentrés sur les détails pertinents,[pause=10] je vous prie.[pause=0] Le temps presse.</value>
+  </data>
+  <data name="G3L5_077" xml:space="preserve">
+    <value>O-oups.[pause=0] Pardon,[pause=10] {0} !</value>
+  </data>
+  <data name="G3L5_078" xml:space="preserve">
+    <value>Pour résumer,[pause=10] nos renseignements suggèrent que {0} abrite un secret incroyable.</value>
+  </data>
+  <data name="G3L5_079" xml:space="preserve">
+    <value>Quel est ce secret exactement,[pause=10] nous l'ignorons.</value>
+  </data>
+  <data name="G3L5_080" xml:space="preserve">
+    <value>Un trésor d'une valeur incalculable,[pause=10] les vestiges d'une civilisation antique,[pause=10] ou peut-être rien du tout.</value>
+  </data>
+  <data name="G3L5_081" xml:space="preserve">
+    <value>Ce pourrait être n'importe quoi.[pause=0] C'est pour l'instant une inconnue totale.</value>
+  </data>
+  <data name="G3L5_082" xml:space="preserve">
+    <value>Bien que {0} et {1} aient fait de leur mieux pendant leur reconnaissance pour en découvrir davantage...</value>
+  </data>
+  <data name="G3L5_083" xml:space="preserve">
+    <value>...ils n'ont finalement pas pu percer le mystère des ruines.</value>
+  </data>
+  <data name="G3L5_084" xml:space="preserve">
+    <value>Nous espérons qu'avec la guilde au complet,[pause=10] nous pourrons découvrir la vraie nature de {0}.</value>
+  </data>
+  <data name="G3L5_085" xml:space="preserve">
+    <value>Comme vous le savez tous,[pause=10] {0} se trouve très loin de la guilde.</value>
+  </data>
+  <data name="G3L5_086" xml:space="preserve">
+    <value>J'ai pu tracer un itinéraire efficace grâce au travail de {0} et {1}.</value>
+  </data>
+  <data name="G3L5_087" xml:space="preserve">
+    <value>Toutefois,[pause=10] j'estime que le voyage nous prendra tout de même plusieurs jours.</value>
+  </data>
+  <data name="G3L5_088" xml:space="preserve">
+    <value>De plus,[pause=10] cet itinéraire traversera plusieurs donjons mystères qu'il nous faudra franchir.</value>
+  </data>
+  <data name="G3L5_089" xml:space="preserve">
+    <value>Le Maître de Guilde a conçu une stratégie pour traverser ces donjons avec diligence.</value>
+  </data>
+  <data name="G3L5_090" xml:space="preserve">
+    <value>Maître de Guilde,[pause=10] si vous voulez bien ?</value>
+  </data>
+  <data name="G3L5_091" xml:space="preserve">
+    <value>Avec plaisir,[pause=10] {0} !</value>
+  </data>
+  <data name="G3L5_092" xml:space="preserve">
+    <value>Comme {0} l'a dit,[pause=10] nous devrons traverser plusieurs donjons mystères.</value>
+  </data>
+  <data name="G3L5_093" xml:space="preserve">
+    <value>Mais il y a aussi beaucoup de marche ordinaire au programme !</value>
+  </data>
+  <data name="G3L5_094" xml:space="preserve">
+    <value>C'est pourquoi j'ai décidé qu'il valait mieux rester en un seul grand groupe au départ.</value>
+  </data>
+  <data name="G3L5_095" xml:space="preserve">
+    <value>Rester ensemble aidera à garder tout le monde en sécurité et sur la route de {0} !</value>
+  </data>
+  <data name="G3L5_096" xml:space="preserve">
+    <value>Et je pense que ça maintiendra le moral des troupes ![pause=0] Voyager ensemble, c'est plus amusant !</value>
+  </data>
+  <data name="G3L5_097" xml:space="preserve">
+    <value>Nous avancerons en un seul grand groupe jusqu'à l'entrée du premier donjon.</value>
+  </data>
+  <data name="G3L5_098" xml:space="preserve">
+    <value>À partir de là,[pause=10] nous nous séparerons en équipes plus petites.</value>
+  </data>
+  <data name="G3L5_099" xml:space="preserve">
+    <value>En tant que plus expérimentés,[pause=10] {0} et {1} ouvriront la voie en duo.</value>
+  </data>
+  <data name="G3L5_100" xml:space="preserve">
+    <value>Leur rôle sera d'installer les camps de base où nous reposer après chaque donjon.</value>
+  </data>
+  <data name="G3L5_101" xml:space="preserve">
+    <value>Comptez sur nous,[pause=10] Maître de Guilde ![pause=0] Nous prendrons de l'avance et monterons ces camps !</value>
+  </data>
+  <data name="G3L5_102" xml:space="preserve">
+    <value>{0} et moi resterons en binôme et fermerons la marche.</value>
+  </data>
+  <data name="G3L5_103" xml:space="preserve">
+    <value>Ainsi,[pause=10] nous pourrons aider quiconque serait en difficulté dans un donjon.</value>
+  </data>
+  <data name="G3L5_104" xml:space="preserve">
+    <value>Les autres se répartiront en deux équipes.[pause=0] Nous changerons leur composition après chaque donjon.</value>
+  </data>
+  <data name="G3L5_105" xml:space="preserve">
+    <value>Deux équipes ?[pause=0] Mais nous sommes huit restants...</value>
+  </data>
+  <data name="G3L5_106" xml:space="preserve">
+    <value>Oh là ![pause=0] Ça veut dire qu'on fera équipe avec d'autres que notre partenaire habituel ?</value>
+  </data>
+  <data name="G3L5_107" xml:space="preserve">
+    <value>Oui ![pause=0] C'est une belle occasion de renforcer la cohésion ![pause=0] J'espère que vous apprendrez les uns des autres !</value>
+  </data>
+  <data name="G3L5_108" xml:space="preserve">
+    <value>Le surnombre rendra aussi les donjons mystères plus faciles à franchir !</value>
+  </data>
+  <data name="G3L5_109" xml:space="preserve">
+    <value>Mais pas d'inquiétude,[pause=10] je ne séparerai aucun duo.[pause=0] Je sais que vous explorez mieux avec votre partenaire !</value>
+  </data>
+  <data name="G3L5_110" xml:space="preserve">
+    <value>Nous voyagerons dans ces équipes jusqu'au camp suivant,[pause=10] où nous passerons la nuit.</value>
+  </data>
+  <data name="G3L5_111" xml:space="preserve">
+    <value>Au matin,[pause=10] nous parlerons stratégie et déciderons des nouvelles équipes pour le donjon suivant.</value>
+  </data>
+  <data name="G3L5_112" xml:space="preserve">
+    <value>Voilà qui couvre l'essentiel ![pause=0] Des questions ?</value>
+  </data>
+  <data name="G3L5_113" xml:space="preserve">
+    <value>On dirait que tout est en ordre ![pause=0] Nous sommes parés !</value>
+  </data>
+  <data name="G3L5_114" xml:space="preserve">
+    <value>Allez les Pokémon ![pause=0] Que l'expédition commence !</value>
+  </data>
+  <data name="G3L5_115" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L5_116" xml:space="preserve">
+    <value>{0},[pause=10] pourriez-vous expliquer le plan à tout le monde ?</value>
+  </data>
+  <data name="G3L5_117" xml:space="preserve">
+    <value>Bien entendu,[pause=10] Maître de Guilde.</value>
+  </data>
+  <data name="G3L5_118" xml:space="preserve">
+    <value>Comme le Maître de Guilde l'a expliqué l'autre jour,[pause=10] </value>
+  </data>
+  <data name="G3L5_119" xml:space="preserve">
+    <value>Oh,[pause=10] et {0}...</value>
+  </data>
+  <data name="G3L5_120" xml:space="preserve">
+    <value>Tu voyageras avec moi et {0}.</value>
+  </data>
+  <data name="G3L5_121" xml:space="preserve">
+    <value>Q-quoi !? M-mais ! P-pourquoi,[pause=10] wouf !?[script=0]</value>
+  </data>
+  <data name="G3L5_122" xml:space="preserve">
+    <value>Je veux partir à l'aventure avec tous les autres,[pause=10] wouf ![script=0]</value>
+  </data>
+  <data name="G3L5_123" xml:space="preserve">
+    <value>Tu sais comme je m'inquiète,[pause=10] {0}...[pause=0] Je te veux près de moi pour garder un œil sur toi.</value>
+  </data>
+  <data name="G3L5_124" xml:space="preserve">
+    <value>Je ne pars jamais à l'aventure avec {0} parce que tu me colles toujours de garde...</value>
+  </data>
+  <data name="G3L5_125" xml:space="preserve">
+    <value>J'attendais cette expédition avec impatience pour repartir à l'aventure avec lui et tous les autres.</value>
+  </data>
+  <data name="G3L5_126" xml:space="preserve">
+    <value>S'il te plaît,[pause=10] laisse-moi être dans les équipes avec tout le monde,[pause=10] wouf ![script=0]</value>
+  </data>
+  <data name="G3L5_127" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G3L5_128" xml:space="preserve">
+    <value>Bon,[pause=10] c'est le signal pour aller faire mes préparatifs.[pause=0] À tout à l'heure !</value>
+  </data>
+  <data name="G3L5_129" xml:space="preserve">
+    <value>Nous aussi on doit se préparer ![pause=0] Ooh,[pause=10] cette expédition va être génia-a-a-ale !</value>
+  </data>
 </root>
