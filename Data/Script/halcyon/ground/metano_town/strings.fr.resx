@@ -997,4 +997,460 @@
   <data name="MT1_044" xml:space="preserve">
     <value>Merci,[pause=10] {0} ![pause=0] Nous allons trouver {1} au deuxième étage alors !</value>
   </data>
+  <data name="MT2_001" xml:space="preserve">
+    <value>Je sais que la ville t'intrigue,[pause=10] mais nous devrions d'abord aller au Dojo Coxyclaque !</value>
+  </data>
+  <data name="MT2_002" xml:space="preserve">
+    <value>{0} a dit que le dojo se trouvait au bas d'une échelle, à l'est du pont de la guilde.</value>
+  </data>
+  <data name="MT2_003" xml:space="preserve">
+    <value>Je suis sûr que nous aurons le temps de visiter la ville après l'entraînement !</value>
+  </data>
+  <data name="MT2_004" xml:space="preserve">
+    <value>Je sais que la ville t'intrigue,[pause=10] mais nous devrions d'abord aller au Dojo Coxyclaque !</value>
+  </data>
+  <data name="MT2_005" xml:space="preserve">
+    <value>{0} a dit que le dojo se trouvait au bas d'une échelle, à l'est du pont de la guilde.</value>
+  </data>
+  <data name="MT2_006" xml:space="preserve">
+    <value>Je suis sûr que nous aurons le temps de visiter la ville après l'entraînement !</value>
+  </data>
+  <data name="MT2_007" xml:space="preserve">
+    <value>Entrons ![pause=0] Nous aurons le temps de visiter la ville après notre entraînement !</value>
+  </data>
+  <data name="MT2_008" xml:space="preserve">
+    <value>Tu devrais aller rencontrer quelques habitants ![pause=0] Il nous reste un peu de temps avant le dîner !</value>
+  </data>
+  <data name="MT2_009" xml:space="preserve">
+    <value>Faisons demi-tour.[pause=0] Nous devrions rentrer à la guilde dès que tu es prêt.</value>
+  </data>
+  <data name="MT2_010" xml:space="preserve">
+    <value>Faisons demi-tour.[pause=0] Nous devrions rentrer à la guilde dès que tu es prêt.</value>
+  </data>
+  <data name="MT2_011" xml:space="preserve">
+    <value>Faisons demi-tour.[pause=0] Allons au quartier résidentiel pour que tu rencontres quelques habitants !</value>
+  </data>
+  <data name="MT2_012" xml:space="preserve">
+    <value>{0} a dit que c'était au nord de la ville.[pause=0] Il faut sortir par la sortie nord !</value>
+  </data>
+  <data name="MT2_013" xml:space="preserve">
+    <value>Tu es prêt à partir ?</value>
+  </data>
+  <data name="MT2_014" xml:space="preserve">
+    <value>Bien,[pause=10] mettons-nous en route !</value>
+  </data>
+  <data name="MT2_015" xml:space="preserve">
+    <value>Allez ![pause=0] On y va, {0} !</value>
+  </data>
+  <data name="MT2_016" xml:space="preserve">
+    <value>C'est notre première mission ![pause=0] Nous pouvons y arriver,[pause=10] {0} !</value>
+  </data>
+  <data name="MT2_017" xml:space="preserve">
+    <value>OK.[pause=0] Retournons en ville nous préparer,[pause=10] et une fois prêts, mettons-nous en route.</value>
+  </data>
+  <data name="MT2_018" xml:space="preserve">
+    <value>Cet entraînement n'était pas si terrible ![pause=0] J'ai l'impression d'avoir beaucoup appris !</value>
+  </data>
+  <data name="MT2_019" xml:space="preserve">
+    <value>Nous devrions y retourner bientôt pour nous entraîner davantage !</value>
+  </data>
+  <data name="MT2_020" xml:space="preserve">
+    <value>Tu sais,[pause=10] il n'est pas encore si tard.[pause=0] Nous avons du temps avant de rentrer à la guilde !</value>
+  </data>
+  <data name="MT2_021" xml:space="preserve">
+    <value>C'est l'occasion parfaite pour te faire visiter le Bourg Metano !</value>
+  </data>
+  <data name="MT2_022" xml:space="preserve">
+    <value>Voyons voir,[pause=10] par où commencer...</value>
+  </data>
+  <data name="MT2_023" xml:space="preserve">
+    <value>Oh,[pause=10] mais bien sûr ![pause=0] Le marché ![pause=0] Il y a des tas de boutiques utiles là-bas !</value>
+  </data>
+  <data name="MT2_024" xml:space="preserve">
+    <value>C'est juste par ici ![pause=0] Suis-moi !</value>
+  </data>
+  <data name="MT2_025" xml:space="preserve">
+    <value>Voici le Marché du Bourg Metano ![pause=0] Il y a toutes sortes de boutiques formidables ici !</value>
+  </data>
+  <data name="MT2_026" xml:space="preserve">
+    <value>Ça, c'est la Boutique {0}.[pause=0] Elle est tenue par deux frères,[pause=10] {1} et {2}.</value>
+  </data>
+  <data name="MT2_027" xml:space="preserve">
+    <value>Ils vendent plein d'objets géniaux,[pause=10] surtout pour les aventuriers comme nous !</value>
+  </data>
+  <data name="MT2_028" xml:space="preserve">
+    <value>Là-bas, c'est la Réserve {0}.[pause=0] {1} veillera sur tous les objets que nous lui confions.</value>
+  </data>
+  <data name="MT2_029" xml:space="preserve">
+    <value>Si nous avons des objets que nous ne voulons pas perdre,[pause=10] nous pouvons les déposer là.</value>
+  </data>
+  <data name="MT2_030" xml:space="preserve">
+    <value>C'est aussi là que Maître {0} a envoyé les objets que nous avions au début de l'entraînement.</value>
+  </data>
+  <data name="MT2_031" xml:space="preserve">
+    <value>Pour les récupérer,[pause=10] il faudra parler à {0}.</value>
+  </data>
+  <data name="MT2_032" xml:space="preserve">
+    <value>{0}, là, tient un service d'ouverture.[pause=0] Elle peut ouvrir toutes les boîtes verrouillées que nous trouverons.</value>
+  </data>
+  <data name="MT2_033" xml:space="preserve">
+    <value>Si nous avons besoin d'ouvrir un trésor verrouillé,[pause=10] c'est elle qu'il faudra voir.</value>
+  </data>
+  <data name="MT2_034" xml:space="preserve">
+    <value>Par ici, nous avons la Banque Krow.</value>
+  </data>
+  <data name="MT2_035" xml:space="preserve">
+    <value>Nous pouvons y mettre notre argent à l'abri auprès de {0}.</value>
+  </data>
+  <data name="MT2_036" xml:space="preserve">
+    <value>Et voici {0}.[pause=0] Il est un peu distrait,[pause=10] mais il peut nous aider à réapprendre et oublier des capacités.</value>
+  </data>
+  <data name="MT2_037" xml:space="preserve">
+    <value>Et pour finir, la Boutique d'Échange de {0}.</value>
+  </data>
+  <data name="MT2_038" xml:space="preserve">
+    <value>On peut normalement y échanger des objets spéciaux avec {0},[pause=10] mais on dirait qu'il n'est pas là en ce moment.</value>
+  </data>
+  <data name="MT2_039" xml:space="preserve">
+    <value>Je crois qu'il y a quelques autres commerces en ville,[pause=10] mais voilà les principaux.</value>
+  </data>
+  <data name="MT2_040" xml:space="preserve">
+    <value>Nous devrions regarder certaines boutiques de plus près,[pause=10] puis aller à l'ouest de la ville.</value>
+  </data>
+  <data name="MT2_041" xml:space="preserve">
+    <value>C'est là que se trouvent les maisons.[pause=0] La plupart des habitants vivent là-bas.</value>
+  </data>
+  <data name="MT2_042" xml:space="preserve">
+    <value>Nous devrions avoir le temps de faire ça avant de rentrer dîner à la guilde.</value>
+  </data>
+  <data name="MT2_043" xml:space="preserve">
+    <value>Allez,[pause=10] faisons un tour !</value>
+  </data>
+  <data name="MT2_044" xml:space="preserve">
+    <value>Hé,[pause=10] {0},[pause=10] regarde là-bas !</value>
+  </data>
+  <data name="MT2_045" xml:space="preserve">
+    <value>Héhé,[pause=10] des enfants du coin jouent à chat.[pause=0] Ils sont mignons !</value>
+  </data>
+  <data name="MT2_046" xml:space="preserve">
+    <value>{0},[pause=10] c'est bientôt l'heure du dîner,[pause=10] mon chéri.</value>
+  </data>
+  <data name="MT2_047" xml:space="preserve">
+    <value>As-tu fini toutes tes corvées comme je te l'avais demandé ?</value>
+  </data>
+  <data name="MT2_048" xml:space="preserve">
+    <value>Non maman,[pause=10] j'ai joué avec {0} toute la journée.</value>
+  </data>
+  <data name="MT2_049" xml:space="preserve">
+    <value>Tu ne les as pas encore faites ?</value>
+  </data>
+  <data name="MT2_050" xml:space="preserve">
+    <value>Eh bien tu vas filer à la maison t'en occuper tout de suite,[pause=10] jeune homme !</value>
+  </data>
+  <data name="MT2_051" xml:space="preserve">
+    <value>Mais je veux paaas ![pause=0] Je déteste faire mes corvées !</value>
+  </data>
+  <data name="MT2_052" xml:space="preserve">
+    <value>{0},[pause=10] tu sais bien que tu dois aider à la maison maintenant...</value>
+  </data>
+  <data name="MT2_053" xml:space="preserve">
+    <value>Ne rends pas les choses difficiles, s'il te plaît...</value>
+  </data>
+  <data name="MT2_054" xml:space="preserve">
+    <value>Je m'en fiche ![pause=0] J'en ai marre de devoir faire toutes ces corvées tout le temps !</value>
+  </data>
+  <data name="MT2_055" xml:space="preserve">
+    <value>Je ne veux plus les faire ![pause=0] Je veux jouer avec {0} !</value>
+  </data>
+  <data name="MT2_056" xml:space="preserve">
+    <value>({0} fait une scène...[pause=0] Je ne veux pas passer pour une mauvaise mère devant les autres parents...)</value>
+  </data>
+  <data name="MT2_057" xml:space="preserve">
+    <value>(Il faut que je fasse quelque chose...)</value>
+  </data>
+  <data name="MT2_058" xml:space="preserve">
+    <value>{0},[pause=10] si tu ne rentres pas immédiatement finir tes corvées...[br]Tu seras privé de dîner ce soir, jeune homme !</value>
+  </data>
+  <data name="MT2_059" xml:space="preserve">
+    <value>M-mais... ![pause=0] M-mais... !</value>
+  </data>
+  <data name="MT2_060" xml:space="preserve">
+    <value>Pas de mais, jeune homme ![pause=0] File à la maison tout de suite !</value>
+  </data>
+  <data name="MT2_061" xml:space="preserve">
+    <value>C'est pas juste ![pause=0] J'en ai assez que tu me donnes des ordres tout le temps !</value>
+  </data>
+  <data name="MT2_062" xml:space="preserve">
+    <value>Je voudrais être grand pour ne plus jamais avoir à t'écouter !</value>
+  </data>
+  <data name="MT2_063" xml:space="preserve">
+    <value>Eh bien,[pause=10] en attendant ce jour,[pause=10] tu fais ce que je dis ![pause=0] Allez, au pas !</value>
+  </data>
+  <data name="MT2_064" xml:space="preserve">
+    <value>Hmmph !</value>
+  </data>
+  <data name="MT2_065" xml:space="preserve">
+    <value>Haaah...[pause=0] Je ne sais plus quoi faire de ce garçon...</value>
+  </data>
+  <data name="MT2_066" xml:space="preserve">
+    <value>Je n'aime jamais voir des familles se disputer,[pause=10] mais j'imagine que c'est inévitable.</value>
+  </data>
+  <data name="MT2_067" xml:space="preserve">
+    <value>Enfin,[pause=10] on n'y peut rien.[pause=0] J'espère qu'ils se réconcilieront vite.</value>
+  </data>
+  <data name="MT2_068" xml:space="preserve">
+    <value>Bref,[pause=10] c'est dans cette partie de la ville que vivent la plupart des habitants.</value>
+  </data>
+  <data name="MT2_069" xml:space="preserve">
+    <value>Les Pokémon d'ici sont plutôt gentils et accueillants,[pause=10] les scènes comme celle-là sont rares.</value>
+  </data>
+  <data name="MT2_070" xml:space="preserve">
+    <value>Oh,[pause=10] et quand tu auras fini d'explorer la ville,[pause=10] nous pourrons rentrer à la guilde.</value>
+  </data>
+  <data name="MT2_071" xml:space="preserve">
+    <value>Ce sera sûrement bientôt l'heure du dîner !</value>
+  </data>
+  <data name="MT2_072" xml:space="preserve">
+    <value>Le dojo m'a ouvert l'appétit aujourd'hui,[pause=10] et toi aussi sûrement !</value>
+  </data>
+  <data name="MT2_073" xml:space="preserve">
+    <value>C'est par l'échelle près de la rivière, là-bas !</value>
+  </data>
+  <data name="MT2_074" xml:space="preserve">
+    <value>Traversez le pont,[pause=10] puis allez vers l'est,[pause=10] wouf !</value>
+  </data>
+  <data name="MT2_075" xml:space="preserve">
+    <value>Il reste un peu de temps avant le dîner ![pause=0] J'espère que {0} prépare quelque chose de bon,[pause=10] wouf !</value>
+  </data>
+  <data name="MT2_076" xml:space="preserve">
+    <value>C'est bientôt l'heure du dîner,[pause=10] wouf ![pause=0] Ne le ratez pas ou vous aurez le ventre vide !</value>
+  </data>
+  <data name="MT2_077" xml:space="preserve">
+    <value>C'est rare de voir les habitants dans un état pareil...[pause=0]\nJ'espère que tout va bien,[pause=10] wouf...</value>
+  </data>
+  <data name="MT2_078" xml:space="preserve">
+    <value>En tout cas,[pause=10] bonne chance pour la mission, vous deux ![pause=0] Je sais que vous pouvez y arriver,[pause=10] wouf !</value>
+  </data>
+  <data name="MT2_079" xml:space="preserve">
+    <value>Qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_080" xml:space="preserve">
+    <value>Je sais pas,[pause=10] qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_081" xml:space="preserve">
+    <value>Je sais pas,[pause=10] qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_082" xml:space="preserve">
+    <value>Je sais pas,[pause=10] qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_083" xml:space="preserve">
+    <value>Vous allez ARRÊTER, vous deux ?!</value>
+  </data>
+  <data name="MT2_084" xml:space="preserve">
+    <value>Ça fait des heures qu'on essaie de décider quoi faire et la journée est presque finie !</value>
+  </data>
+  <data name="MT2_085" xml:space="preserve">
+    <value>Vous ne pouvez pas juste choisir quelque chose,[pause=10] PITIÉ ?</value>
+  </data>
+  <data name="MT2_086" xml:space="preserve">
+    <value>Mais je veux juste savoir ce que {0} veut faire aujourd'hui !</value>
+  </data>
+  <data name="MT2_087" xml:space="preserve">
+    <value>Et moi je veux juste savoir ce que {0} veut faire aujourd'hui !</value>
+  </data>
+  <data name="MT2_088" xml:space="preserve">
+    <value>Qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_089" xml:space="preserve">
+    <value>Je sais pas,[pause=10] qu'est-ce que tu veux faire aujourd'hui,[pause=10] {0} ?</value>
+  </data>
+  <data name="MT2_090" xml:space="preserve">
+    <value>Pfff...</value>
+  </data>
+  <data name="MT2_091" xml:space="preserve">
+    <value>Dis {0},[pause=10] tu as vu {1} quelque part aujourd'hui ?</value>
+  </data>
+  <data name="MT2_092" xml:space="preserve">
+    <value>Non {0}...[pause=0] Je ne l'ai pas vu de la journée !</value>
+  </data>
+  <data name="MT2_093" xml:space="preserve">
+    <value>Où peut-il bien être ?[pause=0] On a besoin de lui pour décider ce qu'on fait aujourd'hui !</value>
+  </data>
+  <data name="MT2_094" xml:space="preserve">
+    <value>Je sais pas...[pause=0] J'espère qu'il va vite arriver pour qu'on puisse commencer à y réfléchir !</value>
+  </data>
+  <data name="MT2_095" xml:space="preserve">
+    <value>..........</value>
+  </data>
+  <data name="MT2_096" xml:space="preserve">
+    <value>...ZZZzzz...</value>
+  </data>
+  <data name="MT2_097" xml:space="preserve">
+    <value>Elle semble s'être endormie en pleine méditation.</value>
+  </data>
+  <data name="MT2_098" xml:space="preserve">
+    <value>Mais pense je ne que c'est vraiment fait pour moi...[pause=0] Cliquer juste ne fait vraiment...</value>
+  </data>
+  <data name="MT2_099" xml:space="preserve">
+    <value>On a fait tout ce chemin depuis l'extérieur de la ville pour rien,[pause=10] alors ?</value>
+  </data>
+  <data name="MT2_100" xml:space="preserve">
+    <value>Espérons que ce ne sera plus trop long.</value>
+  </data>
+  <data name="MT2_101" xml:space="preserve">
+    <value>...Oh...[pause=0] Je n'aurai pas ma précieuse boisson aujourd'hui...</value>
+  </data>
+  <data name="MT2_102" xml:space="preserve">
+    <value>...Oh...[pause=0] Je dépéris à vue d'œil...</value>
+  </data>
+  <data name="MT2_103" xml:space="preserve">
+    <value>Hou...[pause=0] J'te jure,[pause=10] ça doit être vraiment rude pour {0}.</value>
+  </data>
+  <data name="MT2_104" xml:space="preserve">
+    <value>Après...[pause=0] enfin,[pause=10] tu sais bien...</value>
+  </data>
+  <data name="MT2_105" xml:space="preserve">
+    <value>Et maintenant elle a des soucis avec {0}...</value>
+  </data>
+  <data name="MT2_106" xml:space="preserve">
+    <value>Hmmph...[pause=0] Peu importe ce qui s'est passé.</value>
+  </data>
+  <data name="MT2_107" xml:space="preserve">
+    <value>Si son fils se comporte ainsi avec elle,[pause=10] c'est de sa faute à elle.</value>
+  </data>
+  <data name="MT2_108" xml:space="preserve">
+    <value>Je ne crois pas que ce soit aussi simple dans ce cas,[pause=10] mon vieux...</value>
+  </data>
+  <data name="MT2_109" xml:space="preserve">
+    <value>Ce pauvre Pokémon a traversé tant d'épreuves ces derniers temps...[pause=0] Toute la ville doit faire son possible pour le retrouver !</value>
+  </data>
+  <data name="MT2_110" xml:space="preserve">
+    <value>{0} a été trop tendre.[pause=0] Forcément, son enfant ne lui obéit pas et finit par fuguer.</value>
+  </data>
+  <data name="MT2_111" xml:space="preserve">
+    <value>Si votre enfant ne vous respecte pas,[pause=10] il n'en fera qu'à sa tête.</value>
+  </data>
+  <data name="MT2_112" xml:space="preserve">
+    <value>...[pause=30]...Nul.</value>
+  </data>
+  <data name="MT2_113" xml:space="preserve">
+    <value>Oh ![pause=0] Euh...[pause=0] Je veux dire...</value>
+  </data>
+  <data name="MT2_114" xml:space="preserve">
+    <value>Pffff...[pause=0] Des aventuriers ?[pause=0] C'est...[pause=0] euh...[pause=0] débile !</value>
+  </data>
+  <data name="MT2_115" xml:space="preserve">
+    <value>Il a eu beaucoup de corvées ces derniers temps.[pause=0] On ne joue plus autant qu'avant...</value>
+  </data>
+  <data name="MT2_116" xml:space="preserve">
+    <value>Si j'étais grand, je n'aurais plus à faire ces corvées débiles...</value>
+  </data>
+  <data name="MT2_117" xml:space="preserve">
+    <value>On dit que si on jette un {0} et qu'on fait un vœu,[pause=10] il se réalise à tous les coups !</value>
+  </data>
+  <data name="MT2_118" xml:space="preserve">
+    <value>Mais je commence à croire qu'on m'a raconté des salades...</value>
+  </data>
+  <data name="MT2_119" xml:space="preserve">
+    <value>Je suis là depuis ce matin à jeter des {0} et il ne s'est rien passé !</value>
+  </data>
+  <data name="MT2_120" xml:space="preserve">
+    <value>Où est mon grand château avec ses douves géantes ?[pause=0] Je m'y prends mal ou quoi ?</value>
+  </data>
+  <data name="MT2_121" xml:space="preserve">
+    <value>Les jolies fleurs rendent tout plus beau ![pause=0] Et s'en occuper est une récompense en soi !</value>
+  </data>
+  <data name="MT2_122" xml:space="preserve">
+    <value>Elle avait l'air triste.[pause=0] J'espère qu'on retrouvera vite {0} !</value>
+  </data>
+  <data name="MT2_123" xml:space="preserve">
+    <value>J'apporterai des fleurs chez {0} plus tard pour lui remonter le moral.[pause=0] Les fleurs me remontent toujours le moral !</value>
+  </data>
+  <data name="MT2_124" xml:space="preserve">
+    <value>J'espère que {0} rentrera vite pour que tout le monde retrouve le sourire !</value>
+  </data>
+  <data name="MT2_125" xml:space="preserve">
+    <value>{0} ira peut-être nager dans la rivière après le dîner ![pause=0] {1} adore l'eau fraîche !</value>
+  </data>
+  <data name="MT2_126" xml:space="preserve">
+    <value>{0} ne pas connaître la réponse...[pause=0] Mais {1} espère qu'on la connaîtra bientôt !</value>
+  </data>
+  <data name="MT2_127" xml:space="preserve">
+    <value>Hé,[pause=10] {0} ![pause=0] Comment ça va ?</value>
+  </data>
+  <data name="MT2_128" xml:space="preserve">
+    <value>J'ai appris la bonne nouvelle ![pause=0] Félicitations pour ton entrée à la guilde !</value>
+  </data>
+  <data name="MT2_129" xml:space="preserve">
+    <value>Merci {0} ![pause=0] Je suis tout excité !</value>
+  </data>
+  <data name="MT2_130" xml:space="preserve">
+    <value>Comment as-tu fait pour l'apprendre si vite, d'ailleurs ?</value>
+  </data>
+  <data name="MT2_131" xml:space="preserve">
+    <value>Oh,[pause=10] tu me connais,[pause=10] j'ai mes méthodes ![pause=0] Les nouvelles n'échappent pas longtemps à mes oreilles !</value>
+  </data>
+  <data name="MT2_132" xml:space="preserve">
+    <value>Ce doit être ton partenaire alors ![pause=0]</value>
+  </data>
+  <data name="MT2_133" xml:space="preserve">
+    <value>J'ai appris la bonne nouvelle ![pause=0] Félicitations pour votre entrée à la guilde,[pause=10] tous les deux !</value>
+  </data>
+  <data name="MT2_134" xml:space="preserve">
+    <value>Merci,[pause=10] {0} ![pause=0] Je suis tout excité !</value>
+  </data>
+  <data name="MT2_135" xml:space="preserve">
+    <value>Je suis ravie pour vous ![pause=0] L'apprentissage à la guilde est une opportunité merveilleuse !</value>
+  </data>
+  <data name="MT2_136" xml:space="preserve">
+    <value>Bonne chance pour vos futures aventures ![pause=0] Racontez-moi tout, promis ?</value>
+  </data>
+  <data name="MT2_137" xml:space="preserve">
+    <value>Dans une ville aussi petite et soudée,[pause=10] ce genre de nouvelle se répand comme une traînée de poudre.</value>
+  </data>
+  <data name="MT2_138" xml:space="preserve">
+    <value>J'aime penser que « cadence », ça veut dire « ça danse » ![pause=0] Alors,[pause=10] ça danse avec moi ? {0}</value>
+  </data>
+  <data name="MT2_139" xml:space="preserve">
+    <value>Il y a plein d'espace,[pause=10] et {0}, près de l'arbre, joue la meilleure musique ![pause=0] Je ne me lasse pas de ses mélodies !</value>
+  </data>
+  <data name="MT2_140" xml:space="preserve">
+    <value>{0} et moi nous reposons ici après avoir attrapé les vilain-un-uns du jour !</value>
+  </data>
+  <data name="MT2_141" xml:space="preserve">
+    <value>On repart à la guilde dans un petit moment.[pause=0]\nÀ ce soir au dîner !</value>
+  </data>
+  <data name="MT2_142" xml:space="preserve">
+    <value>Pas que tu saches ce que c'est, une longue journée de travail !</value>
+  </data>
+  <data name="MT2_143" xml:space="preserve">
+    <value>Je viens au puits après coup pour repêcher les {0}.</value>
+  </data>
+  <data name="MT2_144" xml:space="preserve">
+    <value>J'ai essayé de lui expliquer que les puits à vœux ne sont pas vraiment magiques,[pause=10] mais je ne crois pas qu'il comprenne.</value>
+  </data>
+  <data name="MT2_145" xml:space="preserve">
+    <value>Oh,[pause=10] c'est formidable.[pause=0] J'ai pu appliquer certaines de ses méthodes pour atteindre un état d'esprit plus paisible.</value>
+  </data>
+  <data name="MT2_146" xml:space="preserve">
+    <value>Même s'il est devenu plus difficile de garder la tête froide ces derniers temps...</value>
+  </data>
+  <data name="MT2_147" xml:space="preserve">
+    <value>Pour moi aussi c'est plus dur dernièrement.[pause=0] Surtout avec la disparition de {0} qui me pèse sur l'esprit...</value>
+  </data>
+  <data name="MT2_148" xml:space="preserve">
+    <value>S'il arrivait quelque chose à mon précieux {0}...[pause=0]\nJe ne sais pas ce que je ferais !</value>
+  </data>
+  <data name="MT2_149" xml:space="preserve">
+    <value>Le monde devient vraiment de plus en plus dangereux...[pause=0] Mais qu'est-ce qu'on peut y faire ?</value>
+  </data>
+  <data name="MT2_150" xml:space="preserve">
+    <value>En tout cas, j'espère que ce petit sera vite ramené chez lui !</value>
+  </data>
+  <data name="MT2_151" xml:space="preserve">
+    <value>Je ne connais que trop bien les misères d'un estomac vide.</value>
+  </data>
+  <data name="MT2_152" xml:space="preserve">
+    <value>On dirait qu'il n'y a jamais assez d'aventuriers pour tout le travail du monde,[pause=10] pas vrai ?</value>
+  </data>
 </root>
