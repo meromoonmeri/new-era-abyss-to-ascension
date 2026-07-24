@@ -342,6 +342,2340 @@
   <data name="SIGN_TUTORIAL_5_4" xml:space="preserve">
     <value>Appuyez sur {0} pour activer le Mode Équipe. Vous contrôlez alors toute l'équipe, tour par tour.</value>
   </data>
+  <data name="TALK_CANT" xml:space="preserve">
+    <value>[myname] ne peut pas parler pour le moment.</value>
+  </data>
+  <data name="TALK_FULL_0000" xml:space="preserve">
+    <value>Donnons le meilleur de nous-mêmes !</value>
+  </data>
+  <data name="TALK_FULL_0001" xml:space="preserve">
+    <value>Entraidons-nous pour bien nous en sortir !</value>
+  </data>
+  <data name="TALK_FULL_0002" xml:space="preserve">
+    <value>Relevons ce défi calmement et sûrement.</value>
+  </data>
+  <data name="TALK_FULL_0003" xml:space="preserve">
+    <value>Ce serait bien de trouver ne serait-ce qu'un objet [item].</value>
+  </data>
+  <data name="TALK_FULL_0004" xml:space="preserve">
+    <value>Restons à l'affût du moindre [kind] !</value>
+  </data>
+  <data name="TALK_FULL_0005" xml:space="preserve">
+    <value>Je te couvre, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0006" xml:space="preserve">
+    <value>Je t'épaulerai avec ma capacité [move], [player] !</value>
+  </data>
+  <data name="TALK_FULL_0007" xml:space="preserve">
+    <value>Je te suivrai, [player].</value>
+  </data>
+  <data name="TALK_FULL_0008" xml:space="preserve">
+    <value>Trouvons plein de bonnes choses !</value>
+  </data>
+  <data name="TALK_FULL_0009" xml:space="preserve">
+    <value>Je me demande ce qui nous attend plus loin.</value>
+  </data>
+  <data name="TALK_FULL_0010" xml:space="preserve">
+    <value>C'est amusant d'explorer, pas vrai ?</value>
+  </data>
+  <data name="TALK_FULL_0011" xml:space="preserve">
+    <value>J'ai le pressentiment qu'on va trouver un trésor !</value>
+  </data>
+  <data name="TALK_FULL_0020" xml:space="preserve">
+    <value>Je suis heureux d'explorer avec toi, [player].</value>
+  </data>
+  <data name="TALK_FULL_0021" xml:space="preserve">
+    <value>Je vais te montrer à quel point je peux être utile, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0022" xml:space="preserve">
+    <value>Donnons notre maximum sur ce coup, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0023" xml:space="preserve">
+    <value>Je t'assisterai de mon mieux avec ma capacité [move], [player].</value>
+  </data>
+  <data name="TALK_FULL_0024" xml:space="preserve">
+    <value>Faisons tout notre possible pour trouver un objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0025" xml:space="preserve">
+    <value>Je me demande bien quelles découvertes nous attendent cette fois !</value>
+  </data>
+  <data name="TALK_FULL_0026" xml:space="preserve">
+    <value>Je soupçonne que les [kind] seront difficiles à gérer.</value>
+  </data>
+  <data name="TALK_FULL_0040" xml:space="preserve">
+    <value>C'est un peu effrayant, mais je ferai de mon mieux pour suivre, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0041" xml:space="preserve">
+    <value>Ne nous mets pas dans le pétrin, s'il te plaît !</value>
+  </data>
+  <data name="TALK_FULL_0042" xml:space="preserve">
+    <value>On devrait partir si ça devient trop dangereux, non ?</value>
+  </data>
+  <data name="TALK_FULL_0043" xml:space="preserve">
+    <value>Ooh, les [kind] d'ici ? Ça fait si peur !</value>
+  </data>
+  <data name="TALK_FULL_0044" xml:space="preserve">
+    <value>N-ne me laisse pas derrière, pitié !</value>
+  </data>
+  <data name="TALK_FULL_0045" xml:space="preserve">
+    <value>N-ne m'abandonne pas, pitié !</value>
+  </data>
+  <data name="TALK_FULL_0046" xml:space="preserve">
+    <value>Je me sens un peu plus en sécurité avec toi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0047" xml:space="preserve">
+    <value>J'espère vraiment qu'on trouvera au moins un objet [item].</value>
+  </data>
+  <data name="TALK_FULL_0048" xml:space="preserve">
+    <value>Pardon d'être si craintif...</value>
+  </data>
+  <data name="TALK_FULL_0049" xml:space="preserve">
+    <value>Je n'aime pas me battre. Mais pour toi... je ferai de mon mieux !</value>
+  </data>
+  <data name="TALK_FULL_0060" xml:space="preserve">
+    <value>Tu sais, l'imprudence peut être notre pire ennemie...</value>
+  </data>
+  <data name="TALK_FULL_0061" xml:space="preserve">
+    <value>Tu sais, on devrait toujours voir avec plus que nos seuls yeux...</value>
+  </data>
+  <data name="TALK_FULL_0062" xml:space="preserve">
+    <value>Je te soutiendrai avec ma capacité [move], [player].</value>
+  </data>
+  <data name="TALK_FULL_0063" xml:space="preserve">
+    <value>Mieux vaut réfléchir avant d'agir, tu ne crois pas ?</value>
+  </data>
+  <data name="TALK_FULL_0064" xml:space="preserve">
+    <value>Tu peux compter sur moi pour veiller sur toi, [player].</value>
+  </data>
+  <data name="TALK_FULL_0065" xml:space="preserve">
+    <value>Étudie ton ennemi de près, et tu sauras toujours quoi faire...</value>
+  </data>
+  <data name="TALK_FULL_0066" xml:space="preserve">
+    <value>Savoir se retirer fait partie de toute stratégie gagnante, vois-tu...</value>
+  </data>
+  <data name="TALK_FULL_0080" xml:space="preserve">
+    <value>Un peu de sagesse, hein ? Rien ne sert de courir, la persévérance paie toujours...</value>
+  </data>
+  <data name="TALK_FULL_0081" xml:space="preserve">
+    <value>De la sagesse, hein ? Les fous se précipitent, les vainqueurs avancent en s'interrogeant...</value>
+  </data>
+  <data name="TALK_FULL_0082" xml:space="preserve">
+    <value>Sois tranquille. Ma fidèle capacité [move] te viendra en aide, [player]...</value>
+  </data>
+  <data name="TALK_FULL_0083" xml:space="preserve">
+    <value>Nous finirons sûrement par trouver un objet [item]...</value>
+  </data>
+  <data name="TALK_FULL_0084" xml:space="preserve">
+    <value>Garde l'œil ouvert pour tout [kind]...</value>
+  </data>
+  <data name="TALK_FULL_0085" xml:space="preserve">
+    <value>Je surveillerai nos arrières, [player]...</value>
+  </data>
+  <data name="TALK_FULL_0086" xml:space="preserve">
+    <value>J'ai fait ça tant de fois, et pourtant le plaisir reste intact...</value>
+  </data>
+  <data name="TALK_FULL_0100" xml:space="preserve">
+    <value>Où que tu ailles, je te suivrai, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0101" xml:space="preserve">
+    <value>Impossible ? [myname] ne connaît pas le sens du mot « impossible » !</value>
+  </data>
+  <data name="TALK_FULL_0102" xml:space="preserve">
+    <value>Tu seras témoin de la puissance de ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_0103" xml:space="preserve">
+    <value>Bah ! Ces [kind] ne sont guère des adversaires dignes de moi !</value>
+  </data>
+  <data name="TALK_FULL_0104" xml:space="preserve">
+    <value>Garde l'objectif en tête ! Oui, je nous vois déjà trouver cet objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0120" xml:space="preserve">
+    <value>Palpitant... Explorer...</value>
+  </data>
+  <data name="TALK_FULL_0121" xml:space="preserve">
+    <value>Trésor... Trouver... Trouver...</value>
+  </data>
+  <data name="TALK_FULL_0122" xml:space="preserve">
+    <value>Ma capacité aidera... Ma capacité [move]... pour [player]...</value>
+  </data>
+  <data name="TALK_FULL_0123" xml:space="preserve">
+    <value>Vaincre... tous les [kind] !</value>
+  </data>
+  <data name="TALK_FULL_0124" xml:space="preserve">
+    <value>Trouver [item]... Trouver [item]...</value>
+  </data>
+  <data name="TALK_FULL_0125" xml:space="preserve">
+    <value>Amusant... amusant... Si amusant... avec [player]...</value>
+  </data>
+  <data name="TALK_FULL_0126" xml:space="preserve">
+    <value>Devant... Devant... Qu'y a-t-il... devant... ?</value>
+  </data>
+  <data name="TALK_FULL_0140" xml:space="preserve">
+    <value>Je te couvre, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0141" xml:space="preserve">
+    <value>Laisse-moi me charger du plus dur !</value>
+  </data>
+  <data name="TALK_FULL_0142" xml:space="preserve">
+    <value>Ouais ! Personne ne peut tenir tête à une équipe aussi douée que la nôtre !</value>
+  </data>
+  <data name="TALK_FULL_0143" xml:space="preserve">
+    <value>Il nous faut cet objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0144" xml:space="preserve">
+    <value>Ha ! Ces [kind] ? De la petite bière !</value>
+  </data>
+  <data name="TALK_FULL_0145" xml:space="preserve">
+    <value>Ne sois pas surpris si ma superbe capacité [move] nous sauve la mise.</value>
+  </data>
+  <data name="TALK_FULL_0146" xml:space="preserve">
+    <value>Oh ouais ! Explorer, c'est génial ! Que demander de plus ?</value>
+  </data>
+  <data name="TALK_FULL_0147" xml:space="preserve">
+    <value>Je dois admettre que tu te débrouilles pas mal non plus !</value>
+  </data>
+  <data name="TALK_FULL_0160" xml:space="preserve">
+    <value>Mettons cette exploration en route !</value>
+  </data>
+  <data name="TALK_FULL_0161" xml:space="preserve">
+    <value>Ce genre d'exploration n'est pas si mal... de temps en temps !</value>
+  </data>
+  <data name="TALK_FULL_0162" xml:space="preserve">
+    <value>Ne me confonds pas avec l'ennemi, d'accord ?</value>
+  </data>
+  <data name="TALK_FULL_0163" xml:space="preserve">
+    <value>Ce serait génial de dégoter un objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0180" xml:space="preserve">
+    <value>C'est agréable de partir explorer !</value>
+  </data>
+  <data name="TALK_FULL_0181" xml:space="preserve">
+    <value>Où va-t-on ensuite ? Je te suivrai n'importe où, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0182" xml:space="preserve">
+    <value>Je consacrerai ma capacité [move] à t'aider, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0183" xml:space="preserve">
+    <value>Trouver un objet [item] ? Super !</value>
+  </data>
+  <data name="TALK_FULL_0184" xml:space="preserve">
+    <value>Oooh ! Quels trésors allons-nous découvrir ? Je suis tout excité !</value>
+  </data>
+  <data name="TALK_FULL_0200" xml:space="preserve">
+    <value>Ne me ralentis pas, hein !</value>
+  </data>
+  <data name="TALK_FULL_0201" xml:space="preserve">
+    <value>On continue d'avancer ! Allez ! On va leur montrer comment on fait !</value>
+  </data>
+  <data name="TALK_FULL_0202" xml:space="preserve">
+    <value>Je cognerai quiconque se met en travers de notre route, crois-moi !</value>
+  </data>
+  <data name="TALK_FULL_0203" xml:space="preserve">
+    <value>Je le sens ! Quelque part ! Cet objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0204" xml:space="preserve">
+    <value>Si tu crois que je pars sans notre trésor, tu te trompes lourdement !</value>
+  </data>
+  <data name="TALK_FULL_0205" xml:space="preserve">
+    <value>Personne ne manie la capacité [move] mieux que moi !</value>
+  </data>
+  <data name="TALK_FULL_0206" xml:space="preserve">
+    <value>Euh, quoi ? Qu'est-ce que tu veux ?</value>
+  </data>
+  <data name="TALK_FULL_0220" xml:space="preserve">
+    <value>Dis, je voulais te demander ! Euh... J'espère que je me rends utile ?</value>
+  </data>
+  <data name="TALK_FULL_0221" xml:space="preserve">
+    <value>J'explorerai du mieux que je peux !</value>
+  </data>
+  <data name="TALK_FULL_0222" xml:space="preserve">
+    <value>Hé, ne sous-estime pas ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_0223" xml:space="preserve">
+    <value>Il faudra surveiller nos arrières face au moindre [kind] !</value>
+  </data>
+  <data name="TALK_FULL_0224" xml:space="preserve">
+    <value>Hmm ? Serait-ce l'odeur d'un objet [item] dans l'air ?</value>
+  </data>
+  <data name="TALK_FULL_0225" xml:space="preserve">
+    <value>Tu es vraiment quelqu'un de bien, pas vrai, [player] ?</value>
+  </data>
+  <data name="TALK_FULL_0226" xml:space="preserve">
+    <value>Allons nous chercher un trésor !</value>
+  </data>
+  <data name="TALK_FULL_0227" xml:space="preserve">
+    <value>Zzzz... Zzzz...</value>
+  </data>
+  <data name="TALK_FULL_0228" xml:space="preserve">
+    <value>Tu dois avoir faim, non ?</value>
+  </data>
+  <data name="TALK_FULL_0240" xml:space="preserve">
+    <value>Tu peux PARIER que je vais me démener !</value>
+  </data>
+  <data name="TALK_FULL_0241" xml:space="preserve">
+    <value>Je BRÛLE d'envie de continuer !</value>
+  </data>
+  <data name="TALK_FULL_0242" xml:space="preserve">
+    <value>Je ne suis pas joli-joli, mais je fais toujours le BOULOT !</value>
+  </data>
+  <data name="TALK_FULL_0243" xml:space="preserve">
+    <value>Allons REPÉRER ça ! Où est cet objet [item] ?</value>
+  </data>
+  <data name="TALK_FULL_0244" xml:space="preserve">
+    <value>Ces [kind] ? Fais bien GAFFE !</value>
+  </data>
+  <data name="TALK_FULL_0245" xml:space="preserve">
+    <value>Tu peux toujours compter sur MOI, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0246" xml:space="preserve">
+    <value>Qui ne tente rien n'a RIEN ! Et ma capacité [move], c'est du CRAN tout craché !</value>
+  </data>
+  <data name="TALK_FULL_0247" xml:space="preserve">
+    <value>Quelle FÊTE d'explorer avec toi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0248" xml:space="preserve">
+    <value>Ne m'en veux pas ! Je pourrais t'ÉCRASER par accident !</value>
+  </data>
+  <data name="TALK_FULL_0249" xml:space="preserve">
+    <value>Réveille-moi si je me mets à faire des ZZZZ !</value>
+  </data>
+  <data name="TALK_FULL_0250" xml:space="preserve">
+    <value>Quelle ÉNERGIE tu as ! Je suis impressionné, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0251" xml:space="preserve">
+    <value>Pour toi, je ferais N'IMPORTE QUOI, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0252" xml:space="preserve">
+    <value>Gah, ne me FIXE pas comme ça ! Tu me gênes !</value>
+  </data>
+  <data name="TALK_FULL_0260" xml:space="preserve">
+    <value>Aucune inquiétude à avoir, mon cher [player] !</value>
+  </data>
+  <data name="TALK_FULL_0261" xml:space="preserve">
+    <value>Peu importe le nombre d'explorations à ton actif. C'est toujours profitable !</value>
+  </data>
+  <data name="TALK_FULL_0262" xml:space="preserve">
+    <value>Quand je me fâche... je peux être terrifiant ! Crois-moi sur parole !</value>
+  </data>
+  <data name="TALK_FULL_0263" xml:space="preserve">
+    <value>Bien ! Commençons par trouver cet objet [item] !</value>
+  </data>
+  <data name="TALK_FULL_0264" xml:space="preserve">
+    <value>Oh ! Ces [kind] sont une nuisance des plus déplaisantes.</value>
+  </data>
+  <data name="TALK_FULL_0265" xml:space="preserve">
+    <value>Je te garderai bien en sécurité avec ma capacité [move], [player].</value>
+  </data>
+  <data name="TALK_FULL_0266" xml:space="preserve">
+    <value>Nous repartirons chargés de trésors en tout genre !</value>
+  </data>
+  <data name="TALK_FULL_0267" xml:space="preserve">
+    <value>Je me demande bien... ce qui nous attend plus loin ?</value>
+  </data>
+  <data name="TALK_FULL_0268" xml:space="preserve">
+    <value>Si on croise un objet [item], je... eh bien... je...</value>
+  </data>
+  <data name="TALK_FULL_0280" xml:space="preserve">
+    <value>Laisse-moi couvrir tes arrières, tu veux bien, [player] ?</value>
+  </data>
+  <data name="TALK_FULL_0281" xml:space="preserve">
+    <value>On va où ensuite ? Il faut te décider !</value>
+  </data>
+  <data name="TALK_FULL_0282" xml:space="preserve">
+    <value>Oh ouais ! Attention ! Je vais lâcher ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_0283" xml:space="preserve">
+    <value>Ces [kind] ? Des cibles faciles !</value>
+  </data>
+  <data name="TALK_FULL_0284" xml:space="preserve">
+    <value>C'est toujours un régal d'explorer, tu ne trouves pas ?</value>
+  </data>
+  <data name="TALK_FULL_0285" xml:space="preserve">
+    <value>Tu es vraiment doué. Je suis impressionné !</value>
+  </data>
+  <data name="TALK_FULL_0300" xml:space="preserve">
+    <value>Étudie ton ennemi avant d'agir, d'accord ?</value>
+  </data>
+  <data name="TALK_FULL_0301" xml:space="preserve">
+    <value>Avançons prudemment et sûrement, d'accord ?</value>
+  </data>
+  <data name="TALK_FULL_0302" xml:space="preserve">
+    <value>Fais-moi confiance. Je donnerai le meilleur pour l'équipe, [player].</value>
+  </data>
+  <data name="TALK_FULL_0303" xml:space="preserve">
+    <value>J'emploierai ma capacité [move] pour l'équipe, [player].</value>
+  </data>
+  <data name="TALK_FULL_0304" xml:space="preserve">
+    <value>Que peut-il bien y avoir au-delà ?</value>
+  </data>
+  <data name="TALK_FULL_0305" xml:space="preserve">
+    <value>Je suis certain que nous trouverons cet objet [item].</value>
+  </data>
+  <data name="TALK_FULL_0320" xml:space="preserve">
+    <value>L'exploration n'a que des bons côtés, ça c'est sûr !</value>
+  </data>
+  <data name="TALK_FULL_0321" xml:space="preserve">
+    <value>Puis-je suggérer de ratisser l'étage de fond en comble à la recherche de trésors ?</value>
+  </data>
+  <data name="TALK_FULL_0322" xml:space="preserve">
+    <value>Je suis là pour t'apporter mon meilleur soutien, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0323" xml:space="preserve">
+    <value>Tu peux compter sur moi pour dénicher des objets de valeur !</value>
+  </data>
+  <data name="TALK_FULL_0324" xml:space="preserve">
+    <value>Mmm-hmm... Je sens un objet [item] quelque part par ici.</value>
+  </data>
+  <data name="TALK_FULL_0325" xml:space="preserve">
+    <value>On partage bien le trésor équitablement, n'est-ce pas ?</value>
+  </data>
+  <data name="TALK_FULL_0326" xml:space="preserve">
+    <value>Une chose est sûre, le moindre [kind] sera un sérieux problème.</value>
+  </data>
+  <data name="TALK_FULL_0327" xml:space="preserve">
+    <value>Il n'y a rien que je ne ferais pas pour un trésor !</value>
+  </data>
+  <data name="TALK_FULL_0640" xml:space="preserve">
+    <value>Hourra pour nous, [player] ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0641" xml:space="preserve">
+    <value>Je ferai de mon mieux ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0642" xml:space="preserve">
+    <value>Je déborde d'énergie ! \u266A Je suis fin prêt ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0643" xml:space="preserve">
+    <value>Les [kind], c'est du costaud ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0644" xml:space="preserve">
+    <value>Oh ! On va par où ? \u266A</value>
+  </data>
+  <data name="TALK_FULL_0645" xml:space="preserve">
+    <value>Je pétille de joie ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0646" xml:space="preserve">
+    <value>Donnons le meilleur ensemble ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0647" xml:space="preserve">
+    <value>Youpi ! Explorer ! Explorer ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0648" xml:space="preserve">
+    <value>Explorer, c'est trop amusant ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0680" xml:space="preserve">
+    <value>Nous devons avancer avec prudence.</value>
+  </data>
+  <data name="TALK_FULL_0681" xml:space="preserve">
+    <value>Combattons la complaisance ! Et progressons à pas mesurés !</value>
+  </data>
+  <data name="TALK_FULL_0682" xml:space="preserve">
+    <value>Je vais parfaitement bien. Merci tout de même !</value>
+  </data>
+  <data name="TALK_FULL_0683" xml:space="preserve">
+    <value>J'apporterai mon meilleur soutien à l'escarmouche avec ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_0684" xml:space="preserve">
+    <value>Un piège pourrait se trouver tout près, alors avance avec précaution !</value>
+  </data>
+  <data name="TALK_FULL_0685" xml:space="preserve">
+    <value>Restons vigilants face aux [kind] tout en poursuivant notre route.</value>
+  </data>
+  <data name="TALK_FULL_0686" xml:space="preserve">
+    <value>Faisons de notre mieux l'un pour l'autre, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0687" xml:space="preserve">
+    <value>Gardons la tête haute et poursuivons notre chemin !</value>
+  </data>
+  <data name="TALK_FULL_0740" xml:space="preserve">
+    <value>Nous devons persévérer, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0741" xml:space="preserve">
+    <value>Avançons avec précaution.</value>
+  </data>
+  <data name="TALK_FULL_0742" xml:space="preserve">
+    <value>J'apporterai mon soutien à l'effort avec ma capacité [move].</value>
+  </data>
+  <data name="TALK_FULL_0743" xml:space="preserve">
+    <value>Nous devrions descendre plus profond.</value>
+  </data>
+  <data name="TALK_FULL_0744" xml:space="preserve">
+    <value>Je vais bien. Inutile de t'inquiéter.</value>
+  </data>
+  <data name="TALK_FULL_0745" xml:space="preserve">
+    <value>Je le vois... un objet [item] posé au sol... quelque part...</value>
+  </data>
+  <data name="TALK_FULL_0750" xml:space="preserve">
+    <value>Montrons-leur !</value>
+  </data>
+  <data name="TALK_FULL_0751" xml:space="preserve">
+    <value>Pas d'imprudence, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0752" xml:space="preserve">
+    <value>Je suis juste derrière toi ! Tu auras tout mon soutien !</value>
+  </data>
+  <data name="TALK_FULL_0753" xml:space="preserve">
+    <value>Accélérons le mouvement !</value>
+  </data>
+  <data name="TALK_FULL_0754" xml:space="preserve">
+    <value>Les [kind]... plutôt faibles !</value>
+  </data>
+  <data name="TALK_FULL_0755" xml:space="preserve">
+    <value>Il y a un objet [item] au sol... quelque part...</value>
+  </data>
+  <data name="TALK_FULL_0760" xml:space="preserve">
+    <value>Je te couvre ! Ne t'inquiète pas !</value>
+  </data>
+  <data name="TALK_FULL_0761" xml:space="preserve">
+    <value>Continuons d'avancer, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0762" xml:space="preserve">
+    <value>Moi ? Je vais bien !</value>
+  </data>
+  <data name="TALK_FULL_0763" xml:space="preserve">
+    <value>Attention au moindre [kind] !</value>
+  </data>
+  <data name="TALK_FULL_0764" xml:space="preserve">
+    <value>Continuons.</value>
+  </data>
+  <data name="TALK_FULL_0765" xml:space="preserve">
+    <value>Je visualise un objet [item]... posé là, quelque part...</value>
+  </data>
+  <data name="TALK_FULL_0770" xml:space="preserve">
+    <value>ON Y VA, [player] !</value>
+  </data>
+  <data name="TALK_FULL_0771" xml:space="preserve">
+    <value>MONTRE-TOI PLUS PRESSÉ !</value>
+  </data>
+  <data name="TALK_FULL_0772" xml:space="preserve">
+    <value>LES ENNEMIS SE DISPERSERONT DEVANT LA PUISSANCE DE MA CAPACITÉ [move] !</value>
+  </data>
+  <data name="TALK_FULL_0773" xml:space="preserve">
+    <value>GRRR-OOOOOO !</value>
+  </data>
+  <data name="TALK_FULL_0774" xml:space="preserve">
+    <value>CES [kind] NE SONT GUÈRE DES ADVERSAIRES DIGNES DE MOI !</value>
+  </data>
+  <data name="TALK_FULL_0775" xml:space="preserve">
+    <value>JE TE PROTÉGERAI DE MES POUVOIRS !</value>
+  </data>
+  <data name="TALK_FULL_0780" xml:space="preserve">
+    <value>MON SOUTIEN TOTAL T'EST ACQUIS ! AIE CONFIANCE !</value>
+  </data>
+  <data name="TALK_FULL_0781" xml:space="preserve">
+    <value>AUCUN ENNEMI N'EST MON ÉGAL !</value>
+  </data>
+  <data name="TALK_FULL_0782" xml:space="preserve">
+    <value>GRRR-OOOOOO !</value>
+  </data>
+  <data name="TALK_FULL_0783" xml:space="preserve">
+    <value>JE PUISERAI DANS TOUTE MA PUISSANCE !</value>
+  </data>
+  <data name="TALK_FULL_0784" xml:space="preserve">
+    <value>QUEL ÊTRE POURRAIT M'ARRÊTER ?!</value>
+  </data>
+  <data name="TALK_FULL_0785" xml:space="preserve">
+    <value>CROIS EN TOI ! ET BATS-TOI !</value>
+  </data>
+  <data name="TALK_FULL_0790" xml:space="preserve">
+    <value>ASSISTANCE... FOURNIRAI... ASSISTANCE...</value>
+  </data>
+  <data name="TALK_FULL_0791" xml:space="preserve">
+    <value>MA PUISSANCE... EST TIENNE... MA PUISSANCE... EST TIENNE...</value>
+  </data>
+  <data name="TALK_FULL_0792" xml:space="preserve">
+    <value>RRRRR... RRRRR... RRRRR...</value>
+  </data>
+  <data name="TALK_FULL_0793" xml:space="preserve">
+    <value>PRUDENCE... AFFRONTER [kind]... AVEC PRUDENCE...</value>
+  </data>
+  <data name="TALK_FULL_0794" xml:space="preserve">
+    <value>JE VOIS... JE VOIS... UN UNIQUE [item]...</value>
+  </data>
+  <data name="TALK_FULL_0795" xml:space="preserve">
+    <value>AVANCER... AVANCER... TOUJOURS...</value>
+  </data>
+  <data name="TALK_FULL_0800" xml:space="preserve">
+    <value>Peu m'importe quels ennemis nous attendent.</value>
+  </data>
+  <data name="TALK_FULL_0801" xml:space="preserve">
+    <value>Les ténèbres enflent en moi...</value>
+  </data>
+  <data name="TALK_FULL_0802" xml:space="preserve">
+    <value>Soit ! Tu seras témoin de ma puissance !</value>
+  </data>
+  <data name="TALK_FULL_0803" xml:space="preserve">
+    <value>Notre progression... est satisfaisante.</value>
+  </data>
+  <data name="TALK_FULL_0804" xml:space="preserve">
+    <value>Je ne vois qu'un seul objet [item]...</value>
+  </data>
+  <data name="TALK_FULL_0805" xml:space="preserve">
+    <value>Me vaincre ? Impossible. C'est une certitude absolue.</value>
+  </data>
+  <data name="TALK_FULL_0810" xml:space="preserve">
+    <value>Trésor ! \u266A Trésor ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0811" xml:space="preserve">
+    <value>Quel bel amour est le mien ! \u266A Pour les objets de toutes formes et de toutes tailles ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0812" xml:space="preserve">
+    <value>Comme toujours ! Je ferai de mon humble mieux ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0813" xml:space="preserve">
+    <value>Prudence ! Grande prudence ! Face aux [kind] ! Si méchants ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0814" xml:space="preserve">
+    <value>Je trouve l'exploration si revigorante ! \u266A</value>
+  </data>
+  <data name="TALK_FULL_0815" xml:space="preserve">
+    <value>Où allons-nous maintenant ? \u266A</value>
+  </data>
+  <data name="TALK_FULL_0820" xml:space="preserve">
+    <value>Je compte sur toi !</value>
+  </data>
+  <data name="TALK_HALF_0000" xml:space="preserve">
+    <value>Ça commence à devenir rude...</value>
+  </data>
+  <data name="TALK_HALF_0001" xml:space="preserve">
+    <value>Je suis un peu blessé... Mais je tiens encore la route !</value>
+  </data>
+  <data name="TALK_HALF_0002" xml:space="preserve">
+    <value>Merci de t'inquiéter, [player] ! Tu es vraiment attentionné !</value>
+  </data>
+  <data name="TALK_HALF_0005" xml:space="preserve">
+    <value>Le parcours se corse...</value>
+  </data>
+  <data name="TALK_HALF_0006" xml:space="preserve">
+    <value>Je... je vais bien. Il en faut plus pour me ralentir.</value>
+  </data>
+  <data name="TALK_HALF_0007" xml:space="preserve">
+    <value>Ça va ! Je peux continuer à me battre ! Mais merci de t'en soucier !</value>
+  </data>
+  <data name="TALK_HALF_0010" xml:space="preserve">
+    <value>Peut-être... peut-être qu'on devrait bientôt rentrer ?</value>
+  </data>
+  <data name="TALK_HALF_0011" xml:space="preserve">
+    <value>Ouille... Je suis blessé...</value>
+  </data>
+  <data name="TALK_HALF_0012" xml:space="preserve">
+    <value>Ne me laisse pas, [player]...</value>
+  </data>
+  <data name="TALK_HALF_0013" xml:space="preserve">
+    <value>Tu pourrais me redonner un peu de vie, s'il te plaît, [player] ?</value>
+  </data>
+  <data name="TALK_HALF_0015" xml:space="preserve">
+    <value>Cet endroit se révèle impitoyable...</value>
+  </data>
+  <data name="TALK_HALF_0016" xml:space="preserve">
+    <value>Avançons plus prudemment.</value>
+  </data>
+  <data name="TALK_HALF_0017" xml:space="preserve">
+    <value>C'est bon ! Je peux continuer !</value>
+  </data>
+  <data name="TALK_HALF_0020" xml:space="preserve">
+    <value>À vrai dire, il est plus difficile d'avancer dans cet état...</value>
+  </data>
+  <data name="TALK_HALF_0021" xml:space="preserve">
+    <value>Je te serais reconnaissant de me soigner...</value>
+  </data>
+  <data name="TALK_HALF_0022" xml:space="preserve">
+    <value>Cette exploration a eu son lot de moments difficiles, tu ne trouves pas ?</value>
+  </data>
+  <data name="TALK_HALF_0023" xml:space="preserve">
+    <value>Fais-moi la courtoisie, [player], de ne pas m'abandonner ici !</value>
+  </data>
+  <data name="TALK_HALF_0025" xml:space="preserve">
+    <value>Ces dégâts ? Aucun problème. À peine une égratignure.</value>
+  </data>
+  <data name="TALK_HALF_0026" xml:space="preserve">
+    <value>[myname] commence tout juste à dominer !</value>
+  </data>
+  <data name="TALK_HALF_0027" xml:space="preserve">
+    <value>Je vais parfaitement bien ! Porte ton attention ailleurs !</value>
+  </data>
+  <data name="TALK_HALF_0030" xml:space="preserve">
+    <value>Plus dur... De plus en plus dur...</value>
+  </data>
+  <data name="TALK_HALF_0031" xml:space="preserve">
+    <value>Avancer... avancer... Continuer d'avancer...</value>
+  </data>
+  <data name="TALK_HALF_0032" xml:space="preserve">
+    <value>Pas facile... Pas facile... Toute cette exploration... Pas facile...</value>
+  </data>
+  <data name="TALK_HALF_0035" xml:space="preserve">
+    <value>Ha ! On ne m'abat pas si facilement !</value>
+  </data>
+  <data name="TALK_HALF_0036" xml:space="preserve">
+    <value>Ce n'est rien ! Amenez-vous !</value>
+  </data>
+  <data name="TALK_HALF_0037" xml:space="preserve">
+    <value>Les situations tendues comme ça, ça me motive à fond !</value>
+  </data>
+  <data name="TALK_HALF_0040" xml:space="preserve">
+    <value>Hé, et si tu me soignais ?</value>
+  </data>
+  <data name="TALK_HALF_0041" xml:space="preserve">
+    <value>C'est un peu la poisse, tu ne trouves pas ?</value>
+  </data>
+  <data name="TALK_HALF_0042" xml:space="preserve">
+    <value>Hé, et si on laissait tomber pour rentrer à la maison ?</value>
+  </data>
+  <data name="TALK_HALF_0045" xml:space="preserve">
+    <value>Oooh... Ça devient dur de continuer...</value>
+  </data>
+  <data name="TALK_HALF_0046" xml:space="preserve">
+    <value>Hé, je me sens encore bien ! Merci de penser à moi !</value>
+  </data>
+  <data name="TALK_HALF_0047" xml:space="preserve">
+    <value>C'est dur ! Mais je peux continuer !</value>
+  </data>
+  <data name="TALK_HALF_0050" xml:space="preserve">
+    <value>Allez ! Je peux encaisser ! Amenez-vous !</value>
+  </data>
+  <data name="TALK_HALF_0051" xml:space="preserve">
+    <value>Tu crois que je vais m'écrouler ici ? Aucune chance !</value>
+  </data>
+  <data name="TALK_HALF_0052" xml:space="preserve">
+    <value>Je m'en sors bien ! Occupe-toi plutôt de toi !</value>
+  </data>
+  <data name="TALK_HALF_0055" xml:space="preserve">
+    <value>Ben ouais... Plutôt rude...</value>
+  </data>
+  <data name="TALK_HALF_0056" xml:space="preserve">
+    <value>T'aurais pas une Baie Oran ou un truc du genre ?</value>
+  </data>
+  <data name="TALK_HALF_0057" xml:space="preserve">
+    <value>C'est du costaud ! Mais je vais continuer à m'accrocher !</value>
+  </data>
+  <data name="TALK_HALF_0060" xml:space="preserve">
+    <value>Aucun problème, VRAIMENT ! Je peux encaisser !</value>
+  </data>
+  <data name="TALK_HALF_0061" xml:space="preserve">
+    <value>Je vais TENIR bon !</value>
+  </data>
+  <data name="TALK_HALF_0062" xml:space="preserve">
+    <value>Ça me fait sourire, ta façon de t'INQUIÉTER pour moi !</value>
+  </data>
+  <data name="TALK_HALF_0065" xml:space="preserve">
+    <value>Oh, quel parcours éprouvant !</value>
+  </data>
+  <data name="TALK_HALF_0066" xml:space="preserve">
+    <value>Oh, ça ira. Je peux encaisser bien plus que ça.</value>
+  </data>
+  <data name="TALK_HALF_0067" xml:space="preserve">
+    <value>Oh, tu t'inquiètes pour moi ? Comme c'est mignon, [player] !</value>
+  </data>
+  <data name="TALK_HALF_0070" xml:space="preserve">
+    <value>Tu ne penses pas sérieusement que je serai vaincu aussi facilement ?</value>
+  </data>
+  <data name="TALK_HALF_0071" xml:space="preserve">
+    <value>Serrons les dents et allons-y !</value>
+  </data>
+  <data name="TALK_HALF_0072" xml:space="preserve">
+    <value>Ha ! On ne fait que commencer !</value>
+  </data>
+  <data name="TALK_HALF_0075" xml:space="preserve">
+    <value>Ouf ! Plus difficile d'avancer...</value>
+  </data>
+  <data name="TALK_HALF_0076" xml:space="preserve">
+    <value>Avançons plus prudemment...</value>
+  </data>
+  <data name="TALK_HALF_0077" xml:space="preserve">
+    <value>Je suis parfaitement capable de continuer ! Merci de veiller sur moi !</value>
+  </data>
+  <data name="TALK_HALF_0080" xml:space="preserve">
+    <value>Hmm... Ça devient plus coriace...</value>
+  </data>
+  <data name="TALK_HALF_0081" xml:space="preserve">
+    <value>Nous ne trouverons pas de trésor si nous ne savons pas nous sortir des mauvaises passes...</value>
+  </data>
+  <data name="TALK_HALF_0082" xml:space="preserve">
+    <value>Une âme charitable voudra-t-elle me soigner...</value>
+  </data>
+  <data name="TALK_HALF_0135" xml:space="preserve">
+    <value>Ce n'est pas si facile !</value>
+  </data>
+  <data name="TALK_HALF_0136" xml:space="preserve">
+    <value>Ouf... Pfff...</value>
+  </data>
+  <data name="TALK_HALF_0137" xml:space="preserve">
+    <value>Aïe ! Je me sens à plat !</value>
+  </data>
+  <data name="TALK_HALF_0138" xml:space="preserve">
+    <value>Je ne me sens pas très bien...</value>
+  </data>
+  <data name="TALK_HALF_0139" xml:space="preserve">
+    <value>Je suis peut-être fatigué... Je me sens faible...</value>
+  </data>
+  <data name="TALK_HALF_0145" xml:space="preserve">
+    <value>Je suis parfaitement capable d'endurer bien davantage !</value>
+  </data>
+  <data name="TALK_HALF_0146" xml:space="preserve">
+    <value>Cet endroit met mon endurance à l'épreuve, mais je peux encaisser bien plus.</value>
+  </data>
+  <data name="TALK_HALF_0147" xml:space="preserve">
+    <value>J'ai subi quelques dégâts, mais je suis encore tout à fait opérationnel !</value>
+  </data>
+  <data name="TALK_HALF_0148" xml:space="preserve">
+    <value>Ça fait un peu mal, mais rien que je ne puisse gérer.</value>
+  </data>
+  <data name="TALK_HALF_0149" xml:space="preserve">
+    <value>Je peux endurer cela. Ne te tourmente pas pour mon bien-être.</value>
+  </data>
+  <data name="TALK_HALF_0160" xml:space="preserve">
+    <value>J'ai essuyé quelques coups...</value>
+  </data>
+  <data name="TALK_HALF_0161" xml:space="preserve">
+    <value>Je peux encore absorber des dégâts...</value>
+  </data>
+  <data name="TALK_HALF_0162" xml:space="preserve">
+    <value>Je suis toujours prêt à en découdre !</value>
+  </data>
+  <data name="TALK_HALF_0163" xml:space="preserve">
+    <value>Inutile de t'inquiéter pour moi.</value>
+  </data>
+  <data name="TALK_HALF_0165" xml:space="preserve">
+    <value>On dirait que ça devient plus difficile.</value>
+  </data>
+  <data name="TALK_HALF_0166" xml:space="preserve">
+    <value>Ne t'en fais pas. Je peux supporter bien pire.</value>
+  </data>
+  <data name="TALK_HALF_0167" xml:space="preserve">
+    <value>Ne t'inquiète pas pour moi ! Ça va aller !</value>
+  </data>
+  <data name="TALK_HALF_0168" xml:space="preserve">
+    <value>C'est un défi, mais je peux continuer.</value>
+  </data>
+  <data name="TALK_HALF_0170" xml:space="preserve">
+    <value>C'est plus dur, c'est sûr !</value>
+  </data>
+  <data name="TALK_HALF_0171" xml:space="preserve">
+    <value>Ma vie a un peu baissé, non ?</value>
+  </data>
+  <data name="TALK_HALF_0172" xml:space="preserve">
+    <value>Ça m'use, mais je m'en sors !</value>
+  </data>
+  <data name="TALK_HALF_0173" xml:space="preserve">
+    <value>C'est bon. On peut surmonter ça !</value>
+  </data>
+  <data name="TALK_HALF_0175" xml:space="preserve">
+    <value>CE N'EST QU'UNE ÉGRATIGNURE. RIEN QUI MÉRITE L'INQUIÉTUDE !</value>
+  </data>
+  <data name="TALK_HALF_0176" xml:space="preserve">
+    <value>JE N'AI QUE DES DÉGÂTS LÉGERS. CE N'EST RIEN.</value>
+  </data>
+  <data name="TALK_HALF_0177" xml:space="preserve">
+    <value>CE NIVEAU DE DÉGÂTS ? INDIGNE DE TON ATTENTION !</value>
+  </data>
+  <data name="TALK_HALF_0178" xml:space="preserve">
+    <value>TON INQUIÉTUDE EST SUPERFLUE. AVANT TOUT, NOUS DEVONS AVANCER.</value>
+  </data>
+  <data name="TALK_HALF_0180" xml:space="preserve">
+    <value>LA BLESSURE EST SUPERFICIELLE. TON INQUIÉTUDE EST INJUSTIFIÉE.</value>
+  </data>
+  <data name="TALK_HALF_0181" xml:space="preserve">
+    <value>CE N'EST QU'UNE ÉGRATIGNURE. POURSUIVONS.</value>
+  </data>
+  <data name="TALK_HALF_0182" xml:space="preserve">
+    <value>IL SEMBLE QUE J'AIE SUBI DES DÉGÂTS. SANS IMPORTANCE.</value>
+  </data>
+  <data name="TALK_HALF_0183" xml:space="preserve">
+    <value>CES DÉGÂTS ? TRIVIAUX. JE SUIS INVINCIBLE !</value>
+  </data>
+  <data name="TALK_HALF_0185" xml:space="preserve">
+    <value>PROGRESSION... COMPROMISE...</value>
+  </data>
+  <data name="TALK_HALF_0186" xml:space="preserve">
+    <value>JE VAIS BIEN... NE T'INQUIÈTE... PAS...</value>
+  </data>
+  <data name="TALK_HALF_0187" xml:space="preserve">
+    <value>JE... SOUFFRE... JE... SOUFFRE...</value>
+  </data>
+  <data name="TALK_HALF_0188" xml:space="preserve">
+    <value>DÉGÂTS... SUBIS... DÉGÂTS... SUBIS...</value>
+  </data>
+  <data name="TALK_HALF_0190" xml:space="preserve">
+    <value>Il apparaît que j'ai subi quelques dégâts...</value>
+  </data>
+  <data name="TALK_HALF_0191" xml:space="preserve">
+    <value>Tu n'imaginais pas sérieusement que cela m'arrêterait ?</value>
+  </data>
+  <data name="TALK_HALF_0192" xml:space="preserve">
+    <value>Ma blessure n'est que superficielle. Il n'y a rien à craindre.</value>
+  </data>
+  <data name="TALK_HALF_0193" xml:space="preserve">
+    <value>Tout ira bien tant que mes dégâts restent aussi minimes.</value>
+  </data>
+  <data name="TALK_HALF_0195" xml:space="preserve">
+    <value>L'ambiance est devenue un brin hostile ici !</value>
+  </data>
+  <data name="TALK_HALF_0196" xml:space="preserve">
+    <value>Oh non ! Oh non ! Ma vie a baissé !</value>
+  </data>
+  <data name="TALK_HALF_0197" xml:space="preserve">
+    <value>Oh non ! Oh non ! J'ai subi des dégâts !</value>
+  </data>
+  <data name="TALK_HALF_0198" xml:space="preserve">
+    <value>Notre voyage pourrait être gâché. \u266A Mais je reste partante ! \u266A</value>
+  </data>
+  <data name="TALK_HALF_0200" xml:space="preserve">
+    <value>C'est devenu encore plus difficile.</value>
+  </data>
+  <data name="TALK_PINCH_0000" xml:space="preserve">
+    <value>Je vais bientôt m'écrouler...</value>
+  </data>
+  <data name="TALK_PINCH_0001" xml:space="preserve">
+    <value>Aide-moi, [player], pitié... Je suis sur le point de tomber...</value>
+  </data>
+  <data name="TALK_PINCH_0002" xml:space="preserve">
+    <value>Argh... Je ne veux pas m'évanouir dans un endroit pareil...</value>
+  </data>
+  <data name="TALK_PINCH_0005" xml:space="preserve">
+    <value>Argh... Je souffre énormément...</value>
+  </data>
+  <data name="TALK_PINCH_0006" xml:space="preserve">
+    <value>Aide-moi, je t'en prie, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_0007" xml:space="preserve">
+    <value>Je me sens défaillir...</value>
+  </data>
+  <data name="TALK_PINCH_0010" xml:space="preserve">
+    <value>Je n'en peux plus... Je veux rentrer à la maison...</value>
+  </data>
+  <data name="TALK_PINCH_0011" xml:space="preserve">
+    <value>Pitié... Pitié, ne m'abandonne pas...</value>
+  </data>
+  <data name="TALK_PINCH_0012" xml:space="preserve">
+    <value>À... à l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_0015" xml:space="preserve">
+    <value>Je ne m'en sortirai peut-être pas... Tout reposera sur toi alors, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_0016" xml:space="preserve">
+    <value>Argh... Aide-moi...</value>
+  </data>
+  <data name="TALK_PINCH_0017" xml:space="preserve">
+    <value>Oh, zut... C'est peut-être la fin...</value>
+  </data>
+  <data name="TALK_PINCH_0020" xml:space="preserve">
+    <value>Ça va de mal en pis...</value>
+  </data>
+  <data name="TALK_PINCH_0021" xml:space="preserve">
+    <value>Argh, non... Pas dans un endroit pareil...</value>
+  </data>
+  <data name="TALK_PINCH_0022" xml:space="preserve">
+    <value>Argh... Est-ce là... ma dernière aventure ?</value>
+  </data>
+  <data name="TALK_PINCH_0025" xml:space="preserve">
+    <value>Jamais ! Je ne me laisserai pas abattre ! Pas dans un endroit pareil !</value>
+  </data>
+  <data name="TALK_PINCH_0026" xml:space="preserve">
+    <value>N-n-non... J-jamais... Je n'abandonnerai pas... jusqu'à mon dernier souffle...</value>
+  </data>
+  <data name="TALK_PINCH_0027" xml:space="preserve">
+    <value>Pas... encore... Non... PAS maintenant... NON !</value>
+  </data>
+  <data name="TALK_PINCH_0030" xml:space="preserve">
+    <value>Stress... intense... Stress... intense...</value>
+  </data>
+  <data name="TALK_PINCH_0031" xml:space="preserve">
+    <value>À l'aide... À l'aide... Pitié... À l'aide, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_0032" xml:space="preserve">
+    <value>Suivre... C'est tout ce que je peux faire... suivre...</value>
+  </data>
+  <data name="TALK_PINCH_0035" xml:space="preserve">
+    <value>Gah ! Ma vue se brouille !</value>
+  </data>
+  <data name="TALK_PINCH_0036" xml:space="preserve">
+    <value>Gah ! Ça ne devrait pas arriver ! Pas à moi !</value>
+  </data>
+  <data name="TALK_PINCH_0037" xml:space="preserve">
+    <value>Argh... Gah... Continuez... Continuez sans moi...</value>
+  </data>
+  <data name="TALK_PINCH_0040" xml:space="preserve">
+    <value>Aïe-aïe-aïe ! Pourquoi toute cette douleur s'abat sur moi ?</value>
+  </data>
+  <data name="TALK_PINCH_0041" xml:space="preserve">
+    <value>Argh... Ack... Je suis gravement blessé...</value>
+  </data>
+  <data name="TALK_PINCH_0042" xml:space="preserve">
+    <value>Ack... Erk... Il faut me soigner...</value>
+  </data>
+  <data name="TALK_PINCH_0045" xml:space="preserve">
+    <value>Oooh... [player]... Je n'y arrive plus...</value>
+  </data>
+  <data name="TALK_PINCH_0046" xml:space="preserve">
+    <value>S'il m'arrive quelque chose... Tu devras continuer...</value>
+  </data>
+  <data name="TALK_PINCH_0047" xml:space="preserve">
+    <value>À l'aide, [player]... Je défaille...</value>
+  </data>
+  <data name="TALK_PINCH_0050" xml:space="preserve">
+    <value>Ack ! Ack ! Pas question ! Je partirai dans un feu de gloire !</value>
+  </data>
+  <data name="TALK_PINCH_0051" xml:space="preserve">
+    <value>Jamais ! Jamais ! Je n'abandonnerai pas, jusqu'au bout !</value>
+  </data>
+  <data name="TALK_PINCH_0052" xml:space="preserve">
+    <value>Ha-ha ! Ack ! Venez ! Je vous prends tous !</value>
+  </data>
+  <data name="TALK_PINCH_0055" xml:space="preserve">
+    <value>Ben... ouais... Je suis... presque fini...</value>
+  </data>
+  <data name="TALK_PINCH_0056" xml:space="preserve">
+    <value>Ben ouais... ça va pas fort... Tu me soignes, dis... ?</value>
+  </data>
+  <data name="TALK_PINCH_0057" xml:space="preserve">
+    <value>J'aimerais... j'aimerais juste pouvoir rentrer à la maison...</value>
+  </data>
+  <data name="TALK_PINCH_0060" xml:space="preserve">
+    <value>Faut du cran... Argh...</value>
+  </data>
+  <data name="TALK_PINCH_0061" xml:space="preserve">
+    <value>Vas-y, [player]... Oublie-moi...</value>
+  </data>
+  <data name="TALK_PINCH_0062" xml:space="preserve">
+    <value>Se battre... jusqu'au... BOUT... !</value>
+  </data>
+  <data name="TALK_PINCH_0065" xml:space="preserve">
+    <value>Je suis bien mal en point...</value>
+  </data>
+  <data name="TALK_PINCH_0066" xml:space="preserve">
+    <value>Si ça empire encore, [player], continue sans moi...</value>
+  </data>
+  <data name="TALK_PINCH_0067" xml:space="preserve">
+    <value>Ha... Ha... Je... n'abandonne pas... jusqu'au bout...</value>
+  </data>
+  <data name="TALK_PINCH_0070" xml:space="preserve">
+    <value>Ouais... ouais... je suis bien amoché...</value>
+  </data>
+  <data name="TALK_PINCH_0071" xml:space="preserve">
+    <value>Ce trou perdu... ne sera pas le dernier endroit que je verrai...</value>
+  </data>
+  <data name="TALK_PINCH_0072" xml:space="preserve">
+    <value>Ha ! Non ! Tu t'inquiètes vraiment pour... moi... ? Quel ami...</value>
+  </data>
+  <data name="TALK_PINCH_0075" xml:space="preserve">
+    <value>Ooooh... Ne me laisse pas te ralentir...</value>
+  </data>
+  <data name="TALK_PINCH_0076" xml:space="preserve">
+    <value>Je vais... très bien...</value>
+  </data>
+  <data name="TALK_PINCH_0077" xml:space="preserve">
+    <value>Oh, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_0080" xml:space="preserve">
+    <value>Bah... c'en est trop...</value>
+  </data>
+  <data name="TALK_PINCH_0081" xml:space="preserve">
+    <value>Soigne-moi. Tu dois me soigner. Pitié, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_0082" xml:space="preserve">
+    <value>Suivre... Suivre... Juste suivre, c'est tout... ce que je peux faire...</value>
+  </data>
+  <data name="TALK_PINCH_0135" xml:space="preserve">
+    <value>Peux pas... peux pas... je ne peux plus...</value>
+  </data>
+  <data name="TALK_PINCH_0136" xml:space="preserve">
+    <value>Oh, ça f-f-fait mal...</value>
+  </data>
+  <data name="TALK_PINCH_0137" xml:space="preserve">
+    <value>Horrible... horrible... horrible !</value>
+  </data>
+  <data name="TALK_PINCH_0138" xml:space="preserve">
+    <value>Je vais... m'é-évanouir...</value>
+  </data>
+  <data name="TALK_PINCH_0139" xml:space="preserve">
+    <value>Plus... rien... non...</value>
+  </data>
+  <data name="TALK_PINCH_0145" xml:space="preserve">
+    <value>Terriblement mauvais... Vraiment terrible...</value>
+  </data>
+  <data name="TALK_PINCH_0146" xml:space="preserve">
+    <value>Mon esprit est presque brisé... Ranime-moi, par pitié...</value>
+  </data>
+  <data name="TALK_PINCH_0147" xml:space="preserve">
+    <value>Je t-tiens à peine debout...</value>
+  </data>
+  <data name="TALK_PINCH_0148" xml:space="preserve">
+    <value>Je ne pourrai simplement plus... continuer bien longtemps...</value>
+  </data>
+  <data name="TALK_PINCH_0149" xml:space="preserve">
+    <value>C'est... assurément... la fin pour moi... À l'aide !</value>
+  </data>
+  <data name="TALK_PINCH_0160" xml:space="preserve">
+    <value>Ha... Ha... Ça f-fait mal...</value>
+  </data>
+  <data name="TALK_PINCH_0161" xml:space="preserve">
+    <value>On m'a terrassé...</value>
+  </data>
+  <data name="TALK_PINCH_0162" xml:space="preserve">
+    <value>C'est trop dur de continuer... À l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_0163" xml:space="preserve">
+    <value>Aurais-tu la bonté... de me soigner...</value>
+  </data>
+  <data name="TALK_PINCH_0165" xml:space="preserve">
+    <value>N-n-non... Ma vie...</value>
+  </data>
+  <data name="TALK_PINCH_0166" xml:space="preserve">
+    <value>Subi... trop... de dégâts...</value>
+  </data>
+  <data name="TALK_PINCH_0167" xml:space="preserve">
+    <value>Je vais lâcher si on ne me soigne pas... Quelqu'un...</value>
+  </data>
+  <data name="TALK_PINCH_0168" xml:space="preserve">
+    <value>Je... je vais tomber... J'ai mal...</value>
+  </data>
+  <data name="TALK_PINCH_0170" xml:space="preserve">
+    <value>N-n-non ! Ma vie...</value>
+  </data>
+  <data name="TALK_PINCH_0171" xml:space="preserve">
+    <value>Je m'évanouis... Quelqu'un...</value>
+  </data>
+  <data name="TALK_PINCH_0172" xml:space="preserve">
+    <value>J'ai subi trop de dégâts... Vite, il faut me soigner...</value>
+  </data>
+  <data name="TALK_PINCH_0173" xml:space="preserve">
+    <value>P-plus... Je vais m'écrouler...</value>
+  </data>
+  <data name="TALK_PINCH_0175" xml:space="preserve">
+    <value>SITUATION... CRITIQUE...</value>
+  </data>
+  <data name="TALK_PINCH_0176" xml:space="preserve">
+    <value>JE N'ÉCHOUERAI... PAS ICI !</value>
+  </data>
+  <data name="TALK_PINCH_0177" xml:space="preserve">
+    <value>JE NE T-TOMBERAI PAS AINSI !</value>
+  </data>
+  <data name="TALK_PINCH_0178" xml:space="preserve">
+    <value>DÉGÂTS CRITIQUES ! MAIS JE REFUSE DE TOMBER !</value>
+  </data>
+  <data name="TALK_PINCH_0180" xml:space="preserve">
+    <value>COMMENT AI-JE PU SUBIR TANT DE DÉGÂTS ?!</value>
+  </data>
+  <data name="TALK_PINCH_0181" xml:space="preserve">
+    <value>CELA ME FAIT SOUFFRIR... MAIS JE PEUX ENCAISSER DAVANTAGE !</value>
+  </data>
+  <data name="TALK_PINCH_0182" xml:space="preserve">
+    <value>TOMBER... FACE À CE NIVEAU DE DÉGÂTS ? NON !</value>
+  </data>
+  <data name="TALK_PINCH_0183" xml:space="preserve">
+    <value>J'AI SUBI... DES DÉGÂTS MASSIFS... MAIS JE NE TOMBERAI JAMAIS !</value>
+  </data>
+  <data name="TALK_PINCH_0185" xml:space="preserve">
+    <value>N-N-NON... À PEINE... À PEINE... TENIR DEBOUT...</value>
+  </data>
+  <data name="TALK_PINCH_0186" xml:space="preserve">
+    <value>JE SUPPLIE... SOIGNEZ-MOI... JE SUPPLIE...</value>
+  </data>
+  <data name="TALK_PINCH_0187" xml:space="preserve">
+    <value>UN CHEMIN CRUEL... UN CHEMIN CRUEL...</value>
+  </data>
+  <data name="TALK_PINCH_0188" xml:space="preserve">
+    <value>EST-CE AINSI... EST-CE AINSI... QUE JE TOMBE... ?</value>
+  </data>
+  <data name="TALK_PINCH_0190" xml:space="preserve">
+    <value>Gah ! J'ai subi plus de dégâts que prévu...</value>
+  </data>
+  <data name="TALK_PINCH_0191" xml:space="preserve">
+    <value>Je souffre... mais il doit bien exister une solution...</value>
+  </data>
+  <data name="TALK_PINCH_0192" xml:space="preserve">
+    <value>Ma vie vacille et décline... Si rien n'est fait...</value>
+  </data>
+  <data name="TALK_PINCH_0193" xml:space="preserve">
+    <value>Mes dégâts ne sont pas anodins... Aurais-je sous-estimé l'épreuve... ?</value>
+  </data>
+  <data name="TALK_PINCH_0195" xml:space="preserve">
+    <value>La situation s'annonce sombre...</value>
+  </data>
+  <data name="TALK_PINCH_0196" xml:space="preserve">
+    <value>Je me sens terriblement faible... Aidez-moi, je vous prie...</value>
+  </data>
+  <data name="TALK_PINCH_0197" xml:space="preserve">
+    <value>Je suis à ma limite...</value>
+  </data>
+  <data name="TALK_PINCH_0198" xml:space="preserve">
+    <value>Je m'effondre presque sur place... Que quelqu'un me soigne...</value>
+  </data>
+  <data name="TALK_PINCH_0200" xml:space="preserve">
+    <value>Je ne pourrai peut-être pas continuer...</value>
+  </data>
+  <data name="TALK_WAIT_0000" xml:space="preserve">
+    <value>Encore une aventure palpitante ! Où allons-nous ?</value>
+  </data>
+  <data name="TALK_WAIT_0001" xml:space="preserve">
+    <value>Allons-y ! Partons explorer !</value>
+  </data>
+  <data name="TALK_WAIT_0002" xml:space="preserve">
+    <value>OK ! Allons chercher un trésor !</value>
+  </data>
+  <data name="TALK_WAIT_0003" xml:space="preserve">
+    <value>Qu'allons-nous trouver cette fois ?</value>
+  </data>
+  <data name="TALK_WAIT_0005" xml:space="preserve">
+    <value>Gardons le moral pour cette sortie !</value>
+  </data>
+  <data name="TALK_WAIT_0006" xml:space="preserve">
+    <value>Je suis prêt à partir quand tu veux.</value>
+  </data>
+  <data name="TALK_WAIT_0007" xml:space="preserve">
+    <value>Je suis prêt pour une nouvelle aventure !</value>
+  </data>
+  <data name="TALK_WAIT_0010" xml:space="preserve">
+    <value>Ce voyage me rend un peu nerveux !</value>
+  </data>
+  <data name="TALK_WAIT_0011" xml:space="preserve">
+    <value>Alors, on va où ensuite ?</value>
+  </data>
+  <data name="TALK_WAIT_0012" xml:space="preserve">
+    <value>Je ferai de mon mieux !</value>
+  </data>
+  <data name="TALK_WAIT_0015" xml:space="preserve">
+    <value>Alors, prochaine destination ?</value>
+  </data>
+  <data name="TALK_WAIT_0016" xml:space="preserve">
+    <value>On part dans combien de temps, à ton avis ?</value>
+  </data>
+  <data name="TALK_WAIT_0017" xml:space="preserve">
+    <value>Oh, enfin prêt à partir ?</value>
+  </data>
+  <data name="TALK_WAIT_0020" xml:space="preserve">
+    <value>Oho... Qu'il fait bon ici. Que c'est agréable !</value>
+  </data>
+  <data name="TALK_WAIT_0021" xml:space="preserve">
+    <value>Oho... Rien ne presse... Attendre me convient tout à fait.</value>
+  </data>
+  <data name="TALK_WAIT_0022" xml:space="preserve">
+    <value>Oho... Je me demande... et si nous trouvions un trésor... ?</value>
+  </data>
+  <data name="TALK_WAIT_0025" xml:space="preserve">
+    <value>À vos marques, prêts, partez !</value>
+  </data>
+  <data name="TALK_WAIT_0026" xml:space="preserve">
+    <value>Ravi de me rendre utile, [hero] !</value>
+  </data>
+  <data name="TALK_WAIT_0030" xml:space="preserve">
+    <value>Exploration... Exploration...</value>
+  </data>
+  <data name="TALK_WAIT_0031" xml:space="preserve">
+    <value>Trésor... Trouver trésor...</value>
+  </data>
+  <data name="TALK_WAIT_0032" xml:space="preserve">
+    <value>Excité... Excité...</value>
+  </data>
+  <data name="TALK_WAIT_0035" xml:space="preserve">
+    <value>Prêt à tout !</value>
+  </data>
+  <data name="TALK_WAIT_0036" xml:space="preserve">
+    <value>C'est l'heure ! Allons-y, enfin !</value>
+  </data>
+  <data name="TALK_WAIT_0037" xml:space="preserve">
+    <value>On part bientôt, hein ? Sinon je pars devant !</value>
+  </data>
+  <data name="TALK_WAIT_0040" xml:space="preserve">
+    <value>C'est l'heure de partir ?</value>
+  </data>
+  <data name="TALK_WAIT_0041" xml:space="preserve">
+    <value>On peut y aller, maintenant ?</value>
+  </data>
+  <data name="TALK_WAIT_0042" xml:space="preserve">
+    <value>J'en ai assez d'attendre !</value>
+  </data>
+  <data name="TALK_WAIT_0045" xml:space="preserve">
+    <value>Alors, qu'en dis-tu ? On va où ensuite ?</value>
+  </data>
+  <data name="TALK_WAIT_0046" xml:space="preserve">
+    <value>Allons dénicher de jolis trésors !</value>
+  </data>
+  <data name="TALK_WAIT_0047" xml:space="preserve">
+    <value>Je me lasse un peu d'attendre.</value>
+  </data>
+  <data name="TALK_WAIT_0050" xml:space="preserve">
+    <value>Ce sera un bon test pour moi !</value>
+  </data>
+  <data name="TALK_WAIT_0051" xml:space="preserve">
+    <value>Allez ! Bouge-toi ! Va te préparer !</value>
+  </data>
+  <data name="TALK_WAIT_0052" xml:space="preserve">
+    <value>Allez ! Active-toi un peu !</value>
+  </data>
+  <data name="TALK_WAIT_0055" xml:space="preserve">
+    <value>Ben ouais ! Allons explorer !</value>
+  </data>
+  <data name="TALK_WAIT_0056" xml:space="preserve">
+    <value>Ben ouais ! Prêt quand tu l'es !</value>
+  </data>
+  <data name="TALK_WAIT_0057" xml:space="preserve">
+    <value>Zzzz... Zzzz...</value>
+  </data>
+  <data name="TALK_WAIT_0058" xml:space="preserve">
+    <value>T'as fait le plein de nourriture ?</value>
+  </data>
+  <data name="TALK_WAIT_0060" xml:space="preserve">
+    <value>Une aventure ! Je veux une GRANDE aventure !</value>
+  </data>
+  <data name="TALK_WAIT_0061" xml:space="preserve">
+    <value>On y va ! Il est VRAIMENT temps de partir !</value>
+  </data>
+  <data name="TALK_WAIT_0062" xml:space="preserve">
+    <value>Je suis GONFLÉ à bloc !</value>
+  </data>
+  <data name="TALK_WAIT_0063" xml:space="preserve">
+    <value>Montrons du CRAN dans cette grande aventure !</value>
+  </data>
+  <data name="TALK_WAIT_0065" xml:space="preserve">
+    <value>Allons, courage ! Partons découvrir des trésors !</value>
+  </data>
+  <data name="TALK_WAIT_0066" xml:space="preserve">
+    <value>Tu ne trouves pas ça follement excitant ?</value>
+  </data>
+  <data name="TALK_WAIT_0067" xml:space="preserve">
+    <value>Allons donc ! Pourquoi lambiner ?</value>
+  </data>
+  <data name="TALK_WAIT_0070" xml:space="preserve">
+    <value>L'exploration ? Laisse-moi faire !</value>
+  </data>
+  <data name="TALK_WAIT_0071" xml:space="preserve">
+    <value>Ouais, ça va être une super sortie, c'est certain !</value>
+  </data>
+  <data name="TALK_WAIT_0072" xml:space="preserve">
+    <value>Prêt à partir quand tu veux !</value>
+  </data>
+  <data name="TALK_WAIT_0075" xml:space="preserve">
+    <value>Sûr de n'avoir rien oublié ?</value>
+  </data>
+  <data name="TALK_WAIT_0076" xml:space="preserve">
+    <value>Paré pour l'exploration, [hero] ?</value>
+  </data>
+  <data name="TALK_WAIT_0077" xml:space="preserve">
+    <value>J'ai vraiment hâte d'explorer avec toi.</value>
+  </data>
+  <data name="TALK_WAIT_0080" xml:space="preserve">
+    <value>Je le vois déjà... Une montagne de trésors...</value>
+  </data>
+  <data name="TALK_WAIT_0081" xml:space="preserve">
+    <value>Oui, oui... Une montagne de trésors... Ça te tente ?</value>
+  </data>
+  <data name="TALK_WAIT_0082" xml:space="preserve">
+    <value>L'attente... le suspense... C'est ma raison de vivre !</value>
+  </data>
+  <data name="TALK_WAIT_0135" xml:space="preserve">
+    <value>La-la-la ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0136" xml:space="preserve">
+    <value>Trop bien ! \u266A J'adore explorer ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0137" xml:space="preserve">
+    <value>Bientôt ! \u266A Partons bientôt ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0138" xml:space="preserve">
+    <value>Oui, oui ! \u266A Je ferai de mon mieux ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0139" xml:space="preserve">
+    <value>Où ça, où ça ? \u266A J'ai trop hâte de savoir où ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0145" xml:space="preserve">
+    <value>J'attends notre expédition avec délice !</value>
+  </data>
+  <data name="TALK_WAIT_0146" xml:space="preserve">
+    <value>Ce serait éblouissant de découvrir quelque chose de nouveau, n'est-ce pas ?</value>
+  </data>
+  <data name="TALK_WAIT_0147" xml:space="preserve">
+    <value>Je suis prêt depuis un bon moment déjà... Partons-nous ?</value>
+  </data>
+  <data name="TALK_WAIT_0148" xml:space="preserve">
+    <value>Faisons de cette exploration une réussite !</value>
+  </data>
+  <data name="TALK_WAIT_0149" xml:space="preserve">
+    <value>Je peux partir dès que cela te conviendra.</value>
+  </data>
+  <data name="TALK_WAIT_0150" xml:space="preserve">
+    <value>Je suis prêt à partir !</value>
+  </data>
+  <data name="TALK_WAIT_0151" xml:space="preserve">
+    <value>Comment cela va-t-il tourner ? J'ai tellement hâte !</value>
+  </data>
+  <data name="TALK_WAIT_0152" xml:space="preserve">
+    <value>Partons-nous bientôt ?</value>
+  </data>
+  <data name="TALK_WAIT_0153" xml:space="preserve">
+    <value>Rien ne presse ! Prépare-toi, et ensuite nous partirons.</value>
+  </data>
+  <data name="TALK_WAIT_0155" xml:space="preserve">
+    <value>Prêt à partir dès que tu l'es !</value>
+  </data>
+  <data name="TALK_WAIT_0156" xml:space="preserve">
+    <value>Partons vite !</value>
+  </data>
+  <data name="TALK_WAIT_0157" xml:space="preserve">
+    <value>On part bientôt ? Je me lasse d'attendre...</value>
+  </data>
+  <data name="TALK_WAIT_0158" xml:space="preserve">
+    <value>J'ai hâte de commencer l'exploration !</value>
+  </data>
+  <data name="TALK_WAIT_0160" xml:space="preserve">
+    <value>Je suis prêt à partir !</value>
+  </data>
+  <data name="TALK_WAIT_0161" xml:space="preserve">
+    <value>Comment ça va se passer ? Je suis tout excité !</value>
+  </data>
+  <data name="TALK_WAIT_0162" xml:space="preserve">
+    <value>Partons dès que tout le monde est prêt !</value>
+  </data>
+  <data name="TALK_WAIT_0163" xml:space="preserve">
+    <value>Partons-nous bientôt ?</value>
+  </data>
+  <data name="TALK_WAIT_0165" xml:space="preserve">
+    <value>JE SUIS PRÊT ! EST-CE L'HEURE DE PARTIR ?</value>
+  </data>
+  <data name="TALK_WAIT_0166" xml:space="preserve">
+    <value>NOUS POUVONS PARTIR À TOUT MOMENT.</value>
+  </data>
+  <data name="TALK_WAIT_0167" xml:space="preserve">
+    <value>HÂTE-TOI ! L'HEURE EST VENUE !</value>
+  </data>
+  <data name="TALK_WAIT_0168" xml:space="preserve">
+    <value>SUGGÈRES-TU QUE JE DOIVE ATTENDRE ?</value>
+  </data>
+  <data name="TALK_WAIT_0170" xml:space="preserve">
+    <value>TU T'ATTENDS À CE QUE J'ATTENDE ?</value>
+  </data>
+  <data name="TALK_WAIT_0171" xml:space="preserve">
+    <value>JE SUIS PARÉ POUR LA BATAILLE !</value>
+  </data>
+  <data name="TALK_WAIT_0172" xml:space="preserve">
+    <value>COMBIEN DE TEMPS DOIS-JE ATTENDRE ?</value>
+  </data>
+  <data name="TALK_WAIT_0173" xml:space="preserve">
+    <value>EN ROUTE ! FAISONS DILIGENCE !</value>
+  </data>
+  <data name="TALK_WAIT_0175" xml:space="preserve">
+    <value>PRÊT... À... PARTIR...</value>
+  </data>
+  <data name="TALK_WAIT_0176" xml:space="preserve">
+    <value>N'IMPORTE... QUAND... N'IMPORTE... QUAND...</value>
+  </data>
+  <data name="TALK_WAIT_0177" xml:space="preserve">
+    <value>POURQUOI... POURQUOI... POURQUOI... ATTENDRE ?</value>
+  </data>
+  <data name="TALK_WAIT_0178" xml:space="preserve">
+    <value>TE SUIVRE... PARTOUT... PARTOUT...</value>
+  </data>
+  <data name="TALK_WAIT_0180" xml:space="preserve">
+    <value>Je me tiens prêt.</value>
+  </data>
+  <data name="TALK_WAIT_0181" xml:space="preserve">
+    <value>Où que tu ailles, je suivrai. J'insiste : où que ce soit !</value>
+  </data>
+  <data name="TALK_WAIT_0182" xml:space="preserve">
+    <value>Les ténèbres sommeillent en moi... Je les sens encore parfois...</value>
+  </data>
+  <data name="TALK_WAIT_0183" xml:space="preserve">
+    <value>Es-tu prêt à partir ? Alors mettons-nous en route.</value>
+  </data>
+  <data name="TALK_WAIT_0185" xml:space="preserve">
+    <value>Je pars explorer ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0186" xml:space="preserve">
+    <value>Nous partons ? \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0187" xml:space="preserve">
+    <value>J'attends ! J'attends ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0188" xml:space="preserve">
+    <value>Totalement prêt ! Complètement ! \u266A</value>
+  </data>
+  <data name="TALK_WAIT_0190" xml:space="preserve">
+    <value>Content de te voir !</value>
+  </data>
+  <data name="TALK_SHOP_0000" xml:space="preserve">
+    <value>Toujours ravi de vous servir ! ~\u266A</value>
+  </data>
+  <data name="TALK_SHOP_0001" xml:space="preserve">
+    <value>Regarde, regarde ! Ils sont tout brillants !</value>
+  </data>
+  <data name="TALK_SHOP_0002" xml:space="preserve">
+    <value>NOS ARTICLES SONT GARANTIS DE QUALITÉ SUPÉRIEURE.</value>
+  </data>
+  <data name="TALK_SHOP_END_0000" xml:space="preserve">
+    <value>Merci ! Revenez quand vous voulez ! ~\u266A</value>
+  </data>
+  <data name="TALK_SHOP_END_0001" xml:space="preserve">
+    <value>Merci d'être passé !</value>
+  </data>
+  <data name="TALK_SHOP_END_0002" xml:space="preserve">
+    <value>BONNE JOURNÉE.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0000" xml:space="preserve">
+    <value>Cet article coûte {0}. Vous le prenez ?</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0001" xml:space="preserve">
+    <value>Un...[pause=10] deux...[pause=10] trois...[pause=10] Ça fera {0} !</value>
+  </data>
+  <data name="TALK_SHOP_PAY_0002" xml:space="preserve">
+    <value>VOTRE TOTAL S'ÉLÈVE À {0}.\nCONFIRMEZ VOTRE ACHAT.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_DONE_0000" xml:space="preserve">
+    <value>Merci ! Merci infiniment ! ~\u266A</value>
+  </data>
+  <data name="TALK_SHOP_PAY_DONE_0001" xml:space="preserve">
+    <value>Reviens vite !</value>
+  </data>
+  <data name="TALK_SHOP_PAY_DONE_0002" xml:space="preserve">
+    <value>TRANSACTION TERMINÉE. AUCUN RETOUR POSSIBLE.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_REFUSE_0000" xml:space="preserve">
+    <value>Quelle déception.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_REFUSE_0001" xml:space="preserve">
+    <value>Oooh, tu n'achètes rien ?</value>
+  </data>
+  <data name="TALK_SHOP_PAY_REFUSE_0002" xml:space="preserve">
+    <value>TRANSACTION ANNULÉE.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_SHORT_0000" xml:space="preserve">
+    <value>Vous ne semblez pas avoir assez d'argent.</value>
+  </data>
+  <data name="TALK_SHOP_PAY_SHORT_0001" xml:space="preserve">
+    <value>Hein ? Ça ne suffit pas...</value>
+  </data>
+  <data name="TALK_SHOP_PAY_SHORT_0002" xml:space="preserve">
+    <value>ERREUR. FONDS INSUFFISANTS.</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0000" xml:space="preserve">
+    <value>Pour ceci, je vous offre {0} ! Vous le vendez ?</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0001" xml:space="preserve">
+    <value>Je peux te racheter ça pour,[pause=10] euh,[pause=10] {0} ![pause=30] Ça te va ?</value>
+  </data>
+  <data name="TALK_SHOP_SELL_0002" xml:space="preserve">
+    <value>VOUS RECEVREZ {0} POUR CES FOURNITURES.\nCONFIRMER ?</value>
+  </data>
+  <data name="TALK_SHOP_SELL_DONE_0000" xml:space="preserve">
+    <value>Merci ! Votre fidélité m'honore ! ~\u266A</value>
+  </data>
+  <data name="TALK_SHOP_SELL_DONE_0001" xml:space="preserve">
+    <value>Ouais ! Merci !</value>
+  </data>
+  <data name="TALK_SHOP_SELL_DONE_0002" xml:space="preserve">
+    <value>ÉCHANGE TERMINÉ.</value>
+  </data>
+  <data name="TALK_SHOP_START_0000" xml:space="preserve">
+    <value>Bienvenue ! Bienvenue ! ~\u266A</value>
+  </data>
+  <data name="TALK_SHOP_START_0001" xml:space="preserve">
+    <value>Bienvenue dans ma boutique à moi !</value>
+  </data>
+  <data name="TALK_SHOP_START_0002" xml:space="preserve">
+    <value>SALUTATIONS, PRÉCIEUX CLIENT.</value>
+  </data>
+  <data name="TALK_SHOP_SUSPECT_0000" xml:space="preserve">
+    <value>Tu pensais que j'oublierais le visage du voleur qui a dépouillé mes frères !?[pause=0] Prépare-toi à une justice impitoyable !</value>
+  </data>
+  <data name="TALK_SHOP_SUSPECT_0001" xml:space="preserve">
+    <value>Hé, attends ![pause=10] On m'a parlé de toi ![pause=0]\nTu as volé mes amis !</value>
+  </data>
+  <data name="TALK_SHOP_SUSPECT_0002" xml:space="preserve">
+    <value>PROCESSUS INTERROMPU.[pause=0]\nRECHERCHE DANS LA BASE DE DONNÉES...[br].[pause=4].[pause=4].[pause=4].[pause=4]CASIER JUDICIAIRE IDENTIFIÉ.</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_0000" xml:space="preserve">
+    <value>Ma précieuse marchandise ! Attrapez ce voleur !</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_0001" xml:space="preserve">
+    <value>Ouiiin ! Ce méchant a volé mes trésors brillants !</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_0002" xml:space="preserve">
+    <value>LE VOL NE SERA PAS TOLÉRÉ.</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_RETURN_0000" xml:space="preserve">
+    <value>Attrapez ce voleur !</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_RETURN_0001" xml:space="preserve">
+    <value>À l'aide ! Le voleur est revenu !</value>
+  </data>
+  <data name="TALK_SHOP_THIEF_RETURN_0002" xml:space="preserve">
+    <value>LE VOL NE SERA PAS TOLÉRÉ.</value>
+  </data>
+  <data name="TALK_FULL_1000" xml:space="preserve">
+    <value>Donnons le meilleur de nous-mêmes, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1001" xml:space="preserve">
+    <value>Je te couvre avec ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_1002" xml:space="preserve">
+    <value>On ferait bien de se dépêcher !</value>
+  </data>
+  <data name="TALK_FULL_1003" xml:space="preserve">
+    <value>Restons à l'affût du moindre [kind].</value>
+  </data>
+  <data name="TALK_FULL_1004" xml:space="preserve">
+    <value>Je suis là pour toi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1005" xml:space="preserve">
+    <value>On ne se laissera pas battre par un [kind], pas vrai [player] ?</value>
+  </data>
+  <data name="TALK_FULL_1006" xml:space="preserve">
+    <value>Pense à ramasser tout objet [item] que tu trouves !</value>
+  </data>
+  <data name="TALK_FULL_1007" xml:space="preserve">
+    <value>Je te suis, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1008" xml:space="preserve">
+    <value>Continuons !</value>
+  </data>
+  <data name="TALK_FULL_1009" xml:space="preserve">
+    <value>Restons prudents. Impossible de savoir ce qui nous attend !</value>
+  </data>
+  <data name="TALK_FULL_1010" xml:space="preserve">
+    <value>Ça va être une super aventure, je le sens !</value>
+  </data>
+  <data name="TALK_HALF_1000" xml:space="preserve">
+    <value>Ça devient difficile...</value>
+  </data>
+  <data name="TALK_HALF_1001" xml:space="preserve">
+    <value>Ouf ! C'est rude, mais je peux continuer !</value>
+  </data>
+  <data name="TALK_HALF_1002" xml:space="preserve">
+    <value>Je commence à faiblir...</value>
+  </data>
+  <data name="TALK_HALF_1003" xml:space="preserve">
+    <value>C'est un peu trop pour moi...</value>
+  </data>
+  <data name="TALK_HALF_1004" xml:space="preserve">
+    <value>Ce n'est pas facile, mais j'ai encore la force de continuer !</value>
+  </data>
+  <data name="TALK_PINCH_1000" xml:space="preserve">
+    <value>Non... Pitié, plus de coups... Aide-moi, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_1001" xml:space="preserve">
+    <value>Argh... Je n'en peux plus... Je vais m'évanouir...</value>
+  </data>
+  <data name="TALK_PINCH_1002" xml:space="preserve">
+    <value>Je suis sur le point de m'effondrer... A-aide-moi, pitié...</value>
+  </data>
+  <data name="TALK_PINCH_1003" xml:space="preserve">
+    <value>J'ai s-subi trop de d-dégâts... À l'aide, [player]... </value>
+  </data>
+  <data name="TALK_PINCH_1004" xml:space="preserve">
+    <value>Ouf... Il me faut des s-soins, vite, ou je vais tomber...</value>
+  </data>
+  <data name="TALK_WAIT_1000" xml:space="preserve">
+    <value>Tu ne devrais normalement jamais voir ce message d'attente.</value>
+  </data>
+  <data name="TALK_FULL_1020" xml:space="preserve">
+    <value>Allez, [player] ! [mission_target] doit bien être quelque part par ici !</value>
+  </data>
+  <data name="TALK_FULL_1021" xml:space="preserve">
+    <value>C'est ici que [mission_target] a demandé un sauvetage ! Allons l'aider, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1022" xml:space="preserve">
+    <value>[mission_target] devrait être ici quelque part ! Nous devons l'aider !</value>
+  </data>
+  <data name="TALK_FULL_1023" xml:space="preserve">
+    <value>[mission_target] a besoin d'être secouru ! Trouvons-le et sortons-le d'ici !</value>
+  </data>
+  <data name="TALK_FULL_1024" xml:space="preserve">
+    <value>Nous avons un sauvetage à accomplir ! En route, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1020" xml:space="preserve">
+    <value>Ce n'est pas facile, mais [mission_target] a toujours besoin de nous !</value>
+  </data>
+  <data name="TALK_HALF_1021" xml:space="preserve">
+    <value>Je m'épuise, mais je n'abandonnerai pas avant la fin du sauvetage !</value>
+  </data>
+  <data name="TALK_HALF_1022" xml:space="preserve">
+    <value>Ça se corse, mais nous avons toujours un sauvetage à terminer !</value>
+  </data>
+  <data name="TALK_PINCH_1020" xml:space="preserve">
+    <value>N-non... Nous devons encore... s-secourir [mission_target]...</value>
+  </data>
+  <data name="TALK_PINCH_1021" xml:space="preserve">
+    <value>P-pas encore... [mission_target] a b-besoin de nous...</value>
+  </data>
+  <data name="TALK_PINCH_1022" xml:space="preserve">
+    <value>Je ne peux pas tomber... Pas avant d'avoir secouru... [mission_target]...</value>
+  </data>
+  <data name="TALK_FULL_1030" xml:space="preserve">
+    <value>Amenons [mission_client] jusqu'à [mission_target] en toute sécurité.</value>
+  </data>
+  <data name="TALK_FULL_1031" xml:space="preserve">
+    <value>[mission_target] devrait être dans les parages. Allons-y, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1032" xml:space="preserve">
+    <value>On y est presque ! Encore un petit effort avant d'atteindre [mission_target] !</value>
+  </data>
+  <data name="TALK_FULL_1033" xml:space="preserve">
+    <value>On y est presque ! [mission_client] et [mission_target] seront bientôt réunis !</value>
+  </data>
+  <data name="TALK_FULL_1034" xml:space="preserve">
+    <value>Faisons de notre mieux pour protéger [mission_client] !</value>
+  </data>
+  <data name="TALK_HALF_1030" xml:space="preserve">
+    <value>Ça devient dur... Mais je ne laisserai pas tomber [mission_client] maintenant !</value>
+  </data>
+  <data name="TALK_HALF_1031" xml:space="preserve">
+    <value>Ouf ! Pas facile, mais je m'assurerai que [mission_target] retrouve [mission_client] !</value>
+  </data>
+  <data name="TALK_HALF_1032" xml:space="preserve">
+    <value>Je faiblis... J'espère que nous pourrons encore amener [mission_target] à [mission_client] sans encombre. </value>
+  </data>
+  <data name="TALK_PINCH_1030" xml:space="preserve">
+    <value>S-si près du but... P-pardon... [mission_client]... [mission_target]...</value>
+  </data>
+  <data name="TALK_PINCH_1031" xml:space="preserve">
+    <value>Je n'en peux plus... P-pardon... [mission_client]...</value>
+  </data>
+  <data name="TALK_PINCH_1032" xml:space="preserve">
+    <value>Pas assez f-fort... [player], protège... [mission_client]...</value>
+  </data>
+  <data name="TALK_FULL_1040" xml:space="preserve">
+    <value>Apportons cet objet [mission_item] à [mission_target] !</value>
+  </data>
+  <data name="TALK_FULL_1041" xml:space="preserve">
+    <value>[mission_target] attend cet objet [mission_item]. Livrons-le, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1042" xml:space="preserve">
+    <value>[mission_target] doit être dans le coin. Donnons-lui cet objet [mission_item] qu'il a demandé !</value>
+  </data>
+  <data name="TALK_FULL_1043" xml:space="preserve">
+    <value>Oups ! On dirait que nous n'avons pas l'objet [mission_item] demandé par [mission_target] !</value>
+  </data>
+  <data name="TALK_FULL_1044" xml:space="preserve">
+    <value>Oh non ! Nous avons oublié de prendre un objet [mission_item] pour [mission_target] !</value>
+  </data>
+  <data name="TALK_FULL_1045" xml:space="preserve">
+    <value>On dirait que nous n'avons pas d'objet [mission_item] pour [mission_target]... Il va falloir en trouver un quelque part.</value>
+  </data>
+  <data name="TALK_HALF_1040" xml:space="preserve">
+    <value>Cette livraison s'avère plus rude que prévu...</value>
+  </data>
+  <data name="TALK_HALF_1041" xml:space="preserve">
+    <value>Ça devient difficile, mais nous devons encore livrer cet objet [mission_item] à [mission_target] !</value>
+  </data>
+  <data name="TALK_HALF_1042" xml:space="preserve">
+    <value>Je suis un peu amoché et nous avons oublié l'objet [mission_item]... Ce n'est pas notre jour, hein [player] ?</value>
+  </data>
+  <data name="TALK_HALF_1043" xml:space="preserve">
+    <value>Ça se corse... Et nous n'avons même pas l'objet [mission_item] à livrer...</value>
+  </data>
+  <data name="TALK_PINCH_1040" xml:space="preserve">
+    <value>Je vais m'é-écrouler... L-l'objet [mission_item]... N-non...</value>
+  </data>
+  <data name="TALK_PINCH_1041" xml:space="preserve">
+    <value>Ouf... Je ne peux pas tomber... L'objet [mission_item]... de [mission_target]... </value>
+  </data>
+  <data name="TALK_PINCH_1042" xml:space="preserve">
+    <value>Je vais t-tomber... Où est... l'objet [mission_item]...</value>
+  </data>
+  <data name="TALK_PINCH_1043" xml:space="preserve">
+    <value>P-plus... Plus de dégâts... Et p-pas d'objet [mission_item] non plus...</value>
+  </data>
+  <data name="TALK_FULL_1050" xml:space="preserve">
+    <value>Hmm... Cet objet [mission_item] devrait être quelque part par ici...</value>
+  </data>
+  <data name="TALK_FULL_1051" xml:space="preserve">
+    <value>L'objet [mission_item] de [mission_client] doit être tout près. Trouvons-le, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1052" xml:space="preserve">
+    <value>Nous avons un travail à faire ! Récupérons cet objet [mission_item] pour [mission_client], [player] !</value>
+  </data>
+  <data name="TALK_FULL_1053" xml:space="preserve">
+    <value>Je me demande où cet objet [mission_item] peut bien être...</value>
+  </data>
+  <data name="TALK_FULL_1054" xml:space="preserve">
+    <value>C'est sûrement ici que [mission_client] a perdu son objet [mission_item]. Récupérons-le pour lui, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1050" xml:space="preserve">
+    <value>Trouver cet objet [mission_item] va être plus dur que je ne le pensais...</value>
+  </data>
+  <data name="TALK_HALF_1051" xml:space="preserve">
+    <value>Je suis un peu blessé, mais je n'abandonnerai pas avant d'avoir rendu son objet [mission_item] à [mission_client] !</value>
+  </data>
+  <data name="TALK_HALF_1052" xml:space="preserve">
+    <value>Ça devient dur... Mais nous avons toujours un objet [mission_item] à retrouver !</value>
+  </data>
+  <data name="TALK_PINCH_1050" xml:space="preserve">
+    <value>Je n-n'en peux plus... Où est... l'objet [mission_item]...</value>
+  </data>
+  <data name="TALK_PINCH_1051" xml:space="preserve">
+    <value>Ouf... Il me faut des s-soins ou... Nous ne trouverons pas... l'objet [mission_item]...</value>
+  </data>
+  <data name="TALK_PINCH_1052" xml:space="preserve">
+    <value>N-non... À ce rythme, je vais t-tomber... Sans l'objet [mission_item]...</value>
+  </data>
+  <data name="TALK_FULL_1060" xml:space="preserve">
+    <value>Amenons [mission_client] jusqu'à [mission_target] en toute sécurité.</value>
+  </data>
+  <data name="TALK_FULL_1061" xml:space="preserve">
+    <value>Nous devrons faire de notre mieux pour protéger [mission_client] du danger.</value>
+  </data>
+  <data name="TALK_FULL_1062" xml:space="preserve">
+    <value>Reste près de [mission_client] ! Il ne doit rien lui arriver.</value>
+  </data>
+  <data name="TALK_HALF_1060" xml:space="preserve">
+    <value>Ouf ! Ce n'est pas facile, mais je ferai tout pour protéger [mission_client] !</value>
+  </data>
+  <data name="TALK_HALF_1061" xml:space="preserve">
+    <value>Être garde du corps n'est pas aussi simple que je le croyais...</value>
+  </data>
+  <data name="TALK_PINCH_1060" xml:space="preserve">
+    <value>On n'y est m-même pas arrivés... P-pardon... [mission_client]...</value>
+  </data>
+  <data name="TALK_PINCH_1061" xml:space="preserve">
+    <value>Il reste t-trop de chemin... Pardon, [player]... [mission_client]...</value>
+  </data>
+  <data name="TALK_FULL_1070" xml:space="preserve">
+    <value>Vivons une belle aventure avec [mission_client] !</value>
+  </data>
+  <data name="TALK_FULL_1071" xml:space="preserve">
+    <value>Nous devrons faire de notre mieux pour protéger [mission_client] du danger.</value>
+  </data>
+  <data name="TALK_FULL_1072" xml:space="preserve">
+    <value>J'espère que [mission_client] s'amuse bien à explorer avec nous !</value>
+  </data>
+  <data name="TALK_HALF_1070" xml:space="preserve">
+    <value>Ouf ! Ce n'est pas facile, mais je ferai tout pour protéger [mission_client] !</value>
+  </data>
+  <data name="TALK_HALF_1071" xml:space="preserve">
+    <value>Ça devient dur... Mais ça rendra l'aventure de [mission_client] plus palpitante, pas vrai ?</value>
+  </data>
+  <data name="TALK_PINCH_1070" xml:space="preserve">
+    <value>Cette aventure est trop d-dure... Je vais m'é-évanouir... [player], à l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_1071" xml:space="preserve">
+    <value>On n'est pas allés a-assez loin... Pardon, [player]... [mission_client]...</value>
+  </data>
+  <data name="TALK_FULL_1080" xml:space="preserve">
+    <value>Mettons ce hors-la-loi hors d'état de nuire, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1081" xml:space="preserve">
+    <value>Cette crapule ne nous battra pas ! Allez, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1082" xml:space="preserve">
+    <value>Ce hors-la-loi ne nous échappera pas ! On fonce, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1083" xml:space="preserve">
+    <value>Faisons de notre mieux pour vaincre ce hors-la-loi !</value>
+  </data>
+  <data name="TALK_FULL_1084" xml:space="preserve">
+    <value>Ce bandit est comme qui dirait déjà arrêté ! En avant, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1080" xml:space="preserve">
+    <value>Il est plus coriace qu'il n'en a l'air... Mais je n'abandonne pas !</value>
+  </data>
+  <data name="TALK_HALF_1081" xml:space="preserve">
+    <value>Je suis un peu amoché... Mais ce hors-la-loi ne m'aura pas !</value>
+  </data>
+  <data name="TALK_HALF_1082" xml:space="preserve">
+    <value>Ce hors-la-loi est plus fort que je ne le pensais...</value>
+  </data>
+  <data name="TALK_PINCH_1080" xml:space="preserve">
+    <value>Il est... t-trop fort... [player], à l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_1081" xml:space="preserve">
+    <value>Ouf... Je vais t-tomber... [player]... Le h-hors-la-loi... </value>
+  </data>
+  <data name="TALK_PINCH_1082" xml:space="preserve">
+    <value>Ce hors-la-loi... Argh... Il ne doit pas s'échapper... </value>
+  </data>
+  <data name="TALK_FULL_1100" xml:space="preserve">
+    <value>Les donjons mystères peuvent être dangereux,[pause=10] mais tout ira bien si nous restons ensemble !</value>
+  </data>
+  <data name="TALK_FULL_1101" xml:space="preserve">
+    <value>Retournons au Bourg Metano, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1102" xml:space="preserve">
+    <value>Qu'est-ce qu'il y a comme ruines dans cette forêt...</value>
+  </data>
+  <data name="TALK_FULL_1103" xml:space="preserve">
+    <value>Ne t'en fais pas, je te protégerai, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1100" xml:space="preserve">
+    <value>Ouf... Cette forêt se révèle éprouvante...</value>
+  </data>
+  <data name="TALK_HALF_1101" xml:space="preserve">
+    <value>Cette forêt est un peu plus dangereuse que prévu. Mais je tiens bon !</value>
+  </data>
+  <data name="TALK_PINCH_1100" xml:space="preserve">
+    <value>N-non... Je vais m'effondrer... P-pardon, [player]... </value>
+  </data>
+  <data name="TALK_PINCH_1101" xml:space="preserve">
+    <value>Argh... Le Bourg Metano... T-trop loin...</value>
+  </data>
+  <data name="TALK_FULL_1110" xml:space="preserve">
+    <value>Vite, [player] ! Nous devons secourir [(Numel)] !</value>
+  </data>
+  <data name="TALK_FULL_1111" xml:space="preserve">
+    <value>[(Numel)] compte sur nous ! En avant, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1112" xml:space="preserve">
+    <value>Nous devons atteindre la Source Lumineuse et retrouver [(Numel)] !</value>
+  </data>
+  <data name="TALK_FULL_1113" xml:space="preserve">
+    <value>C'est notre première mission, [player] ! Donnons tout pour la réussir !</value>
+  </data>
+  <data name="TALK_HALF_1110" xml:space="preserve">
+    <value>Ça devient rude, mais je tiendrai bon pour secourir [(Numel)] !</value>
+  </data>
+  <data name="TALK_HALF_1111" xml:space="preserve">
+    <value>Notre première mission semble un peu plus corsée que prévu...</value>
+  </data>
+  <data name="TALK_PINCH_1110" xml:space="preserve">
+    <value>N-non... Je ne veux pas échouer, p-pas lors de notre première... m-mission...</value>
+  </data>
+  <data name="TALK_PINCH_1111" xml:space="preserve">
+    <value>Je n'en peux plus... [color=#00FFFF]P[color]-pardon, [(Numel)]...</value>
+  </data>
+  <data name="TALK_FULL_1120" xml:space="preserve">
+    <value>Attrapons ce hors-la-loi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1121" xml:space="preserve">
+    <value>Ça fait peur, mais je sais que nous pouvons attraper ce hors-la-loi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1122" xml:space="preserve">
+    <value>Gare aux bandits !</value>
+  </data>
+  <data name="TALK_FULL_1123" xml:space="preserve">
+    <value>Prouvons à [(Cranidos)] que nous sommes à la hauteur, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1120" xml:space="preserve">
+    <value>Ça se corse... Cet endroit est vraiment aussi dangereux que je le craignais...</value>
+  </data>
+  <data name="TALK_HALF_1121" xml:space="preserve">
+    <value>Je suis un peu blessé, mais je peux continuer. Attrapons ce hors-la-loi !</value>
+  </data>
+  <data name="TALK_PINCH_1120" xml:space="preserve">
+    <value>Ouf... Je vais m'écrouler... [(Cranidos)] avait raison, f-finalement... ?</value>
+  </data>
+  <data name="TALK_PINCH_1121" xml:space="preserve">
+    <value>N-non... À ce r-rythme, je vais tomber... Je ne peux pas... Le hors-la-loi...</value>
+  </data>
+  <data name="TALK_FULL_1130" xml:space="preserve">
+    <value>Cette fois, la Team [color=#FFA5FF]Style[color] ne nous battra pas !</value>
+  </data>
+  <data name="TALK_FULL_1131" xml:space="preserve">
+    <value>Nous devons aider [(Sandile)] ! Allez, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1132" xml:space="preserve">
+    <value>La Team [color=#FFA5FF]Style[color]... Ces vauriens vont mordre la poussière !</value>
+  </data>
+  <data name="TALK_FULL_1133" xml:space="preserve">
+    <value>[(Sandile)] a besoin de nous ! On fonce, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1130" xml:space="preserve">
+    <value>Ça devient difficile... Mais je ne tomberai pas avant d'avoir battu la Team [color=#FFA5FF]Style[color] !</value>
+  </data>
+  <data name="TALK_HALF_1131" xml:space="preserve">
+    <value>Je suis un peu amoché, mais je ne céderai pas avant d'avoir sauvé [(Sandile)] de la Team [color=#FFA5FF]Style[color] !</value>
+  </data>
+  <data name="TALK_PINCH_1130" xml:space="preserve">
+    <value>N-non... Les d-dégâts... Mais je dois... La Team [color=#FFA5FF]Style[color]...</value>
+  </data>
+  <data name="TALK_PINCH_1131" xml:space="preserve">
+    <value>Argh... Je n'en p-peux plus... Pardon... [(Sandile)]...</value>
+  </data>
+  <data name="TALK_FULL_1140" xml:space="preserve">
+    <value>Nous ne perdrons pas contre ces brutes !</value>
+  </data>
+  <data name="TALK_FULL_1141" xml:space="preserve">
+    <value>Nous devons aider [(Sandile)] ! Allez, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1142" xml:space="preserve">
+    <value>Ces vauriens vont tomber ici et maintenant !</value>
+  </data>
+  <data name="TALK_FULL_1143" xml:space="preserve">
+    <value>[(Sandile)] a besoin de nous ! On fonce, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1144" xml:space="preserve">
+    <value>Remettons ces brutes à leur place, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1140" xml:space="preserve">
+    <value>Ça devient difficile... Mais je ne tomberai pas avant d'avoir vaincu la Team [color=#FFA5FF]Style[color] !</value>
+  </data>
+  <data name="TALK_HALF_1141" xml:space="preserve">
+    <value>Je suis un peu amoché, mais je ne céderai pas avant d'avoir sauvé [(Sandile)] de la Team [color=#FFA5FF]Style[color] !</value>
+  </data>
+  <data name="TALK_HALF_1142" xml:space="preserve">
+    <value>Ils sont coriaces... Mais je peux continuer !</value>
+  </data>
+  <data name="TALK_PINCH_1140" xml:space="preserve">
+    <value>N-non... Les d-dégâts... Mais je dois... La Team [color=#FFA5FF]Style[color]...</value>
+  </data>
+  <data name="TALK_PINCH_1141" xml:space="preserve">
+    <value>Argh... Je n'en p-peux plus... Pardon... [(Sandile)]...</value>
+  </data>
+  <data name="TALK_PINCH_1142" xml:space="preserve">
+    <value>Ils sont... trop f-forts... Je vais m'é-écrouler...</value>
+  </data>
+  <data name="TALK_FULL_1150" xml:space="preserve">
+    <value>C'est notre première vraie aventure, [player] ! Donnons le meilleur de nous-mêmes !</value>
+  </data>
+  <data name="TALK_FULL_1151" xml:space="preserve">
+    <value>J'espère que nous trouverons quelque chose de vraiment super à rapporter à la guilde !</value>
+  </data>
+  <data name="TALK_FULL_1152" xml:space="preserve">
+    <value>Tu réalises que nous sommes les premiers à explorer ce donjon ? Je suis tout excité !</value>
+  </data>
+  <data name="TALK_FULL_1153" xml:space="preserve">
+    <value>C'est notre chance de montrer au Maître de Guilde ce que nous valons ! Donnons tout, [player] !</value>
+  </data>
+  <data name="TALK_HALF_1150" xml:space="preserve">
+    <value>C'est rude... Mais je n'abandonnerai pas, pas lors de notre première vraie aventure !</value>
+  </data>
+  <data name="TALK_HALF_1151" xml:space="preserve">
+    <value>Cette forêt s'avère difficile... Mais ça n'en fait qu'une meilleure aventure !</value>
+  </data>
+  <data name="TALK_PINCH_1150" xml:space="preserve">
+    <value>Cette f-forêt... est t-trop dure... À l'aide, [player]...</value>
+  </data>
+  <data name="TALK_PINCH_1151" xml:space="preserve">
+    <value>Notre première v-vraie aventure... N-non... P-pardon, [player]...</value>
+  </data>
+  <data name="TALK_FULL_1160" xml:space="preserve">
+    <value>Dépêchons-nous d'arriver au bout pour récupérer ce Noigrume, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1161" xml:space="preserve">
+    <value>Il nous faut une équipe au complet si nous voulons attraper ce Noigrume, [player] !</value>
+  </data>
+  <data name="TALK_FULL_1162" xml:space="preserve">
+    <value>Nous avons vraiment trouvé quelque chose d'extraordinaire, [player] ! Il ne reste plus qu'à le récupérer !</value>
+  </data>
+  <data name="TALK_FULL_1163" xml:space="preserve">
+    <value>Le Maître de Guilde sera tellement impressionné quand nous lui montrerons ce Noigrume !</value>
+  </data>
+  <data name="TALK_HALF_1160" xml:space="preserve">
+    <value>Je suis cabossé... Mais pas question de m'arrêter avant d'avoir ramené ce Noigrume !</value>
+  </data>
+  <data name="TALK_HALF_1161" xml:space="preserve">
+    <value>Cet endroit n'est pas devenu plus facile depuis notre première exploration...</value>
+  </data>
+  <data name="TALK_PINCH_1160" xml:space="preserve">
+    <value>N-non... Il nous f-faut... le Noigrume...</value>
+  </data>
+  <data name="TALK_PINCH_1161" xml:space="preserve">
+    <value>Ouf... Pas moyen d'avoir le Noigrume... À ce r-rythme...</value>
+  </data>
+  <data name="TALK_FULL_3000" xml:space="preserve">
+    <value>Ouvre l'œil pour tout objet [item]. Je travaille sur une nouvelle recette qui en demande un. \u266A</value>
+  </data>
+  <data name="TALK_FULL_3001" xml:space="preserve">
+    <value>Dépêchons-nous d'atteindre le prochain camp. Je veux commencer le dîner avant le coucher du soleil !</value>
+  </data>
+  <data name="TALK_FULL_3002" xml:space="preserve">
+    <value>Restons groupés. Ce serait catastrophique que l'un de nous se retrouve isolé !</value>
+  </data>
+  <data name="TALK_FULL_3003" xml:space="preserve">
+    <value>Quelle découverte ferons-nous pendant cette expédition ? Quelque chose de succulent, j'espère. \u266A</value>
+  </data>
+  <data name="TALK_FULL_3004" xml:space="preserve">
+    <value>[{Hero}][{Partner}]C'est notre première aventure ensemble, [player]. Faisons-en une aventure fantastique. \u266A</value>
+  </data>
+  <data name="TALK_FULL_3005" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Ah, [player]. Une bouchée de cette \uE0A3[color=FFCEFF]Baie Frista[color] marinée que j'ai emportée ?</value>
+  </data>
+  <data name="TALK_HALF_3000" xml:space="preserve">
+    <value>Cette égratignure n'est rien. Tout chef digne de ce nom sait encaisser une coupure ou deux. \u266A</value>
+  </data>
+  <data name="TALK_HALF_3001" xml:space="preserve">
+    <value>Ça va, ça va. Je ne suis pas une petite nature, tu sais !</value>
+  </data>
+  <data name="TALK_HALF_3002" xml:space="preserve">
+    <value>Oh là, ces dégâts sont préoccupants... Mais sache que je peux encaisser !</value>
+  </data>
+  <data name="TALK_PINCH_3000" xml:space="preserve">
+    <value>Une \uE0A3[color=FFCEFF]Baie Oran[color], je vous prie... P-pochée, si possible...</value>
+  </data>
+  <data name="TALK_PINCH_3001" xml:space="preserve">
+    <value>Ce... ce n'est rien. J'ai eu de p-pires accidents en c-cuisine, tu sais...</value>
+  </data>
+  <data name="TALK_PINCH_3002" xml:space="preserve">
+    <value>Je ne peux pas t-tomber ici... Trop de r-recettes encore inachevées...</value>
+  </data>
+  <data name="TALK_FULL_3010" xml:space="preserve">
+    <value>Je nous soutiendrai de mon mieux avec ma capacité [move] !</value>
+  </data>
+  <data name="TALK_FULL_3011" xml:space="preserve">
+    <value>Je n'aime pas f-faire de mal aux autres... Mais je me b-battrai s'il le faut !</value>
+  </data>
+  <data name="TALK_FULL_3012" xml:space="preserve">
+    <value>C'est tellement plus amusant que les corvées ! Youpi !</value>
+  </data>
+  <data name="TALK_FULL_3013" xml:space="preserve">
+    <value>[(Breloom)] a dit que les Pokémon d'ici se battent en meute, alors\nr-restons bien groupés !</value>
+  </data>
+  <data name="TALK_FULL_3014" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Je m'amuse beaucoup à explorer avec toi, [player] ! J'espère qu'on repartira à l'aventure, m-même après l'expédition !</value>
+  </data>
+  <data name="TALK_FULL_3015" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Ça faisait longtemps que [slot3] et moi n'étions pas partis à l'aventure ensemble. D'habitude, le travail à la guilde nous occupe trop.</value>
+  </data>
+  <data name="TALK_FULL_3016" xml:space="preserve">
+    <value>[{Snubbull}]Ne te laisse pas distraire par la recherche d'ingrédients, [player]... Nous d-devons atteindre le camp de base !</value>
+  </data>
+  <data name="TALK_FULL_3017" xml:space="preserve">
+    <value>[{Snubbull}]Tu as un n-nouveau plat à me faire goûter ? O-oh, peut-être plus tard...</value>
+  </data>
+  <data name="TALK_HALF_3010" xml:space="preserve">
+    <value>A-aïe... Ça commence à faire m-mal...</value>
+  </data>
+  <data name="TALK_HALF_3011" xml:space="preserve">
+    <value>On p-peut se reposer ? J'ai b-besoin d'un instant pour me ressaisir...</value>
+  </data>
+  <data name="TALK_HALF_3012" xml:space="preserve">
+    <value>Ç-ça ? Ce n'est rien ! Je peux c-continuer, vraiment !</value>
+  </data>
+  <data name="TALK_PINCH_3010" xml:space="preserve">
+    <value>C-c'est quand même mieux que... les c-corvées...</value>
+  </data>
+  <data name="TALK_PINCH_3011" xml:space="preserve">
+    <value>Je n'ai p-plus de force... P-pitié, [player], à l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_3012" xml:space="preserve">
+    <value>T-tout va bien... T-tout va bien... T-tout va b-bien...</value>
+  </data>
+  <data name="TALK_FULL_3020" xml:space="preserve">
+    <value>Sniff, sniff... Ça sent le [kind] dans le coin, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3021" xml:space="preserve">
+    <value>Wouf ! Ma capacité [move] est la meilleure qui soit, tu vas voir !</value>
+  </data>
+  <data name="TALK_FULL_3022" xml:space="preserve">
+    <value>Je n'ai jamais vu un endroit pareil, wouf ! Que de nouvelles odeurs et de nouveaux paysages !</value>
+  </data>
+  <data name="TALK_FULL_3023" xml:space="preserve">
+    <value>Wouf ! J'espère que tu t'amuses autant que moi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_3024" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Wouf ! Montrons à [(Tropius)] qu'il n'a aucune raison de s'inquiéter !</value>
+  </data>
+  <data name="TALK_FULL_3025" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Ne t'en fais pas pour [(Tropius)], wouf. Il s'inquiète toujours pour moi.</value>
+  </data>
+  <data name="TALK_FULL_3026" xml:space="preserve">
+    <value>[{Zigzagoon}]Ça ne doit pas être facile d'écrire dans ton livre dans un endroit pareil, wouf... Fais attention !</value>
+  </data>
+  <data name="TALK_FULL_3027" xml:space="preserve">
+    <value>[{Zigzagoon}]Tu te souviens de cet objet [item] qu'on avait trouvé pendant notre aventure ? J'espère qu'on en trouvera un ici aussi, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3028" xml:space="preserve">
+    <value>[{Zigzagoon}]Je suis content que [(Tropius)] m'ait laissé venir avec toi, [player]. Tellement heureux de repartir à l'aventure ensemble, wouf, wouf !</value>
+  </data>
+  <data name="TALK_HALF_3020" xml:space="preserve">
+    <value>Ça devient... wouf ! Mais je n'abandonne pas encore !</value>
+  </data>
+  <data name="TALK_HALF_3021" xml:space="preserve">
+    <value>Ça ? Ça va, wouf ! Je dois juste être plus prudent !</value>
+  </data>
+  <data name="TALK_HALF_3022" xml:space="preserve">
+    <value>Arf... C'est juste une égratignure, wouf ! Pas la peine de t'inquiéter pour moi !</value>
+  </data>
+  <data name="TALK_PINCH_3020" xml:space="preserve">
+    <value>Je n'en p-peux plus... *gémissement*</value>
+  </data>
+  <data name="TALK_PINCH_3021" xml:space="preserve">
+    <value>[(Tropius)]... J'ai été im-imprudent...</value>
+  </data>
+  <data name="TALK_PINCH_3022" xml:space="preserve">
+    <value>Wouf... P-pardon, [(Zigzagoon)]...</value>
+  </data>
+  <data name="TALK_PINCH_3023" xml:space="preserve">
+    <value>Je ne veux pas... que l'aventure s-s'arrête... Arooo...</value>
+  </data>
+  <data name="TALK_FULL_3030" xml:space="preserve">
+    <value>On y est presque, wouf ! Rejoignons ce camp de base !</value>
+  </data>
+  <data name="TALK_FULL_3031" xml:space="preserve">
+    <value>Le tunnel chauffe à mesure qu'on s'enfonce. Aucun souci pour moi, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3032" xml:space="preserve">
+    <value>Le décor a changé, wouf. Je me demande ce qu'on va voir ensuite !</value>
+  </data>
+  <data name="TALK_FULL_3033" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Je ne veux pas que notre aventure ensemble se termine... mais il faut atteindre le camp de base, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3034" xml:space="preserve">
+    <value>[{Zigzagoon}]Je sais qu'il fait de plus en plus chaud... mais tiens bon, wouf ! On y est presque !</value>
+  </data>
+  <data name="TALK_HALF_3030" xml:space="preserve">
+    <value>Les Pokémon deviennent plus coriaces... mais ils ne font toujours pas le poids contre moi, wouf !</value>
+  </data>
+  <data name="TALK_HALF_3031" xml:space="preserve">
+    <value>Wouf, le tunnel devient de plus en plus dangereux... Je dois redoubler de prudence...</value>
+  </data>
+  <data name="TALK_PINCH_3030" xml:space="preserve">
+    <value>Je ne peux pas a-abandonner... Je dois montrer à [(Tropius)] que... w-wouf...</value>
+  </data>
+  <data name="TALK_PINCH_3031" xml:space="preserve">
+    <value>On est allés t-trop loin... Je m'amuse t-trop... pour m'arrêter là...</value>
+  </data>
+  <data name="TALK_FULL_3040" xml:space="preserve">
+    <value>On ne peut pas perdre, wouf ! Sinon ([Tropius]) va... wouf...</value>
+  </data>
+  <data name="TALK_FULL_3041" xml:space="preserve">
+    <value>Attention ! La lave est dangereuse quand on n'est pas de type Feu comme moi, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3042" xml:space="preserve">
+    <value>Ils sont nombreux, grrr... Mais on peut les battre, tant qu'on travaille ensemble, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3043" xml:space="preserve">
+    <value>Il faudra se battre s'ils refusent de nous écouter, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3044" xml:space="preserve">
+    <value>Cette aventure est devenue sérieuse... mais aussi vraiment palpitante, wouf, wouf !</value>
+  </data>
+  <data name="TALK_HALF_3040" xml:space="preserve">
+    <value>Ils sont plus forts qu'ils n'en ont l'air, wouf...</value>
+  </data>
+  <data name="TALK_HALF_3041" xml:space="preserve">
+    <value>Ils ne nous facilitent pas la tâche, wouf... Mais pas question d'abandonner, on y est presque !</value>
+  </data>
+  <data name="TALK_HALF_3042" xml:space="preserve">
+    <value>Ce ne sont pas quelques dégâts qui m'empêcheront de me battre, wouf !</value>
+  </data>
+  <data name="TALK_PINCH_3040" xml:space="preserve">
+    <value>Ne dis r-rien à... [(Tropius)]... *gémissement*...</value>
+  </data>
+  <data name="TALK_PINCH_3041" xml:space="preserve">
+    <value>Je... je m'amuse encore c-comme un fou... arooo...</value>
+  </data>
+  <data name="TALK_PINCH_3042" xml:space="preserve">
+    <value>P-pardon... je ne peux plus me b-battre bien longtemps, wouf...</value>
+  </data>
+  <data name="TALK_FULL_3050" xml:space="preserve">
+    <value>Même si on a perdu contre cette tribu de [color=#00FF00]Limagma[color]... je suis toujours ravi d'explorer avec toi, wouf !</value>
+  </data>
+  <data name="TALK_FULL_3051" xml:space="preserve">
+    <value>Cette fois, on va passer ces [color=#00FF00]Limagma[color], c'est sûr, wouf !</value>
+  </data>
+  <data name="TALK_HALF_3050" xml:space="preserve">
+    <value>T'inquiète, je vais bien, wouf ! C'est juste un échauffement avant ces [color=#00FF00]Limagma[color] !</value>
+  </data>
+  <data name="TALK_PINCH_3050" xml:space="preserve">
+    <value>Je vais t-tomber... sans même avoir revu ces [color=#00FF00]Limagma[color]... arooo...</value>
+  </data>
+  <data name="TALK_FULL_3060" xml:space="preserve">
+    <value>Les Pokémon qui vivent dans le [color=#FFC663]Tunnel Ardent[color] incluent [kind]... Bien ! C'est noté !</value>
+  </data>
+  <data name="TALK_FULL_3061" xml:space="preserve">
+    <value>Je dois faire attention à mon almanach dans un endroit pareil... Je ne veux pas que mes pages brûlent !</value>
+  </data>
+  <data name="TALK_FULL_3062" xml:space="preserve">
+    <value>Hmm. Mieux vaut adopter une approche calculée ici.</value>
+  </data>
+  <data name="TALK_FULL_3063" xml:space="preserve">
+    <value>On trouve des objets [item] ici ? Attends, je note ça...</value>
+  </data>
+  <data name="TALK_FULL_3064" xml:space="preserve">
+    <value>Si nous travaillons tous ensemble, nous atteindrons le prochain camp en un rien de temps !</value>
+  </data>
+  <data name="TALK_FULL_3065" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Je suis ravi de repartir à l'aventure avec [(Growlithe)]... Oh ! Et avec toi aussi, [player] !</value>
+  </data>
+  <data name="TALK_FULL_3066" xml:space="preserve">
+    <value>[{Hero}][{Partner}]Même dans cette fournaise, ce binôme est bien plus agréable que mon premier. [(Cranidos)] peut être un vrai mufle...</value>
+  </data>
+  <data name="TALK_FULL_3067" xml:space="preserve">
+    <value>[{Growlithe}]Content que tu aies quitté ton poste de sentinelle pour venir sur le terrain avec moi, [player].</value>
+  </data>
+  <data name="TALK_FULL_3068" xml:space="preserve">
+    <value>[{Growlithe}]J'ai préparé de nouvelles synergies pour nous depuis notre dernière aventure, [player] ! D'abord, j'ouvre avec [color=#00FF00]Flair[color], puis tu...</value>
+  </data>
+  <data name="TALK_HALF_3060" xml:space="preserve">
+    <value>J'ai subi quelques dégâts. Il nous reste des \uE0A3[color=FFCEFF]Baies Oran[color] ?</value>
+  </data>
+  <data name="TALK_HALF_3061" xml:space="preserve">
+    <value>Ça fait mal... mais ça ne nous ralentira pas !</value>
+  </data>
+  <data name="TALK_HALF_3062" xml:space="preserve">
+    <value>Argh ! Je consigne officiellement que cet endroit est un vrai défi !</value>
+  </data>
+  <data name="TALK_PINCH_3060" xml:space="preserve">
+    <value>Je... je suis d-décidément... insuffisant...</value>
+  </data>
+  <data name="TALK_PINCH_3061" xml:space="preserve">
+    <value>[(Growlithe)]... P-pardon. C'est t-trop dur...</value>
+  </data>
+  <data name="TALK_PINCH_3062" xml:space="preserve">
+    <value>Maman... Papa... [(Sentret)]... Je n'ai p-pas tenu le coup...</value>
+  </data>
+  <data name="TALK_PINCH_3063" xml:space="preserve">
+    <value>Ne laissez pas mon a-almanach brûler, pitié...</value>
+  </data>
+  <data name="TALK_FULL_3070" xml:space="preserve">
+    <value>Quelle chaleur... Heureusement, nous ne devrions plus être très loin.</value>
+  </data>
+  <data name="TALK_FULL_3071" xml:space="preserve">
+    <value>Je cuis sous ma fourrure... Traversons vite.</value>
+  </data>
+  <data name="TALK_FULL_3072" xml:space="preserve">
+    <value>[kind]... En avons-nous croisé plus tôt ? Je dois consulter mon almanach... </value>
+  </data>
+  <data name="TALK_FULL_3073" xml:space="preserve">
+    <value>[{Hero}][{Partner}]J'espère que tu supportes mieux cette chaleur que moi, [player]...</value>
+  </data>
+  <data name="TALK_FULL_3074" xml:space="preserve">
+    <value>[{Growlithe}]J'envie ta résistance à la chaleur en ce moment même, [slot3]...</value>
+  </data>
+  <data name="TALK_HALF_3070" xml:space="preserve">
+    <value>Ce n'est pas facile... Mais pas question d'abandonner si près du but !</value>
+  </data>
+  <data name="TALK_HALF_3071" xml:space="preserve">
+    <value>Étouffant ET contusionné... Combinaison fort déplaisante.</value>
+  </data>
+  <data name="TALK_PINCH_3070" xml:space="preserve">
+    <value>Je deviens... c-croustillant... À l'aide...</value>
+  </data>
+  <data name="TALK_PINCH_3071" xml:space="preserve">
+    <value>La ch-chaleur... est in-insupportable...</value>
+  </data>
+  <data name="TALK_FULL_3080" xml:space="preserve">
+    <value>La lave semble les renforcer... prudence !</value>
+  </data>
+  <data name="TALK_FULL_3081" xml:space="preserve">
+    <value>La coulée de lave a l'air instable, elle peut changer de direction à tout instant. Restez vigilants, et surveillez le sol !</value>
+  </data>
+  <data name="TALK_FULL_3082" xml:space="preserve">
+    <value>Ce ne sera pas facile... Il faut nous coordonner si nous voulons en sortir sans finir carbonisés !</value>
+  </data>
+  <data name="TALK_FULL_3083" xml:space="preserve">
+    <value>Ainsi, cette tribu de [color=#00FF00]Limagma[color] vit ici. Je devrais noter ça... non, ce n'est pas le moment !</value>
+  </data>
+  <data name="TALK_FULL_3084" xml:space="preserve">
+    <value>Hmm. [(Magcargo)] semble bien plus fort que les [color=#00FF00]Limagma[color] qu'il commande. Agissons en conséquence !</value>
+  </data>
+  <data name="TALK_HALF_3080" xml:space="preserve">
+    <value>Ils m'ont un peu roussi, mais je ne concède rien !</value>
+  </data>
+  <data name="TALK_HALF_3081" xml:space="preserve">
+    <value>Aïe ! Le sol me grille les pattes...</value>
+  </data>
+  <data name="TALK_HALF_3082" xml:space="preserve">
+    <value>Argh ! Ces [color=#00FF00]Limagma[color] ne sont pas des tendres...</value>
+  </data>
+  <data name="TALK_PINCH_3080" xml:space="preserve">
+    <value>Ils sont trop f-forts... Impossible de me r-refroidir... Je vais m'évanouir...</value>
+  </data>
+  <data name="TALK_PINCH_3081" xml:space="preserve">
+    <value>Ils m'ont b-bien roussi... Je ne peux p-plus continuer...</value>
+  </data>
+  <data name="TALK_PINCH_3082" xml:space="preserve">
+    <value>N-non... Mon almanach va finir en c-cendres... à ce rythme...</value>
+  </data>
+  <data name="TALK_FULL_3090" xml:space="preserve">
+    <value>Par chance, mon almanach semble avoir survécu aux flammes de tous ces [color=#00FF00]Limagma[color].</value>
+  </data>
+  <data name="TALK_FULL_3091" xml:space="preserve">
+    <value>J'espère que ces [color=#00FF00]Limagma[color] ne nous tendront pas une nouvelle embuscade...</value>
+  </data>
+  <data name="TALK_HALF_3090" xml:space="preserve">
+    <value>Hmm... Même en l'ayant déjà traversé une fois, ce tunnel reste un défi !</value>
+  </data>
+  <data name="TALK_PINCH_3090" xml:space="preserve">
+    <value>Je n'ai même pas pu... r-retourner... au c-creuset...</value>
+  </data>
   <data name="BEGINNER_LESSON_GENERAL_SIGN_1_1_BODY" xml:space="preserve">
     <value>Les épreuves qui t'attendent t'enseigneront les bases de l'exploration de donjon. Il faudra appliquer ce que tu apprends pour arriver au bout, alors sois attentif !
 Lis bien tous les panneaux sur le chemin ! Tu peux les passer si tu t'y connais déjà, mais je te conseille vivement de les lire quand même !
