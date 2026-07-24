@@ -1,6 +1,6 @@
 # New Era : Abyss to Ascension
 
-**New Era : Abyss to Ascension** (anciennement *Halcyon*) est un mod pour [PMDO](https://github.com/audinowho/PMDODump/) créé par Palika, qui vise à retrouver l'énergie et l'ambiance d'Explorateurs du Ciel dans une aventure originale entièrement nouvelle.
+**New Era : Abyss to Ascension**  est un mod pour [PMDO](https://github.com/audinowho/PMDODump/) créé par Minori, qui vise à retrouver l'énergie et l'ambiance d'Explorateurs du Ciel dans une aventure originale entièrement nouvelle.
 
 ## Installation
 
