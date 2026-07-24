@@ -2251,4 +2251,118 @@
   <data name="MT4_116" xml:space="preserve">
     <value>Si {0} n'a rien trouvé en volant,[pause=10] la guilde n'a aucune chance !</value>
   </data>
+  <data name="MT5_001" xml:space="preserve">
+    <value>Ça va être génia-a-a-al ![pause=0] On va tellement s'amuser tous ensemble !</value>
+  </data>
+  <data name="MT5_002" xml:space="preserve">
+    <value>Mais il faut être prêt-êt-êts ![pause=0] L'expédition sera rude,[pause=10] alors faites le plein tant que vous pouvez-ez-ez !</value>
+  </data>
+  <data name="MT5_003" xml:space="preserve">
+    <value>Le seul moyen de te remémorer d'anciennes capacités en route sera un {0},[pause=10] et c'est une denrée rare.</value>
+  </data>
+  <data name="MT5_004" xml:space="preserve">
+    <value>Je ne veux pas t'entendre geindre plus tard parce que tu as eu la flemme de t'en occuper maintenant !</value>
+  </data>
+  <data name="MT5_005" xml:space="preserve">
+    <value>Comme c'est palpitant ![pause=0] Vous allez sûrement bien vous amuser à explorer tous ces endroits !</value>
+  </data>
+  <data name="MT5_006" xml:space="preserve">
+    <value>Bon voyage ![pause=0] Revenez entiers pour tout me raconter !</value>
+  </data>
+  <data name="MT5_007" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="MT5_008" xml:space="preserve">
+    <value>H-hé.[pause=0] Encore plus de t-temps sans qu'ils m'agacent.</value>
+  </data>
+  <data name="MT5_009" xml:space="preserve">
+    <value>...Tout seul.</value>
+  </data>
+  <data name="MT5_010" xml:space="preserve">
+    <value>D'habitude,[pause=10] {0} s'inquiète que de méchants Pokémon viennent blesser {1} sans la guilde dans les parages...</value>
+  </data>
+  <data name="MT5_011" xml:space="preserve">
+    <value>Mais {0} s'est entraîné très dur au dojo ![pause=0] {1} n'a plus peur des hors-la-loi !</value>
+  </data>
+  <data name="MT5_012" xml:space="preserve">
+    <value>{0} nagera en paix maintenant que {1} est si fort !</value>
+  </data>
+  <data name="MT5_013" xml:space="preserve">
+    <value>Elles sont...[pause=30] euh...[pause=30] pas très bonnes.</value>
+  </data>
+  <data name="MT5_014" xml:space="preserve">
+    <value>...Cela dit,[pause=10] je me sens bien après en avoir bu.[pause=0] Comme au réveil d'une bonne nuit de sommeil !</value>
+  </data>
+  <data name="MT5_015" xml:space="preserve">
+    <value>...Mais nous peinons à en profiter, faute de moyen pratique de tenir la bouteille.</value>
+  </data>
+  <data name="MT5_016" xml:space="preserve">
+    <value>Tu devrais filer au café en prendre une tant qu'il en reste !</value>
+  </data>
+  <data name="MT5_017" xml:space="preserve">
+    <value>Puis elle a dit qu'elle était fatiguée et voulait se reposer seule,[pause=10] alors elle m'a fait sortir.</value>
+  </data>
+  <data name="MT5_018" xml:space="preserve">
+    <value>C'est un Pokémon vraiment gentil ![pause=0] J'espère qu'elle me racontera bientôt une autre histoire !</value>
+  </data>
+  <data name="MT5_019" xml:space="preserve">
+    <value>Ils sont si bons que tout ce travail en vaut la peine !</value>
+  </data>
+  <data name="MT5_020" xml:space="preserve">
+    <value>Houhou ![pause=0] Je suis si heureux pour elle ![pause=0] Elle a eu tant de mal à se faire des amis,[pause=10] tu sais !</value>
+  </data>
+  <data name="MT5_021" xml:space="preserve">
+    <value>T'aider peut la réflexion astucieuse à surmonter tous les défis que rencontrer tu pourrais.</value>
+  </data>
+  <data name="MT5_022" xml:space="preserve">
+    <value>Sage il serait de t'en souvenir pour ton voyage à venir !</value>
+  </data>
+  <data name="MT5_023" xml:space="preserve">
+    <value>Oh ![pause=30] Et partage bien le trésor avec moi si c'est quelque chose de bon !</value>
+  </data>
+  <data name="MT5_024" xml:space="preserve">
+    <value>Vous devriez aussi laisser quelques objets à {0}.</value>
+  </data>
+  <data name="MT5_025" xml:space="preserve">
+    <value>Vous croiserez sûrement des endroits où vous réapprovisionner via sa réserve,[pause=10] alors gardez des affaires de côté !</value>
+  </data>
+  <data name="MT5_026" xml:space="preserve">
+    <value>Tu as entendu que la guilde part pour une grande aventure ?</value>
+  </data>
+  <data name="MT5_027" xml:space="preserve">
+    <value>Ouais.[pause=0] Et alors ?</value>
+  </data>
+  <data name="MT5_028" xml:space="preserve">
+    <value>Je n'arrête pas de penser à tout ce qu'ils pourraient croiser en chemin !</value>
+  </data>
+  <data name="MT5_029" xml:space="preserve">
+    <value>Ils pourraient trouver un trésor fabuleux,[pause=10] affronter un Pokémon surpuissant,[pause=10] ou découvrir une partie du monde totalement inconnue !</value>
+  </data>
+  <data name="MT5_030" xml:space="preserve">
+    <value>Il peut se passer tant de choses ![pause=0] Qu'est-ce qu'ils vont trouver, à ton avis ?</value>
+  </data>
+  <data name="MT5_031" xml:space="preserve">
+    <value>...[pause=30]Bof.[pause=0] Je m'en fiche.[pause=0] Les aventuriers, c'est nul,[pause=10] de toute façon.</value>
+  </data>
+  <data name="MT5_032" xml:space="preserve">
+    <value>O-oh.[pause=0] Dommage...</value>
+  </data>
+  <data name="MT5_033" xml:space="preserve">
+    <value>Quand tu jugeras que nous sommes prêts,[pause=10] il faudra aller voir le Maître de Guilde dans son bureau.</value>
+  </data>
+  <data name="MT5_034" xml:space="preserve">
+    <value>Ensuite, nous serons sur la route en un rien de temps !</value>
+  </data>
+  <data name="MT5_035" xml:space="preserve">
+    <value>Ooooh,[pause=10] c'est si excitant ![pause=0] Allons finir nos préparatifs,[pause=10] {0} !</value>
+  </data>
+  <data name="MT5_036" xml:space="preserve">
+    <value>Quand tu jugeras que nous sommes prêts,[pause=10] il faudra aller voir le Maître de Guilde dans son bureau.</value>
+  </data>
+  <data name="MT5_037" xml:space="preserve">
+    <value>Ensuite, nous serons sur la route en un rien de temps !</value>
+  </data>
+  <data name="MT5_038" xml:space="preserve">
+    <value>Ooooh,[pause=10] c'est si excitant ![pause=0] Allons finir nos préparatifs,[pause=10] {0} !</value>
+  </data>
 </root>

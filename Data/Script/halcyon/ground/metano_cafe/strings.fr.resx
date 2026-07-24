@@ -298,4 +298,19 @@
   <data name="MCF4_013" xml:space="preserve">
     <value>Une fois partis,[pause=10] on ne pourra pas revenir en ville avant longtemps,[pause=10] alors on se détend tant qu'on peut !</value>
   </data>
+  <data name="MCF5_001" xml:space="preserve">
+    <value>Avec un goût pareil,[pause=10] je crois qu'il écoule juste ses stocks en trop...</value>
+  </data>
+  <data name="MCF5_002" xml:space="preserve">
+    <value>...Mais...[pause=0] Pauvre de moi...[pause=0] Ça a un goût de racines boueuses...</value>
+  </data>
+  <data name="MCF5_003" xml:space="preserve">
+    <value>...Oh...[pause=0] La chance peut être si cruelle...</value>
+  </data>
+  <data name="MCF5_004" xml:space="preserve">
+    <value>On ne sait jamais ce qui peut arriver dans un voyage pareil.[pause=0] Ses boissons pourraient dépanner en cas de coup dur.</value>
+  </data>
+  <data name="MCF5_005" xml:space="preserve">
+    <value>Elles sont si bonnes...[pause=0] C'est important de garder le moral pendant un long voyage,[pause=10] après tout !</value>
+  </data>
 </root>

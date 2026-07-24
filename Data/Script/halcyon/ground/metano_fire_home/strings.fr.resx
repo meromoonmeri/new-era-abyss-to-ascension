@@ -67,4 +67,10 @@
   <data name="MFH4_001" xml:space="preserve">
     <value>Tu en as bien mérité un avec tout ton travail,[pause=10] il faut juste patienter encore un peu !</value>
   </data>
+  <data name="MFH5_001" xml:space="preserve">
+    <value>Je le récompense avec des Gâteaux de Lave quand il finit toutes ses corvées de la journée, mais...</value>
+  </data>
+  <data name="MFH5_002" xml:space="preserve">
+    <value>Je vais peut-être devoir réduire les quantités.[pause=0] Je ne veux pas qu'il commence à s'arrondir !</value>
+  </data>
 </root>

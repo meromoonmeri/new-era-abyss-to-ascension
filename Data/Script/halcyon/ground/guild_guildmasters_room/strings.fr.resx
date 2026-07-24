@@ -592,4 +592,61 @@
   <data name="GMR4_048" xml:space="preserve">
     <value>C'est merveilleux ![pause=0] Cela me réjouit d'entendre que vous avez joué collectif pour obtenir le Noigrume !</value>
   </data>
+  <data name="GMR5_001" xml:space="preserve">
+    <value>Ah,[pause=10] Équipe {0} ![pause=0] Avez-vous terminé vos préparatifs pour l'expédition ?</value>
+  </data>
+  <data name="GMR5_002" xml:space="preserve">
+    <value>Nous ne reviendrons pas au Bourg Metano avant un bon moment,[pause=10] alors êtes-vous certains d'être fin prêts ?</value>
+  </data>
+  <data name="GMR5_003" xml:space="preserve">
+    <value>Petit rappel :[pause=10] l'expédition est réservée aux membres de la guilde.</value>
+  </data>
+  <data name="GMR5_004" xml:space="preserve">
+    <value>Vous ne pouvez donc emmener aucun Pokémon de l'Assemblée {0}.</value>
+  </data>
+  <data name="GMR5_005" xml:space="preserve">
+    <value>Cela étant dit,[pause=10] êtes-vous absolument sûrs d'être prêts ?</value>
+  </data>
+  <data name="GMR5_006" xml:space="preserve">
+    <value>Oui ![pause=0] Nous sommes parés au départ,[pause=10] Maître de Guilde !</value>
+  </data>
+  <data name="GMR5_007" xml:space="preserve">
+    <value>Parfait ![pause=0] Dans ce cas,[pause=10] attendez ici avec nous que les autres apprentis aient terminé.</value>
+  </data>
+  <data name="GMR5_008" xml:space="preserve">
+    <value>Une fois tout le monde rassemblé,[pause=10] {0} et moi présenterons le plan.</value>
+  </data>
+  <data name="GMR5_009" xml:space="preserve">
+    <value>En attendant,[pause=10] détendez-vous ![pause=0] Un long voyage nous attend,[pause=10] reposez-vous tant que vous le pouvez !</value>
+  </data>
+  <data name="GMR5_010" xml:space="preserve">
+    <value>O-oups.[pause=0] Alors nous ne sommes pas prêts, en fait.[pause=0] Pardon,[pause=10] Maître de Guilde...</value>
+  </data>
+  <data name="GMR5_011" xml:space="preserve">
+    <value>Ce n'est rien ![pause=0] Il reste encore plein de temps !</value>
+  </data>
+  <data name="GMR5_012" xml:space="preserve">
+    <value>Retournez en ville terminer vos préparatifs.[pause=0] Dès que vous êtes prêts,[pause=10] revenez me prévenir !</value>
+  </data>
+  <data name="GMR5_013" xml:space="preserve">
+    <value>Pas encore.[pause=0] Pardon,[pause=10] Maître de Guilde...</value>
+  </data>
+  <data name="GMR5_014" xml:space="preserve">
+    <value>Ce n'est rien ![pause=0] Il reste encore plein de temps !</value>
+  </data>
+  <data name="GMR5_015" xml:space="preserve">
+    <value>Retournez en ville terminer vos préparatifs.[pause=0] Dès que vous êtes prêts,[pause=10] revenez me prévenir !</value>
+  </data>
+  <data name="GMR5_016" xml:space="preserve">
+    <value>Toutefois...[pause=0] Des améliorations sont possibles pour accélérer notre voyage.</value>
+  </data>
+  <data name="GMR5_017" xml:space="preserve">
+    <value>Par exemple,[pause=10] en passant par ce col,[pause=10] nous atteindrons la steppe une demi-journée plus tôt.[pause=0] De plus...</value>
+  </data>
+  <data name="GMR5_018" xml:space="preserve">
+    <value>Mais les ruines se trouvent juste derrière...[pause=0] Nous n'avons donc pas d'autre choix que de l'escalader !</value>
+  </data>
+  <data name="GMR5_019" xml:space="preserve">
+    <value>...[pause=30]Mais si nous unissons nos esprits,[pause=10] je sais que nous trouverons la solution !</value>
+  </data>
 </root>

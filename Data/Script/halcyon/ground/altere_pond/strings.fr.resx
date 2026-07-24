@@ -217,4 +217,13 @@
   <data name="AP4_009" xml:space="preserve">
     <value>Très bien,[pause=10] venez me voir quand vous aurez fini et je vous raconterai une histoire.</value>
   </data>
+  <data name="AP5_001" xml:space="preserve">
+    <value>Quand tu jugeras que nous sommes prêts,[pause=10] il faudra aller voir le Maître de Guilde dans son bureau.</value>
+  </data>
+  <data name="AP5_002" xml:space="preserve">
+    <value>Ensuite, nous serons sur la route en un rien de temps !</value>
+  </data>
+  <data name="AP5_003" xml:space="preserve">
+    <value>Ooooh,[pause=10] c'est si excitant ![pause=0] Allons finir nos préparatifs,[pause=10] {0} !</value>
+  </data>
 </root>
