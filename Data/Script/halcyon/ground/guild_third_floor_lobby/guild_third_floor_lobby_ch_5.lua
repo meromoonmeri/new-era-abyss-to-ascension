@@ -866,7 +866,7 @@ function guild_third_floor_lobby_ch_5.SecondExpeditionAddress()
 	
 	coro1 = TASK:BranchCoroutine(function() GROUND:CharAnimateTurnTo(breloom, Direction.Up, 4)
 											GROUND:CharSetEmote(breloom, "sweating", 1)
-											UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G3L5_077'], noctowl:GetDisplayName(), "!") end))
+											UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G3L5_077'], noctowl:GetDisplayName())) end)
 	coro2 = TASK:BranchCoroutine(function() GAME:WaitFrames(4) GROUND:CharAnimateTurnTo(girafarig, Direction.Up, 4) end)
 	coro3 = TASK:BranchCoroutine(function() GAME:WaitFrames(2) GROUND:CharAnimateTurnTo(partner, Direction.UpRight, 4) end)
 	coro4 = TASK:BranchCoroutine(function() GAME:WaitFrames(10) GROUND:CharAnimateTurnTo(hero, Direction.UpRight, 4) end)

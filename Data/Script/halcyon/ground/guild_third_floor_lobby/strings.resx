@@ -923,7 +923,7 @@
     <value>Ahem.[pause=0] Let us stay on track with more pertinent details,[pause=10] please.[pause=0] Time is of the essence.</value>
   </data>
   <data name="G3L5_077" xml:space="preserve">
-    <value>W-whoops.[pause=0] Sorry,[pause=10] {0}{1}</value>
+    <value>W-whoops.[pause=0] Sorry,[pause=10] {0}!</value>
   </data>
   <data name="G3L5_078" xml:space="preserve">
     <value>To recap,[pause=10] our intelligence suggests that {0} houses an incredible secret.</value>
