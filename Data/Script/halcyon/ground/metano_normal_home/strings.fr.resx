@@ -76,4 +76,7 @@
   <data name="MNH2_006" xml:space="preserve">
     <value>Ça fait un moment que je ne l'ai pas vu, cela dit.[pause=0] Si je ne somnolais pas autant en ville,[pause=10] je l'aurais peut-être aperçu...</value>
   </data>
+  <data name="MNH4_001" xml:space="preserve">
+    <value>Ça va sérieusement empiéter sur mon temps de sieste...</value>
+  </data>
 </root>

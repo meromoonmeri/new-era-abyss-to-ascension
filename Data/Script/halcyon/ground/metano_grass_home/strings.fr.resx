@@ -76,4 +76,37 @@
   <data name="MGH3_002" xml:space="preserve">
     <value>Oh,[pause=10] ce monde dangereux dans lequel nous vivons devient chaque jour plus périlleux...</value>
   </data>
+  <data name="MGH4_001" xml:space="preserve">
+    <value>Tout devient si dangereux,[pause=10] je ne pense plus qu'à ça...</value>
+  </data>
+  <data name="MGH4_002" xml:space="preserve">
+    <value>Tout semble si sombre ces derniers temps,[pause=10] chérie...[pause=0] Le danger dans le monde me mine le moral...</value>
+  </data>
+  <data name="MGH4_003" xml:space="preserve">
+    <value>Oh mon chéri,[pause=10] tu t'inquiètes trop ![pause=0] Tu réfléchis trop à tout !</value>
+  </data>
+  <data name="MGH4_004" xml:space="preserve">
+    <value>Tu devrais juste penser moins à ce genre de choses !</value>
+  </data>
+  <data name="MGH4_005" xml:space="preserve">
+    <value>Si seulement c'était si simple...</value>
+  </data>
+  <data name="MGH4_006" xml:space="preserve">
+    <value>Tout semble si sombre ces derniers temps,[pause=10] chérie...[pause=0] Le danger dans le monde me mine le moral...</value>
+  </data>
+  <data name="MGH4_007" xml:space="preserve">
+    <value>Oh mon chéri,[pause=10] tu t'inquiètes trop ![pause=0] Tout va bien se passer !</value>
+  </data>
+  <data name="MGH4_008" xml:space="preserve">
+    <value>Et s'il arrive vraiment malheur,[pause=10] les enfants et moi serons toujours avec toi ![pause=0] Nous sommes une famille !</value>
+  </data>
+  <data name="MGH4_009" xml:space="preserve">
+    <value>C'est...[pause=30] vrai ![pause=0] Voilà qui me rassure sur tout ce qui se passe.</value>
+  </data>
+  <data name="MGH4_010" xml:space="preserve">
+    <value>Merci chérie.[pause=0] Je ne sais pas ce que je ferais sans toi.</value>
+  </data>
+  <data name="MGH4_011" xml:space="preserve">
+    <value>Je t'en prie mon chéri ![pause=0] Nous sommes toujours là pour toi,[pause=10] ne l'oublie jamais !</value>
+  </data>
 </root>

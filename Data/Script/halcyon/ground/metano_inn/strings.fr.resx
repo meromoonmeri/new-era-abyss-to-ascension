@@ -115,4 +115,22 @@
   <data name="MI3_009" xml:space="preserve">
     <value>Il n'est passss travailleur comme moi, c'est tout.</value>
   </data>
+  <data name="MI4_001" xml:space="preserve">
+    <value>Je ne veux pas payer de supplément si j'ai laissé une marque sur le lit par accident...</value>
+  </data>
+  <data name="MI4_002" xml:space="preserve">
+    <value>Je ne veux pas travailler dans cette auberge débile ![pause=0] Mais ça, ils ne le comprennent pas,[pause=10] évidemment !</value>
+  </data>
+  <data name="MI4_003" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="MI4_004" xml:space="preserve">
+    <value>...Euuuuwaawu ?</value>
+  </data>
+  <data name="MI4_005" xml:space="preserve">
+    <value>Il aurait déjà dû dire son premier mot...[pause=0] J'espère qu'il le dira très bientôt !</value>
+  </data>
+  <data name="MI4_006" xml:space="preserve">
+    <value>J'imagine qu'il y a moins de Pokémon sur les routes avec tous ces donjons mystères et ces hors-la-loi...</value>
+  </data>
 </root>

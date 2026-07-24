@@ -70,4 +70,7 @@
   <data name="MEH3_002" xml:space="preserve">
     <value>Les autres Pokémon de la ville devraient faire pareil,[pause=10] mais vivre près de la guilde les a ramollis.</value>
   </data>
+  <data name="MEH4_001" xml:space="preserve">
+    <value>Il me déçoit.[pause=0] Il devrait faire mieux,[pause=10] mais son comportement et ses résultats stériles ne me surprennent guère.</value>
+  </data>
 </root>

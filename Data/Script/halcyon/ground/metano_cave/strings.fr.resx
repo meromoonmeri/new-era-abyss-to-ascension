@@ -70,4 +70,22 @@
   <data name="MC3_002" xml:space="preserve">
     <value>...Je ne me préoccupe plus vraiment de ce genre de choses.[pause=0] Laissez-moi tranquille, je vous prie.</value>
   </data>
+  <data name="MC4_001" xml:space="preserve">
+    <value>...Ça fait si longtemps que...</value>
+  </data>
+  <data name="MC4_002" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="MC4_003" xml:space="preserve">
+    <value>...Ne faites pas attention à moi.[pause=0] Profitez bien de l'expédition.</value>
+  </data>
+  <data name="MC4_004" xml:space="preserve">
+    <value>Je lui ai dit cent fois de me laisser en paix,[pause=10] mais elle ne comprend pas...</value>
+  </data>
+  <data name="MC4_005" xml:space="preserve">
+    <value>Tu devrais sortir voir le jardin de ma maman avec moi !</value>
+  </data>
+  <data name="MC4_006" xml:space="preserve">
+    <value>Il y a plein de jolies fleurs qui te rendraient tout joyeux là-bas !</value>
+  </data>
 </root>

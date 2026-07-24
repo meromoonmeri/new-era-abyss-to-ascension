@@ -1225,4 +1225,145 @@
   <data name="G2F3_120" xml:space="preserve">
     <value>Il est fort inhabituel de voir quelqu'un prendre la défense d'un hors-la-loi qu'il vient d'appréhender...</value>
   </data>
+  <data name="G2F4_001" xml:space="preserve">
+    <value>Je ne sais pas comment je vais tenir jusqu'au départ !</value>
+  </data>
+  <data name="G2F4_002" xml:space="preserve">
+    <value>Il faut que je dépense cette énergie sur des vilain-un-uns ou je ne dormirai pas cette nuit !</value>
+  </data>
+  <data name="G2F4_003" xml:space="preserve">
+    <value>Ça doit être une exploration vraiment facile s'il laisse des bleus comme vous venir ![pause=0] Hahaha !</value>
+  </data>
+  <data name="G2F4_004" xml:space="preserve">
+    <value>Avec l'expédition qui approche,[pause=10] mon expertise culinaire devra s'exercer ailleurs. {0}</value>
+  </data>
+  <data name="G2F4_005" xml:space="preserve">
+    <value>Mais si ce membre a été recruté avec des Noigrumes,[pause=10] le reste de l'équipe peut continuer.</value>
+  </data>
+  <data name="G2F4_006" xml:space="preserve">
+    <value>Nous trois formons une équipe parfaite,[pause=10] pas besoin de nouveaux membres !</value>
+  </data>
+  <data name="G2F4_007" xml:space="preserve">
+    <value>Et puis,[pause=10] difficile de trouver quelqu'un qui partage les talents uniques de notre équipe !</value>
+  </data>
+  <data name="G2F4_008" xml:space="preserve">
+    <value>Ils sentent bon,[pause=10] surtout les bleus,[pause=10] mais ils sont parfaitement immangeables ![pause=0] Quelle inutilité !</value>
+  </data>
+  <data name="G2F4_009" xml:space="preserve">
+    <value>Des capacités qui blessent et infligent d'autres effets...[pause=0] Quelle vilenie.</value>
+  </data>
+  <data name="G2F4_010" xml:space="preserve">
+    <value>Avant d'évoluer,[pause=10] notre talent {0} nous protégeait des effets secondaires.</value>
+  </data>
+  <data name="G2F4_011" xml:space="preserve">
+    <value>Mais maintenant que nous sommes un {0} et un {1},[pause=10] nos talents sont complètement différents.</value>
+  </data>
+  <data name="G2F4_012" xml:space="preserve">
+    <value>...Entre ça et notre mobilité réduite,[pause=10] je commence à regretter notre choix d'évoluer...</value>
+  </data>
+  <data name="G2F4_013" xml:space="preserve">
+    <value>Ce que vous ignorez sûrement, c'est que seuls certains types de capacités peuvent porter des coups critiques !</value>
+  </data>
+  <data name="G2F4_014" xml:space="preserve">
+    <value>Des capacités comme {0} et {1} peuvent porter des coups critiques.</value>
+  </data>
+  <data name="G2F4_015" xml:space="preserve">
+    <value>D'autres attaques le peuvent aussi si vous avez utilisé une capacité comme {0}.</value>
+  </data>
+  <data name="G2F4_016" xml:space="preserve">
+    <value>Peu d'aventuriers le savent ![pause=0] Mais au moins, vous deux, vous le savez maintenant !</value>
+  </data>
+  <data name="G2F4_017" xml:space="preserve">
+    <value>Ça a l'air intriguant-sssss...[pause=0] J'adorerais participer,[pause=10] mais je comprends-sssss que c'est réservé aux membres de la guilde.</value>
+  </data>
+  <data name="G2F4_018" xml:space="preserve">
+    <value>De toute façon-sssss...[pause=0] L'expédition serait trop dure vu que je devrais traîner le poids mort de {0}.</value>
+  </data>
+  <data name="G2F4_019" xml:space="preserve">
+    <value>Moi je m'en sortirais très bien,[pause=10] mais {0} ?[pause=0] Il serait complètement perdu dans une exploration pareille.</value>
+  </data>
+  <data name="G2F4_020" xml:space="preserve">
+    <value>Salut,[pause=10] {0} ![pause=0] Qu'est-ce que tu fais par ici ?</value>
+  </data>
+  <data name="G2F4_021" xml:space="preserve">
+    <value>E-eh bien,[pause=10] comme les Noigrumes ne sont plus si rares,[pause=10] j'ai décidé de rouvrir l'Assemblée {0} !</value>
+  </data>
+  <data name="G2F4_022" xml:space="preserve">
+    <value>L'Assemblée {0} ?[pause=0] Qu'est-ce que c'est ?</value>
+  </data>
+  <data name="G2F4_023" xml:space="preserve">
+    <value>C'est un endroit où rassembler tes coéquipiers pour les aventures !</value>
+  </data>
+  <data name="G2F4_024" xml:space="preserve">
+    <value>Rassembler mes coéquipiers ?[pause=0] Mais...</value>
+  </data>
+  <data name="G2F4_025" xml:space="preserve">
+    <value>{0} est juste là ![pause=0] Et nous partons toujours à l'aventure ensemble de toute façon !</value>
+  </data>
+  <data name="G2F4_026" xml:space="preserve">
+    <value>Non non ![pause=0] Je p-parlais des recrues de ton équipe ![pause=0] Tu as bien pensé à ajouter d'autres Pokémon,[pause=10] p-pas vrai ?</value>
+  </data>
+  <data name="G2F4_027" xml:space="preserve">
+    <value>D'autres Pokémon ?[pause=0] Je n'y avais pas vraiment réfléchi...</value>
+  </data>
+  <data name="G2F4_028" xml:space="preserve">
+    <value>Mais avoir d'autres Pokémon avec nous pourrait être utile en aventure !</value>
+  </data>
+  <data name="G2F4_029" xml:space="preserve">
+    <value>Oui ![pause=0] Je le pense aussi ![pause=0] Plus on est de fous, p-plus on rit après tout !</value>
+  </data>
+  <data name="G2F4_030" xml:space="preserve">
+    <value>Bien sûr,[pause=10] il faudra d'abord recruter d'autres Pokémon avant de pouvoir les emmener à l'aventure !</value>
+  </data>
+  <data name="G2F4_031" xml:space="preserve">
+    <value>Ah,[pause=10] oui ![pause=0] Et comment fait-on ça ?</value>
+  </data>
+  <data name="G2F4_032" xml:space="preserve">
+    <value>Avec des Noigrumes,[pause=10] évidemment !</value>
+  </data>
+  <data name="G2F4_033" xml:space="preserve">
+    <value>Si tu croises un Pokémon que tu aimerais recruter pendant une aventure...</value>
+  </data>
+  <data name="G2F4_034" xml:space="preserve">
+    <value>...lance-lui un Noigrume et il rejoindra p-peut-être ton équipe !</value>
+  </data>
+  <data name="G2F4_035" xml:space="preserve">
+    <value>Oh là ![pause=0] C'est vraiment aussi simple que ça ?</value>
+  </data>
+  <data name="G2F4_036" xml:space="preserve">
+    <value>E-euh,[pause=10] eh bien,[pause=10] non...[pause=0] C'est un peu plus compliqué que ça...</value>
+  </data>
+  <data name="G2F4_037" xml:space="preserve">
+    <value>Par exemple,[pause=10] certains Noigrumes recrutent mieux certains types de Pokémon !</value>
+  </data>
+  <data name="G2F4_038" xml:space="preserve">
+    <value>De plus,[pause=10] les Pokémon bien plus forts que toi refuseront ![pause=0] Et certains ne se joindront jamais à toi, quoi qu'il arrive !</value>
+  </data>
+  <data name="G2F4_039" xml:space="preserve">
+    <value>Les Pokémon affaiblis sont aussi plus enclins à rejoindre ton équipe !</value>
+  </data>
+  <data name="G2F4_040" xml:space="preserve">
+    <value>Bien sûr,[pause=10] un Pokémon ne rejoindra pas toujours ton équipe quand tu lui lances un N-Noigrume...</value>
+  </data>
+  <data name="G2F4_041" xml:space="preserve">
+    <value>Mais sa réaction au Noigrume devrait te donner une idée de sa motivation à te rejoindre !</value>
+  </data>
+  <data name="G2F4_042" xml:space="preserve">
+    <value>Bref,[pause=10] une fois que tu auras r-recruté des Pokémon,[pause=10] viens me voir et je t'aiderai à gérer qui part à l'aventure !</value>
+  </data>
+  <data name="G2F4_043" xml:space="preserve">
+    <value>Waouh ![pause=0] Merci,[pause=10] {0} ![pause=0] C'est vraiment très utile !</value>
+  </data>
+  <data name="G2F4_044" xml:space="preserve">
+    <value>R-ravie d'avoir pu aider ![pause=0] Viens me voir quand tu veux pour modifier ton équipe !</value>
+  </data>
+  <data name="G2F4_045" xml:space="preserve">
+    <value>Comptez sur nous ![pause=0] Merci encore,[pause=10] {0} !</value>
+  </data>
+  <data name="G2F4_046" xml:space="preserve">
+    <value>{0} ![pause=0] Essayons de recruter autant de nouveaux coéquipiers que possible !</value>
+  </data>
+  <data name="G2F4_047" xml:space="preserve">
+    <value>Je suis sûr que nous trouverons plein de Noigrumes dans {0} pour nous y aider !</value>
+  </data>
 </root>

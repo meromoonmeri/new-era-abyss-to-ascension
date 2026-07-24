@@ -259,4 +259,43 @@
   <data name="MCF3_019" xml:space="preserve">
     <value>Il a dit de ne pas la boire,[pause=10] vu que c'est volatil...[pause=0]\nEt si on la lançait au lieu de la boire ?</value>
   </data>
+  <data name="MCF4_001" xml:space="preserve">
+    <value>Il l'appelle {0}.[pause=0] Il dit que ça aide à tenir bon dans les situations difficiles.</value>
+  </data>
+  <data name="MCF4_002" xml:space="preserve">
+    <value>La spécialité n'est pas toujours terrible,[pause=10] mais parfois il propose quelque chose d'introuvable ailleurs.</value>
+  </data>
+  <data name="MCF4_003" xml:space="preserve">
+    <value>C'était si bon...[pause=0] Mmmm...[pause=0] J'en salive rien que d'y penser...</value>
+  </data>
+  <data name="MCF4_004" xml:space="preserve">
+    <value>Mais il n'en a pas revendu depuis un moment...[pause=0] Oh,[pause=10] pauvre de moi...</value>
+  </data>
+  <data name="MCF4_005" xml:space="preserve">
+    <value>Il dit que si tous les donjons mystères ont des escaliers qui mènent en avant,[pause=10] certains ont aussi des escaliers qui ramènent en arrière.</value>
+  </data>
+  <data name="MCF4_006" xml:space="preserve">
+    <value>Le type d'escalier qui mène en avant dépend du sens du donjon : montant ou descendant.</value>
+  </data>
+  <data name="MCF4_007" xml:space="preserve">
+    <value>...Mais ça n'a aucun sens.</value>
+  </data>
+  <data name="MCF4_008" xml:space="preserve">
+    <value>Les donjons mystères se trouvent dans des grottes et des forêts, pour autant que je sache.</value>
+  </data>
+  <data name="MCF4_009" xml:space="preserve">
+    <value>Que feraient des escaliers au beau milieu d'un endroit pareil ?[pause=0] Les donjons mystères sont vraiment étranges.</value>
+  </data>
+  <data name="MCF4_010" xml:space="preserve">
+    <value>Mais c'est ce que {0} veut faire.[pause=0] Et passer du temps avec elle comme ça, c'est agréable aussi...</value>
+  </data>
+  <data name="MCF4_011" xml:space="preserve">
+    <value>E-euh ![pause=0] Je v-veux dire...</value>
+  </data>
+  <data name="MCF4_012" xml:space="preserve">
+    <value>V-vous n'avez rien de mieux à faire que traîner ici, les bleus ?[pause=0] Allez donc être productifs pour une fois !</value>
+  </data>
+  <data name="MCF4_013" xml:space="preserve">
+    <value>Une fois partis,[pause=10] on ne pourra pas revenir en ville avant longtemps,[pause=10] alors on se détend tant qu'on peut !</value>
+  </data>
 </root>

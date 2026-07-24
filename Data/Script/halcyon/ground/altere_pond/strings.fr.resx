@@ -190,4 +190,31 @@
   <data name="AP3_006" xml:space="preserve">
     <value>Ce n'est pas parce que mes yeux ne sont plus ce qu'ils étaient que je ne saurai pas si vous manigancez quelque chose !</value>
   </data>
+  <data name="AP4_001" xml:space="preserve">
+    <value>Non,[pause=10] {0}.[pause=0] Nous sommes passés vous rendre visite !</value>
+  </data>
+  <data name="AP4_002" xml:space="preserve">
+    <value>Ça doit être solitaire ici,[pause=10] tout seul,[pause=10] alors nous voulions venir vous saluer !</value>
+  </data>
+  <data name="AP4_003" xml:space="preserve">
+    <value>Hmmph.[pause=0] C'est bien inutile.[pause=0] Je me porte parfaitement bien tout seul ici.</value>
+  </data>
+  <data name="AP4_004" xml:space="preserve">
+    <value>Mais,[pause=10] puisque vous êtes là...[pause=0] Voudriez-vous écouter une histoire ?</value>
+  </data>
+  <data name="AP4_005" xml:space="preserve">
+    <value>Désolé,[pause=10] {0}...[pause=0] {1} et moi avons une mission importante aujourd'hui !</value>
+  </data>
+  <data name="AP4_006" xml:space="preserve">
+    <value>Peut-être qu'une fois terminée, nous passerons écouter votre histoire !</value>
+  </data>
+  <data name="AP4_007" xml:space="preserve">
+    <value>Hmmph.[pause=0] Vous les jeunes, vous avez toujours quelque chose sur le feu...</value>
+  </data>
+  <data name="AP4_008" xml:space="preserve">
+    <value>Très bien,[pause=10] venez me voir quand vous aurez fini et je vous raconterai une histoire.</value>
+  </data>
+  <data name="AP4_009" xml:space="preserve">
+    <value>Très bien,[pause=10] venez me voir quand vous aurez fini et je vous raconterai une histoire.</value>
+  </data>
 </root>

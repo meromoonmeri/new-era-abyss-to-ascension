@@ -448,4 +448,148 @@
   <data name="GMR3_011" xml:space="preserve">
     <value>Je savais que vous feriez un travail fantastique dans cette guilde ![pause=0] Continuez ainsi et vous irez loin !</value>
   </data>
+  <data name="GMR4_001" xml:space="preserve">
+    <value>Oh,[pause=10] et si vous cherchez un peu d'aide comme la dernière fois...</value>
+  </data>
+  <data name="GMR4_002" xml:space="preserve">
+    <value>Oh,[pause=10] et si vous cherchez un peu d'aide...</value>
+  </data>
+  <data name="GMR4_003" xml:space="preserve">
+    <value>Je n'ai rien à vous donner ![pause=0] C'est censé être une sorte d'épreuve,[pause=10] après tout !</value>
+  </data>
+  <data name="GMR4_004" xml:space="preserve">
+    <value>Je vous offrirai toutefois un conseil.</value>
+  </data>
+  <data name="GMR4_005" xml:space="preserve">
+    <value>Servez-vous des Noigrumes que vous trouverez dans le donjon pour recruter une équipe complète de quatre Pokémon.</value>
+  </data>
+  <data name="GMR4_006" xml:space="preserve">
+    <value>Plus d'alliés rendront tous les défis plus faciles à surmonter ![pause=0] Alors visez l'équipe complète !</value>
+  </data>
+  <data name="GMR4_007" xml:space="preserve">
+    <value>J'espère que vous êtes aussi impatients que moi pour la grande expédition !</value>
+  </data>
+  <data name="GMR4_008" xml:space="preserve">
+    <value>{0} et {1} seront de retour d'un jour à l'autre,[pause=10] alors continuez votre beau travail et préparez-vous d'ici là !</value>
+  </data>
+  <data name="GMR4_009" xml:space="preserve">
+    <value>Excusez-nous,[pause=10] Maître de Guilde !</value>
+  </data>
+  <data name="GMR4_010" xml:space="preserve">
+    <value>Ah,[pause=10] Équipe {0} ![pause=0] Nous ne vous avions pas entendus entrer !</value>
+  </data>
+  <data name="GMR4_011" xml:space="preserve">
+    <value>Avez-vous terminé votre exploration de {0} ?[pause=0] Avez-vous découvert quelque chose ?</value>
+  </data>
+  <data name="GMR4_012" xml:space="preserve">
+    <value>Oui,[pause=10] Maître de Guilde ![pause=0] Nous avons trouvé quelque chose d'extraordinaire au centre de la forêt !</value>
+  </data>
+  <data name="GMR4_013" xml:space="preserve">
+    <value>Oh ?[pause=0] Racontez-nous tout, à {0} et à moi !</value>
+  </data>
+  <data name="GMR4_014" xml:space="preserve">
+    <value>Eh bien,[pause=10] nous avons traversé le donjon mystère jusqu'à déboucher sur une immense clairière !</value>
+  </data>
+  <data name="GMR4_015" xml:space="preserve">
+    <value>Toutes sortes de Noigrumes de couleurs différentes poussaient sur les arbres !</value>
+  </data>
+  <data name="GMR4_016" xml:space="preserve">
+    <value>Mais ce n'est même pas le meilleur !</value>
+  </data>
+  <data name="GMR4_017" xml:space="preserve">
+    <value>Au milieu de la clairière se dressait un arbre gigantesque,[pause=10] et sur cet arbre nous avons trouvé...[pause=30] ceci !</value>
+  </data>
+  <data name="GMR4_018" xml:space="preserve">
+    <value>Waouh ![pause=0] Regardez la taille de ce Noigrume ![pause=0] Je crois que je n'en ai jamais vu d'aussi gros !</value>
+  </data>
+  <data name="GMR4_019" xml:space="preserve">
+    <value>Il est en effet fort rare que les Noigrumes atteignent cette taille.</value>
+  </data>
+  <data name="GMR4_020" xml:space="preserve">
+    <value>On dit que plus un Noigrume est gros, plus il est efficace,[pause=10] ce qui rend celui-ci très précieux.</value>
+  </data>
+  <data name="GMR4_021" xml:space="preserve">
+    <value>V-vraiment ?[pause=0] Alors c'est une trouvaille exceptionnelle !?</value>
+  </data>
+  <data name="GMR4_022" xml:space="preserve">
+    <value>Assurément !</value>
+  </data>
+  <data name="GMR4_023" xml:space="preserve">
+    <value>Mais je dois demander...[pause=0] Comment avez-vous décroché ce Noigrume de cet arbre immense ?</value>
+  </data>
+  <data name="GMR4_024" xml:space="preserve">
+    <value>Notre coéquipier {0} m'a fait la courte échelle pour que je puisse le cueillir !</value>
+  </data>
+  <data name="GMR4_025" xml:space="preserve">
+    <value>Sans {0}, nous n'aurions jamais pu le décrocher !</value>
+  </data>
+  <data name="GMR4_026" xml:space="preserve">
+    <value>Nous avons formé un totem à quatre pour que je puisse cueillir le Noigrume !</value>
+  </data>
+  <data name="GMR4_027" xml:space="preserve">
+    <value>Sans mes coéquipiers,[pause=10] jamais je n'aurais pu l'atteindre !</value>
+  </data>
+  <data name="GMR4_028" xml:space="preserve">
+    <value>On dirait que votre aventure a été un succès total !</value>
+  </data>
+  <data name="GMR4_029" xml:space="preserve">
+    <value>Oui, complètement ![pause=0] Je suis si heureux d'avoir exploré une nouvelle zone et trouvé quelque chose de génial !</value>
+  </data>
+  <data name="GMR4_030" xml:space="preserve">
+    <value>Alors,[pause=10] Maître de Guilde,[pause=10] vous ne prenez pas le Noigrume ?</value>
+  </data>
+  <data name="GMR4_031" xml:space="preserve">
+    <value>C'est vous qui nous avez parlé de {0},[pause=10] après tout.</value>
+  </data>
+  <data name="GMR4_032" xml:space="preserve">
+    <value>Moi ?[pause=0] Grands dieux,[pause=10] non ![script=0]</value>
+  </data>
+  <data name="GMR4_033" xml:space="preserve">
+    <value>Votre équipe a travaillé dur pour rapporter ce Noigrume ![pause=0] Il est à vous !</value>
+  </data>
+  <data name="GMR4_034" xml:space="preserve">
+    <value>Vraiment ?[pause=0] Nous pouvons le garder ?</value>
+  </data>
+  <data name="GMR4_035" xml:space="preserve">
+    <value>Bien sûr ![pause=0] Ce trésor vous appartient !</value>
+  </data>
+  <data name="GMR4_036" xml:space="preserve">
+    <value>Youpi ![pause=0] Merci,[pause=10] Maître de Guilde !</value>
+  </data>
+  <data name="GMR4_037" xml:space="preserve">
+    <value>Bien,[pause=10] il se fait tard maintenant,[pause=10] n'est-ce pas ?</value>
+  </data>
+  <data name="GMR4_038" xml:space="preserve">
+    <value>Pourquoi ne pas filer au réfectoire ?[pause=0] Le dîner devrait être prêt d'un instant à l'autre.</value>
+  </data>
+  <data name="GMR4_039" xml:space="preserve">
+    <value>Oh,[pause=10] d'accord ![pause=0] Merci encore,[pause=10] Maître de Guilde !</value>
+  </data>
+  <data name="GMR4_040" xml:space="preserve">
+    <value>Maître de Guilde.[pause=0] Bien qu'ils aient réussi votre épreuve,[pause=10] pensez-vous vraiment sage de les impliquer ?</value>
+  </data>
+  <data name="GMR4_041" xml:space="preserve">
+    <value>Ce sont encore des débutants,[pause=10] après tout.</value>
+  </data>
+  <data name="GMR4_042" xml:space="preserve">
+    <value>Bien sûr,[pause=10] {0}.[pause=0] La performance de l'Équipe {1} sur cette mission était remarquable !</value>
+  </data>
+  <data name="GMR4_043" xml:space="preserve">
+    <value>Ils ont fait preuve d'esprit d'équipe pour atteindre leur but,[pause=10] et étaient prêts à céder le trésor trouvé.</value>
+  </data>
+  <data name="GMR4_044" xml:space="preserve">
+    <value>Ce sont des aventuriers idéaux ![pause=0] Il nous faut plus d'équipes comme la leur.</value>
+  </data>
+  <data name="GMR4_045" xml:space="preserve">
+    <value>Essayez d'avoir foi en eux malgré leur inexpérience relative.</value>
+  </data>
+  <data name="GMR4_046" xml:space="preserve">
+    <value>Ils font un travail fantastique depuis leur arrivée à la guilde !</value>
+  </data>
+  <data name="GMR4_047" xml:space="preserve">
+    <value>Et puis...[pause=0] Nous aurons besoin de toute l'aide possible pour cette expédition.</value>
+  </data>
+  <data name="GMR4_048" xml:space="preserve">
+    <value>C'est merveilleux ![pause=0] Cela me réjouit d'entendre que vous avez joué collectif pour obtenir le Noigrume !</value>
+  </data>
 </root>

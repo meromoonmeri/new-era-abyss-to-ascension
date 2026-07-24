@@ -514,4 +514,85 @@
   <data name="GHR3_048" xml:space="preserve">
     <value>Merci encore d'avoir joué ! Retour au jeu normal... maintenant !</value>
   </data>
+  <data name="GHR4_001" xml:space="preserve">
+    <value>Cette journée était absolument géniale,[pause=10] {0} ![pause=0] Je me suis tellement amusé !</value>
+  </data>
+  <data name="GHR4_002" xml:space="preserve">
+    <value>Notre première vraie aventure s'est si bien passée ![pause=0] Nous avons même trouvé un trésor et pu le garder !</value>
+  </data>
+  <data name="GHR4_003" xml:space="preserve">
+    <value>Travailler ensemble, avec toi et nos coéquipiers...[pause=0] Ça ne pouvait pas mieux se passer !</value>
+  </data>
+  <data name="GHR4_004" xml:space="preserve">
+    <value>Et avec l'expédition qui approche,[pause=10] tout m'enthousiasme ![pause=0] Pas toi ?</value>
+  </data>
+  <data name="GHR4_005" xml:space="preserve">
+    <value>Content que tu sois d'accord ![pause=0] Continuons à vivre de grandes aventures,[pause=10] {0} !</value>
+  </data>
+  <data name="GHR4_006" xml:space="preserve">
+    <value>Dis,[pause=10] {0}...</value>
+  </data>
+  <data name="GHR4_007" xml:space="preserve">
+    <value>Tu te souviens, juste avant de rejoindre la guilde,[pause=10] quand j'ai promis de t'aider à résoudre ton amnésie ?</value>
+  </data>
+  <data name="GHR4_008" xml:space="preserve">
+    <value>Nous avons été si occupés par la guilde que nous n'avons pas eu une seconde pour nous y pencher...</value>
+  </data>
+  <data name="GHR4_009" xml:space="preserve">
+    <value>Mais je n'ai pas oublié ![script=0]</value>
+  </data>
+  <data name="GHR4_010" xml:space="preserve">
+    <value>Cela dit...</value>
+  </data>
+  <data name="GHR4_011" xml:space="preserve">
+    <value>{0},[pause=10] as-tu réussi à te rappeler comment tu as atterri dans {1} ?</value>
+  </data>
+  <data name="GHR4_012" xml:space="preserve">
+    <value>C'est regrettable...[pause=0] Je m'en doutais,[pause=10] mais j'espérais que tu t'étais souvenu de quelque chose.</value>
+  </data>
+  <data name="GHR4_013" xml:space="preserve">
+    <value>Et ces sensations étranges,[pause=10] comme celle de la Source Lumineuse ?[pause=0] Une idée là-dessus ?</value>
+  </data>
+  <data name="GHR4_014" xml:space="preserve">
+    <value>Alors tu as ressenti cette étrangeté plus que ces deux fois-là,[pause=10] hein ?</value>
+  </data>
+  <data name="GHR4_015" xml:space="preserve">
+    <value>Dans ce cas,[pause=10] ces sensations ont peut-être bel et bien un sens.</value>
+  </data>
+  <data name="GHR4_016" xml:space="preserve">
+    <value>Je doute que tu te sentes bizarre aussi souvent sans raison,[pause=10] pas vrai ?</value>
+  </data>
+  <data name="GHR4_017" xml:space="preserve">
+    <value>C'est juste que...[pause=0] Je ne vois pas ce que ces moments ont en commun...[pause=0] Ils sont tous si différents !</value>
+  </data>
+  <data name="GHR4_018" xml:space="preserve">
+    <value>Et je ne comprends pas non plus pourquoi ces sensations sont parfois plus fortes, parfois plus faibles.</value>
+  </data>
+  <data name="GHR4_019" xml:space="preserve">
+    <value>Alors je n'ai aucune idée de ce que tes sensations étranges peuvent signifier...</value>
+  </data>
+  <data name="GHR4_020" xml:space="preserve">
+    <value>Mais ce n'est pas parce que nous séchons aujourd'hui que nous ne résoudrons jamais ce mystère !</value>
+  </data>
+  <data name="GHR4_021" xml:space="preserve">
+    <value>Ces derniers temps, j'ai le sentiment que nous pouvons tout accomplir quand nous travaillons ensemble.</value>
+  </data>
+  <data name="GHR4_022" xml:space="preserve">
+    <value>Alors je suis convaincu que nous finirons par tout élucider, ensemble.</value>
+  </data>
+  <data name="GHR4_023" xml:space="preserve">
+    <value>Mais avec l'expédition qui approche,[pause=10] concentrons-nous d'abord sur elle.</value>
+  </data>
+  <data name="GHR4_024" xml:space="preserve">
+    <value>Nous tirerons tout ça au clair ![pause=0] Je te le promets,[pause=10] {0} !</value>
+  </data>
+  <data name="GHR4_025" xml:space="preserve">
+    <value>...Bon,[pause=10] il se fait tard.[pause=0] Veiller à ressasser ne nous avancera à rien.</value>
+  </data>
+  <data name="GHR4_026" xml:space="preserve">
+    <value>Dormons pour être en forme demain.</value>
+  </data>
+  <data name="GHR4_027" xml:space="preserve">
+    <value>Bonne nuit,[pause=10] {0}.</value>
+  </data>
 </root>
