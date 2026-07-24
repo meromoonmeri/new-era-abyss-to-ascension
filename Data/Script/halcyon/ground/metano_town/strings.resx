@@ -1510,4 +1510,454 @@
   <data name="MT2_152" xml:space="preserve">
     <value>It seems like there's never enough adventurers to do all the work in the world,[pause=10] does it?</value>
   </data>
+  <data name="MT3_001" xml:space="preserve">
+    <value>Nobody's blocking the entrance anymore![pause=0] I bet that means the café is finally open!</value>
+  </data>
+  <data name="MT3_002" xml:space="preserve">
+    <value>They have all kinds of amazing treats and drinks,[pause=10] and there's all sorts of Pokémon to meet in there!</value>
+  </data>
+  <data name="MT3_003" xml:space="preserve">
+    <value>I know we got a mission to do,[pause=10] but we should stop on in there before we head out!</value>
+  </data>
+  <data name="MT3_004" xml:space="preserve">
+    <value>If you'd rather get on with the mission now,[pause=10] that's OK too![pause=0] But we should drop in there sometime soon!</value>
+  </data>
+  <data name="MT3_005" xml:space="preserve">
+    <value>Well,[pause=10] {0},[pause=10] I guess we have to go catch this {1} guy.</value>
+  </data>
+  <data name="MT3_006" xml:space="preserve">
+    <value>To be honest,[pause=10] I think {0} chose this mission because he thinks we can't do it...</value>
+  </data>
+  <data name="MT3_007" xml:space="preserve">
+    <value>I would be lying if I said I wasn't scared.</value>
+  </data>
+  <data name="MT3_008" xml:space="preserve">
+    <value>Especially with all those bandits hiding out in {0}...</value>
+  </data>
+  <data name="MT3_009" xml:space="preserve">
+    <value>It seems like it could go really badly.</value>
+  </data>
+  <data name="MT3_010" xml:space="preserve">
+    <value>It'll be scary,[pause=10] but together I know we can do it!</value>
+  </data>
+  <data name="MT3_011" xml:space="preserve">
+    <value>We're gonna catch this outlaw![pause=0] And we're gonna prove that bully {0} wrong!</value>
+  </data>
+  <data name="MT3_012" xml:space="preserve">
+    <value>Yeah yeah yeah![pause=0] That's the spirit!</value>
+  </data>
+  <data name="MT3_013" xml:space="preserve">
+    <value>Looks to me like the newest guild losers,[pause=10] {0}.</value>
+  </data>
+  <data name="MT3_014" xml:space="preserve">
+    <value>Sure looks that way,[pause=10] {0}.[pause=0] Seems like they only let chumps in these days.</value>
+  </data>
+  <data name="MT3_015" xml:space="preserve">
+    <value>Huhuh,[pause=10] yeah boss.[pause=0] We got a couple of champs right here,[pause=10] huhuh.</value>
+  </data>
+  <data name="MT3_016" xml:space="preserve">
+    <value>{0},[pause=10] did you just call them "champs"?</value>
+  </data>
+  <data name="MT3_017" xml:space="preserve">
+    <value>Duh...[pause=0] Yeah,[pause=10] champs,[pause=10] just like you said,[pause=10] boss.</value>
+  </data>
+  <data name="MT3_018" xml:space="preserve">
+    <value>Chumps,[pause=10] not champs,[pause=10] you moron!</value>
+  </data>
+  <data name="MT3_019" xml:space="preserve">
+    <value>Um...[pause=0] Who are you guys exactly?</value>
+  </data>
+  <data name="MT3_020" xml:space="preserve">
+    <value>Oh?[pause=0] You haven't heard of us?</value>
+  </data>
+  <data name="MT3_021" xml:space="preserve">
+    <value>You really are a bunch of know-nothing nobodies.</value>
+  </data>
+  <data name="MT3_022" xml:space="preserve">
+    <value>That's a real shame.[pause=0] Anybody who doesn't know about us must lead such sad lives.</value>
+  </data>
+  <data name="MT3_023" xml:space="preserve">
+    <value>Should we tell 'em who we are,[pause=10] boss?</value>
+  </data>
+  <data name="MT3_024" xml:space="preserve">
+    <value>Oh,[pause=10] {0},[pause=10] I don't know if we can let such lowly peons know something like that.</value>
+  </data>
+  <data name="MT3_025" xml:space="preserve">
+    <value>No,[pause=10] no.[pause=0] I think we can grace them,[pause=10] this one time.</value>
+  </data>
+  <data name="MT3_026" xml:space="preserve">
+    <value>We're an adventuring team with fame and fortune in our sights!</value>
+  </data>
+  <data name="MT3_027" xml:space="preserve">
+    <value>What!?[pause=10] You're all an adventuring team!?</value>
+  </data>
+  <data name="MT3_028" xml:space="preserve">
+    <value>That's right,[pause=10] loser.[pause=0] And soon everyone's gonna know the name Team [color=#FFA5FF]Style[color]!</value>
+  </data>
+  <data name="MT3_029" xml:space="preserve">
+    <value>But adventuring isn't about money or being famous!</value>
+  </data>
+  <data name="MT3_030" xml:space="preserve">
+    <value>It's about making discoveries and helping Pokémon in need![pause=0] Every adventurer knows that!</value>
+  </data>
+  <data name="MT3_031" xml:space="preserve">
+    <value>Yuck.[pause=0] You sound like that wash-up {0}.[pause=0]\nHe's so self-righteous it disgusts me!</value>
+  </data>
+  <data name="MT3_032" xml:space="preserve">
+    <value>That has-been told us the same thing when he turned us away.[pause=0] He simply couldn't see our greatness!</value>
+  </data>
+  <data name="MT3_033" xml:space="preserve">
+    <value>That blind jerk wouldn't even notice if we stole the fruit off his neck!</value>
+  </data>
+  <data name="MT3_034" xml:space="preserve">
+    <value>How can you say such rude things about the Guildmaster!?[pause=0] It's no wonder he turned you all away!</value>
+  </data>
+  <data name="MT3_035" xml:space="preserve">
+    <value>Oh,[pause=10] we kept it cordial our entire time with him...</value>
+  </data>
+  <data name="MT3_036" xml:space="preserve">
+    <value>Even still,[pause=10] he wouldn't allow us into that stupid guild of his.</value>
+  </data>
+  <data name="MT3_037" xml:space="preserve">
+    <value>And for some reason...[pause=0] That wash-up let you two in the guild.[pause=0] What's so special about you?</value>
+  </data>
+  <data name="MT3_038" xml:space="preserve">
+    <value>Well!?[pause=0] What makes you losers better than us,[pause=10] huh!?[pause=0] Huh!?</value>
+  </data>
+  <data name="MT3_039" xml:space="preserve">
+    <value>I don't know why he chose to let us apprentice at the guild...</value>
+  </data>
+  <data name="MT3_040" xml:space="preserve">
+    <value>But it doesn't matter why the Guildmaster took us in!</value>
+  </data>
+  <data name="MT3_041" xml:space="preserve">
+    <value>All that matters is that me and {0} are in the guild and we're learning to become adventurers!</value>
+  </data>
+  <data name="MT3_042" xml:space="preserve">
+    <value>It's not hard to see why he didn't want you in the guild!</value>
+  </data>
+  <data name="MT3_043" xml:space="preserve">
+    <value>That's not true![pause=0] We've already rescued someone who got lost in a mystery dungeon!</value>
+  </data>
+  <data name="MT3_044" xml:space="preserve">
+    <value>And right now we're getting ready to capture our first outlaw!</value>
+  </data>
+  <data name="MT3_045" xml:space="preserve">
+    <value>Oh?[pause=0] Is that so?</value>
+  </data>
+  <data name="MT3_046" xml:space="preserve">
+    <value>Psst...[pause=0] Whisper whisper...</value>
+  </data>
+  <data name="MT3_047" xml:space="preserve">
+    <value>Psst...[pause=0] Murmur murmur...</value>
+  </data>
+  <data name="MT3_048" xml:space="preserve">
+    <value>Psst...[pause=0] Mumble mumble...</value>
+  </data>
+  <data name="MT3_049" xml:space="preserve">
+    <value>What are they talking about?[pause=0] I can't make out what they're saying...</value>
+  </data>
+  <data name="MT3_050" xml:space="preserve">
+    <value>If you're going after an outlaw,[pause=10] you may be real adventurers after all.</value>
+  </data>
+  <data name="MT3_051" xml:space="preserve">
+    <value>Perhaps we got the wrong impression of you.[pause=0] You might just be a team worthy of our respect.</value>
+  </data>
+  <data name="MT3_052" xml:space="preserve">
+    <value>Let's roll out of here, you two.[pause=0] We've got...[pause=30] adventuring work to attend to.</value>
+  </data>
+  <data name="MT3_053" xml:space="preserve">
+    <value>Well,[pause=10] that was certainly strange...[pause=0] I wonder what their deal was?</value>
+  </data>
+  <data name="MT3_054" xml:space="preserve">
+    <value>Between this Team [color=#FFA5FF]Style[color] and {0},[pause=10] I've certainly had my fill of bullies for the day...</value>
+  </data>
+  <data name="MT3_055" xml:space="preserve">
+    <value>That Team [color=#FFA5FF]Style[color] though...[pause=0] They sure had a change of attitude just now,[pause=10] don't you think?</value>
+  </data>
+  <data name="MT3_056" xml:space="preserve">
+    <value>The way they started whispering to each other was pretty odd too...</value>
+  </data>
+  <data name="MT3_057" xml:space="preserve">
+    <value>There isn't much point in dwelling on them,[pause=10] though.[pause=0] Let's just hope their change in attitude sticks.</value>
+  </data>
+  <data name="MT3_058" xml:space="preserve">
+    <value>For now,[pause=10] let's forget about them.[pause=0] We have a mission to get to after all!</value>
+  </data>
+  <data name="MT3_059" xml:space="preserve">
+    <value>Let's head into town to get ready.</value>
+  </data>
+  <data name="MT3_060" xml:space="preserve">
+    <value>Once we're set,[pause=10] we should leave town to the east towards {0},[pause=10] like {1} said to.</value>
+  </data>
+  <data name="MT3_061" xml:space="preserve">
+    <value>Where do you even source that garbage?[pause=0] From the Kecleon Shop's trash pile?</value>
+  </data>
+  <data name="MT3_062" xml:space="preserve">
+    <value>Umm...[pause=0] What's going on here,[pause=10] exactly?</value>
+  </data>
+  <data name="MT3_063" xml:space="preserve">
+    <value>My name is {0},[pause=10] and I am purveyor of held items,[pause=10] perfect for adventurers such as yourselves!</value>
+  </data>
+  <data name="MT3_064" xml:space="preserve">
+    <value>Oh,[pause=10] that's right![pause=0] You're both merchants,[pause=10] correct?</value>
+  </data>
+  <data name="MT3_065" xml:space="preserve">
+    <value>With intuition like that,[pause=10] you must be wise enough to shop with me,[pause=10] rather than with that charlatan {0}!</value>
+  </data>
+  <data name="MT3_066" xml:space="preserve">
+    <value>{0} and {1} are arguing with each other again,[pause=10] huh?</value>
+  </data>
+  <data name="MT3_067" xml:space="preserve">
+    <value>Yup.[pause=0] I've seen them there bickering before,[pause=10] but I've never experienced it first-hand like this.</value>
+  </data>
+  <data name="MT3_068" xml:space="preserve">
+    <value>Yeah,[pause=10] they do this often.[pause=0] They really dislike each other for some reason.</value>
+  </data>
+  <data name="MT3_069" xml:space="preserve">
+    <value>They won't even sell stuff to you if you bought something from the other one!</value>
+  </data>
+  <data name="MT3_070" xml:space="preserve">
+    <value>Wow,[pause=10] really!?[pause=0] They're that spiteful?</value>
+  </data>
+  <data name="MT3_071" xml:space="preserve">
+    <value>Yeah.[pause=0] Fortunately,[pause=10] their memory isn't so good,[pause=10] so they'll forget their grudge against you after a day or so.</value>
+  </data>
+  <data name="MT3_072" xml:space="preserve">
+    <value>My memory isn't so good either,[pause=10] that's why I write stuff down in my almanacs!</value>
+  </data>
+  <data name="MT3_073" xml:space="preserve">
+    <value>I've got to be on my way now,[pause=10] good luck buying something from those two!</value>
+  </data>
+  <data name="MT3_074" xml:space="preserve">
+    <value>Guess we should see if we can get a word in against those two,[pause=10] huh?</value>
+  </data>
+  <data name="MT3_075" xml:space="preserve">
+    <value>Erm...[pause=0] So you two sell items that are useful for adventurers,[pause=10] right?</value>
+  </data>
+  <data name="MT3_076" xml:space="preserve">
+    <value>But if you buy from that charlatan over there,[pause=10] you won't get any more business out of me!</value>
+  </data>
+  <data name="MT3_077" xml:space="preserve">
+    <value>I'll give you a great price though.[pause=0] Much cheaper than the Kecleon Shop would charge.</value>
+  </data>
+  <data name="MT3_078" xml:space="preserve">
+    <value>But forget about getting any of my deals if you buy from that snob!</value>
+  </data>
+  <data name="MT3_079" xml:space="preserve">
+    <value>I see...[pause=0] Well,[pause=10] thanks for the info.</value>
+  </data>
+  <data name="MT3_080" xml:space="preserve">
+    <value>Psst,[pause=10] {0}...[pause=0] We should check in with these two daily to see what they have for sale.</value>
+  </data>
+  <data name="MT3_081" xml:space="preserve">
+    <value>We can only buy from one of them each day,[pause=10] so we'll have to choose carefully.</value>
+  </data>
+  <data name="MT3_082" xml:space="preserve">
+    <value>Did you two hear that {0} ran off to a spring and had to get rescued by some adventurers?</value>
+  </data>
+  <data name="MT3_083" xml:space="preserve">
+    <value>Huh?[pause=0] How do you run off to spring?[pause=0] I thought that's the time of year after winter?</value>
+  </data>
+  <data name="MT3_084" xml:space="preserve">
+    <value>Nuh uh![pause=0] A spring is something you bounce off of!</value>
+  </data>
+  <data name="MT3_085" xml:space="preserve">
+    <value>I bet he ran off to some place with a ton of bouncy things!</value>
+  </data>
+  <data name="MT3_086" xml:space="preserve">
+    <value>No,[pause=10] he ran off to a water spring.[pause=0] You know,[pause=10] a place where water comes up from the ground?</value>
+  </data>
+  <data name="MT3_087" xml:space="preserve">
+    <value>That can't be right![pause=0] Why would that be called a spring?[pause=0] It has nothing to do with the time after winter!</value>
+  </data>
+  <data name="MT3_088" xml:space="preserve">
+    <value>Yeah![pause=0] And it's got nothing to do with bouncy things either!</value>
+  </data>
+  <data name="MT3_089" xml:space="preserve">
+    <value>Groan...</value>
+  </data>
+  <data name="MT3_090" xml:space="preserve">
+    <value>Hey,[pause=10] {0},[pause=10] let's play![pause=0] Wanna play adventurers and outlaws?</value>
+  </data>
+  <data name="MT3_091" xml:space="preserve">
+    <value>Oh![pause=0] Befor' I've never played that,[pause=10] play how do ya?</value>
+  </data>
+  <data name="MT3_092" xml:space="preserve">
+    <value>Um...[pause=0] What did you say?</value>
+  </data>
+  <data name="MT3_093" xml:space="preserve">
+    <value>Adventurers an' outlaws befor' never played I,[pause=10] do play how we?</value>
+  </data>
+  <data name="MT3_094" xml:space="preserve">
+    <value>Err...[pause=0] Right...</value>
+  </data>
+  <data name="MT3_095" xml:space="preserve">
+    <value>(I can't understand her at all...[pause=0] I guess the twins aren't so bad after all...)</value>
+  </data>
+  <data name="MT3_096" xml:space="preserve">
+    <value>All this talk about outlaw activity lately has me concerned...[pause=0] What if one comes to town?</value>
+  </data>
+  <data name="MT3_097" xml:space="preserve">
+    <value>It's got me worried too hun.</value>
+  </data>
+  <data name="MT3_098" xml:space="preserve">
+    <value>It'd tear me up somethin' awful to see anything happen to any of my young'uns or the folks in town...</value>
+  </data>
+  <data name="MT3_099" xml:space="preserve">
+    <value>But I don't think we got any worryin' to do.[pause=0] We have the fine adventurers in the guild nearby after all!</value>
+  </data>
+  <data name="MT3_100" xml:space="preserve">
+    <value>If any outlaws are foolish enough to come to town,[pause=10] them adventurers will send them packin'!</value>
+  </data>
+  <data name="MT3_101" xml:space="preserve">
+    <value>Well,[pause=10] I suppose that's true.[pause=0] Still,[pause=10] as a mother,[pause=10] it's hard for me not to worry...</value>
+  </data>
+  <data name="MT3_102" xml:space="preserve">
+    <value>Do you like your drink,[pause=10] {0}?</value>
+  </data>
+  <data name="MT3_103" xml:space="preserve">
+    <value>Yeah![pause=0] This drink is so yummy!</value>
+  </data>
+  <data name="MT3_104" xml:space="preserve">
+    <value>Thanks for taking me to the café,[pause=10] {0}!</value>
+  </data>
+  <data name="MT3_105" xml:space="preserve">
+    <value>Of course![pause=0] What's a big sister for,[pause=10] after all?[pause=0]\nI'm just happy you're enjoying your drink!</value>
+  </data>
+  <data name="MT3_106" xml:space="preserve">
+    <value>I've been looking for him,[pause=10] but I can't find him![pause=0] Where did he go?</value>
+  </data>
+  <data name="MT3_107" xml:space="preserve">
+    <value>Hahaha![pause=0] This spot is so good![pause=0] It's almost like they're not looking for me!</value>
+  </data>
+  <data name="MT3_108" xml:space="preserve">
+    <value>...That's OK though.[pause=0] My momma needs my help,[pause=10] after all!</value>
+  </data>
+  <data name="MT3_109" xml:space="preserve">
+    <value>I just knew you two were gonna do great in the guild!</value>
+  </data>
+  <data name="MT3_110" xml:space="preserve">
+    <value>Those two merchants that hang out south of the guild are back!</value>
+  </data>
+  <data name="MT3_111" xml:space="preserve">
+    <value>They're pretty strange,[pause=10] but I bet they'll have some useful items for adventurers like you!</value>
+  </data>
+  <data name="MT3_112" xml:space="preserve">
+    <value>Obviously the dumb kid had just ran off![pause=0] This town is so boring,[pause=10] there's nothing dangerous anywhere near here!</value>
+  </data>
+  <data name="MT3_113" xml:space="preserve">
+    <value>He says the world's becoming more dangerous,[pause=10] with all the mystery dungeons appearing lately.</value>
+  </data>
+  <data name="MT3_114" xml:space="preserve">
+    <value>The water looks happy too![pause=0] It must know child is home now,[pause=10] just like {0}!</value>
+  </data>
+  <data name="MT3_115" xml:space="preserve">
+    <value>{0} wonders if he should train at dojo so {1} can be stronger to defend {2} from bad Pokémon...</value>
+  </data>
+  <data name="MT3_116" xml:space="preserve">
+    <value>How amazing![pause=0] I can have peace of mind knowing that adventurers like you live in town!</value>
+  </data>
+  <data name="MT3_117" xml:space="preserve">
+    <value>I don't know if that's true or not,[pause=10] but the increase in outlaw activity has me worried.</value>
+  </data>
+  <data name="MT3_118" xml:space="preserve">
+    <value>What if outlaws go after me and my family?[pause=0]\nI wouldn't want anything bad to happen to any of us!</value>
+  </data>
+  <data name="MT3_119" xml:space="preserve">
+    <value>{0} and I will always be grateful for what you've done for us!</value>
+  </data>
+  <data name="MT3_120" xml:space="preserve">
+    <value>...Is sleeping in my favorite spot next to my son!</value>
+  </data>
+  <data name="MT3_121" xml:space="preserve">
+    <value>I can enjoy a refreshing drink with it too,[pause=10] now that the café is open again.</value>
+  </data>
+  <data name="MT3_122" xml:space="preserve">
+    <value>Right now,[pause=10] I'm reading a book recommended to me by my son about mystery dungeons.</value>
+  </data>
+  <data name="MT3_123" xml:space="preserve">
+    <value>Did you know that if you stay on one floor for too long,[pause=10] a mysterious force will eject you from the dungeon?</value>
+  </data>
+  <data name="MT3_124" xml:space="preserve">
+    <value>The author notes that nobody knows the source of the mysterious force.[pause=0] How strange!</value>
+  </data>
+  <data name="MT3_125" xml:space="preserve">
+    <value>The way she parents her child is appalling.[pause=0] With no discipline,[pause=10] that child will grow up to be a troublemaker.</value>
+  </data>
+  <data name="MT3_126" xml:space="preserve">
+    <value>The adventurers at that there guild sure do some right proper work!</value>
+  </data>
+  <data name="MT3_127" xml:space="preserve">
+    <value>Usually hang here older children,[pause=10] but today here not are they.</value>
+  </data>
+  <data name="MT3_128" xml:space="preserve">
+    <value>It's hard fa' me friends to make...[pause=0] The other kids trouble have talkin' wit' me.</value>
+  </data>
+  <data name="MT3_129" xml:space="preserve">
+    <value>I don' get it...[pause=0] What am I sayin' hard that's ta' understand?</value>
+  </data>
+  <data name="MT3_130" xml:space="preserve">
+    <value>A whole forest chock full o' Apricorn trees were just found!</value>
+  </data>
+  <data name="MT3_131" xml:space="preserve">
+    <value>That'll surely solve the Apricorn shortage we were havin'!</value>
+  </data>
+  <data name="MT3_132" xml:space="preserve">
+    <value>That's amazing![pause=0] I knew you could do it,[pause=10] ruff!</value>
+  </data>
+  <data name="MT3_133" xml:space="preserve">
+    <value>I hope I can go on some missions soon too,[pause=10] ruff.</value>
+  </data>
+  <data name="MT3_134" xml:space="preserve">
+    <value>{0} always puts me on sentry duty,[pause=10] so I haven't gone on an adventure with {1} in a while,[pause=10] ruff...</value>
+  </data>
+  <data name="MT3_135" xml:space="preserve">
+    <value>Make sure you leave town to the east,[pause=10] r-right over there!</value>
+  </data>
+  <data name="MT3_136" xml:space="preserve">
+    <value>That's where you should go whenever you want to go out on an adventure!</value>
+  </data>
+  <data name="MT3_137" xml:space="preserve">
+    <value>Apparently there's been a shortage of Apricorns lately.</value>
+  </data>
+  <data name="MT3_138" xml:space="preserve">
+    <value>Without Apricorns,[pause=10] recruiting new team members is impossible!</value>
+  </data>
+  <data name="MT3_139" xml:space="preserve">
+    <value>More importantly,[pause=10] I can't make this special dish I've been working on without Apricorns![pause=0] Now what will I cook?</value>
+  </data>
+  <data name="MT3_140" xml:space="preserve">
+    <value>With Apricorns,[pause=10] adventuring teams will be able to recruit new team members again.</value>
+  </data>
+  <data name="MT3_141" xml:space="preserve">
+    <value>More importantly,[pause=10] I'll be able to work on this new dish of mine with those Apricorns. {0}</value>
+  </data>
+  <data name="MT3_142" xml:space="preserve">
+    <value>Just press {0},[pause=10] go to the Others menu,[pause=10] then choose Mission Objectives!</value>
+  </data>
+  <data name="MT3_143" xml:space="preserve">
+    <value>It's really useful if you forget what jobs you've taken for that dungeon,[pause=10] or what floors your jobs are on!</value>
+  </data>
+  <data name="MT3_144" xml:space="preserve">
+    <value>You both have a real ta-a-a-alent for capturing outlaws![pause=0] I'm so proud of you!</value>
+  </data>
+  <data name="MT3_145" xml:space="preserve">
+    <value>He was an easy mark![pause=0] That's why I chose him for you,[pause=10] even if he was in a place like {0}.</value>
+  </data>
+  <data name="MT3_146" xml:space="preserve">
+    <value>You can speak to me when you take down an outlaw that's worth my notice.</value>
+  </data>
+  <data name="MT3_147" xml:space="preserve">
+    <value>We're Team [color=#FFA5FF]Style[color]![pause=0] Everything we do,[pause=10] we do with style!</value>
+  </data>
+  <data name="MT3_148" xml:space="preserve">
+    <value>Tch![pause=0] Big talk for a newbie team![pause=0] What kind of adventures have you even gone on?</value>
+  </data>
+  <data name="MT3_149" xml:space="preserve">
+    <value>Probably none![pause=0] I bet all you've done so far is scrub the floors!</value>
+  </data>
+  <data name="MT3_150" xml:space="preserve">
+    <value>Well,[pause=10] I know you two will make the correct choice![pause=0] As such,[pause=10] I look forward to serving you in the future!</value>
+  </data>
 </root>

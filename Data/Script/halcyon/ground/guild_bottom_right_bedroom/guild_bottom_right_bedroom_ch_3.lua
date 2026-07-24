@@ -19,9 +19,9 @@ end
 
 function guild_bottom_right_bedroom_ch_3.Zigzagoon_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Hey,[pause=10] Team " .. GAME:GetTeamName() .. ",[pause=10] what's up!")
-	UI:WaitShowDialogue("...What am I doing right now?")
-	UI:WaitShowDialogue("Hmm.[pause=0] I'm just reviewing some of my almanacs before I head out for the day!")
-	UI:WaitShowDialogue("You can take a look too if you think it'll help you!")	
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['GBR3_001']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['GBR3_002']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['GBR3_003']))
 	GeneralFunctions.EndConversation(chara)
 end
 

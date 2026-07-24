@@ -42,45 +42,45 @@ function metano_cafe_ch_3.Initial_Girafarig_Breloom_Conversation(chara, activato
 	GROUND:CharSetEmote(breloom, "happy", 0)
 	GeneralFunctions.StartConversation(breloom, "Hey you two,[pause=10] figures I'd catch you two slackers at the café now that it's open again,[pause=10] heheh!", "Happy")
 	GROUND:CharSetEmote(breloom, "", 0)
-	UI:WaitShowDialogue("Just kidding![pause=0] What brings you two here?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_001']))
 	
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Me and " .. hero:GetDisplayName() .. " wanted to check out the café now that it's open for business again.")
-	UI:WaitShowDialogue("What are you doing here?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_002'], hero:GetDisplayName()))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_003']))
 	
 	
 	GAME:WaitFrames(20)
 	GROUND:CharTurnToChar(partner, girafarig)
 	GROUND:CharTurnToChar(hero, girafarig)
 	UI:SetSpeaker(girafarig)
-	UI:WaitShowDialogue("The three of us wanted to relax before we set out on our expedition.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_004']))
 	
 	GAME:WaitFrames(10)
 	GeneralFunctions.EmoteAndPause(partner, "Question", true)
 	UI:SetSpeaker(partner)
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("Expedition?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_005']))
 	
 	GAME:WaitFrames(20)
 	GROUND:CharTurnToChar(partner, breloom)
 	GROUND:CharTurnToChar(hero, breloom)	
 	UI:SetSpeaker(breloom)
-	UI:WaitShowDialogue("Yup.[pause=0] We've been planning to explore some ruins up in a far-off mountain range for some time now.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_006']))
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Rumor has it that some amazing secret lies in the ruins there!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_007']))
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("But so far,[pause=10] nobody's been able to find anything beyond some old broken structures that don't do anything.")
-	UI:WaitShowDialogue("Since " .. girafarig:GetDisplayName() .. " and I are more experienced adventurers than most,[pause=10] we figured we'd take a crack at it.")
-	UI:WaitShowDialogue("Originally,[pause=10] we weren't going to leave on our expedition for a couple more weeks...")
-	UI:WaitShowDialogue("...But the Guildmaster just requested us to leave on it as soon as we could.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_008']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_009'], girafarig:GetDisplayName()))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_010']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_011']))
 	
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
 	UI:SetSpeakerEmotion("Inspired")
 	GROUND:CharSetEmote(partner, "happy", 0)
-	UI:WaitShowDialogue("Wow![pause=0] That's so cool![pause=0] That's the kind of adventuring I want to do!")
-	UI:WaitShowDialogue("I can't wait until me and " .. hero:GetDisplayName() .. " can go on adventures like that!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_012']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_013'], hero:GetDisplayName()))
 	
 	GAME:WaitFrames(20)
 	GROUND:CharSetEmote(partner, "", 0)
@@ -88,14 +88,14 @@ function metano_cafe_ch_3.Initial_Girafarig_Breloom_Conversation(chara, activato
 	GROUND:CharTurnToChar(partner, girafarig)
 	GROUND:CharTurnToChar(hero, girafarig)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("You'll get there some day![pause=0] You've got us and the rest of the guild behind you rearing for you!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_014']))
 	
 	GAME:WaitFrames(20)
 	GROUND:CharTurnToChar(partner, breloom)
 	GROUND:CharTurnToChar(hero, breloom)
 	UI:SetSpeaker(breloom)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Good luck with your guild work until then![pause=0] " .. girafarig:GetDisplayName() .. " and I are going to be relaxing here until we leave for our trip.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_015'], girafarig:GetDisplayName()))
 	
 	
 	GeneralFunctions.EndConversation(breloom)
@@ -129,11 +129,11 @@ end
 function metano_cafe_ch_3.Lickitung_Action(chara, activator)
 	if not SV.Chapter3.DefeatedBoss then
 		GeneralFunctions.StartConversation(chara, "With the café open again,[pause=10] me and " .. CharacterEssentials.GetCharacterName("Gulpin") .. " can get our daily drinks again.")
-		UI:WaitShowDialogue("I'm a big fan of the drinks here,[pause=10] but " .. CharacterEssentials.GetCharacterName("Gulpin") .. " is a total fanatic compared to me.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_016'], CharacterEssentials.GetCharacterName("Gulpin")))
 	else
 		local item = RogueEssence.Dungeon.InvItem('cafe_domi_blend')
 		GeneralFunctions.StartConversation(chara, item:GetDisplayName() .. " is " .. CharacterEssentials.GetCharacterName("Shuckle") .. "'s specialty.[pause=0] Despite the odd ingredients,[pause=10] it's very healthy for you.")
-		UI:WaitShowDialogue("The taste,[pause=10] on the other hand,[pause=10] leaves something to be desired...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_017']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end 
@@ -152,13 +152,13 @@ end
 function metano_cafe_ch_3.Cleffa_Action(chara, activator)
 	local item = RogueEssence.Dungeon.InvItem('cafe_cheri_bomb')
 	GeneralFunctions.StartConversation(chara, "You moron![pause=0] This is a café,[pause=10] " .. CharacterEssentials.GetCharacterName("Shuckle") .. " sells drinks![pause=0]\nOf course we're going to drink the " .. item:GetDisplayName() .. "!", "Determined", false)
-	UI:WaitShowDialogue("If it's volatile,[pause=10] it'll give us an attack boost![pause=0]\nGive me it so I can carry your dead weight!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_018']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_cafe_ch_3.Aggron_Action(chara, activator)
 	local item = RogueEssence.Dungeon.InvItem('cafe_cheri_bomb')
 	GeneralFunctions.StartConversation(chara, "Hey boss,[pause=10] I got this " .. item:GetDisplayName() .. " from " .. CharacterEssentials.GetCharacterName("Shuckle") .. ".", "Normal", false)
-	UI:WaitShowDialogue("He said not to drink it,[pause=10] since it's volatile...[pause=0]\nMaybe we could throw it instead of drinking it?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MCF3_019']))
 	GeneralFunctions.EndConversation(chara)
 end

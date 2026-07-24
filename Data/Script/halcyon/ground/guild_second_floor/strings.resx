@@ -865,4 +865,364 @@
   <data name="G2F2_135" xml:space="preserve">
     <value>Y-yes boss...</value>
   </data>
+  <data name="G2F3_001" xml:space="preserve">
+    <value>Escort and outlaw missions are tougher than other types of missions for example.</value>
+  </data>
+  <data name="G2F3_002" xml:space="preserve">
+    <value>Harder jobs give more Adventurer Rank Points and usually have better rewards though,[pause=10] so they're worth doing!</value>
+  </data>
+  <data name="G2F3_003" xml:space="preserve">
+    <value>We prefer doing rescue missions.[pause=0] They're easier and we still get to help Pokémon in need!</value>
+  </data>
+  <data name="G2F3_004" xml:space="preserve">
+    <value>When the outlaw gets found,[pause=10] they spring a trap and an entire group of Pokémon will attack you!</value>
+  </data>
+  <data name="G2F3_005" xml:space="preserve">
+    <value>We can personally attest to the power of numbers.[pause=0] You should be prepared for these sorts of outlaws!</value>
+  </data>
+  <data name="G2F3_006" xml:space="preserve">
+    <value>If they make it to the stairs,[pause=10] then they'll get away!</value>
+  </data>
+  <data name="G2F3_007" xml:space="preserve">
+    <value>It's a good thing {0} can fly.[pause=0] It'll make it much easier to catch up to those outlaws!</value>
+  </data>
+  <data name="G2F3_008" xml:space="preserve">
+    <value>You can check the boards whenever you like to see what jobs are available for the taking.</value>
+  </data>
+  <data name="G2F3_009" xml:space="preserve">
+    <value>You can hold onto jobs as long as you want,[pause=10] but know that you can only have up to eight jobs at a time!</value>
+  </data>
+  <data name="G2F3_010" xml:space="preserve">
+    <value>To check your taken jobs,[pause=10] you can use the boards here or press {0} and choose Job List.</value>
+  </data>
+  <data name="G2F3_011" xml:space="preserve">
+    <value>When you take a job from the board,[pause=10] it'll be activated automatically.[pause=0] Only jobs that are activated can be done!</value>
+  </data>
+  <data name="G2F3_012" xml:space="preserve">
+    <value>Y-you can suspend an activated job to save for later.[pause=0] Just choose Take Job on it to reactivate it!</value>
+  </data>
+  <data name="G2F3_013" xml:space="preserve">
+    <value>A-anyways,[pause=10] as long as a job is activated,[pause=10] you can just go to the mystery dungeon it's in to do it.</value>
+  </data>
+  <data name="G2F3_014" xml:space="preserve">
+    <value>You can even activate multiple jobs in the same dungeon and do them all at once if you want!</value>
+  </data>
+  <data name="G2F3_015" xml:space="preserve">
+    <value>And that's all there is to it![pause=0] G-good luck with your missions!</value>
+  </data>
+  <data name="G2F3_016" xml:space="preserve">
+    <value>I know that name may seem a bit odd,[pause=10] but when we evolve again that name will make perfect sense!</value>
+  </data>
+  <data name="G2F3_017" xml:space="preserve">
+    <value>We're hoping to evolve again as soon as we can.[pause=0] Our current forms are...[pause=30] pretty inconvenient,[pause=10] to say the least.</value>
+  </data>
+  <data name="G2F3_018" xml:space="preserve">
+    <value>It took us a lot longer than I'd like to admit to make it up the ramp to get here...</value>
+  </data>
+  <data name="G2F3_019" xml:space="preserve">
+    <value>That's OK![pause=0] It can be rea-a-a-ally tough sometimes!</value>
+  </data>
+  <data name="G2F3_020" xml:space="preserve">
+    <value>I find that whenever I'm struggling to catch an outlaw,[pause=10] using items helps a lot!</value>
+  </data>
+  <data name="G2F3_021" xml:space="preserve">
+    <value>The right item can really make all the difference!</value>
+  </data>
+  <data name="G2F3_022" xml:space="preserve">
+    <value>Just know that orbs don't work at the end of dungeons,[pause=10] where ba-a-a-addies usually hide!</value>
+  </data>
+  <data name="G2F3_023" xml:space="preserve">
+    <value>Oh![pause=0] And if an outla-a-a-aw is using moves on you from far away,[pause=10] move out of their line of sight!</value>
+  </data>
+  <data name="G2F3_024" xml:space="preserve">
+    <value>That way they can't use those moves on you anymore![pause=0] They'll have to try something else instead!</value>
+  </data>
+  <data name="G2F3_025" xml:space="preserve">
+    <value>I hope that helps![pause=0] Good luck,[pause=10] I know you two\nca-a-a-an do it!</value>
+  </data>
+  <data name="G2F3_026" xml:space="preserve">
+    <value>Hahaha![pause=0] I knew you two couldn't do it![pause=0] Hahaha!</value>
+  </data>
+  <data name="G2F3_027" xml:space="preserve">
+    <value>Grr...</value>
+  </data>
+  <data name="G2F3_028" xml:space="preserve">
+    <value>Talking to {0} is pointless.[pause=0] If we need advice,[pause=10] we should try asking {1}.</value>
+  </data>
+  <data name="G2F3_029" xml:space="preserve">
+    <value>'Ello there.[pause=0] Name's {0},[pause=10] and I'm the head officer 'round these parts.</value>
+  </data>
+  <data name="G2F3_030" xml:space="preserve">
+    <value>Thanks to your help,[pause=10] we managed to bag us here a wanted criminal.</value>
+  </data>
+  <data name="G2F3_031" xml:space="preserve">
+    <value>For that,[pause=10] my deputies and I thank the two of ya.</value>
+  </data>
+  <data name="G2F3_032" xml:space="preserve">
+    <value>I've already given the bounty on this here criminal's head to your superior over there.</value>
+  </data>
+  <data name="G2F3_033" xml:space="preserve">
+    <value>Make sure to pick it up from him.[pause=0] Thank ya again for lendin' a hand.</value>
+  </data>
+  <data name="G2F3_034" xml:space="preserve">
+    <value>As for you...[pause=0] It's time to go.[pause=0] Come with us,[pause=10] and don't try nothin' funny.</value>
+  </data>
+  <data name="G2F3_035" xml:space="preserve">
+    <value>Oh...[pause=0] OK...</value>
+  </data>
+  <data name="G2F3_036" xml:space="preserve">
+    <value>Hmm?[pause=0] What's up?</value>
+  </data>
+  <data name="G2F3_037" xml:space="preserve">
+    <value>Um...[pause=0] I just wanted to say that I don't think {0} is a bad Pokémon.</value>
+  </data>
+  <data name="G2F3_038" xml:space="preserve">
+    <value>I know he's an outlaw and he needs to be arrested and all...</value>
+  </data>
+  <data name="G2F3_039" xml:space="preserve">
+    <value>But I think he's just someone who made a poor decision.[pause=0] He isn't wicked or anything.</value>
+  </data>
+  <data name="G2F3_040" xml:space="preserve">
+    <value>So,[pause=10] um...[pause=0] Would it be possible for you to go easy on him,[pause=10] please?</value>
+  </data>
+  <data name="G2F3_041" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_042" xml:space="preserve">
+    <value>...Sorry mate.[pause=0] Rules 'er rules.</value>
+  </data>
+  <data name="G2F3_043" xml:space="preserve">
+    <value>Even if he deserves some leniency,[pause=10] and from what you're sayin',[pause=10] maybe he does...</value>
+  </data>
+  <data name="G2F3_044" xml:space="preserve">
+    <value>I have to be consistent or the law wouldn't be fair.</value>
+  </data>
+  <data name="G2F3_045" xml:space="preserve">
+    <value>That's just the way it's gotta be.[pause=0] I'm sorry.</value>
+  </data>
+  <data name="G2F3_046" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_047" xml:space="preserve">
+    <value>...OK.[pause=0] I understand...</value>
+  </data>
+  <data name="G2F3_048" xml:space="preserve">
+    <value>...Alright.[pause=0] Let's not dawdle here any longer.[pause=0] Get a move on you lot.</value>
+  </data>
+  <data name="G2F3_049" xml:space="preserve">
+    <value>...But it seems to me as though he was a most unusual outlaw.</value>
+  </data>
+  <data name="G2F3_050" xml:space="preserve">
+    <value>Regardless,[pause=10] you've captured the outlaw successfully.[pause=0] Congratulations.</value>
+  </data>
+  <data name="G2F3_051" xml:space="preserve">
+    <value>Here is the bounty that {0} gave to me.[pause=0] You have earned it.</value>
+  </data>
+  <data name="G2F3_052" xml:space="preserve">
+    <value>Now then,[pause=10] I believe {0} should have dinner ready right about now.[pause=0] Will you accompany me upstairs?</value>
+  </data>
+  <data name="G2F3_053" xml:space="preserve">
+    <value>...[pause=0]OK.</value>
+  </data>
+  <data name="G2F3_054" xml:space="preserve">
+    <value>Here we are![pause=0] The Outlaw Notice Board!</value>
+  </data>
+  <data name="G2F3_055" xml:space="preserve">
+    <value>What's so different about this board compared to the one {0} showed us the other day?</value>
+  </data>
+  <data name="G2F3_056" xml:space="preserve">
+    <value>{0} showed you the board on the other side,[pause=10] right?</value>
+  </data>
+  <data name="G2F3_057" xml:space="preserve">
+    <value>Tha-a-a-at was the Job Bulletin Board.[pause=0] It has all sorts of regular jobs posted on it!</value>
+  </data>
+  <data name="G2F3_058" xml:space="preserve">
+    <value>This is the Outlaw Notice Board.[pause=0] Pokémon on the wrong side of the la-a-a-aw are posted here.</value>
+  </data>
+  <data name="G2F3_059" xml:space="preserve">
+    <value>They all have a bounty on their head for one reason or another.[pause=0] They're a real na-a-a-asty bunch!</value>
+  </data>
+  <data name="G2F3_060" xml:space="preserve">
+    <value>Outlaws hide out in different mystery dungeons all over the pla-a-a-ace!</value>
+  </data>
+  <data name="G2F3_061" xml:space="preserve">
+    <value>It'll be your job to go into those dungeons to bring these ba-a-a-addies to justice!</value>
+  </data>
+  <data name="G2F3_062" xml:space="preserve">
+    <value>These outlaws are dangerous,[pause=10] lawless Pokémon,[pause=10] aren't they?[pause=0] Are we really ready to take one on?</value>
+  </data>
+  <data name="G2F3_063" xml:space="preserve">
+    <value>No need to worry![pause=0] Just because a Pokémon is an outla-a-a-aw doesn't mean they're that tough!</value>
+  </data>
+  <data name="G2F3_064" xml:space="preserve">
+    <value>Outlaws range from criminal masterminds to petty thieves...[pause=0] We'll pick a ba-a-a-addie that's right for you!</value>
+  </data>
+  <data name="G2F3_065" xml:space="preserve">
+    <value>Well,[pause=10] I guess that doesn't sound so bad then.</value>
+  </data>
+  <data name="G2F3_066" xml:space="preserve">
+    <value>But...[pause=0] What exactly are we supposed to do once we find the outlaw?</value>
+  </data>
+  <data name="G2F3_067" xml:space="preserve">
+    <value>Isn't it obvious?[pause=0] You knock 'em out and bring 'em back to town!</value>
+  </data>
+  <data name="G2F3_068" xml:space="preserve">
+    <value>Yup![pause=0] Tha-a-a-at's right!</value>
+  </data>
+  <data name="G2F3_069" xml:space="preserve">
+    <value>Most outla-a-a-aws won't go peacefully![pause=0] They'll either try to fight you or make a run for it!</value>
+  </data>
+  <data name="G2F3_070" xml:space="preserve">
+    <value>If they won't go willingly,[pause=10] you'll need to knock them out!</value>
+  </data>
+  <data name="G2F3_071" xml:space="preserve">
+    <value>Once you ma-a-a-anage to bring them back to town,[pause=10] {0} will take care of the rest.</value>
+  </data>
+  <data name="G2F3_072" xml:space="preserve">
+    <value>{0}?[pause=0] Who's that?</value>
+  </data>
+  <data name="G2F3_073" xml:space="preserve">
+    <value>{0} is the main officer for the region.[pause=0] He handles booking and bounties for outla-a-a-aws!</value>
+  </data>
+  <data name="G2F3_074" xml:space="preserve">
+    <value>He'll meet you at the board here if you have any outla-a-a-aws to turn over.</value>
+  </data>
+  <data name="G2F3_075" xml:space="preserve">
+    <value>Then,[pause=10] he'll pa-a-a-ay out the bounty and take them away!</value>
+  </data>
+  <data name="G2F3_076" xml:space="preserve">
+    <value>And that's the ba-a-a-asics![pause=0] Now,[pause=10] let's pick out an outlaw for you!</value>
+  </data>
+  <data name="G2F3_077" xml:space="preserve">
+    <value>{0},[pause=10] can you help me choose a good outla-a-a-aw?</value>
+  </data>
+  <data name="G2F3_078" xml:space="preserve">
+    <value>Sure thing,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F3_079" xml:space="preserve">
+    <value>I'll be sure to choose one that's weak and pitiful enough for a couple of greenhorns like them to handle.</value>
+  </data>
+  <data name="G2F3_080" xml:space="preserve">
+    <value>Grrr...</value>
+  </data>
+  <data name="G2F3_081" xml:space="preserve">
+    <value>Tha-a-a-at would be perfect![pause=0] Thank you,[pause=10] {0}!</value>
+  </data>
+  <data name="G2F3_082" xml:space="preserve">
+    <value>Alright,[pause=10] let's see here...</value>
+  </data>
+  <data name="G2F3_083" xml:space="preserve">
+    <value>Aha!</value>
+  </data>
+  <data name="G2F3_084" xml:space="preserve">
+    <value>This one should be weak enough for you newbies.</value>
+  </data>
+  <data name="G2F3_085" xml:space="preserve">
+    <value>According to the wanted poster,[pause=10] this {0} goes by {1}.</value>
+  </data>
+  <data name="G2F3_086" xml:space="preserve">
+    <value>He's wanted for theft and is hiding out in {0}.</value>
+  </data>
+  <data name="G2F3_087" xml:space="preserve">
+    <value>{0}!?[pause=0] Wow!</value>
+  </data>
+  <data name="G2F3_088" xml:space="preserve">
+    <value>Looks like {0} picked out a fun one for your first job![pause=0] Hehehe!</value>
+  </data>
+  <data name="G2F3_089" xml:space="preserve">
+    <value>What's {0}?</value>
+  </data>
+  <data name="G2F3_090" xml:space="preserve">
+    <value>It's a mystery dungeon that ba-a-a-andits turned into a hideout.</value>
+  </data>
+  <data name="G2F3_091" xml:space="preserve">
+    <value>The bandits that hide there are relatively weak,[pause=10] so they group together to get a numbers advantage.</value>
+  </data>
+  <data name="G2F3_092" xml:space="preserve">
+    <value>Anyone who goes there should be prepared to get ambushed by a whole group of them!</value>
+  </data>
+  <data name="G2F3_093" xml:space="preserve">
+    <value>What!?[pause=0] You're saying we're gonna get mugged by bandits if we go after this outlaw!?</value>
+  </data>
+  <data name="G2F3_094" xml:space="preserve">
+    <value>Oh,[pause=10] they're all a bunch of pushovers![pause=0] I'm sure you can handle it!</value>
+  </data>
+  <data name="G2F3_095" xml:space="preserve">
+    <value>{0} wouldn't have picked it out if he thought you couldn't!</value>
+  </data>
+  <data name="G2F3_096" xml:space="preserve">
+    <value>Haha![pause=0] Yup![pause=0] That's true![pause=0] I would never pick a job our newbies couldn't handle!</value>
+  </data>
+  <data name="G2F3_097" xml:space="preserve">
+    <value>...Well...[pause=0] I'm still not sure.[pause=0] It seems so dangerous...</value>
+  </data>
+  <data name="G2F3_098" xml:space="preserve">
+    <value>Don't be so worried![pause=0] I know your first outlaw job may seem sca-a-a-ary...</value>
+  </data>
+  <data name="G2F3_099" xml:space="preserve">
+    <value>I know {0} and I were sca-a-a-ared on our first job!</value>
+  </data>
+  <data name="G2F3_100" xml:space="preserve">
+    <value>Heheheh![pause=0] Is that so?</value>
+  </data>
+  <data name="G2F3_101" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F3_102" xml:space="preserve">
+    <value>Yup![pause=0] But even though we were afraid of the\nda-a-a-anger...[pause=0] We caught that outlaw!</value>
+  </data>
+  <data name="G2F3_103" xml:space="preserve">
+    <value>I know it's sca-a-a-ary for you too...[pause=0] But I know you two can do it!</value>
+  </data>
+  <data name="G2F3_104" xml:space="preserve">
+    <value>Well,[pause=10] if you believe that we can do it,[pause=10] then I'm sure we'll be able to handle it!</value>
+  </data>
+  <data name="G2F3_105" xml:space="preserve">
+    <value>We got this,[pause=10] right,[pause=10] {0}?</value>
+  </data>
+  <data name="G2F3_106" xml:space="preserve">
+    <value>Yeah![pause=0] You guys got this!</value>
+  </data>
+  <data name="G2F3_107" xml:space="preserve">
+    <value>You should head into town now to prepa-a-a-are.</value>
+  </data>
+  <data name="G2F3_108" xml:space="preserve">
+    <value>Even if the bandits are weak,[pause=10] you shouldn't underestimate them!</value>
+  </data>
+  <data name="G2F3_109" xml:space="preserve">
+    <value>Once you're ready,[pause=10] you should head east out of town towards the dungeon.</value>
+  </data>
+  <data name="G2F3_110" xml:space="preserve">
+    <value>The eastern path is the main wa-a-a-ay out of town.</value>
+  </data>
+  <data name="G2F3_111" xml:space="preserve">
+    <value>Anytime you want to adventure into a dungeon in the future,[pause=10] be sure to leave town to the east!</value>
+  </data>
+  <data name="G2F3_112" xml:space="preserve">
+    <value>Once you've caught this {0} guy,[pause=10] bring him back here for your rewa-a-a-ard!</value>
+  </data>
+  <data name="G2F3_113" xml:space="preserve">
+    <value>OK![pause=0] We'll get ready,[pause=10] then head out east!</value>
+  </data>
+  <data name="G2F3_114" xml:space="preserve">
+    <value>Thank you for the help,[pause=10] {0}!</value>
+  </data>
+  <data name="G2F3_115" xml:space="preserve">
+    <value>A-a-a-anytime![pause=0] Me and {0} are happy to help!</value>
+  </data>
+  <data name="G2F3_116" xml:space="preserve">
+    <value>We need to find some jobs for ourselves now,[pause=10] so we'll be here a while.</value>
+  </data>
+  <data name="G2F3_117" xml:space="preserve">
+    <value>Come speak to us here if you ha-a-a-ave any trouble![pause=0] Good luck!</value>
+  </data>
+  <data name="G2F3_118" xml:space="preserve">
+    <value>Understood![pause=0] Thank you again!</value>
+  </data>
+  <data name="G2F3_119" xml:space="preserve">
+    <value>Let's go get ready to take down our first outlaw,[pause=10] {0}!</value>
+  </data>
+  <data name="G2F3_120" xml:space="preserve">
+    <value>It is most unusual to see one sticking up for an outlaw they have just apprehended...</value>
+  </data>
 </root>

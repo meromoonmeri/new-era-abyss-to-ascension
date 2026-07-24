@@ -406,4 +406,94 @@
   <data name="G3L2_068" xml:space="preserve">
     <value>She's v-very prideful when it comes to her cooking.[pause=0] She considers each meal she makes a work of art!</value>
   </data>
+  <data name="G3L3_001" xml:space="preserve">
+    <value>They should also be able to assist you with any trouble you may have.</value>
+  </data>
+  <data name="G3L3_002" xml:space="preserve">
+    <value>Once you capture the outlaw,[pause=10] bring them back to the guild for your reward from {0}.</value>
+  </data>
+  <data name="G3L3_003" xml:space="preserve">
+    <value>{0}![pause=0] We still have an outlaw to catch!</value>
+  </data>
+  <data name="G3L3_004" xml:space="preserve">
+    <value>Quickly![pause=0] To {0}!</value>
+  </data>
+  <data name="G3L3_005" xml:space="preserve">
+    <value>{0}![pause=0] We still have an outlaw to catch!</value>
+  </data>
+  <data name="G3L3_006" xml:space="preserve">
+    <value>Quickly![pause=0] To {0}![pause=0] We can do it this time!</value>
+  </data>
+  <data name="G3L3_007" xml:space="preserve">
+    <value>{0}![pause=0] We have to get back to {1}!</value>
+  </data>
+  <data name="G3L3_008" xml:space="preserve">
+    <value>Quickly![pause=0] To {0}![pause=0] We can't let Team [color=#FFA5FF]Style[color] get away with this!</value>
+  </data>
+  <data name="G3L3_009" xml:space="preserve">
+    <value>One for all...</value>
+  </data>
+  <data name="G3L3_010" xml:space="preserve">
+    <value>AND ALL FOR ONE!</value>
+  </data>
+  <data name="G3L3_011" xml:space="preserve">
+    <value>Alright Pokémon,[pause=10] let's get to the day's adventures!</value>
+  </data>
+  <data name="G3L3_012" xml:space="preserve">
+    <value>HURRAH!</value>
+  </data>
+  <data name="G3L3_013" xml:space="preserve">
+    <value>Wha-a-a-at's up,[pause=10] {0}?</value>
+  </data>
+  <data name="G3L3_014" xml:space="preserve">
+    <value>With Team {0}'s successful mission yesterday,[pause=10] I believe they are ready for an outlaw job.</value>
+  </data>
+  <data name="G3L3_015" xml:space="preserve">
+    <value>As you and {0} are the most experienced outlaw hunters in the guild...</value>
+  </data>
+  <data name="G3L3_016" xml:space="preserve">
+    <value>...I would like the two of you to assist them in choosing their first job from the Outlaw Notice Board.</value>
+  </data>
+  <data name="G3L3_017" xml:space="preserve">
+    <value>What?[pause=0] You can't be serious,[pause=10] {0}!</value>
+  </data>
+  <data name="G3L3_018" xml:space="preserve">
+    <value>Why should we waste our time helping a bunch of newbies when we could be out catching outlaws ourselves!</value>
+  </data>
+  <data name="G3L3_019" xml:space="preserve">
+    <value>Of course,[pause=10] {0}![pause=0] We'd love to!</value>
+  </data>
+  <data name="G3L3_020" xml:space="preserve">
+    <value>We've been dying to show them the ropes of outlaw catching since they joined the guild!</value>
+  </data>
+  <data name="G3L3_021" xml:space="preserve">
+    <value>Isn't that right,[pause=10] {0}?</value>
+  </data>
+  <data name="G3L3_022" xml:space="preserve">
+    <value>Y-yup![pause=0] T-that's right![pause=0] We would love to help them with their first outlaw job!</value>
+  </data>
+  <data name="G3L3_023" xml:space="preserve">
+    <value>You know how much I love to teach others![pause=0] It's in my nature!</value>
+  </data>
+  <data name="G3L3_024" xml:space="preserve">
+    <value>Hahaha!</value>
+  </data>
+  <data name="G3L3_025" xml:space="preserve">
+    <value>Will do![pause=0] I ca-a-a-an't wait to see what outlaw they're gonna nab!</value>
+  </data>
+  <data name="G3L3_026" xml:space="preserve">
+    <value>Come on,[pause=10] you guys![pause=0] Let's get over to the Outlaw Notice Board!</value>
+  </data>
+  <data name="G3L3_027" xml:space="preserve">
+    <value>Um...[pause=0] Sure thing...[pause=0] We'll be right behind you.</value>
+  </data>
+  <data name="G3L3_028" xml:space="preserve">
+    <value>Coming,[pause=10] {0}?</value>
+  </data>
+  <data name="G3L3_029" xml:space="preserve">
+    <value>Uh-huh![pause=0] I'm r-right behind you,[pause=10] too!</value>
+  </data>
+  <data name="G3L3_030" xml:space="preserve">
+    <value>Thank you.[pause=0] Be sure to help them out in any way they may need.</value>
+  </data>
 </root>

@@ -28,10 +28,10 @@ end
 function metano_grass_home_ch_3.Vileplume_Action(chara, activator)
 	if not SV.Chapter3.DefeatedBoss then 
 		GeneralFunctions.StartConversation(chara, "The world may be a dangerous place,[pause=10] but at least there are adventurers out there that help those in trouble.", "Worried")
-		UI:WaitShowDialogue("Still,[pause=10] I wonder if they'll be enough to tackle all the problems the future holds...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MGH3_001']))
 	else
 		GeneralFunctions.StartConversation(chara, "All these outlaws...[pause=0] It must be connected with all the mystery dungeons cropping up lately.")
-		UI:WaitShowDialogue("Oh,[pause=10] this dangerous world that we live in gets more perilous by the day...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MGH3_002']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end 

@@ -45,7 +45,7 @@ function metano_inn_ch_3.Nidoran_M_Action(chara, activator)
 		GeneralFunctions.StartConversation(chara, ".........")
 		GROUND:CharSetEmote(chara, "question", 1)
 		SOUND:PlayBattleSE('EVT_Emote_Confused')
-		UI:WaitShowDialogue("...Nyuh?[pause=40]")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_001']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end
@@ -54,7 +54,7 @@ end
 function metano_inn_ch_3.Innkeeper_Desk_Left_Action(chara, activator)
 	local nidoking = CH('Nidoking')
 	GeneralFunctions.StartConversation(nidoking, "My daughter here is helpin' me man the front desk today!")
-	UI:WaitShowDialogue("I'm hopin' to teach 'er some of the skills of the trade by sittin' up here wit' me!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_002']))
 	GeneralFunctions.EndConversation(nidoking)
 end
 
@@ -63,12 +63,12 @@ function metano_inn_ch_3.Innkeeper_Desk_Right_Action(chara, activator)
 		local nidoqueen = CH('Nidoqueen')
 		GeneralFunctions.StartConversation(nidoqueen, "Seems like nothin' dangerous was afoot in town after all.[pause=0] That young'un had just wandered off was all!")
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("Guess I don't need to be worryin' 'bout no danger comin' to my youngsters then!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_003']))
 		GeneralFunctions.EndConversation(nidoqueen)
 	else 
 		local nidorina = CH('Nidorina')
 		GeneralFunctions.StartConversation(nidorina, ".........")
-		UI:WaitShowDialogue("...Whatever.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_004']))
 		GeneralFunctions.EndConversation(nidorina)
 	end
 end
@@ -78,15 +78,15 @@ end
 function metano_inn_ch_3.Zangoose_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "This inn is one of the best places we've stayed at in our travels.[pause=0] Guess it's earned its reputation.")
 	--too long with no nicknames
-	UI:WaitShowDialogue("As nice as it is,[pause=10] I'd prefer if we were out getting work done instead of lollygagging like " .. CharacterEssentials.GetCharacterName("Seviper") .. " there wants to.")
-	UI:WaitShowDialogue("Suppose that's what a professional like me gets for parterning up with a layabout like him.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_005'], CharacterEssentials.GetCharacterName("Seviper")))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_006']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_inn_ch_3.Seviper_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "There'ssss been a lot of outlaw activity in this region lately.")
-	UI:WaitShowDialogue("Sssso " .. CharacterEssentials.GetCharacterName("Zangoose") .. " and I are sssstaying in this inn while we hunt bountiessss around here.")
-	UI:WaitShowDialogue("Though he issss too keen to sssstay here at the inn,[pause=10] rather than go out and do our jobssss.")
-	UI:WaitShowDialogue("He issss jusssst not a hard-worker like I am.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_007'], CharacterEssentials.GetCharacterName("Zangoose")))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_008']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI3_009']))
 	GeneralFunctions.EndConversation(chara)
 end

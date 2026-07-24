@@ -421,4 +421,13 @@
   <data name="LD2_077" xml:space="preserve">
     <value>Wahtah![pause=0] Until we meet again!</value>
   </data>
+  <data name="LD3_001" xml:space="preserve">
+    <value>Sensei {0} organized each of them carefully so her students could train optimally.</value>
+  </data>
+  <data name="LD3_002" xml:space="preserve">
+    <value>As such,[pause=10] you can get stronger faster here than you can in regular mystery dungeons!</value>
+  </data>
+  <data name="LD3_003" xml:space="preserve">
+    <value>I know I've gotten a lot stronger ever since I started training here with Sensei {0} and her mazes!</value>
+  </data>
 </root>

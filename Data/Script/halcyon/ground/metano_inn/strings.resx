@@ -88,4 +88,31 @@
   <data name="MI2_010" xml:space="preserve">
     <value>The continental breakfast leaves much to be desired though...[pause=0] These portions are way too little!</value>
   </data>
+  <data name="MI3_001" xml:space="preserve">
+    <value>...Nyuh?[pause=40]</value>
+  </data>
+  <data name="MI3_002" xml:space="preserve">
+    <value>I'm hopin' to teach 'er some of the skills of the trade by sittin' up here wit' me!</value>
+  </data>
+  <data name="MI3_003" xml:space="preserve">
+    <value>Guess I don't need to be worryin' 'bout no danger comin' to my youngsters then!</value>
+  </data>
+  <data name="MI3_004" xml:space="preserve">
+    <value>...Whatever.</value>
+  </data>
+  <data name="MI3_005" xml:space="preserve">
+    <value>As nice as it is,[pause=10] I'd prefer if we were out getting work done instead of lollygagging like {0} there wants to.</value>
+  </data>
+  <data name="MI3_006" xml:space="preserve">
+    <value>Suppose that's what a professional like me gets for parterning up with a layabout like him.</value>
+  </data>
+  <data name="MI3_007" xml:space="preserve">
+    <value>Sssso {0} and I are sssstaying in this inn while we hunt bountiessss around here.</value>
+  </data>
+  <data name="MI3_008" xml:space="preserve">
+    <value>Though he issss too keen to sssstay here at the inn,[pause=10] rather than go out and do our jobssss.</value>
+  </data>
+  <data name="MI3_009" xml:space="preserve">
+    <value>He issss jusssst not a hard-worker like I am.</value>
+  </data>
 </root>

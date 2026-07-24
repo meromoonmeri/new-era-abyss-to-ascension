@@ -23,6 +23,6 @@ function metano_fire_home_ch_3.Camerupt_Action(chara, activator)
 	--too long with no nicknames
 	GeneralFunctions.StartConversation(chara, CharacterEssentials.GetCharacterName("Numel") .. " has been better about doing his chores ever since you two rescued him.[pause=0] He's been more considerate too.")
 	UI:SetSpeakerEmotion("Teary-Eyed")
-	UI:WaitShowDialogue("Sniff...[pause=0] My baby boy...[pause=0] He's growing up so fast...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MFH3_001']))
 	GeneralFunctions.EndConversation(chara)
 end 

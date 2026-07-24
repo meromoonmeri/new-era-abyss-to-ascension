@@ -17,23 +17,23 @@ function altere_pond_ch_3.Relicanth_Action(chara, activator)
 		
 		GAME:WaitFrames(20)
 		UI:SetSpeaker(partner)
-		UI:WaitShowDialogue("Hi " .. chara:GetDisplayName() .. ".[pause=0] It's me,[pause=10] " .. partner:GetDisplayName() .. ".")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_001'], chara:GetDisplayName(), partner:GetDisplayName()))
 		GAME:WaitFrames(20)
 		
 		UI:SetSpeaker(chara)
-		UI:WaitShowDialogue(partner:GetDisplayName() .. ".[pause=0] Have you come to hear another story?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_002'], partner:GetDisplayName()))
 		GAME:WaitFrames(20)
 			
 		UI:SetSpeaker(partner)
-		UI:WaitShowDialogue("I'd love to listen to one of your stories right now,[pause=10] but me and " .. hero:GetDisplayName() .. " have a job to get to!")
-		UI:WaitShowDialogue("We'll come back to listen another time,[pause=10] OK?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_003'], hero:GetDisplayName()))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_004']))
 		
 		GAME:WaitFrames(20)
 		UI:SetSpeaker(chara)
-		UI:WaitShowDialogue("Hmmph.[pause=0] Very well.[pause=0] Make sure you keep out of trouble in the meanwhile.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_005']))
 	else
 		GeneralFunctions.StartConversation(chara, partner:GetDisplayName() .. ".[pause=0] I hope you and your friend there continue to keep out of trouble.", "Normal", true, false)
-		UI:WaitShowDialogue("Just because my eyes aren't what they used to be doesn't mean I won't know if you're up to something!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP3_006']))
 	end
 	GeneralFunctions.EndConversation(chara, false)
 end 

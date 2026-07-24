@@ -27,21 +27,21 @@ function crooked_cavern_entrance_ch_3.FirstAttemptCutscene()
 	
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Looks like this is the place.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_001']))
 	
 	GAME:WaitFrames(10)
 	GROUND:CharTurnToCharAnimated(partner, hero, 4)
 	GROUND:CharTurnToCharAnimated(hero, partner, 4)
 	
-	UI:WaitShowDialogue("According to the wanted poster,[pause=10] that outlaw " ..  CharacterEssentials.GetCharacterName("Sandile") .. " is hiding in the depths of this dungeon.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_002'], CharacterEssentials.GetCharacterName("Sandile")))
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue(CharacterEssentials.GetCharacterName("Mareep") .. " said that other outlaws hide out here too.[pause=0] It'll probably be pretty dangerous...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_003'], CharacterEssentials.GetCharacterName("Mareep")))
 	GAME:WaitFrames(20)
 	
 	GeneralFunctions.DoubleHop(partner)
 	UI:SetSpeakerEmotion("Determined")
-	UI:WaitShowDialogue("But they won't stop us![pause=0] We'll prove to " .. CharacterEssentials.GetCharacterName('Cranidos') .. " that we're capable![pause=0] This outlaw is as good as caught!")
-	UI:WaitShowDialogue("Let's give it our all as always,[pause=10] " .. hero:GetDisplayName() .. "!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_004'], CharacterEssentials.GetCharacterName('Cranidos')))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_005'], hero:GetDisplayName()))
 	
 	GAME:WaitFrames(20)
 	coro1 = TASK:BranchCoroutine(function() GeneralFunctions.DoAnimation(hero, "Nod") end)
@@ -86,22 +86,22 @@ function crooked_cavern_entrance_ch_3.LostBeforeStyle()
 	
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Looks like we made it back.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_006']))
 	
 	GAME:WaitFrames(10)
 	GROUND:CharTurnToCharAnimated(partner, hero, 4)
 	GROUND:CharTurnToCharAnimated(hero, partner, 4)
 	
-	UI:WaitShowDialogue("According to the wanted poster,[pause=10] that outlaw " ..  CharacterEssentials.GetCharacterName("Sandile") .. " is hiding in the depths of this dungeon.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_007'], CharacterEssentials.GetCharacterName("Sandile")))
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("Last time,[pause=10] we encountered trouble and couldn't make it all the way through to the end...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_008']))
 	GAME:WaitFrames(20)
 	
 	GeneralFunctions.DoubleHop(partner)
 	UI:SetSpeakerEmotion("Determined")
-	UI:WaitShowDialogue("We'll make it through this try though!")
-	UI:WaitShowDialogue("We'll prove to " .. CharacterEssentials.GetCharacterName('Cranidos') .. " that we're capable![pause=0] This outlaw is as good as caught!")
-	UI:WaitShowDialogue("Let's be sure to try even harder this time,[pause=10] " .. hero:GetDisplayName() .. "!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_009']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_010'], CharacterEssentials.GetCharacterName('Cranidos')))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_011'], hero:GetDisplayName()))
 	
 	GAME:WaitFrames(20)
 	coro1 = TASK:BranchCoroutine(function() GeneralFunctions.DoAnimation(hero, "Nod") end)
@@ -144,21 +144,21 @@ function crooked_cavern_entrance_ch_3.LostToStyle()
 	
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Looks like we made it back.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_012']))
 	
 	GAME:WaitFrames(10)
 	GROUND:CharTurnToCharAnimated(partner, hero, 4)
 	GROUND:CharTurnToCharAnimated(hero, partner, 4)
 	
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("Poor " .. CharacterEssentials.GetCharacterName("Sandile") .. ".[pause=0] I bet they still got him trapped at the end...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_013'], CharacterEssentials.GetCharacterName("Sandile")))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeakerEmotion("Determined")
-	UI:WaitShowDialogue("That Team [color=#FFA5FF]Style[color]...[pause=0] We can't let them get away with this!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_014']))
 	
 	GeneralFunctions.DoubleHop(partner)
-	UI:WaitShowDialogue("This time we'll send them packing![pause=0] Let's do it this time,[pause=10] "	.. hero:GetDisplayName() .. "!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['CCE3_015'], hero:GetDisplayName()))
 	
 	GAME:WaitFrames(20)
 	coro1 = TASK:BranchCoroutine(function() GeneralFunctions.DoAnimation(hero, "Nod") end)

@@ -175,4 +175,22 @@
   <data name="AP2_005" xml:space="preserve">
     <value>We need to rescue {0}![pause=0] Quickly,[pause=10] to {1}!</value>
   </data>
+  <data name="AP3_001" xml:space="preserve">
+    <value>Hi {0}.[pause=0] It's me,[pause=10] {1}.</value>
+  </data>
+  <data name="AP3_002" xml:space="preserve">
+    <value>{0}.[pause=0] Have you come to hear another story?</value>
+  </data>
+  <data name="AP3_003" xml:space="preserve">
+    <value>I'd love to listen to one of your stories right now,[pause=10] but me and {0} have a job to get to!</value>
+  </data>
+  <data name="AP3_004" xml:space="preserve">
+    <value>We'll come back to listen another time,[pause=10] OK?</value>
+  </data>
+  <data name="AP3_005" xml:space="preserve">
+    <value>Hmmph.[pause=0] Very well.[pause=0] Make sure you keep out of trouble in the meanwhile.</value>
+  </data>
+  <data name="AP3_006" xml:space="preserve">
+    <value>Just because my eyes aren't what they used to be doesn't mean I won't know if you're up to something!</value>
+  </data>
 </root>

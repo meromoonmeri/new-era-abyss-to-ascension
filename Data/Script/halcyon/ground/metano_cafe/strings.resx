@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -204,5 +204,62 @@
   </data>
   <data name="Cafe_New_Drink_2" xml:space="preserve">
     <value>You can check the ingredients you need for it on the sign over there![pause=0] Be sure to try it sometime!</value>
+  </data>
+  <data name="MCF3_001" xml:space="preserve">
+    <value>Just kidding![pause=0] What brings you two here?</value>
+  </data>
+  <data name="MCF3_002" xml:space="preserve">
+    <value>Me and {0} wanted to check out the café now that it's open for business again.</value>
+  </data>
+  <data name="MCF3_003" xml:space="preserve">
+    <value>What are you doing here?</value>
+  </data>
+  <data name="MCF3_004" xml:space="preserve">
+    <value>The three of us wanted to relax before we set out on our expedition.</value>
+  </data>
+  <data name="MCF3_005" xml:space="preserve">
+    <value>Expedition?</value>
+  </data>
+  <data name="MCF3_006" xml:space="preserve">
+    <value>Yup.[pause=0] We've been planning to explore some ruins up in a far-off mountain range for some time now.</value>
+  </data>
+  <data name="MCF3_007" xml:space="preserve">
+    <value>Rumor has it that some amazing secret lies in the ruins there!</value>
+  </data>
+  <data name="MCF3_008" xml:space="preserve">
+    <value>But so far,[pause=10] nobody's been able to find anything beyond some old broken structures that don't do anything.</value>
+  </data>
+  <data name="MCF3_009" xml:space="preserve">
+    <value>Since {0} and I are more experienced adventurers than most,[pause=10] we figured we'd take a crack at it.</value>
+  </data>
+  <data name="MCF3_010" xml:space="preserve">
+    <value>Originally,[pause=10] we weren't going to leave on our expedition for a couple more weeks...</value>
+  </data>
+  <data name="MCF3_011" xml:space="preserve">
+    <value>...But the Guildmaster just requested us to leave on it as soon as we could.</value>
+  </data>
+  <data name="MCF3_012" xml:space="preserve">
+    <value>Wow![pause=0] That's so cool![pause=0] That's the kind of adventuring I want to do!</value>
+  </data>
+  <data name="MCF3_013" xml:space="preserve">
+    <value>I can't wait until me and {0} can go on adventures like that!</value>
+  </data>
+  <data name="MCF3_014" xml:space="preserve">
+    <value>You'll get there some day![pause=0] You've got us and the rest of the guild behind you rearing for you!</value>
+  </data>
+  <data name="MCF3_015" xml:space="preserve">
+    <value>Good luck with your guild work until then![pause=0] {0} and I are going to be relaxing here until we leave for our trip.</value>
+  </data>
+  <data name="MCF3_016" xml:space="preserve">
+    <value>I'm a big fan of the drinks here,[pause=10] but {0} is a total fanatic compared to me.</value>
+  </data>
+  <data name="MCF3_017" xml:space="preserve">
+    <value>The taste,[pause=10] on the other hand,[pause=10] leaves something to be desired...</value>
+  </data>
+  <data name="MCF3_018" xml:space="preserve">
+    <value>If it's volatile,[pause=10] it'll give us an attack boost![pause=0]\nGive me it so I can carry your dead weight!</value>
+  </data>
+  <data name="MCF3_019" xml:space="preserve">
+    <value>He said not to drink it,[pause=10] since it's volatile...[pause=0]\nMaybe we could throw it instead of drinking it?</value>
   </data>
 </root>

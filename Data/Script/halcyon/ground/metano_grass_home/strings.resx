@@ -70,4 +70,10 @@
   <data name="MGH2_004" xml:space="preserve">
     <value>It really is a shame {0} is missing...[pause=0] But I wish it wouldn't stop {1} from hanging out...</value>
   </data>
+  <data name="MGH3_001" xml:space="preserve">
+    <value>Still,[pause=10] I wonder if they'll be enough to tackle all the problems the future holds...</value>
+  </data>
+  <data name="MGH3_002" xml:space="preserve">
+    <value>Oh,[pause=10] this dangerous world that we live in gets more perilous by the day...</value>
+  </data>
 </root>

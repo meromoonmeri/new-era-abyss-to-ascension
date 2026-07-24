@@ -12,11 +12,11 @@ end
 function metano_cave_ch_3.Sunflora_Action(chara, activator)
 	if not SV.Chapter3.DefeatedBoss then
 		GeneralFunctions.StartConversation(chara, "...That child that went missing.[pause=0] Has he been rescued yet?", "Worried", true, false)
-		UI:WaitShowDialogue(".........[pause=30]I see.[pause=0] At least there are adventurers like you two out there now.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC3_001']))
 	else
 		GeneralFunctions.StartConversation(chara, "...Outlaws,[pause=10] huh?", "Worried", true, false)
 		UI:SetSpeakerEmotion("Pain")
-		UI:WaitShowDialogue("...I don't really concern myself with that sort of stuff anymore.[pause=0] Please leave me be.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC3_002']))
 	end
 	GeneralFunctions.EndConversation(chara, false)
 end 

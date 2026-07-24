@@ -70,4 +70,16 @@
   <data name="MWH2_004" xml:space="preserve">
     <value>...Your king wishes to swim in his royal moat...[pause=0] Fwwwwaaaahhhhh....</value>
   </data>
+  <data name="MWH3_001" xml:space="preserve">
+    <value>It's got me worried about my own kids.[pause=0] They're quite prone to wandering themselves.</value>
+  </data>
+  <data name="MWH3_002" xml:space="preserve">
+    <value>I hope they won't go off somewhere where they would need rescuing...</value>
+  </data>
+  <data name="MWH3_003" xml:space="preserve">
+    <value>They've wandered off plenty of times before and they always find their way back home safely.</value>
+  </data>
+  <data name="MWH3_004" xml:space="preserve">
+    <value>Worse comes to worse,[pause=10] the guild could rescue them like they rescued {0},[pause=10] right?</value>
+  </data>
 </root>

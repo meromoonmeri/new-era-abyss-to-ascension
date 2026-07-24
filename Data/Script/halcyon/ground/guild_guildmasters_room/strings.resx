@@ -415,4 +415,37 @@
   <data name="GMR2_027" xml:space="preserve">
     <value>...Let's just hope this spring issue isn't a sign of worse to come.</value>
   </data>
+  <data name="GMR3_001" xml:space="preserve">
+    <value>I'm sure {0},[pause=10] {1},[pause=10] and the rest of the town are thankful for what you've done!</value>
+  </data>
+  <data name="GMR3_002" xml:space="preserve">
+    <value>Anyways,[pause=10] you have a new mission now,[pause=10] right?[pause=0] You're on the hunt for an outlaw if I'm not mistaken!</value>
+  </data>
+  <data name="GMR3_003" xml:space="preserve">
+    <value>Capturing outlaws can be tricky.[pause=0] They're tougher than most Pokémon you encounter in mystery dungeons!</value>
+  </data>
+  <data name="GMR3_004" xml:space="preserve">
+    <value>So,[pause=10] I want you to take these to help you with your mission.</value>
+  </data>
+  <data name="GMR3_005" xml:space="preserve">
+    <value>A good way to deal with strong opponents is to disable or weaken them.</value>
+  </data>
+  <data name="GMR3_006" xml:space="preserve">
+    <value>These wands will confuse any opponent you wave them at,[pause=10] which is perfect for a tough enemy like an outlaw!</value>
+  </data>
+  <data name="GMR3_007" xml:space="preserve">
+    <value>Wow![pause=0] Thank you Guildmaster![pause=0] We'll put these to good use!</value>
+  </data>
+  <data name="GMR3_008" xml:space="preserve">
+    <value>Of course![pause=0] Good luck with capturing this outlaw![pause=0]\nI know you can do it!</value>
+  </data>
+  <data name="GMR3_009" xml:space="preserve">
+    <value>When I first started out as an adventurer,[pause=10] they gave me plenty of trouble too!</value>
+  </data>
+  <data name="GMR3_010" xml:space="preserve">
+    <value>Try reevaluating your strategies,[pause=10] and then try again![pause=0] You two can do it!</value>
+  </data>
+  <data name="GMR3_011" xml:space="preserve">
+    <value>I knew you two were going to do fantastic work in this guild![pause=0] Keep it up and you'll go far!</value>
+  </data>
 </root>
