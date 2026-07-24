@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -111,5 +111,95 @@
   </data>
   <data name="Assembly_Info_008" xml:space="preserve">
     <value>info 8</value>
+  </data>
+  <data name="G3L1_001" xml:space="preserve">
+    <value>(The door is locked.)</value>
+  </data>
+  <data name="G3L1_002" xml:space="preserve">
+    <value>This is the top level of the guild.[pause=0] This is where guild members work and live.</value>
+  </data>
+  <data name="G3L1_003" xml:space="preserve">
+    <value>The Guildmaster's office is just over here.[pause=0] Please come with me.</value>
+  </data>
+  <data name="G3L1_004" xml:space="preserve">
+    <value>Please wait here.[pause=0] I am going to notify the Guildmaster of your arrival.</value>
+  </data>
+  <data name="G3L1_005" xml:space="preserve">
+    <value>OK![pause=0] We'll wait right here!</value>
+  </data>
+  <data name="G3L1_006" xml:space="preserve">
+    <value>Very good.[pause=0] I shall return momentarily.</value>
+  </data>
+  <data name="G3L1_007" xml:space="preserve">
+    <value>Wow![pause=0] I can't believe we're about to meet the Guildmaster!</value>
+  </data>
+  <data name="G3L1_008" xml:space="preserve">
+    <value>The first time I came here I only met with {0}.[pause=0] I didn't get to see the Guildmaster!</value>
+  </data>
+  <data name="G3L1_009" xml:space="preserve">
+    <value>He's a world famous adventurer![pause=0] And we're going to meet him!</value>
+  </data>
+  <data name="G3L1_010" xml:space="preserve">
+    <value>I knew we'd have to see him eventually...[pause=0] But I'm still starstruck![script=0]</value>
+  </data>
+  <data name="G3L1_011" xml:space="preserve">
+    <value>I don't know if I should be estatic or if I should be panicking!</value>
+  </data>
+  <data name="G3L1_012" xml:space="preserve">
+    <value>I think I'm doing both!?[pause=0] And I think my face is stuck!?</value>
+  </data>
+  <data name="G3L1_013" xml:space="preserve">
+    <value>You're right,[pause=10] you're right...[pause=0] But I'm all wound up!</value>
+  </data>
+  <data name="G3L1_014" xml:space="preserve">
+    <value>This is the moment I've been waiting my whole life for![pause=0] It's got me all fidgety!</value>
+  </data>
+  <data name="G3L1_015" xml:space="preserve">
+    <value>I'm not sure I can turn it off,[pause=10] but I can try...</value>
+  </data>
+  <data name="G3L1_016" xml:space="preserve">
+    <value>Well,[pause=10] my face isn't stuck anymore,[pause=10] but I still feel tingly with anticipation...</value>
+  </data>
+  <data name="G3L1_017" xml:space="preserve">
+    <value>Do we really have what it takes?[pause=0] Do I really have what it takes?</value>
+  </data>
+  <data name="G3L1_018" xml:space="preserve">
+    <value>And what if we're rejected?[pause=0] I don't know if I could handle that...</value>
+  </data>
+  <data name="G3L1_019" xml:space="preserve">
+    <value>Yeah![pause=0] You're right!</value>
+  </data>
+  <data name="G3L1_020" xml:space="preserve">
+    <value>I shouldn't have so much doubt in us![pause=0] I think we can really do it now!</value>
+  </data>
+  <data name="G3L1_021" xml:space="preserve">
+    <value>I'm still a little nervous but...[pause=0] I don't feel as anxious anymore.</value>
+  </data>
+  <data name="G3L1_022" xml:space="preserve">
+    <value>I really needed to hear those words.[pause=0] Thank you,[pause=10] {0}.</value>
+  </data>
+  <data name="G3L1_023" xml:space="preserve">
+    <value>I'm excited to meet the Guildmaster,[pause=10] but...</value>
+  </data>
+  <data name="G3L1_024" xml:space="preserve">
+    <value>I'm also kinda intimidated.[pause=0] I've got butterflies in my stomach again...</value>
+  </data>
+  <data name="G3L1_025" xml:space="preserve">
+    <value>I feel so uneasy about this...[pause=0] Do you really think they'll let us join,[pause=10] {0}?</value>
+  </data>
+  <data name="G3L1_026" xml:space="preserve">
+    <value>You really think so?</value>
+  </data>
+  <data name="G3L1_027" xml:space="preserve">
+    <value>I still feel a little apprehensive...[pause=0] But if you have confidence,[pause=10] then I should too!</value>
+  </data>
+  <data name="G3L1_028" xml:space="preserve">
+    <value>As long as I do my best to keep my nerves in check,[pause=10] I'm sure we'll do fine!</value>
+  </data>
+  <data name="G3L1_029" xml:space="preserve">
+    <value>I apologize for the delay.[pause=0] I had some matters to discuss with the Guildmaster.</value>
+  </data>
+  <data name="G3L1_030" xml:space="preserve">
+    <value>He is ready to see the two of you.[pause=0] Please come with me into his quarters.</value>
   </data>
 </root>

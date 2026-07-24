@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -58,4 +58,187 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="GHR1_001" xml:space="preserve">
+    <value>Do you wanna hit the hay for tonight?</value>
+  </data>
+  <data name="GHR1_002" xml:space="preserve">
+    <value>Alright,[pause=10] let's call it a day then.</value>
+  </data>
+  <data name="GHR1_003" xml:space="preserve">
+    <value>Tomorrow's going to be a big day,[pause=10] so we need to get plenty of rest.</value>
+  </data>
+  <data name="GHR1_004" xml:space="preserve">
+    <value>Good night,[pause=10] {0}.</value>
+  </data>
+  <data name="GHR1_005" xml:space="preserve">
+    <value>OK,[pause=10] we can look around a little more.</value>
+  </data>
+  <data name="GHR1_006" xml:space="preserve">
+    <value>But we shouldn't stay up much longer![pause=0] We want to be energized for tomorrow!</value>
+  </data>
+  <data name="GHR1_007" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="GHR1_008" xml:space="preserve">
+    <value>Hey,[pause=10] are you awake,[pause=10] {0}?</value>
+  </data>
+  <data name="GHR1_009" xml:space="preserve">
+    <value>Today's been absolutely crazy,[pause=10] hasn't it?</value>
+  </data>
+  <data name="GHR1_010" xml:space="preserve">
+    <value>I've been wanting to join the guild for so long...</value>
+  </data>
+  <data name="GHR1_011" xml:space="preserve">
+    <value>Now that I'm here,[pause=10] I feel so happy...[pause=0] I'm having trouble falling asleep,[pause=10] haha.</value>
+  </data>
+  <data name="GHR1_012" xml:space="preserve">
+    <value>I was so nervous...[pause=0] But everyone here has been so kind and welcoming.</value>
+  </data>
+  <data name="GHR1_013" xml:space="preserve">
+    <value>...Well,[pause=10] almost everyone.[pause=0] But either way I feel so much more at ease now.</value>
+  </data>
+  <data name="GHR1_014" xml:space="preserve">
+    <value>Even the Guildmaster...[pause=0] He was so down to earth and nice,[pause=10] I was surprised.</value>
+  </data>
+  <data name="GHR1_015" xml:space="preserve">
+    <value>We're going to go on all sorts of adventures starting tomorrow...</value>
+  </data>
+  <data name="GHR1_016" xml:space="preserve">
+    <value>It's kind of scary,[pause=10] but...[pause=0] I'm excited about it too!</value>
+  </data>
+  <data name="GHR1_017" xml:space="preserve">
+    <value>We'll learn and experience so much...[pause=0] And have a lot of fun too!</value>
+  </data>
+  <data name="GHR1_018" xml:space="preserve">
+    <value>And it's all because you decided to form this team with me,[pause=10] {0}.</value>
+  </data>
+  <data name="GHR1_019" xml:space="preserve">
+    <value>It really means a lot to me...</value>
+  </data>
+  <data name="GHR1_020" xml:space="preserve">
+    <value>So...[pause=0] Um...[pause=0] Thank you for joining the guild with me, {0}...</value>
+  </data>
+  <data name="GHR1_021" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="GHR1_022" xml:space="preserve">
+    <value>We'd better try to get some sleep...[pause=0] We don't want to be exhausted in the morning.</value>
+  </data>
+  <data name="GHR1_023" xml:space="preserve">
+    <value>Let's give it our all tomorrow,[pause=10] OK?</value>
+  </data>
+  <data name="GHR1_024" xml:space="preserve">
+    <value>Good night,[pause=10] {0}.</value>
+  </data>
+  <data name="GHR1_025" xml:space="preserve">
+    <value>(.........)</value>
+  </data>
+  <data name="GHR1_026" xml:space="preserve">
+    <value>(First I turned into a Pokémon,[pause=10] now I'm an apprentice at this guild...)</value>
+  </data>
+  <data name="GHR1_027" xml:space="preserve">
+    <value>(Everything is moving so fast...)</value>
+  </data>
+  <data name="GHR1_028" xml:space="preserve">
+    <value>(But...[pause=0] I can't help but feel thrilled about all this.)</value>
+  </data>
+  <data name="GHR1_029" xml:space="preserve">
+    <value>(Being friends with {0}...[pause=0] All the adventures we're gonna go on...)</value>
+  </data>
+  <data name="GHR1_030" xml:space="preserve">
+    <value>(Just thinking about it has me pumped!)</value>
+  </data>
+  <data name="GHR1_031" xml:space="preserve">
+    <value>(But...[pause=0] I think that's what puzzles me the most.)</value>
+  </data>
+  <data name="GHR1_032" xml:space="preserve">
+    <value>(Shouldn't I be feeling scared instead?[pause=0] Why do I feel so at ease?)</value>
+  </data>
+  <data name="GHR1_033" xml:space="preserve">
+    <value>(I turned into a Pokémon,[pause=10] I lost my memories,[pause=10] and I was lying unconscious near a strange tablet in a forest...)</value>
+  </data>
+  <data name="GHR1_034" xml:space="preserve">
+    <value>(So shouldn't I be feeling more uneasy?)</value>
+  </data>
+  <data name="GHR1_035" xml:space="preserve">
+    <value>(.........)</value>
+  </data>
+  <data name="GHR1_036" xml:space="preserve">
+    <value>(I guess there isn't any point in trying to get myself psyched out about my situation.)</value>
+  </data>
+  <data name="GHR1_037" xml:space="preserve">
+    <value>(It's probably for the best I'm enjoying this.)</value>
+  </data>
+  <data name="GHR1_038" xml:space="preserve">
+    <value>(I should just go along with things for now and enjoy guild life with {0}...)</value>
+  </data>
+  <data name="GHR1_039" xml:space="preserve">
+    <value>(I'm sure {0} and I will get to the bottom of this eventually...)</value>
+  </data>
+  <data name="GHR1_040" xml:space="preserve">
+    <value>These will be your quarters while you train here at the guild.</value>
+  </data>
+  <data name="GHR1_041" xml:space="preserve">
+    <value>There are some furnishings here already.[pause=0] You may make use of them as you will.</value>
+  </data>
+  <data name="GHR1_042" xml:space="preserve">
+    <value>This room is amazing![pause=0] Thank you so much {0}!</value>
+  </data>
+  <data name="GHR1_043" xml:space="preserve">
+    <value>These are some nice beds![pause=0] {0},[pause=10] come sit on one of these!</value>
+  </data>
+  <data name="GHR1_044" xml:space="preserve">
+    <value>Haha,[pause=10] told you,[pause=10] didn't I?</value>
+  </data>
+  <data name="GHR1_045" xml:space="preserve">
+    <value>I am pleased to hear that you like the room.</value>
+  </data>
+  <data name="GHR1_046" xml:space="preserve">
+    <value>Your training starts tomorrow.[pause=0] Make sure to get plenty of rest.</value>
+  </data>
+  <data name="GHR1_047" xml:space="preserve">
+    <value>Our daily routine starts bright and early.[pause=0] Do not be late.</value>
+  </data>
+  <data name="GHR1_048" xml:space="preserve">
+    <value>Hmm...[pause=0] But it is not that late in the day quite yet,[pause=10] is it?</value>
+  </data>
+  <data name="GHR1_049" xml:space="preserve">
+    <value>I suggest you use this time to explore the guild and meet some of your fellow guildmates.</value>
+  </data>
+  <data name="GHR1_050" xml:space="preserve">
+    <value>We could save time on introductions tomorrow that way.</value>
+  </data>
+  <data name="GHR1_051" xml:space="preserve">
+    <value>That's a great idea![pause=0] We'll get to it after we're settled in!</value>
+  </data>
+  <data name="GHR1_052" xml:space="preserve">
+    <value>Very good,[pause=10] I will leave you to it then.[br]I am off to assist the Guildmaster in updating our records.</value>
+  </data>
+  <data name="GHR1_053" xml:space="preserve">
+    <value>Can you believe this,[pause=10] {0}?[pause=0] We're really going to be adventurers!</value>
+  </data>
+  <data name="GHR1_054" xml:space="preserve">
+    <value>This feels surreal to me.[pause=0] I never thought this would ever happen![pause=0] It's like a dream!</value>
+  </data>
+  <data name="GHR1_055" xml:space="preserve">
+    <value>C'mon![pause=0] Let's go meet some of our guildmates![pause=0] We'll come back later when it's time to sleep.</value>
+  </data>
+  <data name="GHR1_056" xml:space="preserve">
+    <value>Adventurer's Tips</value>
+  </data>
+  <data name="GHR1_057" xml:space="preserve">
+    <value>The game will automatically save your progress every step you make in a dungeon.</value>
+  </data>
+  <data name="GHR1_058" xml:space="preserve">
+    <value>You can manually make a record of your progress by climbing into bed.</value>
+  </data>
+  <data name="GHR1_059" xml:space="preserve">
+    <value>You can also save your progress by pressing {0} and selecting Save.</value>
+  </data>
+  <data name="GHR1_060" xml:space="preserve">
+    <value>Lastly, you may use the nearby book for a number of other useful purposes.</value>
+  </data>
+  <data name="GHR1_061" xml:space="preserve">
+    <value>(...[pause=0]Eventually...)</value>
+  </data>
 </root>

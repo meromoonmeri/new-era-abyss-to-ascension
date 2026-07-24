@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -921,5 +921,137 @@
   </data>
   <data name="Tutor_Learn_What" xml:space="preserve">
     <value>Uh... What move does {0} want to learn...?</value>
+  </data>
+  <data name="MT1_001" xml:space="preserve">
+    <value>...</value>
+  </data>
+  <data name="MT1_002" xml:space="preserve">
+    <value>Hey,[pause=10] you there!</value>
+  </data>
+  <data name="MT1_003" xml:space="preserve">
+    <value>Who,[pause=10] me?</value>
+  </data>
+  <data name="MT1_004" xml:space="preserve">
+    <value>Yeah.[pause=0] Do you know where the adventurer's guild is?</value>
+  </data>
+  <data name="MT1_005" xml:space="preserve">
+    <value>The adventurer's guild?</value>
+  </data>
+  <data name="MT1_006" xml:space="preserve">
+    <value>It's just across this bridge here.</value>
+  </data>
+  <data name="MT1_007" xml:space="preserve">
+    <value>Oh,[pause=10] we're a lot closer than I thought we were.[pause=0] Thanks.</value>
+  </data>
+  <data name="MT1_008" xml:space="preserve">
+    <value>Let's get a move on team.</value>
+  </data>
+  <data name="MT1_009" xml:space="preserve">
+    <value>Of course,[pause=10] darling.</value>
+  </data>
+  <data name="MT1_010" xml:space="preserve">
+    <value>Uhhh,[pause=10] OK boss.</value>
+  </data>
+  <data name="MT1_011" xml:space="preserve">
+    <value>H-hey![pause=0] Hold up a second!</value>
+  </data>
+  <data name="MT1_012" xml:space="preserve">
+    <value>Hmm?[pause=0] What's up?[pause=0] Something you wanna say?</value>
+  </data>
+  <data name="MT1_013" xml:space="preserve">
+    <value>Heheh,[pause=10] sorry {0}.[pause=0] I guess I got a little too excited.</value>
+  </data>
+  <data name="MT1_014" xml:space="preserve">
+    <value>I know you're probably curious about the town.[pause=0] But we need go to the guild before it gets any later!</value>
+  </data>
+  <data name="MT1_015" xml:space="preserve">
+    <value>The Adventurer's Guild is just across that bridge.</value>
+  </data>
+  <data name="MT1_016" xml:space="preserve">
+    <value>I'm very excited,[pause=10] and I hope you are too but...</value>
+  </data>
+  <data name="MT1_017" xml:space="preserve">
+    <value>I can't help but feel nervous...</value>
+  </data>
+  <data name="MT1_018" xml:space="preserve">
+    <value>You may have figured it out,[pause=10] but I've been here before to apply.</value>
+  </data>
+  <data name="MT1_019" xml:space="preserve">
+    <value>I was so scared...[pause=0] It took me ages to gather my courage just to step foot inside the guild.</value>
+  </data>
+  <data name="MT1_020" xml:space="preserve">
+    <value>And,[pause=10] well,[pause=10] obviously it didn't turn out too good for me.</value>
+  </data>
+  <data name="MT1_021" xml:space="preserve">
+    <value>Yeah,[pause=10] I know...[pause=0] With you I shouldn't have anything to worry about.</value>
+  </data>
+  <data name="MT1_022" xml:space="preserve">
+    <value>I still have butterflies in my stomach,[pause=10] though...</value>
+  </data>
+  <data name="MT1_023" xml:space="preserve">
+    <value>Alright,[pause=10] I think I'm as ready as I'm gonna be.[pause=0] Let's go!</value>
+  </data>
+  <data name="MT1_024" xml:space="preserve">
+    <value>Hi {0}![pause=0] Glad to see you,[pause=10] ruff![pause=0] I'm on sentry duty as usual!</value>
+  </data>
+  <data name="MT1_025" xml:space="preserve">
+    <value>Who is this?[pause=0] I've never seen you before!</value>
+  </data>
+  <data name="MT1_026" xml:space="preserve">
+    <value>Hi there!</value>
+  </data>
+  <data name="MT1_027" xml:space="preserve">
+    <value>I'm glad to see you too,[pause=10] {0}!</value>
+  </data>
+  <data name="MT1_028" xml:space="preserve">
+    <value>This is {0}.</value>
+  </data>
+  <data name="MT1_029" xml:space="preserve">
+    <value>{0}...</value>
+  </data>
+  <data name="MT1_030" xml:space="preserve">
+    <value>(Hmm...[pause=0] I probably shouldn't tell anyone that {0} was a human...)</value>
+  </data>
+  <data name="MT1_031" xml:space="preserve">
+    <value>{0}...[pause=0] a friend of mine who's new to town.</value>
+  </data>
+  <data name="MT1_032" xml:space="preserve">
+    <value>Ruff![pause=0] It's nice to meet you,[pause=10] {0}![pause=0] My name's {1}!</value>
+  </data>
+  <data name="MT1_033" xml:space="preserve">
+    <value>So what brings you to the guild today?</value>
+  </data>
+  <data name="MT1_034" xml:space="preserve">
+    <value>W-we've come to...[pause=0] Uh...</value>
+  </data>
+  <data name="MT1_035" xml:space="preserve">
+    <value>We've come to...[pause=0] speak with the Guildmaster about apprenticing here.</value>
+  </data>
+  <data name="MT1_036" xml:space="preserve">
+    <value>Wow![pause=0] Really!?[pause=0] I'd love to have more guildmates!</value>
+  </data>
+  <data name="MT1_037" xml:space="preserve">
+    <value>More friends is always great,[pause=10] ruff![pause=0] I hope you two get to join!</value>
+  </data>
+  <data name="MT1_038" xml:space="preserve">
+    <value>Wait here,[pause=10] you guys![pause=0] I need to let them know you're coming before you go in!</value>
+  </data>
+  <data name="MT1_039" xml:space="preserve">
+    <value>I didn't realize {0} was so excitable...</value>
+  </data>
+  <data name="MT1_040" xml:space="preserve">
+    <value>But he seemed very glad to hear we wanted to join the guild!</value>
+  </data>
+  <data name="MT1_041" xml:space="preserve">
+    <value>That's gotta be a good sign,[pause=10] right?[pause=0] I feel a little more confident now,[pause=10] at least.</value>
+  </data>
+  <data name="MT1_042" xml:space="preserve">
+    <value>Ok,[pause=10] you two are good to head in,[pause=10] ruff!</value>
+  </data>
+  <data name="MT1_043" xml:space="preserve">
+    <value>You need to speak with {0}.[pause=0] He's a [color=#00FF00]Noctowl[color].[pause=0] He'll be looking for you on the second floor!</value>
+  </data>
+  <data name="MT1_044" xml:space="preserve">
+    <value>Thanks,[pause=10] {0}![pause=0] We'll go find {1} on the second floor now then!</value>
   </data>
 </root>

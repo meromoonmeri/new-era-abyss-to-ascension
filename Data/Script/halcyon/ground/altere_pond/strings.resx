@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -60,5 +60,104 @@
   </resheader>
   <data name="test" xml:space="preserve">
     <value>touhou is for weebs</value>
+  </data>
+  <data name="AP1_001" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="AP1_002" xml:space="preserve">
+    <value>Everytime I walk past the guild I get like this...</value>
+  </data>
+  <data name="AP1_003" xml:space="preserve">
+    <value>It's hard not to feel down whenever it comes into my mind...</value>
+  </data>
+  <data name="AP1_004" xml:space="preserve">
+    <value>I want to become an adventurer so badly,[pause=10] but...</value>
+  </data>
+  <data name="AP1_005" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="AP1_006" xml:space="preserve">
+    <value>Well,[pause=10] dwelling on it isn't going to do anything but make me feel worse.</value>
+  </data>
+  <data name="AP1_007" xml:space="preserve">
+    <value>Exploring the forest should help take my mind off it.</value>
+  </data>
+  <data name="AP1_008" xml:space="preserve">
+    <value>Oh![pause=0] I almost forgot!</value>
+  </data>
+  <data name="AP1_009" xml:space="preserve">
+    <value>I can't let {0} see me go into the forest.</value>
+  </data>
+  <data name="AP1_010" xml:space="preserve">
+    <value>Last time he caught me I got an earful about how dangerous it is...</value>
+  </data>
+  <data name="AP1_011" xml:space="preserve">
+    <value>But I've been there plenty of times and nothing bad's ever happened.</value>
+  </data>
+  <data name="AP1_012" xml:space="preserve">
+    <value>That old coot is always overexaggerating...[br]Something like that could never be right next to town.</value>
+  </data>
+  <data name="AP1_013" xml:space="preserve">
+    <value>Besides,[pause=10] it's too much fun exploring in there to pass up anyway!</value>
+  </data>
+  <data name="AP1_014" xml:space="preserve">
+    <value>I am going to need to sneak around though.[pause=0] I don't want {0} seeing me.</value>
+  </data>
+  <data name="AP1_015" xml:space="preserve">
+    <value>I need to stick to the trees so he won't spot me.</value>
+  </data>
+  <data name="AP1_016" xml:space="preserve">
+    <value>Looks like he didn't notice.[pause=0] Now I won't have to hear him later...</value>
+  </data>
+  <data name="AP1_017" xml:space="preserve">
+    <value>I need to head on into {0} before he looks my way.</value>
+  </data>
+  <data name="AP1_018" xml:space="preserve">
+    <value>{0}...</value>
+  </data>
+  <data name="AP1_019" xml:space="preserve">
+    <value>I've explored here a bunch of times before.[pause=0] It's usually pretty uneventful...</value>
+  </data>
+  <data name="AP1_020" xml:space="preserve">
+    <value>...Odds are that'll be the case again...</value>
+  </data>
+  <data name="AP1_021" xml:space="preserve">
+    <value>But who knows?[pause=0] In a mystery dungeon,[pause=10] you never know what you might find!</value>
+  </data>
+  <data name="AP1_022" xml:space="preserve">
+    <value>Maybe this time it'll be different?</value>
+  </data>
+  <data name="AP1_023" xml:space="preserve">
+    <value>Only one way to find out!</value>
+  </data>
+  <data name="AP1_024" xml:space="preserve">
+    <value>Ugh... That was rough.</value>
+  </data>
+  <data name="AP1_025" xml:space="preserve">
+    <value>I got knocked out,[pause=10] so the dungeon spat me back at the entrance...</value>
+  </data>
+  <data name="AP1_026" xml:space="preserve">
+    <value>Exploring {0} can be difficult for me sometimes.</value>
+  </data>
+  <data name="AP1_027" xml:space="preserve">
+    <value>Alright.[pause=0] I think I'm ready to give it another go.</value>
+  </data>
+  <data name="AP1_028" xml:space="preserve">
+    <value>I'm sure I can make it through this time!</value>
+  </data>
+  <data name="AP1_029" xml:space="preserve">
+    <value>Looks like we made it out of the forest.</value>
+  </data>
+  <data name="AP1_030" xml:space="preserve">
+    <value>For someone who claims to be a human,[pause=10] you were pretty impressive in that dungeon,[pause=10] {0}.</value>
+  </data>
+  <data name="AP1_031" xml:space="preserve">
+    <value>If I didn't know any better,[pause=10] I'd say you've done this before,[pause=10] hehe!</value>
+  </data>
+  <data name="AP1_032" xml:space="preserve">
+    <value>Um...[pause=0] This isn't really the place to talk...[pause=0] Can you come with me?</value>
+  </data>
+  <data name="AP1_033" xml:space="preserve">
+    <value>Thank you.[pause=0] Follow me!</value>
   </data>
 </root>

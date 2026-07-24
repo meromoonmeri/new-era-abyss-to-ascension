@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <root>
   <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
     <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
@@ -117,5 +117,347 @@
   </data>
   <data name="Assembly_Info_010" xml:space="preserve">
     <value>My e-ears are really sensitive,[pause=10] so I'll hear the bell and come running!</value>
+  </data>
+  <data name="G2F1_001" xml:space="preserve">
+    <value>Haha,[pause=10] I was stunned when I stepped inside the guild for the first time too!</value>
+  </data>
+  <data name="G2F1_002" xml:space="preserve">
+    <value>It's surprising to see so many Pokémon inside this tree,[pause=10] right?</value>
+  </data>
+  <data name="G2F1_003" xml:space="preserve">
+    <value>Greetings.[pause=0] As you may already know,[pause=10] my name is {0}.</value>
+  </data>
+  <data name="G2F1_004" xml:space="preserve">
+    <value>{0} informed me that two Pokémon were coming in who required me.[pause=0] That would be you two,[pause=10] correct?</value>
+  </data>
+  <data name="G2F1_005" xml:space="preserve">
+    <value>Y-yes![pause=0] That would be us!</value>
+  </data>
+  <data name="G2F1_006" xml:space="preserve">
+    <value>I see.[pause=0] What business do you have with the guild today?</value>
+  </data>
+  <data name="G2F1_007" xml:space="preserve">
+    <value>The t-two of us are here to...</value>
+  </data>
+  <data name="G2F1_008" xml:space="preserve">
+    <value>T-to...</value>
+  </data>
+  <data name="G2F1_009" xml:space="preserve">
+    <value>Um...</value>
+  </data>
+  <data name="G2F1_010" xml:space="preserve">
+    <value>(O-oh man,[pause=10] I'm t-too nervous to say anything...)</value>
+  </data>
+  <data name="G2F1_011" xml:space="preserve">
+    <value>Oh?[pause=0] You wish to apprentice here at the guild?</value>
+  </data>
+  <data name="G2F1_012" xml:space="preserve">
+    <value>Y-yes![pause=0] T-that's right!</value>
+  </data>
+  <data name="G2F1_013" xml:space="preserve">
+    <value>Oh,[pause=10] I believe I recall now.</value>
+  </data>
+  <data name="G2F1_014" xml:space="preserve">
+    <value>You have been here before,[pause=10] have you not?[pause=0] {0} was it?</value>
+  </data>
+  <data name="G2F1_015" xml:space="preserve">
+    <value>Y-yes sir...</value>
+  </data>
+  <data name="G2F1_016" xml:space="preserve">
+    <value>Ahh,[pause=10] I remember now.[pause=0] You applied here before,[pause=10] but you didn't have a partner.</value>
+  </data>
+  <data name="G2F1_017" xml:space="preserve">
+    <value>Looks like you have managed to find one though,[pause=10] hmm?</value>
+  </data>
+  <data name="G2F1_018" xml:space="preserve">
+    <value>What would your name be?</value>
+  </data>
+  <data name="G2F1_019" xml:space="preserve">
+    <value>Ah...[pause=0] So {0} is your name...</value>
+  </data>
+  <data name="G2F1_020" xml:space="preserve">
+    <value>A pleasure to make your acquaintance,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_021" xml:space="preserve">
+    <value>On to business...[pause=0] As it so happens,[pause=10] we have one opening for a team to apprentice at the guild.</value>
+  </data>
+  <data name="G2F1_022" xml:space="preserve">
+    <value>R-really!?</value>
+  </data>
+  <data name="G2F1_023" xml:space="preserve">
+    <value>Indeed.[pause=0] However,[pause=10] it is not up to me to decide.</value>
+  </data>
+  <data name="G2F1_024" xml:space="preserve">
+    <value>You would have to speak with the Guildmaster.[pause=0] He is the one who decides who may study here.</value>
+  </data>
+  <data name="G2F1_025" xml:space="preserve">
+    <value>Please let us speak with the Guildmaster then![pause=0] Please please please!</value>
+  </data>
+  <data name="G2F1_026" xml:space="preserve">
+    <value>Hmm...</value>
+  </data>
+  <data name="G2F1_027" xml:space="preserve">
+    <value>Very well.[pause=0] I will take you to see the Guildmaster.</value>
+  </data>
+  <data name="G2F1_028" xml:space="preserve">
+    <value>Y-you will!?</value>
+  </data>
+  <data name="G2F1_029" xml:space="preserve">
+    <value>Yes.[pause=0] Now,[pause=10] please follow behind me to the Guildmaster's office.</value>
+  </data>
+  <data name="G2F1_030" xml:space="preserve">
+    <value>I know you might want to look around town...</value>
+  </data>
+  <data name="G2F1_031" xml:space="preserve">
+    <value>But since we just joined,[pause=10] I don't think we should leave the tree tonight.</value>
+  </data>
+  <data name="G2F1_032" xml:space="preserve">
+    <value>Plus it's getting late...[pause=0] We should go to bed now actually.</value>
+  </data>
+  <data name="G2F1_033" xml:space="preserve">
+    <value>But we can look around a bit more if you want!</value>
+  </data>
+  <data name="G2F1_034" xml:space="preserve">
+    <value>Let's go look around the guild some more.[pause=0] I think there's more guildmates for us to meet!</value>
+  </data>
+  <data name="G2F1_035" xml:space="preserve">
+    <value>How is Team [color=#FFA5FF]Starlight[color] ever going to make a name for itself if you don't pick up the slack!</value>
+  </data>
+  <data name="G2F1_036" xml:space="preserve">
+    <value>Some teams,[pause=10] like ours,[pause=10] come here to find jobs posted on the boards.</value>
+  </data>
+  <data name="G2F1_037" xml:space="preserve">
+    <value>It's getting late and I wanna eeeeeaaatttt![pause=0] I'm starving!</value>
+  </data>
+  <data name="G2F1_038" xml:space="preserve">
+    <value>Yeah![pause=0] We're Team {0}![pause=0] We just joined the guild today!</value>
+  </data>
+  <data name="G2F1_039" xml:space="preserve">
+    <value>Hmm,[pause=10] OK.[pause=0] I was worried there was a local team I hadn't documented in my almanac.</value>
+  </data>
+  <data name="G2F1_040" xml:space="preserve">
+    <value>I didn't recognize your faces,[pause=10] so I thought maybe I missed a team.</value>
+  </data>
+  <data name="G2F1_041" xml:space="preserve">
+    <value>Wait,[pause=10] did you just say you signed up with the guild?</value>
+  </data>
+  <data name="G2F1_042" xml:space="preserve">
+    <value>That's right!</value>
+  </data>
+  <data name="G2F1_043" xml:space="preserve">
+    <value>Then that means we're guildmates![pause=0] I'm {0}![pause=0] I was the newest member at the guild before you two came along.</value>
+  </data>
+  <data name="G2F1_044" xml:space="preserve">
+    <value>This is great![pause=0] I finally have juniors that I can teach!</value>
+  </data>
+  <data name="G2F1_045" xml:space="preserve">
+    <value>I'll have to show you both my almanac,[pause=10] I bet you could learn a lot from it!</value>
+  </data>
+  <data name="G2F1_046" xml:space="preserve">
+    <value>Almanac?</value>
+  </data>
+  <data name="G2F1_047" xml:space="preserve">
+    <value>Yeah![pause=0] Everything I learn about adventuring I write down in my almanac![script=0]</value>
+  </data>
+  <data name="G2F1_048" xml:space="preserve">
+    <value>Adventuring teams,[pause=10] expedition discoveries,[pause=10] and dungeoneering techniques and knowledge!</value>
+  </data>
+  <data name="G2F1_049" xml:space="preserve">
+    <value>It's all in my almanac so that myself and others can all learn everything there is to know about adventuring!</value>
+  </data>
+  <data name="G2F1_050" xml:space="preserve">
+    <value>Wow,[pause=10] that's amazing!</value>
+  </data>
+  <data name="G2F1_051" xml:space="preserve">
+    <value>I bet me and {0} could learn a lot of useful stuff from something like that!</value>
+  </data>
+  <data name="G2F1_052" xml:space="preserve">
+    <value>When do you think we could look at your almanac?</value>
+  </data>
+  <data name="G2F1_053" xml:space="preserve">
+    <value>Anytime you want![pause=0] I'm always happy to share everything I've documented!</value>
+  </data>
+  <data name="G2F1_054" xml:space="preserve">
+    <value>But just so you know,[pause=10] there's actually a few books I write stuff in.</value>
+  </data>
+  <data name="G2F1_055" xml:space="preserve">
+    <value>It helps me keep the information more organized.[pause=0] Each book is for a different topic!</value>
+  </data>
+  <data name="G2F1_056" xml:space="preserve">
+    <value>Since I'm still kinda new,[pause=10] there isn't too much in them yet...</value>
+  </data>
+  <data name="G2F1_057" xml:space="preserve">
+    <value>But I add to them as I learn![pause=0] So I'm sure soon enough there'll be more pages than you can count!</value>
+  </data>
+  <data name="G2F1_058" xml:space="preserve">
+    <value>Anyway,[pause=10] I keep them in my room.[pause=0] Feel free to read through them anytime...[pause=0] Err...</value>
+  </data>
+  <data name="G2F1_059" xml:space="preserve">
+    <value>Hmm.[pause=0] I,[pause=10] um,[pause=10] never got your names.</value>
+  </data>
+  <data name="G2F1_060" xml:space="preserve">
+    <value>My name's {0},[pause=10] and my partner over there is {1}.</value>
+  </data>
+  <data name="G2F1_061" xml:space="preserve">
+    <value>{0} and {1}.[pause=0] OK,[pause=10] I'll have to make a note of that!</value>
+  </data>
+  <data name="G2F1_062" xml:space="preserve">
+    <value>I'm looking forward to learning and training at the guild here with you,[pause=10] Team {0}!</value>
+  </data>
+  <data name="G2F1_063" xml:space="preserve">
+    <value>We're all gonna learn how to be great adventurers![pause=0] I just know it!</value>
+  </data>
+  <data name="G2F1_064" xml:space="preserve">
+    <value>Hey {0}...[pause=0] It's getting pretty late...</value>
+  </data>
+  <data name="G2F1_065" xml:space="preserve">
+    <value>We should head back to our room and hit the hay for the night.</value>
+  </data>
+  <data name="G2F1_066" xml:space="preserve">
+    <value>Let's head there whenever you're ready,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_067" xml:space="preserve">
+    <value>We're all gonna learn how to be great adventurers![pause=0] I just know it!</value>
+  </data>
+  <data name="G2F1_068" xml:space="preserve">
+    <value>What do you want?[pause=0] Can't you see I'm doing something here?</value>
+  </data>
+  <data name="G2F1_069" xml:space="preserve">
+    <value>Wait,[pause=10] YOU guys were allowed into the guild?[pause=0] What a laugh!</value>
+  </data>
+  <data name="G2F1_070" xml:space="preserve">
+    <value>The Guildmaster's just letting anyone in,[pause=10] isn't he?</value>
+  </data>
+  <data name="G2F1_071" xml:space="preserve">
+    <value>Huh?</value>
+  </data>
+  <data name="G2F1_072" xml:space="preserve">
+    <value>I mean,[pause=10] look at you![pause=0] Total rookies![pause=0] Have you even done any adventuring?</value>
+  </data>
+  <data name="G2F1_073" xml:space="preserve">
+    <value>A little?[pause=0] Ha![pause=0] I knew it![pause=0] I could just tell that you're complete and total rookies!</value>
+  </data>
+  <data name="G2F1_074" xml:space="preserve">
+    <value>And that look on your face![pause=0] You're all flustered![pause=0] Hahaha!</value>
+  </data>
+  <data name="G2F1_075" xml:space="preserve">
+    <value>What's your deal?[pause=0] We just wanted to say hello to you!</value>
+  </data>
+  <data name="G2F1_076" xml:space="preserve">
+    <value>My DEAL is that I have no respect for a bunch of greenhorns like you!</value>
+  </data>
+  <data name="G2F1_077" xml:space="preserve">
+    <value>Especially when they waltz in here and bother me while I'm scouting outlaws![pause=0] It's unbelievable!</value>
+  </data>
+  <data name="G2F1_078" xml:space="preserve">
+    <value>Are you for real?[pause=0] What's unbelievable is how big a jerk you are!</value>
+  </data>
+  <data name="G2F1_079" xml:space="preserve">
+    <value>Is something the ma-a-a-atter, {0}?</value>
+  </data>
+  <data name="G2F1_080" xml:space="preserve">
+    <value>Wh-what?[pause=0] Uh,[pause=10] n-nope![pause=0] I was just having a conversation with the guild's newest recruits!</value>
+  </data>
+  <data name="G2F1_081" xml:space="preserve">
+    <value>Oooh![pause=0] There's new recruits!?[pause=0] Where are they?</value>
+  </data>
+  <data name="G2F1_082" xml:space="preserve">
+    <value>Err...</value>
+  </data>
+  <data name="G2F1_083" xml:space="preserve">
+    <value>They're right there...</value>
+  </data>
+  <data name="G2F1_084" xml:space="preserve">
+    <value>You're the new recruits?[pause=0] Hi hi hi![pause=0] It's grea-a-a-at to meet you![pause=0] My name's {0}!</value>
+  </data>
+  <data name="G2F1_085" xml:space="preserve">
+    <value>And this sweetie is {0}!</value>
+  </data>
+  <data name="G2F1_086" xml:space="preserve">
+    <value>What are your names?[pause=0] Ooooooh,[pause=10] I bet you have a cool team name!</value>
+  </data>
+  <data name="G2F1_087" xml:space="preserve">
+    <value>Um...[pause=0] My name is {0},[pause=10] and my partner there is {1}.[pause=0] We're Team {2}...</value>
+  </data>
+  <data name="G2F1_088" xml:space="preserve">
+    <value>Grea-a-a-at to meet the both of you![pause=0] And I love your team name!</value>
+  </data>
+  <data name="G2F1_089" xml:space="preserve">
+    <value>{0}![pause=0] Rolls right off the tongue!</value>
+  </data>
+  <data name="G2F1_090" xml:space="preserve">
+    <value>Oh,[pause=10] thank you![pause=0] I'm happy to meet you too!</value>
+  </data>
+  <data name="G2F1_091" xml:space="preserve">
+    <value>{0}?[pause=0] Aren't you going to say something to our new friends?</value>
+  </data>
+  <data name="G2F1_092" xml:space="preserve">
+    <value>O-of course!</value>
+  </data>
+  <data name="G2F1_093" xml:space="preserve">
+    <value>.........[pause=0] It's...</value>
+  </data>
+  <data name="G2F1_094" xml:space="preserve">
+    <value>...nice to meet the both of you.</value>
+  </data>
+  <data name="G2F1_095" xml:space="preserve">
+    <value>...[pause=0]Likewise...</value>
+  </data>
+  <data name="G2F1_096" xml:space="preserve">
+    <value>Huh?[pause=0] Is something wrong?</value>
+  </data>
+  <data name="G2F1_097" xml:space="preserve">
+    <value>{0} wasn't being a mea-a-a-anie again,[pause=10] was he?</value>
+  </data>
+  <data name="G2F1_098" xml:space="preserve">
+    <value>Oh,[pause=10] uh,[pause=10] no![pause=0] Everything's fine!</value>
+  </data>
+  <data name="G2F1_099" xml:space="preserve">
+    <value>Oh,[pause=10] good![pause=0] I was afraid he was being a big\nmea-a-a-anie again!</value>
+  </data>
+  <data name="G2F1_100" xml:space="preserve">
+    <value>He can get really grumpy whenever we have trouble bringing in an outlaw.[pause=0] Today's was a slippery one!</value>
+  </data>
+  <data name="G2F1_101" xml:space="preserve">
+    <value>Isn't that right,[pause=10] {0}?</value>
+  </data>
+  <data name="G2F1_102" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F1_103" xml:space="preserve">
+    <value>Well,[pause=10] don't mind him.[pause=0] He gets really bashful sometimes.</value>
+  </data>
+  <data name="G2F1_104" xml:space="preserve">
+    <value>Anywa-a-a-ay...[pause=0] You're gonna have a lot of fun working with the guild!</value>
+  </data>
+  <data name="G2F1_105" xml:space="preserve">
+    <value>We're gonna do all sorts of fun stuff together now that you've joined!</value>
+  </data>
+  <data name="G2F1_106" xml:space="preserve">
+    <value>Me and {0} can even show you some ways to take down bad guys sometime![pause=0] We'll have a bla-a-a-ast!</value>
+  </data>
+  <data name="G2F1_107" xml:space="preserve">
+    <value>That sounds great,[pause=10] {0}![pause=0] I can't wait!</value>
+  </data>
+  <data name="G2F1_108" xml:space="preserve">
+    <value>Good luck,[pause=10] you two![pause=0] It's back to finding tomorrow's ba-a-a-addie to beat for me now!</value>
+  </data>
+  <data name="G2F1_109" xml:space="preserve">
+    <value>Hey {0}...[pause=0] It's getting pretty late...</value>
+  </data>
+  <data name="G2F1_110" xml:space="preserve">
+    <value>We should head back to our room and hit the hay for the night.</value>
+  </data>
+  <data name="G2F1_111" xml:space="preserve">
+    <value>Let's head there whenever you're ready,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_112" xml:space="preserve">
+    <value>(She's too invested in the job board to notice you.)</value>
+  </data>
+  <data name="G2F1_113" xml:space="preserve">
+    <value>We're gonna do all sorts of fun stuff together now that you've joined!</value>
+  </data>
+  <data name="G2F1_114" xml:space="preserve">
+    <value>Me and {0} can even show you some ways to take down bad guys sometime![pause=0] We'll have a bla-a-a-ast!</value>
   </data>
 </root>
