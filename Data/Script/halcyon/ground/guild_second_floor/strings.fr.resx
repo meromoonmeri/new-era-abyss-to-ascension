@@ -118,4 +118,346 @@
   <data name="Assembly_Info_010" xml:space="preserve">
     <value>Mes o-oreilles sont très sensibles,[pause=10] j'entendrai la cloche et j'accourrai !</value>
   </data>
+  <data name="G2F1_001" xml:space="preserve">
+    <value>Haha,[pause=10] moi aussi j'étais bouche bée la première fois que je suis entré dans la guilde !</value>
+  </data>
+  <data name="G2F1_002" xml:space="preserve">
+    <value>C'est surprenant de voir autant de Pokémon à l'intérieur de cet arbre,[pause=10] pas vrai ?</value>
+  </data>
+  <data name="G2F1_003" xml:space="preserve">
+    <value>Bienvenue.[pause=0] Comme vous le savez peut-être déjà,[pause=10] je me nomme {0}.</value>
+  </data>
+  <data name="G2F1_004" xml:space="preserve">
+    <value>{0} m'a informé que deux Pokémon me demandaient.[pause=0] Il s'agit bien de vous deux,[pause=10] n'est-ce pas ?</value>
+  </data>
+  <data name="G2F1_005" xml:space="preserve">
+    <value>O-oui ![pause=0] C'est bien nous !</value>
+  </data>
+  <data name="G2F1_006" xml:space="preserve">
+    <value>Je vois.[pause=0] Qu'est-ce qui vous amène à la guilde aujourd'hui ?</value>
+  </data>
+  <data name="G2F1_007" xml:space="preserve">
+    <value>N-nous sommes venus tous les deux pour...</value>
+  </data>
+  <data name="G2F1_008" xml:space="preserve">
+    <value>P-pour...</value>
+  </data>
+  <data name="G2F1_009" xml:space="preserve">
+    <value>Euh...</value>
+  </data>
+  <data name="G2F1_010" xml:space="preserve">
+    <value>(O-oh non,[pause=10] je suis t-trop nerveux pour dire quoi que ce soit...)</value>
+  </data>
+  <data name="G2F1_011" xml:space="preserve">
+    <value>Oh ?[pause=0] Vous souhaitez devenir apprentis ici, à la guilde ?</value>
+  </data>
+  <data name="G2F1_012" xml:space="preserve">
+    <value>O-oui ![pause=0] C-c'est exact !</value>
+  </data>
+  <data name="G2F1_013" xml:space="preserve">
+    <value>Ah,[pause=10] je crois me souvenir maintenant.</value>
+  </data>
+  <data name="G2F1_014" xml:space="preserve">
+    <value>Vous êtes déjà venu ici,[pause=10] n'est-ce pas ?[pause=0] {0}, c'est bien cela ?</value>
+  </data>
+  <data name="G2F1_015" xml:space="preserve">
+    <value>O-oui monsieur...</value>
+  </data>
+  <data name="G2F1_016" xml:space="preserve">
+    <value>Ahh,[pause=10] je me rappelle à présent.[pause=0] Vous aviez postulé,[pause=10] mais vous n'aviez pas de partenaire.</value>
+  </data>
+  <data name="G2F1_017" xml:space="preserve">
+    <value>On dirait que vous avez fini par en trouver un,[pause=10] hmm ?</value>
+  </data>
+  <data name="G2F1_018" xml:space="preserve">
+    <value>Quel est votre nom ?</value>
+  </data>
+  <data name="G2F1_019" xml:space="preserve">
+    <value>Ah...[pause=0] Ainsi vous vous appelez {0}...</value>
+  </data>
+  <data name="G2F1_020" xml:space="preserve">
+    <value>Ravi de faire votre connaissance,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_021" xml:space="preserve">
+    <value>Venons-en aux faits...[pause=0] Il se trouve que nous avons justement une place d'apprentissage pour une équipe.</value>
+  </data>
+  <data name="G2F1_022" xml:space="preserve">
+    <value>V-vraiment !?</value>
+  </data>
+  <data name="G2F1_023" xml:space="preserve">
+    <value>En effet.[pause=0] Toutefois,[pause=10] ce n'est pas à moi d'en décider.</value>
+  </data>
+  <data name="G2F1_024" xml:space="preserve">
+    <value>Il vous faudra parler au Maître de Guilde.[pause=0] C'est lui qui décide qui peut étudier ici.</value>
+  </data>
+  <data name="G2F1_025" xml:space="preserve">
+    <value>Alors laissez-nous parler au Maître de Guilde ![pause=0] S'il vous plaît s'il vous plaît s'il vous plaît !</value>
+  </data>
+  <data name="G2F1_026" xml:space="preserve">
+    <value>Hmm...</value>
+  </data>
+  <data name="G2F1_027" xml:space="preserve">
+    <value>Très bien.[pause=0] Je vais vous conduire au Maître de Guilde.</value>
+  </data>
+  <data name="G2F1_028" xml:space="preserve">
+    <value>V-vraiment !?</value>
+  </data>
+  <data name="G2F1_029" xml:space="preserve">
+    <value>Oui.[pause=0] Maintenant,[pause=10] suivez-moi jusqu'à son bureau, je vous prie.</value>
+  </data>
+  <data name="G2F1_030" xml:space="preserve">
+    <value>Je sais que tu aimerais sûrement visiter la ville...</value>
+  </data>
+  <data name="G2F1_031" xml:space="preserve">
+    <value>Mais comme nous venons d'être admis,[pause=10] je pense que nous ne devrions pas quitter l'arbre ce soir.</value>
+  </data>
+  <data name="G2F1_032" xml:space="preserve">
+    <value>Et puis il se fait tard...[pause=0] Nous devrions même aller nous coucher, en fait.</value>
+  </data>
+  <data name="G2F1_033" xml:space="preserve">
+    <value>Mais on peut encore explorer un peu si tu veux !</value>
+  </data>
+  <data name="G2F1_034" xml:space="preserve">
+    <value>Allons visiter encore un peu la guilde.[pause=0] Je crois qu'il nous reste des camarades à rencontrer !</value>
+  </data>
+  <data name="G2F1_035" xml:space="preserve">
+    <value>Comment l'Équipe [color=#FFA5FF]Starlight[color] va-t-elle se faire un nom si tu ne te bouges pas un peu !</value>
+  </data>
+  <data name="G2F1_036" xml:space="preserve">
+    <value>Certaines équipes,[pause=10] comme la nôtre,[pause=10] viennent ici pour trouver des missions affichées sur les tableaux.</value>
+  </data>
+  <data name="G2F1_037" xml:space="preserve">
+    <value>Il se fait tard et je veux mangeeeeer ![pause=0] Je meurs de faim !</value>
+  </data>
+  <data name="G2F1_038" xml:space="preserve">
+    <value>Oui ![pause=0] Nous sommes l'Équipe {0} ![pause=0] Nous avons rejoint la guilde aujourd'hui même !</value>
+  </data>
+  <data name="G2F1_039" xml:space="preserve">
+    <value>Hmm,[pause=10] d'accord.[pause=0] J'avais peur qu'il existe une équipe locale non répertoriée dans mon almanach.</value>
+  </data>
+  <data name="G2F1_040" xml:space="preserve">
+    <value>Je ne reconnaissais pas vos visages,[pause=10] alors j'ai cru avoir raté une équipe.</value>
+  </data>
+  <data name="G2F1_041" xml:space="preserve">
+    <value>Attends,[pause=10] tu viens de dire que vous vous êtes inscrits à la guilde ?</value>
+  </data>
+  <data name="G2F1_042" xml:space="preserve">
+    <value>Tout à fait !</value>
+  </data>
+  <data name="G2F1_043" xml:space="preserve">
+    <value>Mais alors nous sommes camarades de guilde ![pause=0] Je suis {0} ![pause=0] J'étais le plus récent membre de la guilde avant votre arrivée.</value>
+  </data>
+  <data name="G2F1_044" xml:space="preserve">
+    <value>C'est génial ![pause=0] J'ai enfin des cadets à qui transmettre !</value>
+  </data>
+  <data name="G2F1_045" xml:space="preserve">
+    <value>Il faudra que je vous montre mon almanach,[pause=10] je parie que vous pourriez en apprendre beaucoup !</value>
+  </data>
+  <data name="G2F1_046" xml:space="preserve">
+    <value>Un almanach ?</value>
+  </data>
+  <data name="G2F1_047" xml:space="preserve">
+    <value>Oui ![pause=0] Tout ce que j'apprends sur l'aventure, je le consigne dans mon almanach ![script=0]</value>
+  </data>
+  <data name="G2F1_048" xml:space="preserve">
+    <value>Les équipes d'aventuriers,[pause=10] les découvertes d'expédition,[pause=10] et les techniques et savoirs d'exploration !</value>
+  </data>
+  <data name="G2F1_049" xml:space="preserve">
+    <value>Tout est dans mon almanach, pour que moi et les autres puissions tout apprendre de l'art de l'aventure !</value>
+  </data>
+  <data name="G2F1_050" xml:space="preserve">
+    <value>Waouh,[pause=10] c'est impressionnant !</value>
+  </data>
+  <data name="G2F1_051" xml:space="preserve">
+    <value>Je parie que {0} et moi pourrions y apprendre des tas de choses utiles !</value>
+  </data>
+  <data name="G2F1_052" xml:space="preserve">
+    <value>Quand est-ce qu'on pourrait consulter ton almanach ?</value>
+  </data>
+  <data name="G2F1_053" xml:space="preserve">
+    <value>Quand vous voulez ![pause=0] Je suis toujours ravi de partager tout ce que j'ai documenté !</value>
+  </data>
+  <data name="G2F1_054" xml:space="preserve">
+    <value>Mais pour info,[pause=10] j'écris en réalité dans plusieurs livres.</value>
+  </data>
+  <data name="G2F1_055" xml:space="preserve">
+    <value>Ça m'aide à mieux organiser les informations.[pause=0] Chaque livre traite d'un sujet différent !</value>
+  </data>
+  <data name="G2F1_056" xml:space="preserve">
+    <value>Comme je suis encore assez nouveau,[pause=10] il n'y a pas encore grand-chose dedans...</value>
+  </data>
+  <data name="G2F1_057" xml:space="preserve">
+    <value>Mais je les complète au fil de mes découvertes ![pause=0] Bientôt, il y aura plus de pages qu'on ne peut en compter !</value>
+  </data>
+  <data name="G2F1_058" xml:space="preserve">
+    <value>Bref,[pause=10] je les garde dans ma chambre.[pause=0] N'hésitez pas à les feuilleter quand vous voulez...[pause=0] Euh...</value>
+  </data>
+  <data name="G2F1_059" xml:space="preserve">
+    <value>Hmm.[pause=0] Je,[pause=10] euh,[pause=10] n'ai jamais eu vos noms.</value>
+  </data>
+  <data name="G2F1_060" xml:space="preserve">
+    <value>Je m'appelle {0},[pause=10] et mon partenaire là-bas, c'est {1}.</value>
+  </data>
+  <data name="G2F1_061" xml:space="preserve">
+    <value>{0} et {1}.[pause=0] D'accord,[pause=10] il faudra que je le note !</value>
+  </data>
+  <data name="G2F1_062" xml:space="preserve">
+    <value>J'ai hâte d'apprendre et de m'entraîner à la guilde avec vous,[pause=10] Équipe {0} !</value>
+  </data>
+  <data name="G2F1_063" xml:space="preserve">
+    <value>Nous allons tous apprendre à devenir de grands aventuriers ![pause=0] J'en suis certain !</value>
+  </data>
+  <data name="G2F1_064" xml:space="preserve">
+    <value>Dis {0}...[pause=0] Il se fait vraiment tard...</value>
+  </data>
+  <data name="G2F1_065" xml:space="preserve">
+    <value>Nous devrions retourner dans notre chambre et aller nous coucher.</value>
+  </data>
+  <data name="G2F1_066" xml:space="preserve">
+    <value>Allons-y dès que tu es prêt,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_067" xml:space="preserve">
+    <value>Nous allons tous apprendre à devenir de grands aventuriers ![pause=0] J'en suis certain !</value>
+  </data>
+  <data name="G2F1_068" xml:space="preserve">
+    <value>Qu'est-ce que vous voulez ?[pause=0] Vous ne voyez pas que je suis occupé, là ?</value>
+  </data>
+  <data name="G2F1_069" xml:space="preserve">
+    <value>Attendez,[pause=10] VOUS, on vous a acceptés dans la guilde ?[pause=0] Laissez-moi rire !</value>
+  </data>
+  <data name="G2F1_070" xml:space="preserve">
+    <value>Le Maître de Guilde laisse vraiment entrer n'importe qui,[pause=10] hein ?</value>
+  </data>
+  <data name="G2F1_071" xml:space="preserve">
+    <value>Hein ?</value>
+  </data>
+  <data name="G2F1_072" xml:space="preserve">
+    <value>Non mais regardez-vous ![pause=0] De parfaits débutants ![pause=0] Vous avez seulement déjà exploré quelque chose ?</value>
+  </data>
+  <data name="G2F1_073" xml:space="preserve">
+    <value>Un petit peu ?[pause=0] Ha ![pause=0] Je le savais ![pause=0] Ça se voit tout de suite que vous êtes des bleus finis !</value>
+  </data>
+  <data name="G2F1_074" xml:space="preserve">
+    <value>Et cette tête que vous faites ![pause=0] Complètement décontenancés ![pause=0] Hahaha !</value>
+  </data>
+  <data name="G2F1_075" xml:space="preserve">
+    <value>C'est quoi ton problème ?[pause=0] On voulait juste te dire bonjour !</value>
+  </data>
+  <data name="G2F1_076" xml:space="preserve">
+    <value>Mon PROBLÈME, c'est que je n'ai aucun respect pour des blancs-becs dans votre genre !</value>
+  </data>
+  <data name="G2F1_077" xml:space="preserve">
+    <value>Surtout quand ils débarquent me déranger pendant que je piste des hors-la-loi ![pause=0] C'est inouï !</value>
+  </data>
+  <data name="G2F1_078" xml:space="preserve">
+    <value>Tu es sérieux ?[pause=0] Ce qui est inouï, c'est à quel point tu es désagréable !</value>
+  </data>
+  <data name="G2F1_079" xml:space="preserve">
+    <value>Quelque chose ne va pa-a-a-as, {0} ?</value>
+  </data>
+  <data name="G2F1_080" xml:space="preserve">
+    <value>Qu-quoi ?[pause=0] Euh,[pause=10] n-non ![pause=0] Je discutais juste avec les nouvelles recrues de la guilde !</value>
+  </data>
+  <data name="G2F1_081" xml:space="preserve">
+    <value>Oooh ![pause=0] Il y a de nouvelles recrues !?[pause=0] Où ça ?</value>
+  </data>
+  <data name="G2F1_082" xml:space="preserve">
+    <value>Euh...</value>
+  </data>
+  <data name="G2F1_083" xml:space="preserve">
+    <value>Elles sont juste là...</value>
+  </data>
+  <data name="G2F1_084" xml:space="preserve">
+    <value>C'est vous les nouvelles recrues ?[pause=0] Coucou coucou ![pause=0] Ravie-e-e-e de vous rencontrer ![pause=0] Je m'appelle {0} !</value>
+  </data>
+  <data name="G2F1_085" xml:space="preserve">
+    <value>Et ce trésor, c'est {0} !</value>
+  </data>
+  <data name="G2F1_086" xml:space="preserve">
+    <value>Comment vous appelez-vous ?[pause=0] Ooooooh,[pause=10] je parie que vous avez un nom d'équipe trop cool !</value>
+  </data>
+  <data name="G2F1_087" xml:space="preserve">
+    <value>Euh...[pause=0] Je m'appelle {0},[pause=10] et mon partenaire là, c'est {1}.[pause=0] Nous sommes l'Équipe {2}...</value>
+  </data>
+  <data name="G2F1_088" xml:space="preserve">
+    <value>Ravie-e-e-e de vous rencontrer tous les deux ![pause=0] Et j'adore votre nom d'équipe !</value>
+  </data>
+  <data name="G2F1_089" xml:space="preserve">
+    <value>{0} ![pause=0] Ça sonne à merveille !</value>
+  </data>
+  <data name="G2F1_090" xml:space="preserve">
+    <value>Oh,[pause=10] merci ![pause=0] Ravi de te rencontrer aussi !</value>
+  </data>
+  <data name="G2F1_091" xml:space="preserve">
+    <value>{0} ?[pause=0] Tu ne dis rien à nos nouveaux amis ?</value>
+  </data>
+  <data name="G2F1_092" xml:space="preserve">
+    <value>B-bien sûr que si !</value>
+  </data>
+  <data name="G2F1_093" xml:space="preserve">
+    <value>.........[pause=0] C'est...</value>
+  </data>
+  <data name="G2F1_094" xml:space="preserve">
+    <value>...un plaisir de vous rencontrer tous les deux.</value>
+  </data>
+  <data name="G2F1_095" xml:space="preserve">
+    <value>...[pause=0]De même...</value>
+  </data>
+  <data name="G2F1_096" xml:space="preserve">
+    <value>Hein ?[pause=0] Quelque chose ne va pas ?</value>
+  </data>
+  <data name="G2F1_097" xml:space="preserve">
+    <value>{0} n'a pas encore fait son méchant-an-an,[pause=10] j'espère ?</value>
+  </data>
+  <data name="G2F1_098" xml:space="preserve">
+    <value>Oh,[pause=10] euh,[pause=10] non ![pause=0] Tout va bien !</value>
+  </data>
+  <data name="G2F1_099" xml:space="preserve">
+    <value>Oh,[pause=10] tant mieux ![pause=0] J'avais peur qu'il fasse encore son gros\nméchant-an-an !</value>
+  </data>
+  <data name="G2F1_100" xml:space="preserve">
+    <value>Il devient très grognon quand on a du mal à coincer un hors-la-loi.[pause=0] Celui du jour était particulièrement glissant !</value>
+  </data>
+  <data name="G2F1_101" xml:space="preserve">
+    <value>Pas vrai,[pause=10] {0} ?</value>
+  </data>
+  <data name="G2F1_102" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="G2F1_103" xml:space="preserve">
+    <value>Enfin,[pause=10] ne faites pas attention à lui.[pause=0] Il est parfois très timide.</value>
+  </data>
+  <data name="G2F1_104" xml:space="preserve">
+    <value>Bre-e-e-ef...[pause=0] Vous allez bien vous amuser en travaillant avec la guilde !</value>
+  </data>
+  <data name="G2F1_105" xml:space="preserve">
+    <value>On va faire plein de choses amusantes ensemble maintenant que vous êtes là !</value>
+  </data>
+  <data name="G2F1_106" xml:space="preserve">
+    <value>{0} et moi pourrons même vous montrer quelques techniques pour coincer les méchants ![pause=0] On va s'écla-a-a-ater !</value>
+  </data>
+  <data name="G2F1_107" xml:space="preserve">
+    <value>Ça a l'air super,[pause=10] {0} ![pause=0] J'ai hâte !</value>
+  </data>
+  <data name="G2F1_108" xml:space="preserve">
+    <value>Bonne chance,[pause=10] vous deux ![pause=0] Moi, je retourne chercher le vilain-un-un de demain à épingler !</value>
+  </data>
+  <data name="G2F1_109" xml:space="preserve">
+    <value>Dis {0}...[pause=0] Il se fait vraiment tard...</value>
+  </data>
+  <data name="G2F1_110" xml:space="preserve">
+    <value>Nous devrions retourner dans notre chambre et aller nous coucher.</value>
+  </data>
+  <data name="G2F1_111" xml:space="preserve">
+    <value>Allons-y dès que tu es prêt,[pause=10] {0}.</value>
+  </data>
+  <data name="G2F1_112" xml:space="preserve">
+    <value>(Elle est trop absorbée par le tableau des missions pour vous remarquer.)</value>
+  </data>
+  <data name="G2F1_113" xml:space="preserve">
+    <value>On va faire plein de choses amusantes ensemble maintenant que vous êtes là !</value>
+  </data>
+  <data name="G2F1_114" xml:space="preserve">
+    <value>{0} et moi pourrons même vous montrer quelques techniques pour coincer les méchants ![pause=0] On va s'écla-a-a-ater !</value>
+  </data>
 </root>
