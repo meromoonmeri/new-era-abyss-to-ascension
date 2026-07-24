@@ -70,7 +70,7 @@ function ConfigTools:OnAddMenu(menu)
     -- only add page if the save data has not been loaded yet
     if menu:HasLabel() and menu.Label == "SETTINGS_MENU" and not menu.InGame then
         self:LoadConfig()
-        local page = menu:AddPage("halcyon", "Halcyon Settings")
+        local page = menu:AddPage("halcyon", "New Era : Abyss to Ascension Settings")
         local options1 = {"Regular", "All"}
         local options2 = {"Yes", "No"}
         local save1 = function(setting) SV.Settings.Starters = setting.CurrentChoice end
