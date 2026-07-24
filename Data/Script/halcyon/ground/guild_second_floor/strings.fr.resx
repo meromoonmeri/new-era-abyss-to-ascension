@@ -58,4 +58,64 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="Assembly_Intro" xml:space="preserve">
+    <value>Bienvenue à l'Assemblée [color=#00FF00]Nanméouïe[color] ! </value>
+  </data>
+  <data name="Assembly_Intro_Return" xml:space="preserve">
+    <value>Je p-peux t'aider pour autre chose ?</value>
+  </data>
+  <data name="Assembly_Goodbye" xml:space="preserve">
+    <value>À bientôt ! Bonne ch-chance dans tes aventures !</value>
+  </data>
+  <data name="Assembly_Option_Members" xml:space="preserve">
+    <value>Membres</value>
+  </data>
+  <data name="Assembly_Members_Shuffled" xml:space="preserve">
+    <value>Tu réorganises juste l'ordre de l'équipe ?[pause=0] Pas de problème !</value>
+  </data>
+  <data name="Assembly_Leader_Changed" xml:space="preserve">
+    <value>{0}{1} deviendra le chef de l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Members_Added" xml:space="preserve">
+    <value>{0}{1} sera ajouté à l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Members_Removed" xml:space="preserve">
+    <value>{0}{1} sera retiré de l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Make_Changes" xml:space="preserve">
+    <value>Très bien ! Un coup de cloche et je modifie ton équipe en conséquence !</value>
+  </data>
+  <data name="Assembly_Make_Changes_Done" xml:space="preserve">
+    <value>Et voilà !</value>
+  </data>
+  <data name="Assembly_Info_001" xml:space="preserve">
+    <value>Je suis s-sûre que tu as déjà eu envie d'emmener d'autres Pokémon que vous deux à l'aventure,[pause=10] pas vrai ?</value>
+  </data>
+  <data name="Assembly_Info_002" xml:space="preserve">
+    <value>Avec mon assemblée,[pause=10] tu peux ajouter ou retirer de ton équipe n'importe quel Pokémon recruté avec des Noigrumes !</value>
+  </data>
+  <data name="Assembly_Info_003" xml:space="preserve">
+    <value>Les membres non retenus pour une aventure t'attendront au café !</value>
+  </data>
+  <data name="Assembly_Info_004" xml:space="preserve">
+    <value>Bien sûr,[pause=10] vous deux serez toujours dans l'équipe active.[pause=0] Vous ne voudriez pas rater une aventure,[pause=10] p-pas vrai ?</value>
+  </data>
+  <data name="Assembly_Info_005" xml:space="preserve">
+    <value>Sache simplement que parfois, seuls vous deux serez autorisés à partir !</value>
+  </data>
+  <data name="Assembly_Info_006" xml:space="preserve">
+    <value>Au fait,[pause=10] les noms de Pokémon colorés comme [color=#00FF00]ceci[color] au lieu de [color=#00FFFF]ceci[color] sont des espèces que tu as déjà recrutées !</value>
+  </data>
+  <data name="Assembly_Info_007" xml:space="preserve">
+    <value>T-tu peux aussi consulter la liste des Pokémon recrutables à chaque étage de donjon !</value>
+  </data>
+  <data name="Assembly_Info_008" xml:space="preserve">
+    <value>Regarde Recherche de Recrues dans le menu Autres.[pause=0] Si une espèce est en [color=#FFFF00]jaune[color],[pause=10] c'est qu'elle est déjà recrutée !</value>
+  </data>
+  <data name="Assembly_Info_009" xml:space="preserve">
+    <value>Oh,[pause=10] une dernière chose ![pause=0] Tu peux aussi sonner le panneau près du café pour m'appeler et utiliser l'assemblée !</value>
+  </data>
+  <data name="Assembly_Info_010" xml:space="preserve">
+    <value>Mes o-oreilles sont très sensibles,[pause=10] j'entendrai la cloche et j'accourrai !</value>
+  </data>
 </root>

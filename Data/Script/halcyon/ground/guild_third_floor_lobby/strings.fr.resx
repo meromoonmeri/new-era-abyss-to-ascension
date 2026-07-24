@@ -58,4 +58,34 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="Assembly_Intro" xml:space="preserve">
+    <value>Bienvenue à l'Assemblée [color=#00FF00]Nanméouïe[color] ! </value>
+  </data>
+  <data name="Assembly_Intro_Return" xml:space="preserve">
+    <value>Je peux t'aider pour autre chose ?</value>
+  </data>
+  <data name="Assembly_Goodbye" xml:space="preserve">
+    <value>À bientôt ![pause=0] Bonne chance dans tes aventures !</value>
+  </data>
+  <data name="Assembly_Option_Members" xml:space="preserve">
+    <value>Membres</value>
+  </data>
+  <data name="Assembly_Members_Shuffled" xml:space="preserve">
+    <value>Tu réorganises juste l'ordre de l'équipe ?[pause=0] Pas de problème !</value>
+  </data>
+  <data name="Assembly_Leader_Changed" xml:space="preserve">
+    <value>{0}{1} deviendra le chef de l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Members_Added" xml:space="preserve">
+    <value>{0}{1} sera ajouté à l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Members_Removed" xml:space="preserve">
+    <value>{0}{1} sera retiré de l'équipe{2}</value>
+  </data>
+  <data name="Assembly_Make_Changes" xml:space="preserve">
+    <value>Très bien ![pause=0] Un coup de cloche et je modifie ton équipe en conséquence !</value>
+  </data>
+  <data name="Assembly_Make_Changes_Done" xml:space="preserve">
+    <value>Et voilà !</value>
+  </data>
 </root>

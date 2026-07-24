@@ -58,4 +58,64 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="Evo_Ask" xml:space="preserve">
+    <value>Cherches-tu une nouvelle évolution ?</value>
+  </data>
+  <data name="Evo_Ask_Who" xml:space="preserve">
+    <value>Quel Pokémon cherche une nouvelle évolution ?</value>
+  </data>
+  <data name="Evo_Begin" xml:space="preserve">
+    <value>Vous qui cherchez l'éveil,[pause=0] commençons.</value>
+  </data>
+  <data name="Evo_Choice" xml:space="preserve">
+    <value>En quoi {0} doit-il évoluer ?</value>
+  </data>
+  <data name="Evo_Complete" xml:space="preserve">
+    <value>{0} a évolué en {1} !</value>
+  </data>
+  <data name="Evo_Confirm" xml:space="preserve">
+    <value>{0} va évoluer en {1}. Confirmer ?</value>
+  </data>
+  <data name="Evo_Confirm_Item" xml:space="preserve">
+    <value>{0} donnera l'objet {1} et évoluera en {2}.[pause=20] Confirmer ?</value>
+  </data>
+  <data name="Evo_End" xml:space="preserve">
+    <value>Revenez si l'évolution est ce que vous cherchez...</value>
+  </data>
+  <data name="Evo_Info_001" xml:space="preserve">
+    <value>Parmi les Pokémon, certains peuvent évoluer.</value>
+  </data>
+  <data name="Evo_Info_002" xml:space="preserve">
+    <value>Ces Pokémon peuvent évoluer ici même s'ils remplissent certaines conditions.</value>
+  </data>
+  <data name="Evo_Info_003" xml:space="preserve">
+    <value>L'évolution transforme l'apparence et les aptitudes.</value>
+  </data>
+  <data name="Evo_Info_004" xml:space="preserve">
+    <value>Plus encore, certains Pokémon changent même de type et apprennent d'autres capacités.</value>
+  </data>
+  <data name="Evo_Info_005" xml:space="preserve">
+    <value>Cependant...[pause=0] les conditions d'évolution varient selon les Pokémon.</value>
+  </data>
+  <data name="Evo_Info_006" xml:space="preserve">
+    <value>Vous devez aussi savoir ceci :</value>
+  </data>
+  <data name="Evo_Info_007" xml:space="preserve">
+    <value>Une fois qu'il a évolué, un Pokémon ne peut jamais retrouver sa forme précédente.</value>
+  </data>
+  <data name="Evo_Intro_1" xml:space="preserve">
+    <value>...[pause=0]Une voix résonne, venue de nulle part.</value>
+  </data>
+  <data name="Evo_Intro_2" xml:space="preserve">
+    <value>Vous qui cherchez l'éveil...[pause=0] Voici la Source Lumineuse.</value>
+  </data>
+  <data name="Evo_None" xml:space="preserve">
+    <value>...[pause=0]{0} ne peut plus évoluer.</value>
+  </data>
+  <data name="Evo_None_Now" xml:space="preserve">
+    <value>...[pause=0]{0} ne peut pas évoluer pour le moment.</value>
+  </data>
+  <data name="Evo_Option_Evolve" xml:space="preserve">
+    <value>Évoluer</value>
+  </data>
 </root>
