@@ -25,21 +25,21 @@ end
 function metano_cave_ch_4.Sunflora_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "...The guild is mounting an expedition soon,[pause=10] huh?", "Worried", true, false)
-		UI:WaitShowDialogue("...It's been so long since...")
-		UI:WaitShowDialogue(".........")
-		UI:WaitShowDialogue("...Don't mind me.[pause=0] Enjoy yourselves on the expedition.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_001']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_002']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_003']))
 	else
 		GeneralFunctions.StartConversation(chara, "...Could you get this child out of here?", "Worried", true, false)
 		UI:SetSpeakerEmotion("Pain")
 		--UI:WaitShowDialogue("I'd prefer to be alone,[pause=10] but she doesn't seem to understand...")
-		UI:WaitShowDialogue("I've told her a hundred times to leave me in peace,[pause=10] but she's not getting it...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_004']))
 	end
 	GeneralFunctions.EndConversation(chara, false)
 end 
 
 function metano_cave_ch_4.Oddish_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Hi weird lady![pause=0] You must be lonely in here by yourself.[pause=0] That's OK though, I'll keep you company!", "Happy", false)
-	UI:WaitShowDialogue("You should come outside and see my mom's garden with me!")
-	UI:WaitShowDialogue("There's all kinds of pretty flowers that would make you feel happy there!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_005']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MC4_006']))
 	GeneralFunctions.EndConversation(chara)
 end

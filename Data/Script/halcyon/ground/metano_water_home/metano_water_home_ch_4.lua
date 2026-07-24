@@ -26,10 +26,10 @@ end
 
 function metano_water_home_ch_4.Floatzel_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "I've gotta lay low after my masterful heist until the heat dies down a bit.")
-	UI:WaitShowDialogue("Then I'll turn myself in for the bounty they're sure to put on me!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MWH4_001']))
 	UI:SetSpeakerEmotion("Joyous")
 	GROUND:CharSetEmote(chara, "happy", 0)
-	UI:WaitShowDialogue("Haha![pause=0] Dream castle,[pause=10] you will be mine!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MWH4_002']))
 	GROUND:CharSetEmote(chara, "", 0)
 	GeneralFunctions.EndConversation(chara)
 end 

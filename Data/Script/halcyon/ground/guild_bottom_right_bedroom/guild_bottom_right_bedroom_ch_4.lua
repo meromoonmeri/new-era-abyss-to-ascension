@@ -19,7 +19,7 @@ end
 
 function guild_bottom_right_bedroom_ch_4.Zigzagoon_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "I'm getting some last minute review in before the expedition!")
-	UI:WaitShowDialogue("I want to make sure I'm as ready as I can be,[pause=10] so I have to study up while I still can!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['GBR4_001']))
 	GeneralFunctions.EndConversation(chara)
 end
 

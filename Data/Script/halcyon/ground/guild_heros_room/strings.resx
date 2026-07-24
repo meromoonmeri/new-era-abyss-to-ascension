@@ -514,4 +514,85 @@
   <data name="GHR3_048" xml:space="preserve">
     <value>Thank you again for playing! Returning back to normal gameplay... now!</value>
   </data>
+  <data name="GHR4_001" xml:space="preserve">
+    <value>Today was absolutely amazing,[pause=10] {0}![pause=0] I had so much fun!</value>
+  </data>
+  <data name="GHR4_002" xml:space="preserve">
+    <value>Our first real adventure went so well![pause=0] We even found a treasure and got to keep it!</value>
+  </data>
+  <data name="GHR4_003" xml:space="preserve">
+    <value>Working together with you and our teammates...[pause=0] It couldn't have been any better!</value>
+  </data>
+  <data name="GHR4_004" xml:space="preserve">
+    <value>With the expedition coming up too,[pause=10] I'm so excited about everything![pause=0] Aren't you?</value>
+  </data>
+  <data name="GHR4_005" xml:space="preserve">
+    <value>I'm glad you agree![pause=0] Let's keep going on great adventures,[pause=10] {0}!</value>
+  </data>
+  <data name="GHR4_006" xml:space="preserve">
+    <value>Hey,[pause=10] {0}...</value>
+  </data>
+  <data name="GHR4_007" xml:space="preserve">
+    <value>Do you remember right before we joined the guild,[pause=10] how I promised to help solve your amnesia?</value>
+  </data>
+  <data name="GHR4_008" xml:space="preserve">
+    <value>We've been so busy with guild activities that we haven't had a chance to look into it at all...</value>
+  </data>
+  <data name="GHR4_009" xml:space="preserve">
+    <value>But I haven't forgotten about it![script=0]</value>
+  </data>
+  <data name="GHR4_010" xml:space="preserve">
+    <value>That being said...</value>
+  </data>
+  <data name="GHR4_011" xml:space="preserve">
+    <value>{0},[pause=10] have you managed to remember anything about how you ended up in {1}?</value>
+  </data>
+  <data name="GHR4_012" xml:space="preserve">
+    <value>That's unfortunate...[pause=0] I thought that was the case,[pause=10] but I was hoping you had remembered something.</value>
+  </data>
+  <data name="GHR4_013" xml:space="preserve">
+    <value>What about those strange feelings,[pause=10] like the one you had at Luminous Spring?[pause=0] Any idea on that?</value>
+  </data>
+  <data name="GHR4_014" xml:space="preserve">
+    <value>So you've felt strange more than just those two times,[pause=10] huh?</value>
+  </data>
+  <data name="GHR4_015" xml:space="preserve">
+    <value>If that's the case,[pause=10] maybe there is meaning to those feelings after all.</value>
+  </data>
+  <data name="GHR4_016" xml:space="preserve">
+    <value>I doubt you'd feel strange that often for no reason,[pause=10] right?</value>
+  </data>
+  <data name="GHR4_017" xml:space="preserve">
+    <value>It's just...[pause=0] I can't think of what those moments share in common...[pause=0] They're all so different!</value>
+  </data>
+  <data name="GHR4_018" xml:space="preserve">
+    <value>I don't get why the feelings would be stronger some times and weaker other times either.</value>
+  </data>
+  <data name="GHR4_019" xml:space="preserve">
+    <value>So I have no clue what the meaning behind your strange feelings could be...</value>
+  </data>
+  <data name="GHR4_020" xml:space="preserve">
+    <value>However,[pause=10] just because we can't figure anything else out now doesn't mean we won't solve this!</value>
+  </data>
+  <data name="GHR4_021" xml:space="preserve">
+    <value>Lately I've felt that we can do anything when we work together.</value>
+  </data>
+  <data name="GHR4_022" xml:space="preserve">
+    <value>So I'm confident that we'll be able to figure this all out together.</value>
+  </data>
+  <data name="GHR4_023" xml:space="preserve">
+    <value>But with the expedition coming up,[pause=10] we should concentrate on that first.</value>
+  </data>
+  <data name="GHR4_024" xml:space="preserve">
+    <value>We'll get to the bottom of this though![pause=0] I promise,[pause=10] {0}!</value>
+  </data>
+  <data name="GHR4_025" xml:space="preserve">
+    <value>...Well,[pause=10] it's getting pretty late.[pause=0] Staying up stressing more won't do us any good.</value>
+  </data>
+  <data name="GHR4_026" xml:space="preserve">
+    <value>We should get some sleep so we can put in a good day tomorrow.</value>
+  </data>
+  <data name="GHR4_027" xml:space="preserve">
+    <value>Good night,[pause=10] {0}.</value>
+  </data>
 </root>

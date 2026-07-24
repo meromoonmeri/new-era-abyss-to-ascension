@@ -262,4 +262,58 @@
   <data name="MCF3_019" xml:space="preserve">
     <value>He said not to drink it,[pause=10] since it's volatile...[pause=0]\nMaybe we could throw it instead of drinking it?</value>
   </data>
+  <data name="MCF4_001" xml:space="preserve">
+    <value>He calls it {0}.[pause=0] He says that it helps with hanging on in tough situations.</value>
+  </data>
+  <data name="MCF4_002" xml:space="preserve">
+    <value>The special isn't always great,[pause=10] but sometimes he has something you won't be able to find anywhere else.</value>
+  </data>
+  <data name="MCF4_003" xml:space="preserve">
+    <value>It was so tasty...[pause=0] Mmmm...[pause=0] I'm drooling just thinking about it...</value>
+  </data>
+  <data name="MCF4_004" xml:space="preserve">
+    <value>But he hasn't sold another for some time now...[pause=0] Oh,[pause=10] woe is me...</value>
+  </data>
+  <data name="MCF4_005" xml:space="preserve">
+    <value>It says that while all mystery dungeons have stairs that lead forward,[pause=10] some also have stairs that lead back.</value>
+  </data>
+  <data name="MCF4_006" xml:space="preserve">
+    <value>The type of stairs that leads forward depends on whether it's an ascending or descending dungeon.</value>
+  </data>
+  <data name="MCF4_007" xml:space="preserve">
+    <value>...That doesn't make sense though.</value>
+  </data>
+  <data name="MCF4_008" xml:space="preserve">
+    <value>Mystery dungeons are in places such as caves and forests as far as I understand.</value>
+  </data>
+  <data name="MCF4_009" xml:space="preserve">
+    <value>What would stairs be doing in the middle of a place such as that?[pause=0] Mystery dungeons truly are strange.</value>
+  </data>
+  <data name="MCF4_010" xml:space="preserve">
+    <value>But this is what {0} wants to do.[pause=0] And spending time with her like this is nice too...</value>
+  </data>
+  <data name="MCF4_011" xml:space="preserve">
+    <value>U-umm![pause=0] I m-mean...</value>
+  </data>
+  <data name="MCF4_012" xml:space="preserve">
+    <value>D-don't you rookies have anything better to do than laze around here?[pause=0] Go do something productive for once!</value>
+  </data>
+  <data name="MCF4_013" xml:space="preserve">
+    <value>Once we leave,[pause=10] it'll be a long time before we can come back to town,[pause=10] so we gotta relax while we still can!</value>
+  </data>
+  <data name="MCF5_001" xml:space="preserve">
+    <value>With flavor like this,[pause=10] I think he's just getting rid of his extra inventory...</value>
+  </data>
+  <data name="MCF5_002" xml:space="preserve">
+    <value>...But...[pause=0] Woe is me...[pause=0] It tastes like muddy roots...</value>
+  </data>
+  <data name="MCF5_003" xml:space="preserve">
+    <value>...Oh...[pause=0] Luck can be so cruel...</value>
+  </data>
+  <data name="MCF5_004" xml:space="preserve">
+    <value>You never know what might happen on a trip like that.[pause=0] His drinks could come in handy in a pinch.</value>
+  </data>
+  <data name="MCF5_005" xml:space="preserve">
+    <value>They're so tasty...[pause=0] It's important to keep your spirits up on a long journey,[pause=10] after all!</value>
+  </data>
 </root>

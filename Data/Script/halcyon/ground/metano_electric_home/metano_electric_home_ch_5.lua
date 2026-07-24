@@ -21,14 +21,14 @@ end
 function metano_electric_home_ch_5.Manectric_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Your guild is leaving on an expedition today? Sounds like it’ll be tough!")
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Too bad my husband isn’t part of your guild. You’ll struggle without someone strong like him around!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MEH5_001']))
 	GeneralFunctions.EndConversation(chara)
 end 
 
 function metano_electric_home_ch_5.Luxray_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "I've caught wind that the guild is departing today on some sort of expedition.")
-	UI:WaitShowDialogue("Hmmph.[pause=0] Were I an adventurer,[pause=10] I would crush an exploration like that all by myself.")
-	UI:WaitShowDialogue("And yet an entire guild of adventurers needs all hands on deck for such an effort?[pause=0] How pitiful.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MEH5_002']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MEH5_003']))
 	GeneralFunctions.EndConversation(chara)
 end 
 

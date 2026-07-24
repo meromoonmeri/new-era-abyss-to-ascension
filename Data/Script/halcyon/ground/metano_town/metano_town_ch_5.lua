@@ -114,18 +114,18 @@ function metano_town_ch_5.Mareep_Action(chara, activator)
 	local partner = CH('Teammate1')
 	GeneralFunctions.StartConversation(chara, "Oh,[pause=10] " .. hero:GetDisplayName() .. " and " .. partner:GetDisplayName() .. "![pause=0] Ca-a-a-an you believe the expedition's finally here?", "Happy")
 	UI:SetSpeakerEmotion("Joyous")
-	UI:WaitShowDialogue("It's gonna be a bla-a-a-ast![pause=0] We're gonna all have so much fun together!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_001']))
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("But we gotta be prepa-a-a-ared![pause=0] The expedition will be tough,[pause=10] so stock up while you ca-a-a-an!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_002']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_town_ch_5.Cranidos_Action(chara, activator)
 	local item = RogueEssence.Dungeon.InvItem("machine_recall_box")
 	GeneralFunctions.StartConversation(chara, "You greenhorns better get all your moves in order before we leave.")
-	UI:WaitShowDialogue("The only way you'll be able to remember old moves on the road is a " .. item:GetDisplayName() .. ",[pause=10] and those are a rare find.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_003'], item:GetDisplayName()))
 	UI:SetSpeakerEmotion("Determined")
-	UI:WaitShowDialogue("I don't wanna hear your bellyaching later because you're too lazy to take care of it now!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_004']))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -148,29 +148,29 @@ end
 function metano_town_ch_5.Mawile_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Word around town is that the guild is leaving on a big expedition today.")
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("How exciting![pause=0] I'm sure you two are gonna have a lot of fun exploring all sorts of different places!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_005']))
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Have a safe trip![pause=0] Be sure to come back in one piece so you can tell me all about it!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_006']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_town_ch_5.Electrike_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, CharacterEssentials.GetCharacterName("Wooper_Boy") .. " and " .. CharacterEssentials.GetCharacterName("Wooper_Girl") .. " are still playing with that other Pokémon,[pause=10] huh...?", "Sad")
-	UI:WaitShowDialogue(".........")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_007']))
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("H-heh.[pause=0] Just more t-time I get to spend without them annoying me.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_008']))
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("...Alone.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_009']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_town_ch_5.Azumarill_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, chara:GetDisplayName() .. " hear that guild is going away for a while.")
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("Normally,[pause=10] " .. chara:GetDisplayName() .. " worries about bad Pokémon coming and hurting " .. chara:GetDisplayName() .. " without guild around...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_010'], chara:GetDisplayName(), chara:GetDisplayName()))
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("But " .. chara:GetDisplayName() .. " trained really hard in dojo![pause=0] " .. chara:GetDisplayName() .. " not afraid of outlaws anymore!")
-	UI:WaitShowDialogue(chara:GetDisplayName() .. " will swim in the water in peace now that " .. chara:GetDisplayName() .. " so strong!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_011'], chara:GetDisplayName(), chara:GetDisplayName()))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_012'], chara:GetDisplayName(), chara:GetDisplayName()))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -185,14 +185,14 @@ end
 function metano_town_ch_5.Doduo_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Did you hear?[pause=0] " .. CharacterEssentials.GetCharacterName("Shuckle") .. "'s giving away free drinks today!")
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("They're...[pause=30] uh...[pause=30] not very good.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_013']))
 	GeneralFunctions.EndConversation(chara)
 end 
 
 function metano_town_ch_5.Bagon_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "This drink " .. CharacterEssentials.GetCharacterName("Shuckle") .. " doesn't taste very good...", "Sad")
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("...That said,[pause=10] I do feel good after drinking it.[pause=0] It's like I just woke up from a good night's sleep!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_014']))
 	GeneralFunctions.EndConversation(chara)
 end 
 ]]--
@@ -200,13 +200,13 @@ end
 function metano_town_ch_5.Metapod_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, CharacterEssentials.GetCharacterName("Silcoon") .. " and I got a free drink from the café today.")
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("...But we're struggling to enjoy it since we have no good way to hold the bottle.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_015']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_town_ch_5.Silcoon_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Did you hear?[pause=0] " .. CharacterEssentials.GetCharacterName("Shuckle") .. "'s giving away free drinks today!")
-	UI:WaitShowDialogue("You should head on into the café and grab one while you can!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_016']))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -215,11 +215,11 @@ end
 function metano_town_ch_5.Oddish_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "The weird lady told me an awesome story about an adventure she had in a cave a long time ago!", "Inspired")
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("Then she said she was tired and wanted to rest alone,[pause=10] so she made me leave.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_017']))
 	GROUND:CharSetAnim(chara, "Idle", true)
 	GROUND:CharSetEmote(chara, "glowing", 0)
 	UI:SetSpeakerEmotion("Joyous")
-	UI:WaitShowDialogue("She's a really nice Pokémon![pause=0] I hope she can tell me another story soon!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_018']))
 	GROUND:CharSetEmote(chara, "", 0)
 	GeneralFunctions.EndConversation(chara)
 end
@@ -228,7 +228,7 @@ end
 function metano_town_ch_5.Numel_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "I've been working really hard so my momma will make me more Lava Cakes!", "Happy")
 	UI:SetSpeakerEmotion("Joyous")
-	UI:WaitShowDialogue("They're so yummy,[pause=10] it's worth all the hard work!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_019']))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -236,7 +236,7 @@ function metano_town_ch_5.Machamp_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Me daughter is off makin' merry wit' her new pals.")
 	UI:SetSpeakerEmotion("Joyous")
 	GROUND:CharSetEmote(chara, "glowing", 0)
-	UI:WaitShowDialogue("Hoohoo![pause=0] I'm so happy fer her![pause=0] It's been real tough fer her to make any friends,[pause=10] y'know!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_020']))
 	GROUND:CharSetEmote(chara, "", 0)
 	GeneralFunctions.EndConversation(chara)
 end
@@ -246,15 +246,15 @@ function metano_town_ch_5.Medicham_Action(chara, activator)
 	--Clever thinking can help you to overcome any challenges you may face.
 	--It would be wise to keep that in mind on your upcoming journey!
 	GeneralFunctions.StartConversation(chara, "Everything strength not is.[pause=0] Just is a sharp mind as,[pause=10] if not important more.")
-	UI:WaitShowDialogue("Help you can clever thinking to overcome any challenges face you may.")
-	UI:WaitShowDialogue("Wise it would be to keep in mind that on your journey upcoming!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_021']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_022']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function metano_town_ch_5.Spheal_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "An expedition?[pause=0] Sounds like hungry work![pause=0] Make sure to pack lots of food!")
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Oh![pause=30] And be sure to share the treasure with me if it ends up being something yummy!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_023']))
 	GeneralFunctions.EndConversation(chara)
 end 
 
@@ -265,8 +265,8 @@ end
 
 function metano_town_ch_5.Jigglypuff_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Take care on your expedition.[pause=0] For a trip like that, you'll be on the road for some time,[pause=10] so make sure to pack lots of supplies.")
-	UI:WaitShowDialogue("You should also leave some items with " .. CharacterEssentials.GetCharacterName('Kangaskhan') .. ".")
-	UI:WaitShowDialogue("I'm sure you'll encounter some spots where you can restock using her storage,[pause=10] so try to leave some stuff in reserve!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_024'], CharacterEssentials.GetCharacterName('Kangaskhan')))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_025']))
 	GeneralFunctions.EndConversation(chara)
 end
 
@@ -291,30 +291,30 @@ function metano_town_ch_5.Nidorina_Gloom_Dialogue(chara, activator)
 	GROUND:CharSetAnim(partner, 'None', true)
 	
 	UI:SetSpeaker(gloom)
-	UI:WaitShowDialogue("Did you hear that the guild's going on some big adventure?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_026']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(nidorina)
-	UI:WaitShowDialogue("Yeah.[pause=0] So?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_027']))
 	GAME:WaitFrames(20)
 	
 	GROUND:CharSetAnim(gloom, "Idle", true)
 	UI:SetSpeaker(gloom)
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("I've been thinking about all the sorts of things they could encounter on their trip!")
-	UI:WaitShowDialogue("They could find awesome treasure,[pause=10] or fight a really tough Pokémon,[pause=10] or discover a totally new part of the world!")
-	UI:WaitShowDialogue("There's so much that could happen![pause=0] What do you think they'll find?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_028']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_029']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_030']))
 	GAME:WaitFrames(20)
 	
 	GROUND:CharSetAnim(gloom, "None", true)
 	UI:SetSpeaker(nidorina)
-	UI:WaitShowDialogue("...[pause=30]Meh.[pause=0] I don't care.[pause=0] Adventurers are lame,[pause=10] anyways.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_031']))
 	GAME:WaitFrames(20)
 	
 	GROUND:CharSetEmote(gloom, "sweating", 1)
 	UI:SetSpeaker(gloom)
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("O-oh.[pause=0] Too bad...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_032']))
 	
 	
 	GROUND:CharEndAnim(gloom)
@@ -333,10 +333,10 @@ function metano_town_ch_5.Event_Trigger_1_Touch(obj, activator)
 	local hero = CH('PLAYER')
 	local partner = CH('Teammate1')
 	GeneralFunctions.StartPartnerConversation("There's no time for any adventures in " .. zone:GetColoredName() .. "![pause=0] We have to prepare for the expedition!")
-	UI:WaitShowDialogue("When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.")
-	UI:WaitShowDialogue("After that we'll be on the road in no time!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_033']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_034']))
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] " .. hero:GetDisplayName() .. "!")	
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_035'], hero:GetDisplayName()))
 	GeneralFunctions.EndConversation(partner)
 end
 
@@ -344,9 +344,9 @@ function metano_town_ch_5.Event_Trigger_2_Touch(obj, activator)
 	local hero = CH('PLAYER')
 	local partner = CH('Teammate1')
 	GeneralFunctions.StartPartnerConversation("There's no time to go on any adventures![pause=0] We have to prepare for the expedition!")
-	UI:WaitShowDialogue("When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.")
-	UI:WaitShowDialogue("After that we'll be on the road in no time!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_036']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_037']))
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] " .. hero:GetDisplayName() .. "!")	
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT5_038'], hero:GetDisplayName()))
 	GeneralFunctions.EndConversation(partner)
 end

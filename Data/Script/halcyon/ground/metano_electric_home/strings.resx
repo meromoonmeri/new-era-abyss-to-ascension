@@ -70,4 +70,16 @@
   <data name="MEH3_002" xml:space="preserve">
     <value>The other Pokémon in town should do the same,[pause=10] but they've become soft living close to the guild.</value>
   </data>
+  <data name="MEH4_001" xml:space="preserve">
+    <value>I'm disappointed in him.[pause=0] He should be better,[pause=10] but his behavior and his fruitless results are no surprise to me.</value>
+  </data>
+  <data name="MEH5_001" xml:space="preserve">
+    <value>Too bad my husband isn’t part of your guild. You’ll struggle without someone strong like him around!</value>
+  </data>
+  <data name="MEH5_002" xml:space="preserve">
+    <value>Hmmph.[pause=0] Were I an adventurer,[pause=10] I would crush an exploration like that all by myself.</value>
+  </data>
+  <data name="MEH5_003" xml:space="preserve">
+    <value>And yet an entire guild of adventurers needs all hands on deck for such an effort?[pause=0] How pitiful.</value>
+  </data>
 </root>

@@ -138,24 +138,24 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 	GROUND:CharSetEmote(audino, "sweating", 1)
 	UI:SetSpeaker(audino)
 	UI:SetSpeakerEmotion("Pain")
-	UI:WaitShowDialogue("Hurf...[pause=0] I c-caught up to you guys...[pause=0] Thank goodness...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_001']))
 	GAME:WaitFrames(40)
 	
 	GeneralFunctions.ShakeHead(audino)
 	GAME:WaitFrames(10)
 	GeneralFunctions.Hop(audino)
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("Phew![pause=0] I'm glad I made it to you two before you headed out today!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_002']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Hey " .. audino:GetDisplayName() .. "![pause=0] What's going on?[pause=0] Why are you in such a hurry to catch us?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_003'], audino:GetDisplayName()))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(audino)
-	UI:WaitShowDialogue("You know how I've opened up my Assembly again,[pause=10]\nr-right?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_004']))
 	--GROUND:EntTurn(audino, Direction.UpRight)
-	UI:WaitShowDialogue("W-well,[pause=10] to go along with that,[pause=10] I've placed a signpost here by the way out of town!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_005']))
 	
 	GAME:WaitFrames(10)
 	
@@ -168,8 +168,8 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 											GAME:MoveCamera(1352, 616, GeneralFunctions.CalculateCameraFrames(GAME:GetCameraCenter().X, GAME:GetCameraCenter().Y, 1352, 616, 1), false) end)
 	TASK:JoinCoroutines({coro1, coro2, coro3, coro4})
 	
-	UI:WaitShowDialogue("See?[pause=0] It's right here![script=0]", {function() return GeneralFunctions.Hop(audino) end})
-	UI:WaitShowDialogue("Just ring the bell on it like so...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_006']), {function() return GeneralFunctions.Hop(audino) end})
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_007']))
 	GAME:WaitFrames(10)
 	
 	local post = OBJ("Assembly")
@@ -181,9 +181,9 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 	GAME:WaitFrames(60)
 
 	GROUND:CharAnimateTurnTo(audino, Direction.Left, 4)
-	UI:WaitShowDialogue("...And I'll come running from the guild so you can use the Assembly out here!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_008']))
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("M-my ears are really sensitive,[pause=10] so I'll hear it even all the way out here!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_009']))
 	
 	--GAME:WaitFrames(20)
 	--coro1 = TASK:BranchCoroutine(function() GROUND:CharAnimateTurnTo(audino, Direction.Right, 4) end)
@@ -192,12 +192,12 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 	--TASK:JoinCoroutines({coro1, coro2, coro3})
 	
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("Just try not to overuse it,[pause=10] I do enough r-running around as it is!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_010']))
 	GAME:WaitFrames(20)
 	SOUND:PlayBattleSE("EVT_Emote_Exclaim_2")
 	GROUND:CharSetEmote(audino, "exclaim", 1)
 	GAME:WaitFrames(40)
-	UI:WaitShowDialogue("Oh![pause=0] One more thing!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_011']))
 	GAME:WaitFrames(10)
 	
 	coro1 = TASK:BranchCoroutine(function() GROUND:CharAnimateTurnTo(partner, Direction.Left, 4) end)
@@ -205,9 +205,9 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 	coro3 = TASK:BranchCoroutine(function() GeneralFunctions.CenterCamera({cafe_dummy}, GAME:GetCameraCenter().X, GAME:GetCameraCenter().Y, 3) end)
 	TASK:JoinCoroutines({coro1, coro2, coro3})
 	
-	UI:WaitShowDialogue("I spoke to " .. CharacterEssentials.GetCharacterName("Shuckle") .. " at the café earlier today.")
-	UI:WaitShowDialogue("He said it was OK for teammates accompanying you on adventures to wait inside the café!")
-	UI:WaitShowDialogue("So if y-you want to meet with your teammates before going out on an adventure,[pause=10] just visit the café!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_012'], CharacterEssentials.GetCharacterName("Shuckle")))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_013']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_014']))
 	
 	GAME:WaitFrames(20)
 	GROUND:EntTurn(hero, Direction.Right)
@@ -216,21 +216,21 @@ function metano_town_ch_4.SignpostIntroductionCutscene()
 	GAME:MoveCamera(1352, 616, GeneralFunctions.CalculateCameraFrames(GAME:GetCameraCenter().X, GAME:GetCameraCenter().Y, 1352, 616, 3), false)
 	
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("That's all I had to share with you![pause=0] I hope this will all be u-useful for you two!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_015']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(partner)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("It is![pause=0] Thank you for doing all this,[pause=10] it'll be a huge help for us!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_016']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(audino)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Oh![pause=0] It's no p-problem![pause=0] I'm just g-glad I can help out!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_017']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("W-well,[pause=10] I'd better get back to the guild now.[pause=0] Good luck with your adventure today!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_018']))
 	
 	GAME:WaitFrames(10)
 	
@@ -258,26 +258,26 @@ function metano_town_ch_4.Snubbull_Action(chara, activator)
 		--N/A
 	else
 		GeneralFunctions.StartConversation(chara, "I heard at dinner the other night about the huge Apricorn you two found during your recent adventure.")
-		UI:WaitShowDialogue("An impressive find,[pause=10] but it's of no use to someone such as myself.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_019']))
 		UI:SetSpeakerEmotion("Special0")
-		UI:WaitShowDialogue("Any chef worth their salt knows the larger the Apricorn,[pause=10] the harder and more bitter it becomes.")
-		UI:WaitShowDialogue("An Apricorn like that would be totally worthless for the dish that I've been cooking up. "  .. STRINGS:Format("\\u266A"))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_020']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_021'], STRINGS:Format("\\u266A")))
 		
 	end
 	GeneralFunctions.EndConversation(chara)
 --[[Removed to add more characters talking about their successful apricorn get.
 GeneralFunctions.StartConversation(chara, "With the expedition getting closer,[pause=10] I'm wondering more and more what we'll find on it.")
 		UI:SetSpeakerEmotion("Special0")
-		UI:WaitShowDialogue("It would be wonderful if we found an exotic delicacy that I can use to make a fantastic new meal. " .. STRINGS:Format("\\u266A"))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_022'], STRINGS:Format("\\u266A")))
 ]]--		
 end
 
 function metano_town_ch_4.Zigzagoon_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "This expedition sounds absolutely amazing![pause=0] I've never been on one before!", "Inspired")
-		UI:WaitShowDialogue("I hope I can learn a lot on it![pause=0] I'll be sure to write down everything I learn in my almanacs!")
-		UI:WaitShowDialogue("Plus,[pause=10] it's been a while since " .. CharacterEssentials.GetCharacterName("Growlithe") .. " and I have been on an adventure!")
-		UI:WaitShowDialogue("He's always stuck on sentry duty,[pause=10] so it'll be great to adventure with him again!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_023']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_024'], CharacterEssentials.GetCharacterName("Growlithe")))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_025']))
 	else
 		--N/A
 	end
@@ -288,7 +288,7 @@ end
 function metano_town_ch_4.Roselia_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "Tah![pause=0] Apricorns allow you to recruit more Pokémon to your team! " .. STRINGS:Format("\\u266A"), "Normal", true, false)
-		UI:WaitShowDialogue("The more Pokémon you have,[pause=10] the more dancing you can do! ".. STRINGS:Format("\\u266A"))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_026'], STRINGS:Format("\\u266A")))
 	else
 
 	end
@@ -299,7 +299,7 @@ end
 function metano_town_ch_4.Ludicolo_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "Yah![pause=0] I'm going to hollow me out some Apricorns then fill them with pebbles!", "Normal", true, false)
-		UI:WaitShowDialogue("They'll make fantastic maracas,[pause=10] cha cha cha!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_027']))
 	else
 
 	end
@@ -310,7 +310,7 @@ end
 function metano_town_ch_4.Spinda_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "Lah![pause=0] I need to find some Apricorns,[pause=10] they're the perfect shape for juggling!", "Normal", true, false)
-		UI:WaitShowDialogue("Dancing,[pause=10] juggling,[pause=10] dancing while juggling![pause=0] I will become a master of all three!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_028']))
 	else
 
 	end
@@ -325,10 +325,10 @@ function metano_town_ch_4.Linoone_Action(chara, activator)
 		--N/A
 	else
 		GeneralFunctions.StartConversation(chara, "I've just finished this book detailing mystery dungeons.[pause=0] It was an excellent and informative read.")
-		UI:WaitShowDialogue("The last thing the book covered is how mystery dungeons change the further you go in them.")
-		UI:WaitShowDialogue("The way they structure themselves,[pause=10] the strength and type of enemies within,[pause=10] the visibility...")
-		UI:WaitShowDialogue("All these and more can change as you progress in a dungeon,[pause=10] usually in a way that makes it more difficult.")
-		UI:WaitShowDialogue("How interesting.[pause=0] With design like that,[pause=10] it makes me wonder just how natural these dungeons are.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_029']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_030']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_031']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_032']))
 	end
 	GeneralFunctions.EndConversation(chara)
 		
@@ -340,17 +340,17 @@ function metano_town_ch_4.Mawile_Action(chara, activator)
 		GeneralFunctions.StartConversation(chara, "Hey,[pause=10] it's you two![pause=0] What are my favorite adventurers up to today?", "Happy")
 		--GAME:WaitFrames(20)
 		UI:SetSpeakerEmotion("Normal")
-		UI:WaitShowDialogue("...You're going to explore that forest full of Apricorns?")
-		UI:WaitShowDialogue("I've heard that place was discovered recently.[pause=0] Nobody's gone inside it yet,[pause=10] right?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_033']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_034']))
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("Sounds like it'll be a great adventure![pause=0] Good luck,[pause=10] I'm rooting for the both of you!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_035']))
 	else
 		GeneralFunctions.StartConversation(chara, "Oh,[pause=10] there you two are![pause=0] How'd your exploration of that forest go?", "Happy")
 		UI:SetSpeakerEmotion("Inspired")
-		UI:WaitShowDialogue("...Woah,[pause=10] you managed to retrieve a huge Apricorn from the forest's center?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_036']))
 		UI:SetSpeakerEmotion("Joyous")
 		GROUND:CharSetEmote(chara, "glowing", 0)
-		UI:WaitShowDialogue("Seems to me like your adventure was a complete success then![pause=0] I knew you two could do it!")		
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_037']))
 		GROUND:CharSetEmote(chara, "", 0)
 	end
 	GeneralFunctions.EndConversation(chara)
@@ -358,13 +358,13 @@ function metano_town_ch_4.Mawile_Action(chara, activator)
 		Repurpose this in chapter 5's dialogue for Mawile.
 		GeneralFunctions.StartConversation(chara, "I overheard that the guild is going on an expedition soon![pause=0] That sounds like it'll be a lot of fun for you two!")
 		UI:SetSpeakerEmotion("Worried")
-		UI:WaitShowDialogue("But an expedition means I won't see either of you for a while,[pause=10] doesn't it?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_038']))
 		UI:SetSpeakerEmotion("Sad")
-		UI:WaitShowDialogue("I'll miss seeing you around town...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_039']))
 		GAME:WaitFrames(20)
 		UI:SetSpeakerEmotion("Joyous")
 		GROUND:CharSetEmote(chara, "glowing", 0)
-		UI:WaitShowDialogue("You'll just have to make that up to me by finding something fantastic on that expedition,[pause=10] got it?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_040']))
 		GROUND:CharSetEmote(chara, "", 0)
 ]]--		
 end
@@ -372,15 +372,15 @@ end
 function metano_town_ch_4.Electrike_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "You know I can see the both of you,[pause=10] right?", "Normal", false)
-		UI:WaitShowDialogue("It's not dark,[pause=10] hiding like that isn't going to work unless it's dark...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_041']))
 		GAME:WaitFrames(20)
-		UI:WaitShowDialogue("(...Actually,[pause=10] it's better if I don't let them know I've found them.[pause=0] They won't bother me that way.)")
-		UI:WaitShowDialogue("I mean...[pause=0] Where could " .. CharacterEssentials.GetCharacterName("Wooper_Girl") .. " and " .. CharacterEssentials.GetCharacterName("Wooper_Boy") .. " be?[pause=0] I'm never going to be able to find them!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_042']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_043'], CharacterEssentials.GetCharacterName("Wooper_Girl"), CharacterEssentials.GetCharacterName("Wooper_Boy")))
 	else
 		GeneralFunctions.StartConversation(chara, "The twins are bothering someone else for once.[pause=0] That poor Pokémon...")
 		UI:SetSpeakerEmotion("Joyous")
 		GROUND:CharSetEmote(chara, "glowing", 0)
-		UI:WaitShowDialogue("Better her than me though,[pause=10] hehehe!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_044']))
 		GROUND:CharSetEmote(chara, "", 0)
 	end
 	GeneralFunctions.EndConversation(chara)
@@ -392,7 +392,7 @@ end
 function metano_town_ch_4.Wooper_Boy_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then 
 		GeneralFunctions.StartConversation(chara, "Hehe![pause=0] I'm the best at hide and seek!", "Happy", false)
-		UI:WaitShowDialogue(CharacterEssentials.GetCharacterName("Wooper_Girl") .. " couldn't find me when we played,[pause=10] and now " .. CharacterEssentials.GetCharacterName("Electrike") .. " can't find me,[pause=10] hehe!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_045'], CharacterEssentials.GetCharacterName("Wooper_Girl"), CharacterEssentials.GetCharacterName("Electrike")))
 		GeneralFunctions.EndConversation(chara)
 	else
 		if not SV.Chapter4.WoopersMedititeConvo then
@@ -436,48 +436,48 @@ function metano_town_ch_4.Meditite_Woopers_Dialogue(chara)
 	UI:SetSpeaker(wooper_boy)
     GROUND:CharTurnToChar(hero, chara)
     local coro1 = TASK:BranchCoroutine(function() GROUND:CharTurnToCharAnimated(partner, chara, 4) end)
-	UI:WaitShowDialogue("What should we all play today?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_046']))
     TASK:JoinCoroutines({coro1})
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(wooper_girl)
-	UI:WaitShowDialogue(meditite:GetDisplayName() .. " should pick![pause=0] I'm sure she would know something fun for us to play!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_047'], meditite:GetDisplayName()))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(meditite)
-	UI:WaitShowDialogue("Ya want me ta' pick?[pause=0] Umm,[pause=10] think lemme...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_048']))
 	GAME:WaitFrames(40)
-	UI:WaitShowDialogue("Sumo wrestlin' how about?[pause=0] Game it is where we shov' to try each other outta a ring!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_049']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(wooper_boy)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("That sounds like a lot of fun![pause=0] Let's play that!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_050']))
 	GAME:WaitFrames(20)
 
 	UI:SetSpeaker(wooper_girl)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("Yeah![pause=0] Let's play sumo wrestlers!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_051']))
 	GAME:WaitFrames(10)
 	
 	GeneralFunctions.EmoteAndPause(meditite, "Shock", true)
 	UI:SetSpeaker(meditite)
 	UI:SetSpeakerEmotion("Surprised")
-	UI:WaitShowDialogue("W-wait![pause=0] Y-you understand me can!?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_052']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(wooper_boy)
-	UI:WaitShowDialogue("Of course we can![pause=0] I understand you easily!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_053']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(wooper_girl)
-	UI:WaitShowDialogue("Yeah![pause=0] Why wouldn't we be able to?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_054']))
 	GAME:WaitFrames(10)
 	
 	GeneralFunctions.EmoteAndPause(meditite, "Sweating", true)
 	UI:SetSpeaker(meditite)
 	UI:SetSpeakerEmotion("Stunned")
-	UI:WaitShowDialogue("I suppose I'm not it used to all is...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_055']))
 
 	--GROUND:CharEndAnim(electrike)
 	SV.Chapter4.WoopersMedititeConvo = true
@@ -494,7 +494,7 @@ function metano_town_ch_4.Oddish_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "This is where that weird lady lives.", "Worried")
 		--UI:WaitShowDialogue("Isn't she a Grass-type like me?[pause=0] The sun is so nice to be in!")
-		UI:WaitShowDialogue("Why does she stay in the cave all day?[pause=0] She must get lonely being in there all the time...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_056']))
 	else
 		--N/a
 	end
@@ -519,7 +519,7 @@ function metano_town_ch_4.Medicham_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then 
 		--This mailbox my husband cherishes is garish. I wish I could get rid of it, but I don't want to upset him.
 		GeneralFunctions.StartConversation(chara, "Garish is this mailbox that cherishes my husband.", "Worried")
-		UI:WaitShowDialogue("Be rid of it wish to I,[pause=10] but upset him do not want I.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_057']))
 		GeneralFunctions.EndConversation(chara)
 	else
 		if not SV.Chapter4.MedichamMachampArgument then
@@ -534,8 +534,8 @@ end
 function metano_town_ch_4.Machamp_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "That forest full o' Apricorns...[pause=0] Turns out it's housin' a mystery dungeon!")
-		UI:WaitShowDialogue("But nary a soul has gone inside to explore it yet,[pause=10] far as I know.")
-		UI:WaitShowDialogue("Somebody needs ta' get in there and cover the place from top ta' bottom![pause=0] We need them Apricorns!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_058']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_059']))
 		GeneralFunctions.EndConversation(chara)
 	else
 		if not SV.Chapter4.MedichamMachampArgument then
@@ -564,39 +564,39 @@ function metano_town_ch_4.Machamp_Medicham_Dialogue(chara)
     local coro1 = TASK:BranchCoroutine(function() GROUND:CharTurnToCharAnimated(partner, chara, 4) end)
 	SOUND:PlayBattleSE("EVT_Emote_Shock_Bad")
 	GeneralFunctions.EmoteAndPause(machamp, "Shock", false)
-	UI:WaitShowDialogue("Whaddya mean ya dinnae like the mailbox!?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_060']))
     TASK:JoinCoroutines({coro1})
 
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(medicham)
 	UI:SetSpeakerEmotion("Worried")
 	--Don't you think it's gaudy?
-	UI:WaitShowDialogue("Think not do you gaudy that it is?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_061']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(machamp)
-	UI:WaitShowDialogue("A' course it is![pause=0] But that's what's so great about it!")
-	UI:WaitShowDialogue("I mean,[pause=10] think about it![pause=0] A " .. machamp_species .. " feelin' the need ta' flex his muscles even on 'is mailbox?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_062']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_063'], machamp_species))
 	GROUND:CharSetEmote(machamp, "glowing", 0)
-	UI:WaitShowDialogue("Hoohoo,[pause=10] what a riot!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_064']))
 	GAME:WaitFrames(20)
 	
 	GROUND:CharSetEmote(machamp, "", 0)
 	UI:SetSpeaker(medicham)
 	UI:SetSpeakerEmotion("Stunned")
-	UI:WaitShowDialogue(".........")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_065']))
 
 	GAME:WaitFrames(40)
 	UI:SetSpeakerEmotion("Joyous")
 	GROUND:CharSetEmote(medicham, "glowing", 0)
-	UI:WaitShowDialogue("...Ohohohohoho!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_066']))
 	--When you put it like that, I guess it is pretty funny!
-	UI:WaitShowDialogue("Put it like that when you,[pause=10] suppose I that the mailbox pretty funny is!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_067']))
 	GAME:WaitFrames(20)
 
 	GROUND:CharSetEmote(medicham, "", 0)
 	UI:SetSpeaker(machamp)
-	UI:WaitShowDialogue("Hoohoo![pause=0] I'm glad ye can see it my way,[pause=10] dearest!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_068']))
 
 	SV.Chapter4.MedichamMachampArgument = true
 	GROUND:CharEndAnim(medicham)
@@ -611,11 +611,11 @@ function metano_town_ch_4.Growlithe_Desk_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(growlithe, "Wow![pause=0] An expedition with everyone here at the guild![pause=0] I'm so excited,[pause=10] ruff!", "Inspired")
 		UI:SetSpeakerEmotion("Joyous")
-		UI:WaitShowDialogue("It's been forever since I've gone on an adventure,[pause=10] let alone an expedition![pause=0] It's gonna be great,[pause=10] ruff!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_069']))
 	else
 		GeneralFunctions.StartConversation(growlithe, CharacterEssentials.GetCharacterName("Breloom") .. " and " .. CharacterEssentials.GetCharacterName("Girafarig") .. " better hurry on back,[pause=10] ruff!", "Happy")
 		UI:SetSpeakerEmotion("Inspired")
-		UI:WaitShowDialogue("They shouldn't be much longer,[pause=10] but I can't wait anymore![pause=0] This expedition is gonna be so much fun,[pause=10] ruff!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_070']))
 	end
 	GeneralFunctions.EndConversation(growlithe)	
 end
@@ -623,20 +623,20 @@ end
 function metano_town_ch_4.Manectric_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "I've got this letter I want to send to a distant friend of mine.")
-		UI:WaitShowDialogue("It's been too long since we last met.[pause=0] I want to send a letter to see how she and her family are doing.")
-		UI:WaitShowDialogue("But apparently the post office here is for handling rescue requests between adventuring teams only.")
-		UI:WaitShowDialogue("Hmm...[pause=0] I wonder how I'm going to get this letter sent out now...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_071']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_072']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_073']))
 	else
 		GeneralFunctions.StartConversation(chara, "I spoke more with the post office workers,[pause=10] and they agreed to take my letter to my friend!")
-		UI:WaitShowDialogue("They normally only handle rescue requests between adventuring teams...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_074']))
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("...But they said they'd handle any mail between my friend and I!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_075']))
 		GAME:WaitFrames(30)
 		GeneralFunctions.EmoteAndPause(chara, "Exclaim", true)
 		UI:SetSpeakerEmotion("Surprised")
-		UI:WaitShowDialogue("...Wait a moment,[pause=10] you two are those wonderful adventurers that saved " .. CharacterEssentials.GetCharacterName("Numel") .. "!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_076'], CharacterEssentials.GetCharacterName("Numel")))
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("The post office is perfect for great adventurers like you then![pause=0] I'm sure you'll find it useful!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_077']))
 		
 	end
 	GeneralFunctions.EndConversation(chara)
@@ -648,13 +648,13 @@ function metano_town_ch_4.Sentret_Action(chara, activator)
 		GeneralFunctions.StartConversation(chara, "I don't have to do any chores![pause=0] My dad takes care of them,[pause=10] so I always have time to play!", "Happy", false)
 	else
 		GeneralFunctions.StartConversation(chara, "Woah,[pause=10] you two are guild adventurers right?", "Inspired")
-		UI:WaitShowDialogue("Is it really true you're going on a big adventure soon?")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_078']))
 		GAME:WaitFrames(10)
 		SOUND:PlayBattleSE('EVT_Emote_Startled_2')
 		GeneralFunctions.DoubleHop(chara)
 		GROUND:CharSetEmote(chara, "happy", 0)
 		UI:SetSpeakerEmotion("Inspired")
-		UI:WaitShowDialogue("That's so cool![pause=0] Adventurers like my brother really get to do awesome things after all!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_079']))
 		GROUND:CharSetEmote(chara, "", 0)	end
 	GeneralFunctions.EndConversation(chara)
 end
@@ -672,12 +672,12 @@ end
 function metano_town_ch_4.Floatzel_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "With all the outlaws running around lately,[pause=10] I had a great idea!")
-		UI:WaitShowDialogue("Outlaws all have a bounty on their head,[pause=10] right?")
-		UI:WaitShowDialogue("If I take some stuff from the Kecleon Shop during the night,[pause=10] the authorities will put a bounty on me!")
-		UI:WaitShowDialogue("Then,[pause=10] if I turn myself in,[pause=10] I can get the bounty!")
-		UI:WaitShowDialogue("Of course,[pause=10] I'll have to leave some money to pay for the items I take...[pause=0] I don't wanna steal after all!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_080']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_081']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_082']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_083']))
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("This plan is foolproof![pause=0] I'll be able to afford my castle in no time!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_084']))
 	else
 		--N/A
 	end
@@ -687,8 +687,8 @@ end
 function metano_town_ch_4.Quagsire_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "Have you seen my husband anywhere?", "Worried")
-		UI:WaitShowDialogue("We're supposed to be doing some shopping together,[pause=10] but he wandered off somewhere.")
-		UI:WaitShowDialogue("I hope he isn't getting up to any trouble...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_085']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_086']))
 		GeneralFunctions.EndConversation(chara)
 	else
 		metano_town_ch_4.Quagsire_Kecleon_Dialogue(chara)
@@ -712,29 +712,29 @@ function metano_town_ch_4.Quagsire_Kecleon_Dialogue(chara)
 	UI:SetSpeakerEmotion("Worried")
     GROUND:CharTurnToChar(hero, chara)
     local coro1 = TASK:BranchCoroutine(function() GROUND:CharTurnToCharAnimated(partner, chara, 4) end)
-	UI:WaitShowDialogue("Here's all the stuff he took.[pause=0] Sorry again about all this.[pause=0] I don't know what's gotten into my husband lately.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_087']))
     TASK:JoinCoroutines({coro1})
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(kecleon)
-	UI:WaitShowDialogue("It's no problem at all my dear. " .. STRINGS:Format("\\u266A"))
-	UI:WaitShowDialogue("Your husband actually left payment for all the goods he took,[pause=10] so you're free to keep whatever you'd like. " .. STRINGS:Format("\\u266A"))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_088'], STRINGS:Format("\\u266A")))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_089'], STRINGS:Format("\\u266A")))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(quagsire)
-	UI:WaitShowDialogue("Thank you.[pause=0] I think I'll just hold on to what he took in that case.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_090']))
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("Though I wish I could figure out what's going on in that head of his.")
-	UI:WaitShowDialogue("I'm not sure how he thought this would turn out.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_091']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_092']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(kecleon)
-	UI:WaitShowDialogue("I can't answer that,[pause=10] but given that he paid for the wares he took,[pause=10] he must have a good heart at least.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_093']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(quagsire)
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("His heart is usually in the right place...[pause=0] If only his head could be in the right place too.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_094']))
 	
 
 
@@ -779,37 +779,37 @@ function metano_town_ch_4.Bellossom_Camerupt_Dialogue(chara)
 	UI:SetSpeakerEmotion("Happy")
     GROUND:CharTurnToChar(hero, chara)
     local coro1 = TASK:BranchCoroutine(function() GROUND:CharTurnToCharAnimated(partner, chara, 4) end)
-	UI:WaitShowDialogue("I'm so proud of my little " .. CharacterEssentials.GetCharacterName("Numel") .. "![pause=0] He's been such a great help around the house lately!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_095'], CharacterEssentials.GetCharacterName("Numel")))
 	TASK:JoinCoroutines({coro1})
 	GAME:WaitFrames(20)
 
 	UI:SetSpeaker(bellossom)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("That's wonderful " .. camerupt:GetDisplayName() .. "![pause=0] I'm glad to hear that!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_096'], camerupt:GetDisplayName()))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(camerupt)
-	UI:WaitShowDialogue(bellossom:GetDisplayName() .. ",[pause=10] how does your family handle the household chores?[pause=0] Do you split them up like we do?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_097'], bellossom:GetDisplayName()))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(bellossom)
-	UI:WaitShowDialogue("Chores?[pause=0] I don't think about them at all!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_098']))
 	GAME:WaitFrames(10)
 	
 	GeneralFunctions.EmoteAndPause(camerupt, "Shock", true)
 	UI:SetSpeaker(camerupt)
 	UI:SetSpeakerEmotion("Surprised")
-	UI:WaitShowDialogue("Wh-what?[pause=0] You don't think about them at all?[pause=0] H-how?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_099']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(bellossom)
-	UI:WaitShowDialogue("I don't worry about small stuff like chores![pause=0] When they need to get done,[pause=10] they'll get done!")
-	UI:WaitShowDialogue("There's no reason to put thought into them like that!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_100']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_101']))
 	GAME:WaitFrames(20)
 
 	UI:SetSpeaker(camerupt)
 	UI:SetSpeakerEmotion("Stunned")
-	UI:WaitShowDialogue("So carefree...[pause=0] I'm a little envious...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_102']))
 	
 	GROUND:CharEndAnim(bellossom)
 	GROUND:CharEndAnim(camerupt)
@@ -824,7 +824,7 @@ function metano_town_ch_4.Luxray_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		local wooper_species = _DATA:GetMonster('wooper'):GetColoredName()
 		GeneralFunctions.StartConversation(chara, CharacterEssentials.GetCharacterName("Electrike") .. " needs to learn that those clueless " .. wooper_species .. " twins aren't worth his time.")
-		UI:WaitShowDialogue("But I suppose he is still quite young...[pause=0] He will learn his lesson soon enough.[pause=0] I trust that he will.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_103']))
 	else
 	
 	end
@@ -855,7 +855,7 @@ function metano_town_ch_4.Gloom_Action(chara, activator)
 		metano_town_ch_4.Nidorina_Gloom_Dialogue(chara, activator)
 	else
 		GeneralFunctions.StartConversation(chara, CharacterEssentials.GetCharacterName("Nidorina") .. " has been stuck in the inn way more lately.", "Sad")
-		UI:WaitShowDialogue("It's pretty boring without her around...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_104']))
 		GeneralFunctions.EndConversation(chara)
 	end
 end
@@ -876,25 +876,25 @@ function metano_town_ch_4.Nidorina_Gloom_Dialogue(chara, activator)
 	UI:SetSpeakerEmotion("Worried")
     GROUND:CharTurnToChar(hero, chara)
     local coro1 = TASK:BranchCoroutine(function() GROUND:CharTurnToCharAnimated(partner, chara, 4) end)
-	UI:WaitShowDialogue(nidorina:GetDisplayName() .. ",[pause=10] do you think the world's getting more dangerous?")
-    UI:WaitShowDialogue("My dad's been talking about it a lot lately,[pause=10] and it's got me worried...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_105'], nidorina:GetDisplayName()))
+    UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_106']))
 	TASK:JoinCoroutines({coro1})
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(nidorina)
-	UI:WaitShowDialogue("No way![pause=0] I've never seen anything dangerous or interesting happen!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_107']))
 	UI:SetSpeakerEmotion("Determined")
-	UI:WaitShowDialogue("If your dad is anything like mine,[pause=10] it's probably something he made up so he can boss you around more!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_108']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(gloom)
 	UI:SetSpeakerEmotion("Worried")
-	UI:WaitShowDialogue("I don't think he would make things up.[pause=0] It's true you don't see much danger near town...")
-	UI:WaitShowDialogue("But that doesn't mean dangerous stuff isn't happening in other places of the world!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_109']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_110']))
 	GAME:WaitFrames(20)
 	
 	UI:SetSpeaker(nidorina)
-	UI:WaitShowDialogue("Hmmph.[pause=0] I still think the adults are full of it...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_111']))
 	
 	
 	GROUND:CharEndAnim(gloom)
@@ -910,9 +910,9 @@ function metano_town_ch_4.Nidoking_Action(chara, activator)
 	else
 		GeneralFunctions.StartConversation(chara, "Howdy y'all![pause=0] C'mon down to the Metano Inn fer the best bed and breakfast fer miles!", "Happy")
 		UI:SetSpeakerEmotion("Normal")
-		UI:WaitShowDialogue("...Wait a tic,[pause=10] y'all are locals,[pause=10] ain't ya?[pause=0] Y'all probably ain't in need of any beds then.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_112']))
 		UI:SetSpeakerEmotion("Sad")
-		UI:WaitShowDialogue("That's no good...[pause=0] I'm tryna drum up business fer the inn,[pause=10] but ain't many strangers in town today...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_113']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end
@@ -924,7 +924,7 @@ function metano_town_ch_4.Doduo_Action(chara, activator)
 		GeneralFunctions.StartConversation(chara, "We heard that the guild will soon be mounting an expedition somewhere to the north.")
 		UI:SetSpeakerEmotion("Stunned")
 		GROUND:CharSetEmote(chara, "sweating", 1)
-		UI:WaitShowDialogue("We've...[pause=30] erm...[pause=30] flown over that mountain range a few times,[pause=10] but never saw anything of note around there.")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_114']))
 	end
 	GeneralFunctions.EndConversation(chara)
 end
@@ -936,8 +936,8 @@ function metano_town_ch_4.Bagon_Action(chara, activator)
 	else
 		GeneralFunctions.StartConversation(chara, "So the guild is leaving on an expedition real soon,[pause=10] huh?")
 		UI:SetSpeakerEmotion("Happy")
-		UI:WaitShowDialogue("They're gonna need some luck to find anything!")
-		UI:WaitShowDialogue("If " .. CharacterEssentials.GetCharacterName("Doduo") .. " couldn't find anything while flying,[pause=10] the guild doesn't have a chance!")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_115']))
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MT4_116'], CharacterEssentials.GetCharacterName("Doduo")))
 	end
 	GeneralFunctions.EndConversation(chara)
 end

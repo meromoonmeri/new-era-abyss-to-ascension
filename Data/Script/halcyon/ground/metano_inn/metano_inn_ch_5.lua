@@ -24,12 +24,12 @@ end
 function metano_inn_ch_5.Passerby_1_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Seems like everyone in town is CROW-ing about some sort of guild expedition.", "Happy")
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Those adventurers better proceed with CAW-tion on their trip!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI5_001']))
 	UI:SetSpeakerEmotion("Joyous")
-	UI:WaitShowDialogue("I'm sure they'll find something pretty FLY![pause=0] They're a TALON-ted bunch after all!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI5_002']))
 	--GAME:WaitFrames(20)
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("...[pause=30]Why are you looking at me like that?")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI5_003']))
 	GeneralFunctions.EndConversation(chara)
 	--The whole town seems extra busy today! What's everyone CROWING about?
 	--Hmm, looks like nobody's INN
@@ -50,13 +50,13 @@ end
 function metano_inn_ch_5.Innkeeper_Desk_Right_Action(chara, activator) 
 	local nidoqueen = CH('Nidoqueen')
 	GeneralFunctions.StartConversation(nidoqueen, "I'm startin' to worry about my littlest one.", "Worried")
-	UI:WaitShowDialogue("He shoulda said his first word by now...[pause=0] I'm hopin' he'll say his first real soon!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI5_004']))
 	GeneralFunctions.EndConversation(nidoqueen)
 end
 
 function metano_inn_ch_5.Innkeeper_Desk_Left_Action(chara, activator) 
 	local nidoking = CH('Nidoking')
 	GeneralFunctions.StartConversation(nidoking, "Business been a bit slow as of late...[pause=0] Seems like we only get one 'er so guests a day!", "Worried")
-	UI:WaitShowDialogue("I reckon less Pokémon are on the roads what with the mystery dungeons and outlaws 'n all...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MI5_005']))
 	GeneralFunctions.EndConversation(nidoking)	
 end

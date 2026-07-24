@@ -33,10 +33,10 @@ function altere_pond_ch_5.Event_Trigger_1_Touch(obj, activator)
 	local hero = CH('PLAYER')
 	
 	GeneralFunctions.StartPartnerConversation("There's no time for any adventures in " .. zone:GetColoredName() .. "![pause=0] We have to prepare for the expedition!")
-	UI:WaitShowDialogue("When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.")
-	UI:WaitShowDialogue("After that we'll be on the road in no time!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP5_001']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP5_002']))
 	UI:SetSpeakerEmotion("Inspired")
-	UI:WaitShowDialogue("Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] " .. hero:GetDisplayName() .. "!")	
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP5_003'], hero:GetDisplayName()))
 	GeneralFunctions.EndConversation(partner)
 
 end

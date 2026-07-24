@@ -17,29 +17,29 @@ function altere_pond_ch_4.Relicanth_Action(chara, activator)
 			
 			GAME:WaitFrames(20)
 			UI:SetSpeaker(partner)
-			UI:WaitShowDialogue("No,[pause=10] " .. CharacterEssentials.GetCharacterName("Relicanth") .. ".[pause=0] We came by to visit!")
-			UI:WaitShowDialogue("It must get lonely out here,[pause=10] being all by yourself,[pause=10] so we wanted to come say hello!")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_001'], CharacterEssentials.GetCharacterName("Relicanth")))
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_002']))
 			
 			GAME:WaitFrames(20)
 			UI:SetSpeaker(relicanth)
-			UI:WaitShowDialogue("Hmmph.[pause=0] There is no need for that.[pause=0] I'm perfectly fine being here alone.")
-			UI:WaitShowDialogue("But,[pause=10] since you are here...[pause=0] Would you care to listen to a story?")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_003']))
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_004']))
 			
 			GAME:WaitFrames(20)
 			UI:SetSpeaker(partner)
 			UI:SetSpeakerEmotion("Worried")
-			UI:WaitShowDialogue("Sorry,[pause=10] " .. relicanth:GetDisplayName() .. "...[pause=0] Me and " .. hero:GetDisplayName() .. " have an important mission to do today!")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_005'], relicanth:GetDisplayName(), hero:GetDisplayName()))
 			UI:SetSpeakerEmotion("Normal")
-			UI:WaitShowDialogue("Maybe once we're done we'll come by and hear your story!")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_006']))
 			
 			GAME:WaitFrames(20)
 			UI:SetSpeaker(relicanth)
-			UI:WaitShowDialogue("Hmmph.[pause=0] You young ones always seem to have something on your plate...")
-			UI:WaitShowDialogue("Very well,[pause=10] come see me when you are finished and I'll tell you a story.")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_007']))
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_008']))
 			SV.Chapter4.SpokeToRelicanthDayOne = true
 		else 
 			GeneralFunctions.StartConversation(chara, "Hmmph.[pause=0] You young ones always seem to have something on your plate...", "Normal", true, false)
-			UI:WaitShowDialogue("Very well,[pause=10] come see me when you are finished and I'll tell you a story.")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['AP4_009']))
 		end
 	else
 		--tell a story. Perhaps something alluding to the upcoming expedition

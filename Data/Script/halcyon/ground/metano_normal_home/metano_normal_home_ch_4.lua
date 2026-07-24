@@ -25,7 +25,7 @@ function metano_normal_home_ch_4.Furret_Action(chara, activator)
 	if not SV.Chapter4.FinishedGrove then
 		GeneralFunctions.StartConversation(chara, "I have so many chores to take care of around the house today.", "Normal")
 		UI:SetSpeakerEmotion("Sad")
-		UI:WaitShowDialogue("This is seriously going to cut into my snoozing time...")
+		UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MNH4_001']))
 	else
 		--N/A
 	end

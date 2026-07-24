@@ -165,10 +165,10 @@ function mount_windswept_entrance_ch_5.ArrivalCutscene()
 	
 	GAME:WaitFrames(40)
 	UI:SetSpeaker(partner)
-	UI:WaitShowDialogue("Finally![pause=0] We're out of " .. tunnel:GetColoredName() .. "!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MWE5_001'], tunnel:GetColoredName()))
 	GAME:WaitFrames(20)
 	UI:SetSpeaker(growlithe)
-	UI:WaitShowDialogue("Oh,[pause=10] it's already dark![pause=0] I hope we're not too late...")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MWE5_002']))
 	GAME:WaitFrames(20)
 	
 	GAME:FadeIn(40)

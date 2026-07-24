@@ -64,4 +64,13 @@
   <data name="MFH3_001" xml:space="preserve">
     <value>Sniff...[pause=0] My baby boy...[pause=0] He's growing up so fast...</value>
   </data>
+  <data name="MFH4_001" xml:space="preserve">
+    <value>You've earned one with all your hard work,[pause=10] you just have to wait a little while more!</value>
+  </data>
+  <data name="MFH5_001" xml:space="preserve">
+    <value>I've been rewarding him with Lava Cakes when he finishes all of his chores for the day, but...</value>
+  </data>
+  <data name="MFH5_002" xml:space="preserve">
+    <value>I may need to cut down on how many I give him.[pause=0] I don't want him to start getting chubby!</value>
+  </data>
 </root>

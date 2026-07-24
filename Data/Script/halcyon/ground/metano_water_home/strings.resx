@@ -82,4 +82,10 @@
   <data name="MWH3_004" xml:space="preserve">
     <value>Worse comes to worse,[pause=10] the guild could rescue them like they rescued {0},[pause=10] right?</value>
   </data>
+  <data name="MWH4_001" xml:space="preserve">
+    <value>Then I'll turn myself in for the bounty they're sure to put on me!</value>
+  </data>
+  <data name="MWH4_002" xml:space="preserve">
+    <value>Haha![pause=0] Dream castle,[pause=10] you will be mine!</value>
+  </data>
 </root>

@@ -25,6 +25,6 @@ function metano_rock_home_ch_4.Meditite_Action(chara, activator)
 	--But I can't give up, or I'll never have any friends! I have to keep trying!
 	GeneralFunctions.StartConversation(chara, "I'm tryin',[pause=10] but struggling am I ta' friends make.[pause=0] Really gettin' down me,[pause=10] it is...", "Sad")
 	UI:SetSpeakerEmotion("Normal")
-	UI:WaitShowDialogue("But I cannae give up,[pause=10] 'er I winnae ever friends make![pause=0] Hafta it must I keep at!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['MRH4_001']))
 	GeneralFunctions.EndConversation(chara)
 end 

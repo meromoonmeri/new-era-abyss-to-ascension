@@ -1225,4 +1225,181 @@
   <data name="G2F3_120" xml:space="preserve">
     <value>It is most unusual to see one sticking up for an outlaw they have just apprehended...</value>
   </data>
+  <data name="G2F4_001" xml:space="preserve">
+    <value>I don't know how I'm gonna wait until we leave!</value>
+  </data>
+  <data name="G2F4_002" xml:space="preserve">
+    <value>I've gotta release this energy out on some\nba-a-a-addies or I won't sleep tonight!</value>
+  </data>
+  <data name="G2F4_003" xml:space="preserve">
+    <value>It must be a really easy exploration if he's letting you rookies tag along![pause=0] Hahaha!</value>
+  </data>
+  <data name="G2F4_004" xml:space="preserve">
+    <value>With the expedition coming up now,[pause=10] my culinary expertise will need to be applied elsewhere. {0}</value>
+  </data>
+  <data name="G2F4_005" xml:space="preserve">
+    <value>But if that team member was recruited with Apricorns,[pause=10] the rest of the team can still continue on.</value>
+  </data>
+  <data name="G2F4_006" xml:space="preserve">
+    <value>The three of us work great as a team,[pause=10] we don't need any more members!</value>
+  </data>
+  <data name="G2F4_007" xml:space="preserve">
+    <value>Besides,[pause=10] it'd be hard to find someone that shares our team's unique talents!</value>
+  </data>
+  <data name="G2F4_008" xml:space="preserve">
+    <value>They smell nice,[pause=10] especially the blue ones,[pause=10] but they're completely inedible![pause=0] How worthless!</value>
+  </data>
+  <data name="G2F4_009" xml:space="preserve">
+    <value>Moves that do damage and cause other effects...[pause=0] How nasty.</value>
+  </data>
+  <data name="G2F4_010" xml:space="preserve">
+    <value>Before we evolved,[pause=10] our {0} ability prevented secondary effects from working on us.</value>
+  </data>
+  <data name="G2F4_011" xml:space="preserve">
+    <value>But now that we're a {0} and {1},[pause=10] our abilities are completely different.</value>
+  </data>
+  <data name="G2F4_012" xml:space="preserve">
+    <value>...Between that and our current lack of mobility,[pause=10] I'm starting to regret our choice to evolve...</value>
+  </data>
+  <data name="G2F4_013" xml:space="preserve">
+    <value>What I bet you don't know is that only certain kinds of moves can critical hit!</value>
+  </data>
+  <data name="G2F4_014" xml:space="preserve">
+    <value>Moves like {0} and {1} are able to land critical hits.</value>
+  </data>
+  <data name="G2F4_015" xml:space="preserve">
+    <value>Other attacks can land critical hits too if you've used a move like {0}.</value>
+  </data>
+  <data name="G2F4_016" xml:space="preserve">
+    <value>Not many adventurers know about this![pause=0] But at least you two know about it now!</value>
+  </data>
+  <data name="G2F4_017" xml:space="preserve">
+    <value>Ssssounds intriguing...[pause=0] I would love to join in,[pause=10] but I undersssstand that it issss for guild memberssss only.</value>
+  </data>
+  <data name="G2F4_018" xml:space="preserve">
+    <value>Besidessss...[pause=0] The expedition would be too much given I would have to haul {0}'ssss dead weight around.</value>
+  </data>
+  <data name="G2F4_019" xml:space="preserve">
+    <value>I would do fine,[pause=10] but {0}?[pause=0] He'd be completely hopeless on an exploration like that.</value>
+  </data>
+  <data name="G2F4_020" xml:space="preserve">
+    <value>Hi,[pause=10] {0}![pause=0] What are you up to over here?</value>
+  </data>
+  <data name="G2F4_021" xml:space="preserve">
+    <value>W-well,[pause=10] since Apricorns aren't so rare anymore,[pause=10] I've decided to open up the {0} Assembly again!</value>
+  </data>
+  <data name="G2F4_022" xml:space="preserve">
+    <value>{0} Assembly?[pause=0] What's that?</value>
+  </data>
+  <data name="G2F4_023" xml:space="preserve">
+    <value>It's a place where you can assemble your teammates for adventures!</value>
+  </data>
+  <data name="G2F4_024" xml:space="preserve">
+    <value>Assemble my teammates?[pause=0] But...</value>
+  </data>
+  <data name="G2F4_025" xml:space="preserve">
+    <value>{0} is right here![pause=0] And we always go on adventures together anyway!</value>
+  </data>
+  <data name="G2F4_026" xml:space="preserve">
+    <value>No no![pause=0] I m-meant recruits to your team![pause=0] Surely you've thought about adding more Pokémon to your team,[pause=10] r-right?</value>
+  </data>
+  <data name="G2F4_027" xml:space="preserve">
+    <value>Other Pokémon?[pause=0] I hadn't really given it much thought...</value>
+  </data>
+  <data name="G2F4_028" xml:space="preserve">
+    <value>But,[pause=10] having other Pokémon with us could be helpful for adventures!</value>
+  </data>
+  <data name="G2F4_029" xml:space="preserve">
+    <value>Yeah![pause=0] I think so too![pause=0] The more the m-merrier after all!</value>
+  </data>
+  <data name="G2F4_030" xml:space="preserve">
+    <value>Of course,[pause=10] you'll need to recruit other Pokémon first before you can bring them on adventures!</value>
+  </data>
+  <data name="G2F4_031" xml:space="preserve">
+    <value>Oh,[pause=10] right![pause=0] How would we do that?</value>
+  </data>
+  <data name="G2F4_032" xml:space="preserve">
+    <value>With Apricorns,[pause=10] of course!</value>
+  </data>
+  <data name="G2F4_033" xml:space="preserve">
+    <value>If you see a Pokémon you're interested in recruiting while out on an adventure...</value>
+  </data>
+  <data name="G2F4_034" xml:space="preserve">
+    <value>...Throw an Apricorn at them and they may j-join your team!</value>
+  </data>
+  <data name="G2F4_035" xml:space="preserve">
+    <value>Woah![pause=0] Is it really that simple?</value>
+  </data>
+  <data name="G2F4_036" xml:space="preserve">
+    <value>U-um,[pause=10] well,[pause=10] no...[pause=0] It's a bit more complicated than that...</value>
+  </data>
+  <data name="G2F4_037" xml:space="preserve">
+    <value>For example,[pause=10] some Apricorns are better at recruiting certain types of Pokémon!</value>
+  </data>
+  <data name="G2F4_038" xml:space="preserve">
+    <value>Also,[pause=10] Pokémon won't join you if they're way stronger than you![pause=0] And some Pokémon won't join no matter what!</value>
+  </data>
+  <data name="G2F4_039" xml:space="preserve">
+    <value>Pokémon are also more willing to join your team if they've been weakened!</value>
+  </data>
+  <data name="G2F4_040" xml:space="preserve">
+    <value>Of course,[pause=10] a Pokémon won't always join your team when you t-throw an Apricorn at them...</value>
+  </data>
+  <data name="G2F4_041" xml:space="preserve">
+    <value>But you should be able to tell how willing a Pokémon is to join you based on their reaction to the Apricorn!</value>
+  </data>
+  <data name="G2F4_042" xml:space="preserve">
+    <value>Anyways,[pause=10] once you've r-recruited some Pokémon,[pause=10] come see me and I'll help you manage who goes on adventures!</value>
+  </data>
+  <data name="G2F4_043" xml:space="preserve">
+    <value>Wow![pause=0] Thanks,[pause=10] {0}![pause=0] This is all really helpful!</value>
+  </data>
+  <data name="G2F4_044" xml:space="preserve">
+    <value>G-glad I could help![pause=0] Be sure to come see me anytime you'd like to change your team members around!</value>
+  </data>
+  <data name="G2F4_045" xml:space="preserve">
+    <value>We will![pause=0] Thank you again,[pause=10] {0}!</value>
+  </data>
+  <data name="G2F4_046" xml:space="preserve">
+    <value>{0}![pause=0] Let's try to recruit as many new team members as we can!</value>
+  </data>
+  <data name="G2F4_047" xml:space="preserve">
+    <value>I'm sure we can find plenty of Apricorns in {0} to help us with that!</value>
+  </data>
+  <data name="G2F5_001" xml:space="preserve">
+    <value>Oh?[pause=0] There's a note on {0}'s desk...</value>
+  </data>
+  <data name="G2F5_002" xml:space="preserve">
+    <value>"Out preparing for the expedition![pause=0] As such,[pause=10] the assembly is closed until further notice."</value>
+  </data>
+  <data name="G2F5_003" xml:space="preserve">
+    <value>"In the meantime,[pause=10] please leave a message on this note if you need to dismiss any extra team members."</value>
+  </data>
+  <data name="G2F5_004" xml:space="preserve">
+    <value>"Thank you!"[pause=30]\n-{0}</value>
+  </data>
+  <data name="G2F5_005" xml:space="preserve">
+    <value>Would you like to dismiss your non-guild team members to the assembly?</value>
+  </data>
+  <data name="G2F5_006" xml:space="preserve">
+    <value>Non-guild team members have been dismissed!</value>
+  </data>
+  <data name="G2F5_007" xml:space="preserve">
+    <value>I can't wait to see their moves,[pause=10] woa cho cho!</value>
+  </data>
+  <data name="G2F5_008" xml:space="preserve">
+    <value>These mystery dungeons will be a breeze as we boogie on through!</value>
+  </data>
+  <data name="G2F5_009" xml:space="preserve">
+    <value>I wassss worried that would mean no jobssss could get done while they're away...</value>
+  </data>
+  <data name="G2F5_010" xml:space="preserve">
+    <value>...But it sssseemssss the Pelipper Posssst Office will handle the job boards in the meantime.</value>
+  </data>
+  <data name="G2F5_011" xml:space="preserve">
+    <value>That'ssss bad newssss for {0}.[pause=0] He'd love the opportunity to sssslack off.</value>
+  </data>
+  <data name="G2F5_012" xml:space="preserve">
+    <value>It'd be awful to be out of work while the guild's out exploring,[pause=10] even if {0} would enjoy idling around.</value>
+  </data>
 </root>

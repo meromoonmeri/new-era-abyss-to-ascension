@@ -46,19 +46,19 @@ function guild_second_floor_ch_5.Event_Object_1_Action(chara, activator)
 	
 	UI:ResetSpeaker(false)
 	UI:SetCenter(true)
-	UI:WaitShowDialogue("Oh?[pause=0] There's a note on " .. CharacterEssentials.GetCharacterName("Audino") .. "'s desk...")
-	UI:WaitShowDialogue('"Out preparing for the expedition![pause=0] As such,[pause=10] the assembly is closed until further notice."')
-	UI:WaitShowDialogue('"In the meantime,[pause=10] please leave a message on this note if you need to dismiss any extra team members."')
-	UI:WaitShowDialogue('"Thank you!"[pause=30]\n-' .. CharacterEssentials.GetCharacterName("Audino"))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_001'], CharacterEssentials.GetCharacterName("Audino")))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_002']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_003']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_004'], CharacterEssentials.GetCharacterName("Audino")))
 	
 	if GAME:GetPlayerPartyCount() > 2 then
 		GAME:WaitFrames(20)
-		UI:ChoiceMenuYesNo("Would you like to dismiss your non-guild team members to the assembly?")
+		UI:ChoiceMenuYesNo(STRINGS:Format(STRINGS.MapStrings['G2F5_005']))
 		UI:WaitForChoice()
 		local result = UI:ChoiceResult()
 		if result then
 			GeneralFunctions.DefaultParty(false)
-			UI:WaitShowDialogue("Non-guild team members have been dismissed!")
+			UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_006']))
 			AI:EnableCharacterAI(partner)
 			AI:SetCharacterAI(partner, "origin.ai.ground_partner", CH('PLAYER'), partner.Position)
 		end
@@ -80,7 +80,7 @@ end
 
 function guild_second_floor_ch_5.Ludicolo_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Yah![pause=0] We'll have a dance party with the Pokémon we rescue!", "Normal", true, false)
-	UI:WaitShowDialogue("I can't wait to see their moves,[pause=10] woa cho cho!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_007']))
 	GeneralFunctions.EndConversation(chara)
 
 end
@@ -88,21 +88,21 @@ end
 function guild_second_floor_ch_5.Spinda_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Lah![pause=0] There's no task that can't be accomplished with dancing.", "Normal", true, false)
 	UI:SetSpeakerEmotion("Happy")
-	UI:WaitShowDialogue("These mystery dungeons will be a breeze as we boogie on through!")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_008']))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function guild_second_floor_ch_5.Seviper_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "Lookssss like the guild is ssssuddenly leaving on their expedition.")
-	UI:WaitShowDialogue("I wassss worried that would mean no jobssss could get done while they're away...")
-	UI:WaitShowDialogue("...But it sssseemssss the Pelipper Posssst Office will handle the job boards in the meantime.")
-	UI:WaitShowDialogue("That'ssss bad newssss for " .. CharacterEssentials.GetCharacterName("Zangoose") .. ".[pause=0] He'd love the opportunity to sssslack off.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_009']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_010']))
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_011'], CharacterEssentials.GetCharacterName("Zangoose")))
 	GeneralFunctions.EndConversation(chara)
 end
 
 function guild_second_floor_ch_5.Zangoose_Action(chara, activator)
 	GeneralFunctions.StartConversation(chara, "We're lucky the Pelipper Post Office will manage the boards while the guild's locked up.")
-	UI:WaitShowDialogue("It'd be awful to be out of work while the guild's out exploring,[pause=10] even if " .. CharacterEssentials.GetCharacterName("Seviper") .. " would enjoy idling around.")
+	UI:WaitShowDialogue(STRINGS:Format(STRINGS.MapStrings['G2F5_012'], CharacterEssentials.GetCharacterName("Seviper")))
 	GeneralFunctions.EndConversation(chara)
 end
 

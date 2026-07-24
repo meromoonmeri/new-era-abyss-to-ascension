@@ -1960,4 +1960,466 @@
   <data name="MT3_150" xml:space="preserve">
     <value>Well,[pause=10] I know you two will make the correct choice![pause=0] As such,[pause=10] I look forward to serving you in the future!</value>
   </data>
+  <data name="MT4_001" xml:space="preserve">
+    <value>Hurf...[pause=0] I c-caught up to you guys...[pause=0] Thank goodness...</value>
+  </data>
+  <data name="MT4_002" xml:space="preserve">
+    <value>Phew![pause=0] I'm glad I made it to you two before you headed out today!</value>
+  </data>
+  <data name="MT4_003" xml:space="preserve">
+    <value>Hey {0}![pause=0] What's going on?[pause=0] Why are you in such a hurry to catch us?</value>
+  </data>
+  <data name="MT4_004" xml:space="preserve">
+    <value>You know how I've opened up my Assembly again,[pause=10]\nr-right?</value>
+  </data>
+  <data name="MT4_005" xml:space="preserve">
+    <value>W-well,[pause=10] to go along with that,[pause=10] I've placed a signpost here by the way out of town!</value>
+  </data>
+  <data name="MT4_006" xml:space="preserve">
+    <value>See?[pause=0] It's right here![script=0]</value>
+  </data>
+  <data name="MT4_007" xml:space="preserve">
+    <value>Just ring the bell on it like so...</value>
+  </data>
+  <data name="MT4_008" xml:space="preserve">
+    <value>...And I'll come running from the guild so you can use the Assembly out here!</value>
+  </data>
+  <data name="MT4_009" xml:space="preserve">
+    <value>M-my ears are really sensitive,[pause=10] so I'll hear it even all the way out here!</value>
+  </data>
+  <data name="MT4_010" xml:space="preserve">
+    <value>Just try not to overuse it,[pause=10] I do enough r-running around as it is!</value>
+  </data>
+  <data name="MT4_011" xml:space="preserve">
+    <value>Oh![pause=0] One more thing!</value>
+  </data>
+  <data name="MT4_012" xml:space="preserve">
+    <value>I spoke to {0} at the café earlier today.</value>
+  </data>
+  <data name="MT4_013" xml:space="preserve">
+    <value>He said it was OK for teammates accompanying you on adventures to wait inside the café!</value>
+  </data>
+  <data name="MT4_014" xml:space="preserve">
+    <value>So if y-you want to meet with your teammates before going out on an adventure,[pause=10] just visit the café!</value>
+  </data>
+  <data name="MT4_015" xml:space="preserve">
+    <value>That's all I had to share with you![pause=0] I hope this will all be u-useful for you two!</value>
+  </data>
+  <data name="MT4_016" xml:space="preserve">
+    <value>It is![pause=0] Thank you for doing all this,[pause=10] it'll be a huge help for us!</value>
+  </data>
+  <data name="MT4_017" xml:space="preserve">
+    <value>Oh![pause=0] It's no p-problem![pause=0] I'm just g-glad I can help out!</value>
+  </data>
+  <data name="MT4_018" xml:space="preserve">
+    <value>W-well,[pause=10] I'd better get back to the guild now.[pause=0] Good luck with your adventure today!</value>
+  </data>
+  <data name="MT4_019" xml:space="preserve">
+    <value>An impressive find,[pause=10] but it's of no use to someone such as myself.</value>
+  </data>
+  <data name="MT4_020" xml:space="preserve">
+    <value>Any chef worth their salt knows the larger the Apricorn,[pause=10] the harder and more bitter it becomes.</value>
+  </data>
+  <data name="MT4_021" xml:space="preserve">
+    <value>An Apricorn like that would be totally worthless for the dish that I've been cooking up. {0}</value>
+  </data>
+  <data name="MT4_022" xml:space="preserve">
+    <value>It would be wonderful if we found an exotic delicacy that I can use to make a fantastic new meal. {0}</value>
+  </data>
+  <data name="MT4_023" xml:space="preserve">
+    <value>I hope I can learn a lot on it![pause=0] I'll be sure to write down everything I learn in my almanacs!</value>
+  </data>
+  <data name="MT4_024" xml:space="preserve">
+    <value>Plus,[pause=10] it's been a while since {0} and I have been on an adventure!</value>
+  </data>
+  <data name="MT4_025" xml:space="preserve">
+    <value>He's always stuck on sentry duty,[pause=10] so it'll be great to adventure with him again!</value>
+  </data>
+  <data name="MT4_026" xml:space="preserve">
+    <value>The more Pokémon you have,[pause=10] the more dancing you can do! {0}</value>
+  </data>
+  <data name="MT4_027" xml:space="preserve">
+    <value>They'll make fantastic maracas,[pause=10] cha cha cha!</value>
+  </data>
+  <data name="MT4_028" xml:space="preserve">
+    <value>Dancing,[pause=10] juggling,[pause=10] dancing while juggling![pause=0] I will become a master of all three!</value>
+  </data>
+  <data name="MT4_029" xml:space="preserve">
+    <value>The last thing the book covered is how mystery dungeons change the further you go in them.</value>
+  </data>
+  <data name="MT4_030" xml:space="preserve">
+    <value>The way they structure themselves,[pause=10] the strength and type of enemies within,[pause=10] the visibility...</value>
+  </data>
+  <data name="MT4_031" xml:space="preserve">
+    <value>All these and more can change as you progress in a dungeon,[pause=10] usually in a way that makes it more difficult.</value>
+  </data>
+  <data name="MT4_032" xml:space="preserve">
+    <value>How interesting.[pause=0] With design like that,[pause=10] it makes me wonder just how natural these dungeons are.</value>
+  </data>
+  <data name="MT4_033" xml:space="preserve">
+    <value>...You're going to explore that forest full of Apricorns?</value>
+  </data>
+  <data name="MT4_034" xml:space="preserve">
+    <value>I've heard that place was discovered recently.[pause=0] Nobody's gone inside it yet,[pause=10] right?</value>
+  </data>
+  <data name="MT4_035" xml:space="preserve">
+    <value>Sounds like it'll be a great adventure![pause=0] Good luck,[pause=10] I'm rooting for the both of you!</value>
+  </data>
+  <data name="MT4_036" xml:space="preserve">
+    <value>...Woah,[pause=10] you managed to retrieve a huge Apricorn from the forest's center?</value>
+  </data>
+  <data name="MT4_037" xml:space="preserve">
+    <value>Seems to me like your adventure was a complete success then![pause=0] I knew you two could do it!</value>
+  </data>
+  <data name="MT4_038" xml:space="preserve">
+    <value>But an expedition means I won't see either of you for a while,[pause=10] doesn't it?</value>
+  </data>
+  <data name="MT4_039" xml:space="preserve">
+    <value>I'll miss seeing you around town...</value>
+  </data>
+  <data name="MT4_040" xml:space="preserve">
+    <value>You'll just have to make that up to me by finding something fantastic on that expedition,[pause=10] got it?</value>
+  </data>
+  <data name="MT4_041" xml:space="preserve">
+    <value>It's not dark,[pause=10] hiding like that isn't going to work unless it's dark...</value>
+  </data>
+  <data name="MT4_042" xml:space="preserve">
+    <value>(...Actually,[pause=10] it's better if I don't let them know I've found them.[pause=0] They won't bother me that way.)</value>
+  </data>
+  <data name="MT4_043" xml:space="preserve">
+    <value>I mean...[pause=0] Where could {0} and {1} be?[pause=0] I'm never going to be able to find them!</value>
+  </data>
+  <data name="MT4_044" xml:space="preserve">
+    <value>Better her than me though,[pause=10] hehehe!</value>
+  </data>
+  <data name="MT4_045" xml:space="preserve">
+    <value>{0} couldn't find me when we played,[pause=10] and now {1} can't find me,[pause=10] hehe!</value>
+  </data>
+  <data name="MT4_046" xml:space="preserve">
+    <value>What should we all play today?</value>
+  </data>
+  <data name="MT4_047" xml:space="preserve">
+    <value>{0} should pick![pause=0] I'm sure she would know something fun for us to play!</value>
+  </data>
+  <data name="MT4_048" xml:space="preserve">
+    <value>Ya want me ta' pick?[pause=0] Umm,[pause=10] think lemme...</value>
+  </data>
+  <data name="MT4_049" xml:space="preserve">
+    <value>Sumo wrestlin' how about?[pause=0] Game it is where we shov' to try each other outta a ring!</value>
+  </data>
+  <data name="MT4_050" xml:space="preserve">
+    <value>That sounds like a lot of fun![pause=0] Let's play that!</value>
+  </data>
+  <data name="MT4_051" xml:space="preserve">
+    <value>Yeah![pause=0] Let's play sumo wrestlers!</value>
+  </data>
+  <data name="MT4_052" xml:space="preserve">
+    <value>W-wait![pause=0] Y-you understand me can!?</value>
+  </data>
+  <data name="MT4_053" xml:space="preserve">
+    <value>Of course we can![pause=0] I understand you easily!</value>
+  </data>
+  <data name="MT4_054" xml:space="preserve">
+    <value>Yeah![pause=0] Why wouldn't we be able to?</value>
+  </data>
+  <data name="MT4_055" xml:space="preserve">
+    <value>I suppose I'm not it used to all is...</value>
+  </data>
+  <data name="MT4_056" xml:space="preserve">
+    <value>Why does she stay in the cave all day?[pause=0] She must get lonely being in there all the time...</value>
+  </data>
+  <data name="MT4_057" xml:space="preserve">
+    <value>Be rid of it wish to I,[pause=10] but upset him do not want I.</value>
+  </data>
+  <data name="MT4_058" xml:space="preserve">
+    <value>But nary a soul has gone inside to explore it yet,[pause=10] far as I know.</value>
+  </data>
+  <data name="MT4_059" xml:space="preserve">
+    <value>Somebody needs ta' get in there and cover the place from top ta' bottom![pause=0] We need them Apricorns!</value>
+  </data>
+  <data name="MT4_060" xml:space="preserve">
+    <value>Whaddya mean ya dinnae like the mailbox!?</value>
+  </data>
+  <data name="MT4_061" xml:space="preserve">
+    <value>Think not do you gaudy that it is?</value>
+  </data>
+  <data name="MT4_062" xml:space="preserve">
+    <value>A' course it is![pause=0] But that's what's so great about it!</value>
+  </data>
+  <data name="MT4_063" xml:space="preserve">
+    <value>I mean,[pause=10] think about it![pause=0] A {0} feelin' the need ta' flex his muscles even on 'is mailbox?</value>
+  </data>
+  <data name="MT4_064" xml:space="preserve">
+    <value>Hoohoo,[pause=10] what a riot!</value>
+  </data>
+  <data name="MT4_065" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="MT4_066" xml:space="preserve">
+    <value>...Ohohohohoho!</value>
+  </data>
+  <data name="MT4_067" xml:space="preserve">
+    <value>Put it like that when you,[pause=10] suppose I that the mailbox pretty funny is!</value>
+  </data>
+  <data name="MT4_068" xml:space="preserve">
+    <value>Hoohoo![pause=0] I'm glad ye can see it my way,[pause=10] dearest!</value>
+  </data>
+  <data name="MT4_069" xml:space="preserve">
+    <value>It's been forever since I've gone on an adventure,[pause=10] let alone an expedition![pause=0] It's gonna be great,[pause=10] ruff!</value>
+  </data>
+  <data name="MT4_070" xml:space="preserve">
+    <value>They shouldn't be much longer,[pause=10] but I can't wait anymore![pause=0] This expedition is gonna be so much fun,[pause=10] ruff!</value>
+  </data>
+  <data name="MT4_071" xml:space="preserve">
+    <value>It's been too long since we last met.[pause=0] I want to send a letter to see how she and her family are doing.</value>
+  </data>
+  <data name="MT4_072" xml:space="preserve">
+    <value>But apparently the post office here is for handling rescue requests between adventuring teams only.</value>
+  </data>
+  <data name="MT4_073" xml:space="preserve">
+    <value>Hmm...[pause=0] I wonder how I'm going to get this letter sent out now...</value>
+  </data>
+  <data name="MT4_074" xml:space="preserve">
+    <value>They normally only handle rescue requests between adventuring teams...</value>
+  </data>
+  <data name="MT4_075" xml:space="preserve">
+    <value>...But they said they'd handle any mail between my friend and I!</value>
+  </data>
+  <data name="MT4_076" xml:space="preserve">
+    <value>...Wait a moment,[pause=10] you two are those wonderful adventurers that saved {0}!</value>
+  </data>
+  <data name="MT4_077" xml:space="preserve">
+    <value>The post office is perfect for great adventurers like you then![pause=0] I'm sure you'll find it useful!</value>
+  </data>
+  <data name="MT4_078" xml:space="preserve">
+    <value>Is it really true you're going on a big adventure soon?</value>
+  </data>
+  <data name="MT4_079" xml:space="preserve">
+    <value>That's so cool![pause=0] Adventurers like my brother really get to do awesome things after all!</value>
+  </data>
+  <data name="MT4_080" xml:space="preserve">
+    <value>Outlaws all have a bounty on their head,[pause=10] right?</value>
+  </data>
+  <data name="MT4_081" xml:space="preserve">
+    <value>If I take some stuff from the Kecleon Shop during the night,[pause=10] the authorities will put a bounty on me!</value>
+  </data>
+  <data name="MT4_082" xml:space="preserve">
+    <value>Then,[pause=10] if I turn myself in,[pause=10] I can get the bounty!</value>
+  </data>
+  <data name="MT4_083" xml:space="preserve">
+    <value>Of course,[pause=10] I'll have to leave some money to pay for the items I take...[pause=0] I don't wanna steal after all!</value>
+  </data>
+  <data name="MT4_084" xml:space="preserve">
+    <value>This plan is foolproof![pause=0] I'll be able to afford my castle in no time!</value>
+  </data>
+  <data name="MT4_085" xml:space="preserve">
+    <value>We're supposed to be doing some shopping together,[pause=10] but he wandered off somewhere.</value>
+  </data>
+  <data name="MT4_086" xml:space="preserve">
+    <value>I hope he isn't getting up to any trouble...</value>
+  </data>
+  <data name="MT4_087" xml:space="preserve">
+    <value>Here's all the stuff he took.[pause=0] Sorry again about all this.[pause=0] I don't know what's gotten into my husband lately.</value>
+  </data>
+  <data name="MT4_088" xml:space="preserve">
+    <value>It's no problem at all my dear. {0}</value>
+  </data>
+  <data name="MT4_089" xml:space="preserve">
+    <value>Your husband actually left payment for all the goods he took,[pause=10] so you're free to keep whatever you'd like. {0}</value>
+  </data>
+  <data name="MT4_090" xml:space="preserve">
+    <value>Thank you.[pause=0] I think I'll just hold on to what he took in that case.</value>
+  </data>
+  <data name="MT4_091" xml:space="preserve">
+    <value>Though I wish I could figure out what's going on in that head of his.</value>
+  </data>
+  <data name="MT4_092" xml:space="preserve">
+    <value>I'm not sure how he thought this would turn out.</value>
+  </data>
+  <data name="MT4_093" xml:space="preserve">
+    <value>I can't answer that,[pause=10] but given that he paid for the wares he took,[pause=10] he must have a good heart at least.</value>
+  </data>
+  <data name="MT4_094" xml:space="preserve">
+    <value>His heart is usually in the right place...[pause=0] If only his head could be in the right place too.</value>
+  </data>
+  <data name="MT4_095" xml:space="preserve">
+    <value>I'm so proud of my little {0}![pause=0] He's been such a great help around the house lately!</value>
+  </data>
+  <data name="MT4_096" xml:space="preserve">
+    <value>That's wonderful {0}![pause=0] I'm glad to hear that!</value>
+  </data>
+  <data name="MT4_097" xml:space="preserve">
+    <value>{0},[pause=10] how does your family handle the household chores?[pause=0] Do you split them up like we do?</value>
+  </data>
+  <data name="MT4_098" xml:space="preserve">
+    <value>Chores?[pause=0] I don't think about them at all!</value>
+  </data>
+  <data name="MT4_099" xml:space="preserve">
+    <value>Wh-what?[pause=0] You don't think about them at all?[pause=0] H-how?</value>
+  </data>
+  <data name="MT4_100" xml:space="preserve">
+    <value>I don't worry about small stuff like chores![pause=0] When they need to get done,[pause=10] they'll get done!</value>
+  </data>
+  <data name="MT4_101" xml:space="preserve">
+    <value>There's no reason to put thought into them like that!</value>
+  </data>
+  <data name="MT4_102" xml:space="preserve">
+    <value>So carefree...[pause=0] I'm a little envious...</value>
+  </data>
+  <data name="MT4_103" xml:space="preserve">
+    <value>But I suppose he is still quite young...[pause=0] He will learn his lesson soon enough.[pause=0] I trust that he will.</value>
+  </data>
+  <data name="MT4_104" xml:space="preserve">
+    <value>It's pretty boring without her around...</value>
+  </data>
+  <data name="MT4_105" xml:space="preserve">
+    <value>{0},[pause=10] do you think the world's getting more dangerous?</value>
+  </data>
+  <data name="MT4_106" xml:space="preserve">
+    <value>My dad's been talking about it a lot lately,[pause=10] and it's got me worried...</value>
+  </data>
+  <data name="MT4_107" xml:space="preserve">
+    <value>No way![pause=0] I've never seen anything dangerous or interesting happen!</value>
+  </data>
+  <data name="MT4_108" xml:space="preserve">
+    <value>If your dad is anything like mine,[pause=10] it's probably something he made up so he can boss you around more!</value>
+  </data>
+  <data name="MT4_109" xml:space="preserve">
+    <value>I don't think he would make things up.[pause=0] It's true you don't see much danger near town...</value>
+  </data>
+  <data name="MT4_110" xml:space="preserve">
+    <value>But that doesn't mean dangerous stuff isn't happening in other places of the world!</value>
+  </data>
+  <data name="MT4_111" xml:space="preserve">
+    <value>Hmmph.[pause=0] I still think the adults are full of it...</value>
+  </data>
+  <data name="MT4_112" xml:space="preserve">
+    <value>...Wait a tic,[pause=10] y'all are locals,[pause=10] ain't ya?[pause=0] Y'all probably ain't in need of any beds then.</value>
+  </data>
+  <data name="MT4_113" xml:space="preserve">
+    <value>That's no good...[pause=0] I'm tryna drum up business fer the inn,[pause=10] but ain't many strangers in town today...</value>
+  </data>
+  <data name="MT4_114" xml:space="preserve">
+    <value>We've...[pause=30] erm...[pause=30] flown over that mountain range a few times,[pause=10] but never saw anything of note around there.</value>
+  </data>
+  <data name="MT4_115" xml:space="preserve">
+    <value>They're gonna need some luck to find anything!</value>
+  </data>
+  <data name="MT4_116" xml:space="preserve">
+    <value>If {0} couldn't find anything while flying,[pause=10] the guild doesn't have a chance!</value>
+  </data>
+  <data name="MT5_001" xml:space="preserve">
+    <value>It's gonna be a bla-a-a-ast![pause=0] We're gonna all have so much fun together!</value>
+  </data>
+  <data name="MT5_002" xml:space="preserve">
+    <value>But we gotta be prepa-a-a-ared![pause=0] The expedition will be tough,[pause=10] so stock up while you ca-a-a-an!</value>
+  </data>
+  <data name="MT5_003" xml:space="preserve">
+    <value>The only way you'll be able to remember old moves on the road is a {0},[pause=10] and those are a rare find.</value>
+  </data>
+  <data name="MT5_004" xml:space="preserve">
+    <value>I don't wanna hear your bellyaching later because you're too lazy to take care of it now!</value>
+  </data>
+  <data name="MT5_005" xml:space="preserve">
+    <value>How exciting![pause=0] I'm sure you two are gonna have a lot of fun exploring all sorts of different places!</value>
+  </data>
+  <data name="MT5_006" xml:space="preserve">
+    <value>Have a safe trip![pause=0] Be sure to come back in one piece so you can tell me all about it!</value>
+  </data>
+  <data name="MT5_007" xml:space="preserve">
+    <value>.........</value>
+  </data>
+  <data name="MT5_008" xml:space="preserve">
+    <value>H-heh.[pause=0] Just more t-time I get to spend without them annoying me.</value>
+  </data>
+  <data name="MT5_009" xml:space="preserve">
+    <value>...Alone.</value>
+  </data>
+  <data name="MT5_010" xml:space="preserve">
+    <value>Normally,[pause=10] {0} worries about bad Pokémon coming and hurting {1} without guild around...</value>
+  </data>
+  <data name="MT5_011" xml:space="preserve">
+    <value>But {0} trained really hard in dojo![pause=0] {1} not afraid of outlaws anymore!</value>
+  </data>
+  <data name="MT5_012" xml:space="preserve">
+    <value>{0} will swim in the water in peace now that {1} so strong!</value>
+  </data>
+  <data name="MT5_013" xml:space="preserve">
+    <value>They're...[pause=30] uh...[pause=30] not very good.</value>
+  </data>
+  <data name="MT5_014" xml:space="preserve">
+    <value>...That said,[pause=10] I do feel good after drinking it.[pause=0] It's like I just woke up from a good night's sleep!</value>
+  </data>
+  <data name="MT5_015" xml:space="preserve">
+    <value>...But we're struggling to enjoy it since we have no good way to hold the bottle.</value>
+  </data>
+  <data name="MT5_016" xml:space="preserve">
+    <value>You should head on into the café and grab one while you can!</value>
+  </data>
+  <data name="MT5_017" xml:space="preserve">
+    <value>Then she said she was tired and wanted to rest alone,[pause=10] so she made me leave.</value>
+  </data>
+  <data name="MT5_018" xml:space="preserve">
+    <value>She's a really nice Pokémon![pause=0] I hope she can tell me another story soon!</value>
+  </data>
+  <data name="MT5_019" xml:space="preserve">
+    <value>They're so yummy,[pause=10] it's worth all the hard work!</value>
+  </data>
+  <data name="MT5_020" xml:space="preserve">
+    <value>Hoohoo![pause=0] I'm so happy fer her![pause=0] It's been real tough fer her to make any friends,[pause=10] y'know!</value>
+  </data>
+  <data name="MT5_021" xml:space="preserve">
+    <value>Help you can clever thinking to overcome any challenges face you may.</value>
+  </data>
+  <data name="MT5_022" xml:space="preserve">
+    <value>Wise it would be to keep in mind that on your journey upcoming!</value>
+  </data>
+  <data name="MT5_023" xml:space="preserve">
+    <value>Oh![pause=30] And be sure to share the treasure with me if it ends up being something yummy!</value>
+  </data>
+  <data name="MT5_024" xml:space="preserve">
+    <value>You should also leave some items with {0}.</value>
+  </data>
+  <data name="MT5_025" xml:space="preserve">
+    <value>I'm sure you'll encounter some spots where you can restock using her storage,[pause=10] so try to leave some stuff in reserve!</value>
+  </data>
+  <data name="MT5_026" xml:space="preserve">
+    <value>Did you hear that the guild's going on some big adventure?</value>
+  </data>
+  <data name="MT5_027" xml:space="preserve">
+    <value>Yeah.[pause=0] So?</value>
+  </data>
+  <data name="MT5_028" xml:space="preserve">
+    <value>I've been thinking about all the sorts of things they could encounter on their trip!</value>
+  </data>
+  <data name="MT5_029" xml:space="preserve">
+    <value>They could find awesome treasure,[pause=10] or fight a really tough Pokémon,[pause=10] or discover a totally new part of the world!</value>
+  </data>
+  <data name="MT5_030" xml:space="preserve">
+    <value>There's so much that could happen![pause=0] What do you think they'll find?</value>
+  </data>
+  <data name="MT5_031" xml:space="preserve">
+    <value>...[pause=30]Meh.[pause=0] I don't care.[pause=0] Adventurers are lame,[pause=10] anyways.</value>
+  </data>
+  <data name="MT5_032" xml:space="preserve">
+    <value>O-oh.[pause=0] Too bad...</value>
+  </data>
+  <data name="MT5_033" xml:space="preserve">
+    <value>When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.</value>
+  </data>
+  <data name="MT5_034" xml:space="preserve">
+    <value>After that we'll be on the road in no time!</value>
+  </data>
+  <data name="MT5_035" xml:space="preserve">
+    <value>Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] {0}!</value>
+  </data>
+  <data name="MT5_036" xml:space="preserve">
+    <value>When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.</value>
+  </data>
+  <data name="MT5_037" xml:space="preserve">
+    <value>After that we'll be on the road in no time!</value>
+  </data>
+  <data name="MT5_038" xml:space="preserve">
+    <value>Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] {0}!</value>
+  </data>
 </root>

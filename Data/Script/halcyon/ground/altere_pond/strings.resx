@@ -193,4 +193,40 @@
   <data name="AP3_006" xml:space="preserve">
     <value>Just because my eyes aren't what they used to be doesn't mean I won't know if you're up to something!</value>
   </data>
+  <data name="AP4_001" xml:space="preserve">
+    <value>No,[pause=10] {0}.[pause=0] We came by to visit!</value>
+  </data>
+  <data name="AP4_002" xml:space="preserve">
+    <value>It must get lonely out here,[pause=10] being all by yourself,[pause=10] so we wanted to come say hello!</value>
+  </data>
+  <data name="AP4_003" xml:space="preserve">
+    <value>Hmmph.[pause=0] There is no need for that.[pause=0] I'm perfectly fine being here alone.</value>
+  </data>
+  <data name="AP4_004" xml:space="preserve">
+    <value>But,[pause=10] since you are here...[pause=0] Would you care to listen to a story?</value>
+  </data>
+  <data name="AP4_005" xml:space="preserve">
+    <value>Sorry,[pause=10] {0}...[pause=0] Me and {1} have an important mission to do today!</value>
+  </data>
+  <data name="AP4_006" xml:space="preserve">
+    <value>Maybe once we're done we'll come by and hear your story!</value>
+  </data>
+  <data name="AP4_007" xml:space="preserve">
+    <value>Hmmph.[pause=0] You young ones always seem to have something on your plate...</value>
+  </data>
+  <data name="AP4_008" xml:space="preserve">
+    <value>Very well,[pause=10] come see me when you are finished and I'll tell you a story.</value>
+  </data>
+  <data name="AP4_009" xml:space="preserve">
+    <value>Very well,[pause=10] come see me when you are finished and I'll tell you a story.</value>
+  </data>
+  <data name="AP5_001" xml:space="preserve">
+    <value>When you feel we're ready,[pause=10] we need to go see the Guildmaster in his office.</value>
+  </data>
+  <data name="AP5_002" xml:space="preserve">
+    <value>After that we'll be on the road in no time!</value>
+  </data>
+  <data name="AP5_003" xml:space="preserve">
+    <value>Ooooh,[pause=10] it's so exciting![pause=0] Let's go finish preparing,[pause=10] {0}!</value>
+  </data>
 </root>

@@ -448,4 +448,205 @@
   <data name="GMR3_011" xml:space="preserve">
     <value>I knew you two were going to do fantastic work in this guild![pause=0] Keep it up and you'll go far!</value>
   </data>
+  <data name="GMR4_001" xml:space="preserve">
+    <value>Oh,[pause=10] and if you're looking for some help like before...</value>
+  </data>
+  <data name="GMR4_002" xml:space="preserve">
+    <value>Oh,[pause=10] and if you're looking for some help...</value>
+  </data>
+  <data name="GMR4_003" xml:space="preserve">
+    <value>I have nothing to give you![pause=0] This is supposed to be a test of sorts,[pause=10] after all!</value>
+  </data>
+  <data name="GMR4_004" xml:space="preserve">
+    <value>I will offer some advice,[pause=10] however.</value>
+  </data>
+  <data name="GMR4_005" xml:space="preserve">
+    <value>You should make use of the Apricorns you'll find in the dungeon to recruit a full team of four Pokémon.</value>
+  </data>
+  <data name="GMR4_006" xml:space="preserve">
+    <value>More allies will make overcoming any challenges you come across easier![pause=0] So aim to fill up your team!</value>
+  </data>
+  <data name="GMR4_007" xml:space="preserve">
+    <value>I hope you two are as excited for the upcoming expedition as I am!</value>
+  </data>
+  <data name="GMR4_008" xml:space="preserve">
+    <value>{0} and {1} will be back any day now,[pause=10] so keep up the good work and prepare yourselves until then!</value>
+  </data>
+  <data name="GMR4_009" xml:space="preserve">
+    <value>Excuse us,[pause=10] Guildmaster!</value>
+  </data>
+  <data name="GMR4_010" xml:space="preserve">
+    <value>Ah,[pause=10] Team {0}![pause=0] We didn't notice you come in!</value>
+  </data>
+  <data name="GMR4_011" xml:space="preserve">
+    <value>Have you finished your exploration of {0}?[pause=0] Did you manage to discover anything?</value>
+  </data>
+  <data name="GMR4_012" xml:space="preserve">
+    <value>We did,[pause=10] Guildmaster![pause=0] We found something amazing in the center of the forest!</value>
+  </data>
+  <data name="GMR4_013" xml:space="preserve">
+    <value>Oh?[pause=0] Tell me and {0} all about it then!</value>
+  </data>
+  <data name="GMR4_014" xml:space="preserve">
+    <value>Well,[pause=10] we made our way through the mystery dungeon until we came across a huge clearing!</value>
+  </data>
+  <data name="GMR4_015" xml:space="preserve">
+    <value>There were all sorts of different colored Apricorns growing on the trees there!</value>
+  </data>
+  <data name="GMR4_016" xml:space="preserve">
+    <value>But that's not even the best part!</value>
+  </data>
+  <data name="GMR4_017" xml:space="preserve">
+    <value>In the middle of the clearing,[pause=10] there was a gigantic tree,[pause=10] and on the tree we found...[pause=30] this!</value>
+  </data>
+  <data name="GMR4_018" xml:space="preserve">
+    <value>Wow![pause=0] Look at the size of that Apricorn![pause=0] I don't think I've ever seen one that large before!</value>
+  </data>
+  <data name="GMR4_019" xml:space="preserve">
+    <value>It is indeed quite rare for Apricorns to grow this large.</value>
+  </data>
+  <data name="GMR4_020" xml:space="preserve">
+    <value>Apricorns are said to be more effective the larger they are,[pause=10] making this particular Apricorn quite valuable.</value>
+  </data>
+  <data name="GMR4_021" xml:space="preserve">
+    <value>R-really?[pause=0] So this is a great find then!?</value>
+  </data>
+  <data name="GMR4_022" xml:space="preserve">
+    <value>I would certainly say so!</value>
+  </data>
+  <data name="GMR4_023" xml:space="preserve">
+    <value>But I must ask...[pause=0] How did you manage to get the Apricorn off the huge tree?</value>
+  </data>
+  <data name="GMR4_024" xml:space="preserve">
+    <value>Our teammate {0} gave me a boost up so I could pick the Apricorn!</value>
+  </data>
+  <data name="GMR4_025" xml:space="preserve">
+    <value>Without {0} we wouldn't have been able to get the Apricorn down!</value>
+  </data>
+  <data name="GMR4_026" xml:space="preserve">
+    <value>All four of us worked together to form a totem so I could pick the Apricorn!</value>
+  </data>
+  <data name="GMR4_027" xml:space="preserve">
+    <value>If it wasn't for my teammates,[pause=10] there's no way I would have been able to reach the Apricorn!</value>
+  </data>
+  <data name="GMR4_028" xml:space="preserve">
+    <value>It sounds like your adventure was a complete success!</value>
+  </data>
+  <data name="GMR4_029" xml:space="preserve">
+    <value>Yeah,[pause=10] it was![pause=0] I'm so happy we got to explore a new area and find something cool!</value>
+  </data>
+  <data name="GMR4_030" xml:space="preserve">
+    <value>So,[pause=10] Guildmaster,[pause=10] aren't you going to take the Apricorn?</value>
+  </data>
+  <data name="GMR4_031" xml:space="preserve">
+    <value>You were the one who told us about {0},[pause=10] after all.</value>
+  </data>
+  <data name="GMR4_032" xml:space="preserve">
+    <value>Me?[pause=0] Goodness,[pause=10] no![script=0]</value>
+  </data>
+  <data name="GMR4_033" xml:space="preserve">
+    <value>Your team worked hard to retrieve this Apricorn![pause=0] It's all yours!</value>
+  </data>
+  <data name="GMR4_034" xml:space="preserve">
+    <value>Really?[pause=0] We can keep it?</value>
+  </data>
+  <data name="GMR4_035" xml:space="preserve">
+    <value>Of course![pause=0] The treasure is yours to keep!</value>
+  </data>
+  <data name="GMR4_036" xml:space="preserve">
+    <value>Yay![pause=0] Thank you,[pause=10] Guildmaster!</value>
+  </data>
+  <data name="GMR4_037" xml:space="preserve">
+    <value>Well,[pause=10] it's getting pretty late now,[pause=10] isn't it?</value>
+  </data>
+  <data name="GMR4_038" xml:space="preserve">
+    <value>Why don't you two head on to the dining room?[pause=0] Dinner should be ready any moment now.</value>
+  </data>
+  <data name="GMR4_039" xml:space="preserve">
+    <value>Oh,[pause=10] sure![pause=0] Thank you again,[pause=10] Guildmaster!</value>
+  </data>
+  <data name="GMR4_040" xml:space="preserve">
+    <value>Guildmaster.[pause=0] Though they passed your test,[pause=10] do you truly think it wise to involve them?</value>
+  </data>
+  <data name="GMR4_041" xml:space="preserve">
+    <value>They are still rookies,[pause=10] after all.</value>
+  </data>
+  <data name="GMR4_042" xml:space="preserve">
+    <value>Of course,[pause=10] {0}.[pause=0] The way Team {1} performed on this mission was outstanding!</value>
+  </data>
+  <data name="GMR4_043" xml:space="preserve">
+    <value>They used teamwork to achieve their goal,[pause=10] and were willing to part ways with the treasure they found.</value>
+  </data>
+  <data name="GMR4_044" xml:space="preserve">
+    <value>They're ideal adventurers![pause=0] We need more teams like them around.</value>
+  </data>
+  <data name="GMR4_045" xml:space="preserve">
+    <value>Try to have some faith in them despite their relative inexperience.</value>
+  </data>
+  <data name="GMR4_046" xml:space="preserve">
+    <value>They've been doing a fantastic job ever since they joined the guild!</value>
+  </data>
+  <data name="GMR4_047" xml:space="preserve">
+    <value>Besides...[pause=0] We're going to need all the help we can get on this expedition.</value>
+  </data>
+  <data name="GMR4_048" xml:space="preserve">
+    <value>That's wonderful![pause=0] It joys me to hear that you used teamwork to get the Apricorn!</value>
+  </data>
+  <data name="GMR5_001" xml:space="preserve">
+    <value>Ah,[pause=10] Team {0}![pause=0] Have you finished your preparations for the expedition?</value>
+  </data>
+  <data name="GMR5_002" xml:space="preserve">
+    <value>We won't return to Metano Town for quite some time,[pause=10] so are you sure you're completely ready?</value>
+  </data>
+  <data name="GMR5_003" xml:space="preserve">
+    <value>Just a reminder,[pause=10] the expedition is for guild members only.</value>
+  </data>
+  <data name="GMR5_004" xml:space="preserve">
+    <value>That means you can't bring along any Pokémon from the {0} Assembly.</value>
+  </data>
+  <data name="GMR5_005" xml:space="preserve">
+    <value>With that in mind,[pause=10] are you absolutely sure that you're all set?</value>
+  </data>
+  <data name="GMR5_006" xml:space="preserve">
+    <value>Yup![pause=0] We're all ready to go,[pause=10] Guildmaster!</value>
+  </data>
+  <data name="GMR5_007" xml:space="preserve">
+    <value>Great![pause=0] In that case,[pause=10] you can wait here with us until the other apprentices are done preparing.</value>
+  </data>
+  <data name="GMR5_008" xml:space="preserve">
+    <value>Once everyone's gathered,[pause=10] {0} and I will go over the plans.</value>
+  </data>
+  <data name="GMR5_009" xml:space="preserve">
+    <value>But until then,[pause=10] just relax![pause=0] We have a long journey ahead,[pause=10] so rest while you still can!</value>
+  </data>
+  <data name="GMR5_010" xml:space="preserve">
+    <value>Wh-whoops.[pause=0] I guess we're not ready,[pause=10] in that case.[pause=0] Sorry,[pause=10] Guildmaster...</value>
+  </data>
+  <data name="GMR5_011" xml:space="preserve">
+    <value>That's alright![pause=0] There's still plenty of time!</value>
+  </data>
+  <data name="GMR5_012" xml:space="preserve">
+    <value>Head back into town and finish your preparations.[pause=0] Whenever you're ready,[pause=10] come back here and let me know!</value>
+  </data>
+  <data name="GMR5_013" xml:space="preserve">
+    <value>Not yet.[pause=0] Sorry,[pause=10] Guildmaster...</value>
+  </data>
+  <data name="GMR5_014" xml:space="preserve">
+    <value>That's alright![pause=0] There's still plenty of time!</value>
+  </data>
+  <data name="GMR5_015" xml:space="preserve">
+    <value>Head back into town and finish your preparations.[pause=0] Whenever you're ready,[pause=10] come back here and let me know!</value>
+  </data>
+  <data name="GMR5_016" xml:space="preserve">
+    <value>However...[pause=0] There are improvements that can be made to expedite our journey.</value>
+  </data>
+  <data name="GMR5_017" xml:space="preserve">
+    <value>For instance,[pause=10] if we travel through this pass here,[pause=10] we can reach the steppe half a day earlier.[pause=0] Furthermore...</value>
+  </data>
+  <data name="GMR5_018" xml:space="preserve">
+    <value>But the ruins lie just past it...[pause=0] So there's no choice but to climb it!</value>
+  </data>
+  <data name="GMR5_019" xml:space="preserve">
+    <value>...[pause=30]But if we put all of our heads together,[pause=10] I know we can solve it! (todo improve this line a bit)</value>
+  </data>
 </root>
