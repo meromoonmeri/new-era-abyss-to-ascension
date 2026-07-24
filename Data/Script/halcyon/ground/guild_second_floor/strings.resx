@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Assembly_Intro" xml:space="preserve">
+    <value>Welcome to the [color=#00FF00]Audino[color] Assembly! </value>
+  </data>
+  <data name="Assembly_Intro_Return" xml:space="preserve">
+    <value>Is there anything e-else I can help with?</value>
+  </data>
+  <data name="Assembly_Goodbye" xml:space="preserve">
+    <value>So long! Good luck w-with your adventures!</value>
+  </data>
+  <data name="Assembly_Option_Members" xml:space="preserve">
+    <value>Members</value>
+  </data>
+  <data name="Assembly_Members_Shuffled" xml:space="preserve">
+    <value>Just shuffling party order around?[pause=0] No problem!</value>
+  </data>
+  <data name="Assembly_Leader_Changed" xml:space="preserve">
+    <value>{0}{1} will become the leader of the party{2}</value>
+  </data>
+  <data name="Assembly_Members_Added" xml:space="preserve">
+    <value>{0}{1} will be added to the party{2}</value>
+  </data>
+  <data name="Assembly_Members_Removed" xml:space="preserve">
+    <value>{0}{1} will be removed from the party{2}</value>
+  </data>
+  <data name="Assembly_Make_Changes" xml:space="preserve">
+    <value>Alright! With a ring of this bell I'll change your party accordingly!</value>
+  </data>
+  <data name="Assembly_Make_Changes_Done" xml:space="preserve">
+    <value>All done!</value>
+  </data>
+  <data name="Assembly_Info_001" xml:space="preserve">
+    <value>I'm s-sure you've wanted to have other Pokémon besides the two of you on adventures,[pause=10] right?</value>
+  </data>
+  <data name="Assembly_Info_002" xml:space="preserve">
+    <value>With my assembly,[pause=10] you can add or remove anyone you have recruited with Apricorns to your team for adventures!</value>
+  </data>
+  <data name="Assembly_Info_003" xml:space="preserve">
+    <value>Any team members you choose for an adventure will wait at the café for you!</value>
+  </data>
+  <data name="Assembly_Info_004" xml:space="preserve">
+    <value>Of course,[pause=10] you two will always be on the active team.[pause=0] You wouldn't want to miss out on any adventures,[pause=10] r-right?</value>
+  </data>
+  <data name="Assembly_Info_005" xml:space="preserve">
+    <value>Just know that sometimes only the two of you will be allowed on an adventure!</value>
+  </data>
+  <data name="Assembly_Info_006" xml:space="preserve">
+    <value>By the way,[pause=10] Pokémon names colored like [color=#00FF00]this[color] instead of [color=#00FFFF]this[color] are species you've already recruited!</value>
+  </data>
+  <data name="Assembly_Info_007" xml:space="preserve">
+    <value>Y-you can also view the list of Pokémon you can recruit on a dungeon floor!</value>
+  </data>
+  <data name="Assembly_Info_008" xml:space="preserve">
+    <value>Check Recruitment Search in the Others menu.[pause=0] If a species is [color=#FFFF00]yellow[color],[pause=10] that means they're already recruited!</value>
+  </data>
+  <data name="Assembly_Info_009" xml:space="preserve">
+    <value>Oh,[pause=10] one more thing![pause=0] You can also ring the signpost by the café to call me to use the assembly!</value>
+  </data>
+  <data name="Assembly_Info_010" xml:space="preserve">
+    <value>My e-ears are really sensitive,[pause=10] so I'll hear the bell and come running!</value>
+  </data>
+</root>

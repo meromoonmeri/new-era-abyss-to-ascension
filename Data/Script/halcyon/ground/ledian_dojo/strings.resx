@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.NetStandard.ResXResourceReader, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
+  </resheader>
+  <data name="Dojo_Intro" xml:space="preserve">
+    <value>Hwacha! Welcome to Ledian Dojo,[pause=10] where budding students blossom!</value>
+  </data>
+  <data name="Dojo_Intro_Return" xml:space="preserve">
+    <value>Is there anything else,[pause=10] my students?</value>
+  </data>
+  <data name="Dojo_Info_Prompt" xml:space="preserve">
+    <value>What do you want to know more about,[pause=10] my students?</value>
+  </data>
+  <data name="Dojo_Info_Prompt_Return" xml:space="preserve">
+    <value>Do you want to know about anything else,[pause=10] my students?</value>
+  </data>
+  <data name="Dojo_Info_001" xml:space="preserve">
+    <value>Hoiyah![pause=0] Ledian Dojo is a place in which you may freely train your body,[pause=10] mind,[pause=10] and soul!</value>
+  </data>
+  <data name="Dojo_Info_002" xml:space="preserve">
+    <value>Head to the south and you can choose whether you'd like to train in a maze,[pause=10] take a lesson,[pause=10] or undergo a trial.</value>
+  </data>
+  <data name="Dojo_Info_003" xml:space="preserve">
+    <value>As you grow as an adventurer,[pause=10] more mazes,[pause=10] lessons,[pause=10] and trials will become available to you!</value>
+  </data>
+  <data name="Dojo_Info_004" xml:space="preserve">
+    <value>Ask me about the facilities if you would like to know about each![pause=0] Oohcha!</value>
+  </data>
+  <data name="Dojo_Training_Info_001" xml:space="preserve">
+    <value>Hwacha![pause=0] Training mazes act similarly to mystery dungeons,[pause=10] but are designed for training the body!</value>
+  </data>
+  <data name="Dojo_Training_Info_002" xml:space="preserve">
+    <value>The different mazes have different types of Pokémon within them.</value>
+  </data>
+  <data name="Dojo_Training_Info_003" xml:space="preserve">
+    <value>Some mazes also have stronger Pokémon in them than others.</value>
+  </data>
+  <data name="Dojo_Training_Info_004" xml:space="preserve">
+    <value>Wahtah![pause=0] Be sure to pick the maze that is best for your training needs!</value>
+  </data>
+  <data name="Dojo_Training_Info_005" xml:space="preserve">
+    <value>Any items and money in your Treasure Bag will be sent to storage upon entering a maze.</value>
+  </data>
+  <data name="Dojo_Training_Info_006" xml:space="preserve">
+    <value>Any supplies you may need can be found within the maze![pause=0] Hwacha!</value>
+  </data>
+  <data name="Dojo_Training_Info_007" xml:space="preserve">
+    <value>Besides all that,[pause=10] all the regular rules of a dungeon apply![pause=0] So do your best!</value>
+  </data>
+  <data name="String_18" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Dojo_Menu_Back" xml:space="preserve">
+    <value>Go Back</value>
+  </data>
+  <data name="Dojo_Menu_Trials" xml:space="preserve">
+    <value>Trials</value>
+  </data>
+  <data name="Dojo_Menu_Lesson" xml:space="preserve">
+    <value>Lessons</value>
+  </data>
+  <data name="Dojo_Menu_Training" xml:space="preserve">
+    <value>Training</value>
+  </data>
+  <data name="Dojo_Facilities_Info" xml:space="preserve">
+    <value>Facilities Info</value>
+  </data>
+  <data name="Dojo_Lesson_Info_001" xml:space="preserve">
+    <value>Hoiyah![pause=0] Lessons are special dungeons that teach adventurers useful knowledge and skills!</value>
+  </data>
+  <data name="Dojo_Lesson_Info_002" xml:space="preserve">
+    <value>You will need to employ the techniques they teach to make it to the end![pause=0] Oohcha!</value>
+  </data>
+  <data name="Dojo_Lesson_Info_003" xml:space="preserve">
+    <value>Any sort of physical progress that happens within dojo lessons is self contained!</value>
+  </data>
+  <data name="Dojo_Lesson_Info_004" xml:space="preserve">
+    <value>Wahtah![pause=0] That is to say,[pause=10] items,[pause=10] experience,[pause=10] money,[pause=10] moves,[pause=10] party members...</value>
+  </data>
+  <data name="Dojo_Lesson_Info_005" xml:space="preserve">
+    <value>These are not kept when leaving a dojo lesson![pause=0] Dojo lessons are for learning,[pause=10] not for training!</value>
+  </data>
+  <data name="Dojo_Lesson_Info_006" xml:space="preserve">
+    <value>Depending on the lesson,[pause=10] you may need to enter alone and your level may be temporarily adjusted![pause=0]</value>
+  </data>
+  <data name="Dojo_Lesson_Info_007" xml:space="preserve">
+    <value>Your proper level and party will be restored upon leaving.</value>
+  </data>
+  <data name="Dojo_Lesson_Info_008" xml:space="preserve">
+    <value>Also,[pause=10] any items and money in your Treasure Bag will be sent to storage automatically when entering a lesson.</value>
+  </data>
+  <data name="Dojo_Lesson_Info_009" xml:space="preserve">
+    <value>Hwacha![pause=0] All this is necessary so you can properly train your mind!</value>
+  </data>
+  <data name="String_30" xml:space="preserve">
+    <value />
+  </data>
+  <data name="String_31" xml:space="preserve">
+    <value />
+  </data>
+  <data name="Dojo_Trial_Info_001" xml:space="preserve">
+    <value>Wahtah![pause=0] Trials are special dungeons designed to put your adventuring skills to the test!</value>
+  </data>
+  <data name="Dojo_Trial_Info_002" xml:space="preserve">
+    <value>Each trial is different,[pause=10] but presents a unique challenge that only the wise and strong can weather!</value>
+  </data>
+  <data name="Dojo_Trial_Info_003" xml:space="preserve">
+    <value>Depending on the trial,[pause=10] your level or party may be temporarily adjusted as part of the challenge.</value>
+  </data>
+  <data name="Dojo_Trial_Info_004" xml:space="preserve">
+    <value>Your proper level and party would be restored upon leaving if this happens.</value>
+  </data>
+  <data name="Dojo_Trial_Info_005" xml:space="preserve">
+    <value>A trial may also require that you send all items in your Treasure Bag to storage upon entering. </value>
+  </data>
+  <data name="Dojo_Trial_Info_006" xml:space="preserve">
+    <value>Hoiyah![pause=0] Why go through all this,[pause=10] you may ask?</value>
+  </data>
+  <data name="Dojo_Trial_Info_007" xml:space="preserve">
+    <value>Hwacha![pause=0] To truly challenge yourselves,[pause=10] of course![pause=0] Tough challenges are good for the soul!</value>
+  </data>
+  <data name="Dojo_Trial_Info_008" xml:space="preserve">
+    <value>As a bonus,[pause=10] I will bestow upon you a reward for completing each trial for the first time.</value>
+  </data>
+  <data name="Dojo_Trial_Info_009" xml:space="preserve">
+    <value>Train hard,[pause=10] my students,[pause=10] and I am sure you will be able to surpass all trials!</value>
+  </data>
+  <data name="Dojo_Goodbye" xml:space="preserve">
+    <value>Hwacha![pause=0] Until we meet again!</value>
+  </data>
+  <data name="Dojo_New_Maze_1" xml:space="preserve">
+    <value>Wahtah![pause=0] My students![pause=0] New mazes are available for training!</value>
+  </data>
+  <data name="Dojo_New_Maze_2" xml:space="preserve">
+    <value>Go train and improve yourselves like you never could before!</value>
+  </data>
+</root>
