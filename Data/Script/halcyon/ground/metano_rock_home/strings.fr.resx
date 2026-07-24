@@ -58,4 +58,7 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MRH2_001" xml:space="preserve">
+    <value>Cette leçon à ma fille j'enseigne,[pause=10] mais avec elle beaucoup elle a lutté.</value>
+  </data>
 </root>

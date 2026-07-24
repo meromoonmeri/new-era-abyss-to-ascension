@@ -58,4 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MC2_001" xml:space="preserve">
+    <value>Merci de passer,[pause=10] mais je préfère rester seul.[pause=0] Désolé.</value>
+  </data>
+  <data name="MC2_002" xml:space="preserve">
+    <value>...Ce n'est plus vraiment mon truc.[pause=0] Trouvez quelqu'un d'autre pour vous aider.</value>
+  </data>
 </root>

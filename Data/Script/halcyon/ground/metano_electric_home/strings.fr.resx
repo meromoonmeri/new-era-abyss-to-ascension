@@ -58,4 +58,10 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MEH2_001" xml:space="preserve">
+    <value>Leur petite bande forme un groupe merveilleux,[pause=10] tu ne trouves pas ?[pause=0] Je suis contente qu'il s'entende bien avec eux.</value>
+  </data>
+  <data name="MEH2_002" xml:space="preserve">
+    <value>Si je sors,[pause=10] je risque encore de me retrouver à ne rien faire avec les jumeaux prodiges.</value>
+  </data>
 </root>

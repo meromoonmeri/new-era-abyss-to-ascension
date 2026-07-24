@@ -58,4 +58,16 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MGH2_001" xml:space="preserve">
+    <value>Le plus étrange,[pause=10] c'est que personne ne semble connaître la vraie raison de leur multiplication...</value>
+  </data>
+  <data name="MGH2_002" xml:space="preserve">
+    <value>On dirait que le monde devient chaque jour plus dangereux...</value>
+  </data>
+  <data name="MGH2_003" xml:space="preserve">
+    <value>Nous vivons une époque effrayante...</value>
+  </data>
+  <data name="MGH2_004" xml:space="preserve">
+    <value>C'est vraiment triste que {0} ait disparu...[pause=0] Mais j'aimerais que ça n'empêche pas {1} de sortir s'amuser...</value>
+  </data>
 </root>

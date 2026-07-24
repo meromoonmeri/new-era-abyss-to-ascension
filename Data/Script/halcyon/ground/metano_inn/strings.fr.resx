@@ -58,4 +58,34 @@
   <resheader name="writer">
     <value>System.Resources.NetStandard.ResXResourceWriter, System.Resources.NetStandard, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null</value>
   </resheader>
+  <data name="MI2_001" xml:space="preserve">
+    <value>...Comment ça ?[pause=0] Vous vivez à la guilde ?</value>
+  </data>
+  <data name="MI2_002" xml:space="preserve">
+    <value>Eh bien,[pause=10] vous êtes les bienvenus ici quand vous voulez ![pause=0] Ne soyez pas timides !</value>
+  </data>
+  <data name="MI2_003" xml:space="preserve">
+    <value>Ça fait toujours de la peine d'apprendre qu'un truc pareil arrive à des gens du coin.</value>
+  </data>
+  <data name="MI2_004" xml:space="preserve">
+    <value>Ma tendre moitié et moi, on ira lui rendre visite plus tard pour voir comment elle tient le coup.</value>
+  </data>
+  <data name="MI2_005" xml:space="preserve">
+    <value>C'est une sacrée perle,[pause=10] pas vrai ![pause=0] Je suis très fier de lui et de nos deux petits !</value>
+  </data>
+  <data name="MI2_006" xml:space="preserve">
+    <value>On garde un œil attentif sur nos petiots jusqu'à son retour,[pause=10] au cas où quelque chose de dangereux traînerait dans les parages.</value>
+  </data>
+  <data name="MI2_007" xml:space="preserve">
+    <value>C'est pas parce qu'un gamin idiot fait une fugue que je vais en faire une ![pause=0] Mais évidemment, mes parents ne comprennent pas ça !</value>
+  </data>
+  <data name="MI2_008" xml:space="preserve">
+    <value>RAAAH ![pause=0] C'est trop énervant ![pause=0] Et eux aussi ils sont énervants !</value>
+  </data>
+  <data name="MI2_009" xml:space="preserve">
+    <value>On m'a dit beaucoup de bien de l'Auberge de Metano pendant mes voyages.[pause=0] J'espère qu'on ne m'a pas menti !</value>
+  </data>
+  <data name="MI2_010" xml:space="preserve">
+    <value>Le petit-déjeuner continental laisse toutefois à désirer...[pause=0] Ces portions sont bien trop petites !</value>
+  </data>
 </root>
