@@ -415,4 +415,37 @@
   <data name="GMR2_027" xml:space="preserve">
     <value>...Espérons simplement que ce problème de source n'annonce pas quelque chose de pire.</value>
   </data>
+  <data name="GMR3_001" xml:space="preserve">
+    <value>Je suis sûr que {0},[pause=10] {1}[pause=10] et tout le reste de la ville vous sont reconnaissants !</value>
+  </data>
+  <data name="GMR3_002" xml:space="preserve">
+    <value>Bref,[pause=10] vous avez une nouvelle mission maintenant,[pause=10] pas vrai ?[pause=0] Vous chassez un hors-la-loi si je ne m'abuse !</value>
+  </data>
+  <data name="GMR3_003" xml:space="preserve">
+    <value>Capturer des hors-la-loi peut être délicat.[pause=0] Ils sont plus coriaces que la plupart des Pokémon des donjons !</value>
+  </data>
+  <data name="GMR3_004" xml:space="preserve">
+    <value>Alors,[pause=10] je veux que vous preniez ceci pour vous aider dans votre mission.</value>
+  </data>
+  <data name="GMR3_005" xml:space="preserve">
+    <value>Un bon moyen de gérer les adversaires puissants est de les neutraliser ou de les affaiblir.</value>
+  </data>
+  <data name="GMR3_006" xml:space="preserve">
+    <value>Ces bâtons rendront confus quiconque vous les agiterez dessus,[pause=10] parfait contre un ennemi coriace comme un hors-la-loi !</value>
+  </data>
+  <data name="GMR3_007" xml:space="preserve">
+    <value>Waouh ![pause=0] Merci Maître de Guilde ![pause=0] Nous en ferons bon usage !</value>
+  </data>
+  <data name="GMR3_008" xml:space="preserve">
+    <value>Je vous en prie ![pause=0] Bonne chance pour la capture de ce hors-la-loi ![pause=0]\nJe sais que vous en êtes capables !</value>
+  </data>
+  <data name="GMR3_009" xml:space="preserve">
+    <value>Quand j'ai débuté comme aventurier,[pause=10] ils m'en ont fait voir aussi !</value>
+  </data>
+  <data name="GMR3_010" xml:space="preserve">
+    <value>Repensez vos stratégies,[pause=10] puis réessayez ![pause=0] Vous pouvez y arriver, tous les deux !</value>
+  </data>
+  <data name="GMR3_011" xml:space="preserve">
+    <value>Je savais que vous feriez un travail fantastique dans cette guilde ![pause=0] Continuez ainsi et vous irez loin !</value>
+  </data>
 </root>

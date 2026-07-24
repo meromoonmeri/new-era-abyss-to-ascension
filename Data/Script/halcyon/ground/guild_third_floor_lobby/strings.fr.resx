@@ -382,4 +382,94 @@
   <data name="G3L2_068" xml:space="preserve">
     <value>Elle est t-très fière de sa cuisine.[pause=0] Elle considère chaque repas qu'elle prépare comme une œuvre d'art !</value>
   </data>
+  <data name="G3L3_001" xml:space="preserve">
+    <value>Ils pourront aussi vous assister en cas de difficulté.</value>
+  </data>
+  <data name="G3L3_002" xml:space="preserve">
+    <value>Une fois le hors-la-loi capturé,[pause=10] ramenez-le à la guilde pour recevoir votre récompense de {0}.</value>
+  </data>
+  <data name="G3L3_003" xml:space="preserve">
+    <value>{0} ![pause=0] Nous avons toujours un hors-la-loi à attraper !</value>
+  </data>
+  <data name="G3L3_004" xml:space="preserve">
+    <value>Vite ![pause=0] Direction {0} !</value>
+  </data>
+  <data name="G3L3_005" xml:space="preserve">
+    <value>{0} ![pause=0] Nous avons toujours un hors-la-loi à attraper !</value>
+  </data>
+  <data name="G3L3_006" xml:space="preserve">
+    <value>Vite ![pause=0] Direction {0} ![pause=0] Cette fois, nous pouvons y arriver !</value>
+  </data>
+  <data name="G3L3_007" xml:space="preserve">
+    <value>{0} ![pause=0] Nous devons retourner à {1} !</value>
+  </data>
+  <data name="G3L3_008" xml:space="preserve">
+    <value>Vite ![pause=0] Direction {0} ![pause=0] Nous ne pouvons pas laisser la Team [color=#FFA5FF]Style[color] s'en tirer comme ça !</value>
+  </data>
+  <data name="G3L3_009" xml:space="preserve">
+    <value>Un pour tous...</value>
+  </data>
+  <data name="G3L3_010" xml:space="preserve">
+    <value>ET TOUS POUR UN !</value>
+  </data>
+  <data name="G3L3_011" xml:space="preserve">
+    <value>Allez les Pokémon,[pause=10] place aux aventures du jour !</value>
+  </data>
+  <data name="G3L3_012" xml:space="preserve">
+    <value>HOURRA !</value>
+  </data>
+  <data name="G3L3_013" xml:space="preserve">
+    <value>Qu'est-ce qu'il y a-a-a-a,[pause=10] {0} ?</value>
+  </data>
+  <data name="G3L3_014" xml:space="preserve">
+    <value>Après la mission réussie de l'Équipe {0} hier,[pause=10] je crois qu'ils sont prêts pour une mission de hors-la-loi.</value>
+  </data>
+  <data name="G3L3_015" xml:space="preserve">
+    <value>Comme {0} et toi êtes les chasseurs de hors-la-loi les plus expérimentés de la guilde...</value>
+  </data>
+  <data name="G3L3_016" xml:space="preserve">
+    <value>...j'aimerais que vous deux les aidiez à choisir leur première mission sur le Tableau des Avis de Recherche.</value>
+  </data>
+  <data name="G3L3_017" xml:space="preserve">
+    <value>Quoi ?[pause=0] Tu ne peux pas être sérieux,[pause=10] {0} !</value>
+  </data>
+  <data name="G3L3_018" xml:space="preserve">
+    <value>Pourquoi perdre notre temps à aider des bleus quand on pourrait être dehors à attraper des hors-la-loi nous-mêmes !</value>
+  </data>
+  <data name="G3L3_019" xml:space="preserve">
+    <value>Bien sûr,[pause=10] {0} ![pause=0] Avec grand plaisir !</value>
+  </data>
+  <data name="G3L3_020" xml:space="preserve">
+    <value>On meurt d'envie de leur montrer les ficelles de la chasse aux hors-la-loi depuis qu'ils ont rejoint la guilde !</value>
+  </data>
+  <data name="G3L3_021" xml:space="preserve">
+    <value>Pas vrai,[pause=10] {0} ?</value>
+  </data>
+  <data name="G3L3_022" xml:space="preserve">
+    <value>O-oui ![pause=0] C-c'est vrai ![pause=0] On adorerait les aider pour leur première mission de hors-la-loi !</value>
+  </data>
+  <data name="G3L3_023" xml:space="preserve">
+    <value>Tu sais combien j'aime enseigner aux autres ![pause=0] C'est dans ma nature !</value>
+  </data>
+  <data name="G3L3_024" xml:space="preserve">
+    <value>Hahaha !</value>
+  </data>
+  <data name="G3L3_025" xml:space="preserve">
+    <value>Compte sur nous ![pause=0] J'ai trop hâ-â-â-âte de voir quel hors-la-loi ils vont épingler !</value>
+  </data>
+  <data name="G3L3_026" xml:space="preserve">
+    <value>Venez,[pause=10] vous deux ![pause=0] Direction le Tableau des Avis de Recherche !</value>
+  </data>
+  <data name="G3L3_027" xml:space="preserve">
+    <value>Euh...[pause=0] D'accord...[pause=0] On te suit.</value>
+  </data>
+  <data name="G3L3_028" xml:space="preserve">
+    <value>Tu viens,[pause=10] {0} ?</value>
+  </data>
+  <data name="G3L3_029" xml:space="preserve">
+    <value>Ou-oui ![pause=0] Je te suis au-aussi !</value>
+  </data>
+  <data name="G3L3_030" xml:space="preserve">
+    <value>Merci.[pause=0] Veillez à les aider de toutes les façons possibles.</value>
+  </data>
 </root>

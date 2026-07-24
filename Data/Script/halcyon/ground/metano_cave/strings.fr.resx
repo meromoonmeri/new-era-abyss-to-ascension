@@ -64,4 +64,10 @@
   <data name="MC2_002" xml:space="preserve">
     <value>...Ce n'est plus vraiment mon truc.[pause=0] Trouvez quelqu'un d'autre pour vous aider.</value>
   </data>
+  <data name="MC3_001" xml:space="preserve">
+    <value>.........[pause=30]Je vois.[pause=0] Au moins, il existe désormais des aventuriers comme vous deux.</value>
+  </data>
+  <data name="MC3_002" xml:space="preserve">
+    <value>...Je ne me préoccupe plus vraiment de ce genre de choses.[pause=0] Laissez-moi tranquille, je vous prie.</value>
+  </data>
 </root>

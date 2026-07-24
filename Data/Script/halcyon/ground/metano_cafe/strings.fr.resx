@@ -202,4 +202,61 @@
   <data name="Cafe_New_Drink_2" xml:space="preserve">
     <value>Vous pouvez vérifier les ingrédients nécessaires sur le panneau là-bas ![pause=0] Essayez-la à l'occasion !</value>
   </data>
+  <data name="MCF3_001" xml:space="preserve">
+    <value>Je plaisante ![pause=0] Qu'est-ce qui vous amène ici, vous deux ?</value>
+  </data>
+  <data name="MCF3_002" xml:space="preserve">
+    <value>{0} et moi voulions découvrir le café maintenant qu'il a rouvert ses portes.</value>
+  </data>
+  <data name="MCF3_003" xml:space="preserve">
+    <value>Et vous, que faites-vous ici ?</value>
+  </data>
+  <data name="MCF3_004" xml:space="preserve">
+    <value>Nous trois voulions nous détendre avant de partir en expédition.</value>
+  </data>
+  <data name="MCF3_005" xml:space="preserve">
+    <value>Une expédition ?</value>
+  </data>
+  <data name="MCF3_006" xml:space="preserve">
+    <value>Oui.[pause=0] Nous préparons depuis un moment l'exploration de ruines dans une chaîne de montagnes lointaine.</value>
+  </data>
+  <data name="MCF3_007" xml:space="preserve">
+    <value>La rumeur dit qu'un secret extraordinaire sommeille dans ces ruines !</value>
+  </data>
+  <data name="MCF3_008" xml:space="preserve">
+    <value>Mais jusqu'ici,[pause=10] personne n'a rien trouvé d'autre que de vieilles structures brisées qui ne font rien.</value>
+  </data>
+  <data name="MCF3_009" xml:space="preserve">
+    <value>Comme {0} et moi sommes des aventuriers plus expérimentés que la moyenne,[pause=10] nous nous sommes dit que nous allions tenter notre chance.</value>
+  </data>
+  <data name="MCF3_010" xml:space="preserve">
+    <value>À l'origine,[pause=10] nous ne devions pas partir avant plusieurs semaines...</value>
+  </data>
+  <data name="MCF3_011" xml:space="preserve">
+    <value>...Mais le Maître de Guilde vient de nous demander de partir au plus tôt.</value>
+  </data>
+  <data name="MCF3_012" xml:space="preserve">
+    <value>Waouh ![pause=0] C'est trop bien ![pause=0] C'est ce genre d'aventure que je veux vivre !</value>
+  </data>
+  <data name="MCF3_013" xml:space="preserve">
+    <value>J'ai hâte que {0} et moi partions pour des aventures pareilles !</value>
+  </data>
+  <data name="MCF3_014" xml:space="preserve">
+    <value>Vous y arriverez un jour ![pause=0] Vous nous avez, nous et toute la guilde, derrière vous !</value>
+  </data>
+  <data name="MCF3_015" xml:space="preserve">
+    <value>Bonne chance pour votre travail à la guilde d'ici là ![pause=0] {0} et moi allons nous détendre ici jusqu'au départ.</value>
+  </data>
+  <data name="MCF3_016" xml:space="preserve">
+    <value>J'aime beaucoup les boissons d'ici,[pause=10] mais {0} est un vrai fanatique comparé à moi.</value>
+  </data>
+  <data name="MCF3_017" xml:space="preserve">
+    <value>Le goût,[pause=10] en revanche,[pause=10] laisse à désirer...</value>
+  </data>
+  <data name="MCF3_018" xml:space="preserve">
+    <value>Si c'est volatil,[pause=10] ça nous donnera un bonus d'attaque ![pause=0]\nDonne-la-moi que je puisse porter ton poids mort !</value>
+  </data>
+  <data name="MCF3_019" xml:space="preserve">
+    <value>Il a dit de ne pas la boire,[pause=10] vu que c'est volatil...[pause=0]\nEt si on la lançait au lieu de la boire ?</value>
+  </data>
 </root>

@@ -70,4 +70,10 @@
   <data name="MGH2_004" xml:space="preserve">
     <value>C'est vraiment triste que {0} ait disparu...[pause=0] Mais j'aimerais que ça n'empêche pas {1} de sortir s'amuser...</value>
   </data>
+  <data name="MGH3_001" xml:space="preserve">
+    <value>Tout de même,[pause=10] je me demande s'ils suffiront face à tous les problèmes que l'avenir nous réserve...</value>
+  </data>
+  <data name="MGH3_002" xml:space="preserve">
+    <value>Oh,[pause=10] ce monde dangereux dans lequel nous vivons devient chaque jour plus périlleux...</value>
+  </data>
 </root>

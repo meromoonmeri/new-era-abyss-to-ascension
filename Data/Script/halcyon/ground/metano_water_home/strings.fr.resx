@@ -70,4 +70,16 @@
   <data name="MWH2_004" xml:space="preserve">
     <value>...Votre roi souhaite nager dans ses douves royales...[pause=0] Fwwwwaaaahhhhh....</value>
   </data>
+  <data name="MWH3_001" xml:space="preserve">
+    <value>Ça m'inquiète pour mes propres petits.[pause=0] Ils ont tendance à vadrouiller, eux aussi.</value>
+  </data>
+  <data name="MWH3_002" xml:space="preserve">
+    <value>J'espère qu'ils n'iront pas se perdre quelque part où il faudrait les secourir...</value>
+  </data>
+  <data name="MWH3_003" xml:space="preserve">
+    <value>Ils ont vadrouillé des tas de fois et ils retrouvent toujours le chemin de la maison sans encombre.</value>
+  </data>
+  <data name="MWH3_004" xml:space="preserve">
+    <value>Au pire,[pause=10] la guilde pourrait les secourir comme elle a secouru {0},[pause=10] pas vrai ?</value>
+  </data>
 </root>

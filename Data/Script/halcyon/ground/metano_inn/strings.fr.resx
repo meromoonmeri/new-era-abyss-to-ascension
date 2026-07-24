@@ -88,4 +88,31 @@
   <data name="MI2_010" xml:space="preserve">
     <value>Le petit-déjeuner continental laisse toutefois à désirer...[pause=0] Ces portions sont bien trop petites !</value>
   </data>
+  <data name="MI3_001" xml:space="preserve">
+    <value>...Nyuh ?[pause=40]</value>
+  </data>
+  <data name="MI3_002" xml:space="preserve">
+    <value>J'espère lui apprendre quelques ficelles du métier en la faisant s'asseoir ici avec moi !</value>
+  </data>
+  <data name="MI3_003" xml:space="preserve">
+    <value>J'imagine que je n'ai pas à m'inquiéter d'un danger pour mes petiots alors !</value>
+  </data>
+  <data name="MI3_004" xml:space="preserve">
+    <value>...Peu importe.</value>
+  </data>
+  <data name="MI3_005" xml:space="preserve">
+    <value>C'est bien agréable ici,[pause=10] mais je préférerais qu'on soit dehors à travailler au lieu de lambiner comme {0} le voudrait.</value>
+  </data>
+  <data name="MI3_006" xml:space="preserve">
+    <value>J'imagine que c'est ce qu'une professionnelle comme moi récolte en faisant équipe avec un fainéant pareil.</value>
+  </data>
+  <data name="MI3_007" xml:space="preserve">
+    <value>Alors-ssss {0} et moi logeons dans cette auberge pendant qu'on chasssse les primes du coin.</value>
+  </data>
+  <data name="MI3_008" xml:space="preserve">
+    <value>Même s'il est bien trop content de ressster à l'auberge,[pause=10] plutôt que de sortir faire notre travail-ssss.</value>
+  </data>
+  <data name="MI3_009" xml:space="preserve">
+    <value>Il n'est passss travailleur comme moi, c'est tout.</value>
+  </data>
 </root>
